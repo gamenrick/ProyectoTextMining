@@ -1,0 +1,67 @@
+¿Qué es la inteligencia artificial generativa? - Datateam Consulting
+Datateam
+datateam.mx
+
+Somos una empresa dedicada a ayudar a nuestros clientes a incrementar su cultura de análisis y toma de decisiones basada en datos.
+Apoyamos a nuestros clientes a utilizar Tableau y Alteryx, desde la venta de su primera licencia hasta la adopción en toda la organización.
+La inteligencia artificial generativa es un tipo de tecnología que crea contenido nuevo a partir de los modelos de aprendizaje profundo que están entrenados con conjuntos grandes de datos. Los modelos de IA generativa se utilizan para generar datos nuevos, lo cual los diferencia de los modelos de IA discriminativa, que se usan para clasificar datos en función de las diferencias. Actualmente, las aplicaciones con esta tecnología se usan para generar textos, imágenes, código y mucho más.
+Los chatbots
+La creación y la edición de imágenes
+La asistencia para la creación de código de software
+La investigación científica
+Las aplicaciones de inteligencia artificial se basan en modelos de aprendizaje profundo que recrean los patrones obtenidos de una gran cantidad de datos de entrenamiento y que luego trabajan con los conocimientos adquiridos dentro de los parámetros establecidos por quienes los entrenaron para crear algo nuevo.
+Los modelos de aprendizaje profundo no almacenan una copia de los datos de entrenamiento, sino una versión codificada de ellos, en la que están organizados por cercanía según su similitud. Esta representación puede decodificarse para generar datos nuevos y originales, pero con características similares.
+El diseño de una aplicación de IA generativa personalizada implica el uso de un modelo y de ajustes, como el perfeccionamiento supervisado o una capa de datos específica para cada caso práctico.
+En la actualidad, la mayoría de estas aplicaciones conocidas responden a las indicaciones de los usuarios: solo deben describir lo que desean en lenguaje natural, y obtendrán lo que solicitaron como por arte de magia.
+¿Te gustaría saber más?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+He leído y acepto la Política de Privacidad.
+
+
+
+Share
+Artículos relacionados
+
+Crea Chatbots Multimodales con texto e imágenes | IA Generativa con Dataiku
+
+
+Crea tus campañas de mailing automatizadas | IA Generativa con Dataiku
+
+
+Crea Bases de Conocimientos para Chatbots | IA Generativa con Dataiku
+
+
+
+
+
+
+
+Somos una empresa dedicada a ayudar a nuestros clientes a incrementar su cultura de análisis y toma de decisiones basada en datos.
+Apoyamos a nuestros clientes a utilizar Datarobot, Tableau, Snowflake, Alteryx y Alation, desde la venta de su primera licencia hasta la adopción en toda la organización.
+Nueva dirección:
+Blvd. Adolfo López Mateos 1817. Despacho 604
+Col. Merced Gómez, Álvaro Obregón, 01600
+Ciudad de México, CDMX
+Atención de 09:00 a 18:00 de lunes a viernes en los Telefonos: (55) 8975 1466 y (55) 8975 1465
+contacto@datateam.mx
+
+  Suscríbete a nuestros newsletter y mantente informado de las actualizaciones de la industria, así como de webinars, eventos, material descargable.
+
+
+
+
+

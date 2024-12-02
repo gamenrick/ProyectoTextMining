@@ -1,0 +1,75 @@
+El impacto de la Inteligencia artificial y el deep learning en el mercado de la seguridad electrónica
+Aleyda Rodríguez
+tecnoseguro.com
+
+Algunas de las tecnologías que vienen con más fuerza para los próximos años son la inteligencia artificial y el deep learning, estas se basan en el desarrollo de algoritmos que capacitan a los sistemas computacionales para aprender, corregir errores y tomar decisiones, en un proceso que pretende ser análogo al funcionamiento del cerebro humano.
+¿De qué modo podrían estas tecnologías impactar el negocio de la seguridad electrónica? Eliminación de falsas alarmas, mayor confiabilidad en los sistemas, optimización en la instalación y la gestión, mayor calidad de las analíticas, disminución de costos, entre muchos otros beneficios, son reportados por los expertos ejecutivos de las más importantes compañías del sector. En este artículo presentamos en detalle su visión al respecto del impacto en el mediano y largo plazo de la adopción de estas tecnologías en el mercado de la seguridad electrónica.
+Miguel Arrañaga, director de preventa de Hikvision en México, nos ofrece un excelente punto de partida para la comprensión del impacto que estas tecnologías tendrán en el mercado de la seguridad electrónica, pues su experiencia de más de 18 años de trabajo en el sector le permite tener un panorama amplio sobre lo que ha significado tratar de dotar de inteligencia al video: “el video siempre ha sido muy pasivo, siempre ha necesitado de supervisión humana, en un comienzo las tecnologías que existían eran muy sencillas... detectaban cambios de píxeles en las imágenes y seguían algunas reglas muy básicas, pero no existía algo como una inteligencia propiamente dicha.
+En Hikvision estamos implementando el deep learning con nuestras cámaras deep in view y nuestros grabadores deep in mind, que nos van a prestar un gran apoyo en un objetivo fundamental del negocio: la eliminación de falsas alarmas, que es un problema con el que ha lidiado el mercado de la seguridad toda la vida: una rama de un árbol en movimiento, un cambio de la luz, un perro que se confunde con una persona, cada una de estas cosas puede generar falsas alarmas y esto significa, en términos económicos,  destinar recursos humanos que deben ir a investigar. Y cuando se generan demasiadas falsas alarmas entonces el sistema ya no es confiable y no es apto para los clientes. La inteligencia artificial nos dota de elementos que nos permiten volver a confiar en los sistemas de seguridad, pues hace posible diferenciar personas, animales y objetos, y establecer parámetros que le ayuden al sistema a aprender cuando se trata de una persona, por ejemplo”.
+Otra de las utilidades, destaca Arrañaga, se da en el área de reconocimiento facial, que ha alcanzado, gracias a la inteligencia artificial, un grado de precisión muy alto: “podemos hacer reconocimiento  facial con condiciones de luz muy variables y a partir de diferentes puntos de la cara, antes se requería de escenas perfectamente iluminadas, casi como de estudio fotográfico, para lograr una buena toma y lograr el objetivo, ahora con la inteligencia artificial puede hacerse este reconocimiento con la persona semi-oculta, esto significa un ahorro muy grande. Nuestro algoritmo de inteligencia artificial trabaja de esta manera: entre más datos tenga, más inteligente se vuelve, y con el tiempo es capaz de tomar mejores decisiones. En Hikvision estamos convencidos de que estas tecnologías tendrán un impacto tremendo en el mercado de ciberseguridad, ahora estamos implementando muchas soluciones para que puedan estar al alcance tanto de nuestros clientes más pequeños como de los más exigentes, que requieran grados de precisión muy altos”.
+Por su parte, Ludi Bower, Vice Presidente para América Latina de RBh Access, aporta su punto de vista: “Estas tecnologías beneficiarán a todos en el negocio, quizás no en el corto plazo, pero sin duda ocurrirá, ya que hay muchas potencialidades. Por ejemplo, en el caso de la videovigilancia: hoy en día la cantidad de data usable de videos es muy baja, menos del 1%, pero hay mucha información valiosa, entonces es necesario encontrar una forma de analizarla para entregarla al usuario final, sin duda el deep learning puede prestar una gran ayuda acá. En el tema de controles de acceso también hay una gran cantidad de información que se genera diariamente, quizás mucho más usable que en videovigilancia, pero no creo que alcance a ser del 10%, toda esta información podría usarse para generar un aprendizaje, para desarrollar algunas herramientas de predicción, en fin...veo muchas posibilidades de desarrollo con estas tecnologías”.
+ 
+
+Fernando Cuartas, Director general del Grupo Solutec: desarrollo de la ciberseguridad
+“El deep learning y la inteligencia artificial son tecnologías disruptivas que cambiarán el negocio de la seguridad, sobre todo en el área de ciberseguridad. Hoy en día los elementos encargados de detectar qué cosas son anómalas, para reaccionar de forma más eficiente, son sistemas de seguridad (sistemas de cámaras, sistemas de video) que lanzan alertas ante eventos sospechosos pero que también son susceptibles a ciberataques. Estas nuevas tecnologías nos ponen ante la perspectiva de sistemas capaces de aprender qué es un ciberataque, qué es software malicioso, cuál descarga es buena o mala, con lo que tendríamos una evolución a sistemas capaces de defenderse por sí mismos. En esa medida creo que la ciberseguridad es un campo apropiado para la aplicación de la inteligencia artificial, el deep learning o el machine learning”.
+
+Fernando Tomasiello, Vicepresidente para América Latina de Hanwha Techwin: soluciones para todas las verticales
+“El deep learning va a entrar muy fuerte dentro de nuestra empresa, creemos que nos ayudará va a generar soluciones de gran utilidad para todas las verticales del negocio. Hoy en día la industria y los fabricantes de esta industria han cambiado mucho, entonces ya no basta con ser bueno. En Hanwha Techwin aspiramos a la excelencia y por eso este año ya podremos entregar soluciones con deep learning durante el segundo semestre del año”.
+
+Antonio Garrido, Business Development Manager de Vivotek, México: mapas de calor
+“En Vivotek tenemos ya algunos desarrollos con deep learning embebido en algunas cámaras para el sector de retail, que nos sirve para algunas aplicaciones como por ejemplo los mapas de calor, estos ya no son los clásicos esquemas de colores en los que se muestra en qué zonas de la tienda se concentra más gente, sino que ofrecemos información adicional sobre permanencia de una persona dentro de una zona. Lo que queremos con estas tecnologías es darle al usuario información para que pueda determinar si su mercancía o producto está bien posicionado dentro de su tienda, por ejemplo”.
+
+Fabrice Bioulet, Director de Ventas para Latam y El Caribe de CDVI: exactitud y optimización
+“Es un hecho que esta tecnología va a ayudar en la optimización de muchas soluciones ya que, en primer lugar, no se va a requerir de personal para dar seguimiento a ciertas funciones, como por ejemplo el monitoreo y, en segundo lugar, habrá más exactitud, menos margen de error, esta nos ayudará a optimizar la instalación, la gestión y hasta los costos, hará todo mucho más sencillo pues no se requerirá de tantas personas para hacer gestión de un control de acceso, probablemente con una sola persona se podrán ejecutar estas tareas. Para mí, estas tecnologías tendrán un impacto muy positivo en la industria”.
+ 
+Alberto Martín de los Santos, Director servicio técnico para Latinoamérica e Iberia de Risco Group
+“Creo que al día de hoy en el mercado de la intrusión no hay una aplicación real de inteligencia artificial, al menos en el corto plazo. En el largo y mediano plazo sí veo la posibilidad de paneles controladores conectados a sistemas robustos, sistemas de redes neuronales en nube, donde luego se puedan tomar decisiones para reconfigurar el panel de control y los detectores o para tomar decisiones en tiempo real”. 
+
+Mauricio Cañas, Director de ventas de la división de control de acceso y video de productos de seguridad de Johnson Controls: hay potencialidades pero falta madurar
+“La inteligencia artificial es una tendencia en crecimiento que se ha desarrollado mucho gracias a que los algoritmos están disponibles para todos los desarrolladores, esto ha originado un verdadero boom y la sensación de que todos en la industria estamos desarrollando alguna clase de solución con IA. El impacto esperado es más o menos obvio: poder hacer búsquedas específicas en video grabado o en video en vivo. Por lo pronto hemos visto demostraciones de IA que pueden ser muy impresionantes, pero si se ven con algo de detalle tal vez aún no alcanzan la precisión deseada, no dudo de que este será un tema muy importante en la industria, pero aún le falta madurar para poder considerarlo como una pieza clave del negocio”.
+
+Sin duda estas tecnologías llegarán a optimizar procesos en la industria de la seguridad, brindarán grandes beneficios en reducción de tiempos y costos, y aunque después de conocer los comentarios de los expertos se puede concluir que son una herramienta que facilitará las cosas, hay que decir que de ninguna manera sustituirán la acción humana por completo, poco a poco estas tecnologías se irán adhiriendo de una forma natural en la industria.
+¿Le interesa más información sobre algún producto mencionado en esta nota?
+ Escríbanos
+Le pondremos en contacto con un experto representante de marca quien lo ayudará.
+¿Le interesa más información sobre algún producto mencionado en esta nota?
+ Escríbanos
+Le pondremos en contacto con un experto representante de marca quien lo ayudará.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obtén acceso a contenido Premium. Todo lo que necesitas para destacarte en el sector a través de artículos especializados, lecciones en video y el apoyo de nuestros ingenieros.
+VER SUSCRIPCIONES PRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECNOSeguro es la publicación on-line líder en audiencia para las industrias de las tecnologías de la seguridad de habla hispana. Una completa guía con información clave para profesionales de seguridad y TI, integradores, instaladores, consultores y distribuidores.
+ 
+Redes Sociales:
+Manténgase actualizado con las últimas tendencias y tecnologías de la industria de la seguridad. Regístrese gratuitamente para recibir nuestros boletines en su bandeja de email.
+Regístrese Gratis
+Registrarse

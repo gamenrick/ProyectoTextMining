@@ -1,0 +1,39 @@
+Llama 3.1 ¿Puede la IA de Meta desbancar a ChatGPT 4.o? - Blog Orange
+Óscar Condés Molinero
+orange.es
+
+
+
+        Innovación      
+
+Publicado por Óscar Condés Molinero
+septiembre 12, 2024
+Comparte
+Si hablamos de asistentes de IA conversacional normalmente lo primero que se nos viene a la cabeza es hablar de ChatGPT de Open AI. Pero otros desarrolladores como Google con Gemini y Meta con Meta AI (respaldada por su modelo Llama 3.1) están haciendo todo lo posible porque esto cambie.
+Y de momento parece que Meta coge ventaja con su último modelo de lenguaje de gran tamaño (LLM), Llama 3.1 que llega con una versión dotada con la barbaridad de 400.000 millones de parámetros (400B).
+Para que os hagáis una idea, ya cuando se presentó Llama 3.0 se hablaba de que estaba destinado a desbancar a GPT-4.o (“o” de Omni). Y eso que se presentó en dos versiones, 8B y 70B, con ocho mil y 70 mil millones de parámetros… 
+Es decir, mucho menos que los 400 mil que ahora tiene Llama 3.1. En cualquier caso, antes de continuar recordemos que estamos hablando de sistemas de generación de lenguaje mediante inteligencia artificial. Es decir, no son los chatbots en sí, sino el lenguaje detrás de los asistentes de IA que ofrecen las distintas firmas. 
+Así, Llama 3.1 sería el modelo de lenguaje que respalda a Meta AI, mientras que GPT-4o el que está tras ChatGPT 4.o, el bot de Open AI. Pero ¿cuál de estos asistentes de inteligencia artificial es mejor? Pues es una excelente pregunta con una respuesta bastante compleja que nos proponemos analizar a continuación.
+Comparar estos modelos de LLM es, de partida, una tarea imposible. Ambos son modelos con unas capacidades impresionantes, aunque sí es cierto que tienen enfoques y fortalezas ligeramente diferentes.
+Desgraciadamente, los detalles específicos de ambos modelos de lenguaje son propiedad de sus desarrolladores y no es posible realizar una comparación exhaustiva basada en datos. 
+Sin embargo, sí que podemos hacer una comparación general basada en la información pública disponible y en las características típicas de este tipo de modelos.
+En este sentido lo más obvio es empezar por su tamaño, donde ya hemos hablado de las tres versiones de Llama 3.1 siendo la 400B la mayor, con la friolera de 400 mil millones de parámetros.
+El problema es que no sabemos qué cantidad de parámetros puede manejar GPT-4.o, porque la cifra exacta no ha sido revelada. Ni siquiera sabemos el tamaño de su antecesora, GPT-4, pero según Wikipedia los rumores dicen que llegaría a 1.760 millones. Es de suponer que GPT-4.o supere esa cifra, y que lo haga considerablemente, pero lo cierto es que no tenemos datos concretos.
+Si hablamos de sus capacidades, Llama 3.1 se presenta como excelente en tareas de generación de texto, traducción de idiomas y codificación. Además, mostraría un sólido rendimiento en tareas que requieren razonamiento y comprensión del contexto. 
+Por su parte, GPT-4.o destacaría en una amplia gama de tareas, incluyendo generación de texto creativo, resolución de problemas complejos y codificación avanzada. Además, tendría una comprensión profunda del lenguaje y la capacidad de adaptarse a diferentes estilos de conversación.
+Por lo que toca al acceso, hablamos de dos modelos opuestos: Llama es de código abierto (aunque no totalmente), lo que posibilita que investigadores y desarrolladores puedan modificarlo y usarlo para diversos fines. Por su parte, GPT-4 es un modelo propietario, cuyo acceso solo puede realizarse a través de una API de OpenAI.
+En cuanto al coste de su utilización, Llama 3.1 es gratuito en principio para todos los usuarios a través del asistente Meta AI (aún no disponible en castellano) y GPT-4 Omni también lo es vía ChatGPT (hay versión de pago, pero en principio se basa en otro LLM).
+Por tanto, si ya cotejando datos teóricos vemos que la comparación de estos modelos de inteligencia artificial es complicado, casi imposible decir cuál es mejor, imaginemos en la práctica…
+Ya decimos, decidir el ganador de un hipotético combate Llama 3.1 Vs GPT-4 Omni es una tarea compleja, al menos sobre el papel.
+Pero ¿y en la práctica? Pues, evidentemente, más allá de los datos en bruto, lo cierto es que la manera de saber quién gana la batalla podría ser pedirle a cada una de ellas (a través de sus respectivos chatbots) una serie de prompts para comparar el resultado.
+Pero, la verdad, no se nos ocurre cómo hacerlo de la manera más objetiva posible. Además, a la hora de evaluar los resultados que podría darnos cualquiera de estas IA al introducir un prompt, tenemos que tener en cuenta que la evaluación de la respuesta estaría sometida a nuestra propia subjetividad.
+Es decir, podría resultar que las respuestas de uno nos parecieran más adecuadas que las del otro por una simple cuestión de gustos o preferencias. Por eso hemos buscado entre las comparativas realizadas por expertos y hemos encontrado una que nos parece muy interesante y lo suficientemente objetiva.
+Como habéis visto, este creador digital especializado en IA ha enfrentado ambas herramientas en un combate a 10 asaltos. El resultado es que GPT 4.o vence a los puntos a Llama 3.1, con seis respuestas correctas frente a cinco. 
+Aún así, puede llamar la atención el gran porcentaje de casos en los que han fallado: Meta AI sólo habría sido eficaz la mitad de las veces y ChatGPT en un 60%.
+Y es que, por mucho que hayan evolucionado, ambos modelos siguen teniendo muchas limitaciones, pueden generar texto sesgado o inapropiado o, directamente, se equivocan.
+Eso sí, lo que está claro es que tanto Llama 3.1 como GPT-4.o están en constante desarrollo. Por ello es más que probable que las diferencias entre ambos modelos se igualen en breve. O, directamente, que se presenten nuevas versiones muy mejoradas (que probablemente se llamen de otro modo) y que perpetúen el enfrentamiento.
+Foto de portada | Realizada con IA en Midjourney. Resto de fotos de Freepik
+Nuestra compañía
+Enlaces rápidos
+Información legal
+Medios

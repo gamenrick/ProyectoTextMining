@@ -1,0 +1,36 @@
+¿Qué es y cómo garantizar la inteligencia artificial responsable?
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ La Inteligencia Artificial (IA) está revolucionando las industrias, transformando la manera en que trabajamos, nos comunicamos e interactuamos con la tecnología. En el sector de las telecomunicaciones (Telco), la IA ha generado un impacto profundo, ayudando a mejorar la eficiencia, optimizar las redes y ofrecer nuevas soluciones a los clientes.
+ Joaquina Salado Moraleda  Seguir          
+Head of AI Ethics en Telefónica
+ Alejandra Alonso Díaz  Seguir          
+Head of AI & Digital Services Sustainability
+01/10/2024
+Sin embargo, estos avances conllevan una gran responsabilidad: asegurar que la IA se desarrolle y utilice de forma ética, priorizando principios esenciales como la equidad, la transparencia, la privacidad y la seguridad, es decir, garantizar una IA responsable.
+Para garantizar que estos principios se materialicen y guíen a un uso responsable de la IA, es clave contar con un framework común que sirva de referencia para distintas organizaciones. Un marco que establezca estándares claros y medibles, con el fin de evaluar la madurez de la implantación de los códigos de conducta para una IA Responsable y que promueva su adopción de forma coherente en todo el sector.
+Comprometidos con esta visión, en Telefónica hemos sido colaboradores clave en el desarrollo de este marco de IA Responsable y su hoja de ruta, una iniciativa de la GSMA que busca guiar a las empresas del sector hacia la adopción de los principios éticos de la IA. Esta herramienta ha sido diseñada a través de unos insights de McKinsey y en colaboración con otros líderes del sector telco,  Axiata, Deutsche Telekom, Orange y Telstra..
+Este framework incluye los elementos necesarios para implementar una IA responsable, desde la visión, el modelo operativo, los controles técnicos, colaboración con terceros, gestión de la cadena de valor de la IA y la gestión del cambio y la formación. Gracias a este marco de trabajo, tanto las organizaciones que estén empezando en su andadura en la IA responsable como aquellos que ya tengan ciertos elementos implementados podrán tener una referencia y construir un plan claro con acciones concretas.
+Dicho esto, este marco se estructura sobre tres herramientas fundamentales:
+En Telefónica, no solo hemos aportado nuestro conocimiento, sino que también hemos compartido nuestra experiencia como pioneros en la implementación de una IA responsable. Desde 2018, hemos incorporado principios éticos en nuestros procesos de IA a través de un modelo integral de gobernanza de IA responsable, demostrando cómo la tecnología puede evolucionar de manera ética y beneficiosa para la sociedad.
+José María Álvarez-Pallete López, Presidente y CEO de Telefónica y Presidente de la Junta de GSMA, destacó la importancia de esta iniciativa
+«La velocidad con la que la IA se ha convertido en una parte central de las operaciones tecnológicas y de telecomunicaciones demuestra su poder y su indudable valor, pero también los riesgos que debemos considerar como industria y la necesidad de incluir la ética en el corazón de la IA para evitar su desarrollo incontrolado. Es fundamental que todos garanticemos la aplicación de directrices responsables para el uso de la IA, y es estupendo ver que el sector de las telecomunicaciones lidera esta iniciativa con la nueva hoja de ruta de la GSMA»
+Francisco Montalvo, CDO de Telefónica Innovación Digital, subrayó el compromiso de Telefónica con esta misión: 
+«En Telefónica, estamos comprometidos con la difusión de la cultura de IA responsable (RAI) dentro del sector de las telecomunicaciones al compartir nuestra extensa experiencia en IA ética y sostenible. Desde que iniciamos este camino en 2018, hemos sido pioneros en la implementación de los principios de RAI a través de un modelo de gobernanza exhaustivo. Nuestra colaboración con la GSMA para desarrollar la hoja de ruta de madurez de RAI ha estado impulsada por este compromiso. Estamos seguros de que la adopción de esta hoja de ruta bien estructurada no solo beneficiará a la industria, sino que también nos permitirá en Telefónica seguir evolucionando y alcanzar la excelencia en IA responsable.»
+En Telefónica, seguimos apostando por una innovación tecnológica que ponga a las personas en el centro y construya un futuro digital más ético, seguro y sostenible. Con esta iniciativa con la GSMA que provee de una herramienta pionera para implementar una IA responsable, estamos marcando el camino hacia una IA que beneficie a todos, liderando con ética y responsabilidad el uso de la IA.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

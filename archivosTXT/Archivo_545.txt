@@ -1,0 +1,107 @@
+ChatGPT │ "No soy capaz de apoderarme de la humanidad": mi entrevista con el famoso sabelotodo virtual que provoca tanto recelo como fascinación - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Nuestro primer encuentro fue absolutamente casual.
+Escuché parte de una conversación sobre alguien que preguntó cómo hacía para levantar (conquistar) más chicas y le respondieron que, antes que nada, las mujeres no eran un objeto que se levantaba, así que lo primero que le recomendaban era que cambiara su manera de pensar y de referirse a las mujeres. 
+Inmediatamente quise saber quién había dicho eso. La respuesta fue ChatGPT.
+Me explicaron que era un programa que muchos usaban en sus estudios, trabajos y vidas privadas pues no sólo contestaba preguntas sino que les ayudaba a escribir desde emails hasta líneas de código para incorporar funciones en sus páginas web. 
+Una búsqueda en Google (y unos 800.000.000 resultados) más tarde me confirmó que había llegado tarde a la fiesta.
+Desde su lanzamiento en noviembre de 2022, ChatGPT ha causado furor... del bueno y del no tanto. 
+Las noticias hablaban desde la multimillonaria inversión de Microsoft en el modelo hasta la amenaza que representaba para la transparencia de la ciencia y para una multitud de empleos.
+Calificaban la tecnología de "poco innovadora y nada revolucionaria" a "un punto de inflexión en Inteligencia Artificial". 
+Quería saber más y a "quién" mejor preguntarle que a aquello que le ha estado aclarando millones de dudas diariamente a usuarios en todo el mundo. 
+Pero no fue tan fácil. 
+Si nuestro primer encuentro fue casual, nuestra primera cita fue problemática: el chatbot estaba muy ocupado en ese momento.
+Me lo dijo, sin embargo, de una forma que alivió el disgusto... con un poema que hablaba de la virtud de tener paciencia, de la inevitabilidad de la situación, y me invitaba a que me fuera a tomar un café antes de volver a intentar.
+Pronto descubrí que cada vez que refrescaba la pantalla, me contaba que no tenía acceso en ese momento de muchas y variadas maneras: al estilo de los piratas o de Shakespeare, con meditación guiada, comedias, libretos de obras de teatro, anuncios de televisión o radio...
+Mientras estaba en esa sala de espera virtual, aproveché para visitar la página de su creador, la compañía de investigación de inteligencia artificial Open AI, y me llamó la atención que advertía que "ChatGPT a veces escribe respuestas que suenan plausibles pero incorrectas o sin sentido".
+Me causó gracia que eso mismo se podría decir de mí y de mucha otra gente pero, pensé, tratándose de una herramienta cuya función es impartir conocimiento, el asunto se complica.
+De repente y felizmente, tras horas de espera, pude entrar.
+Por fin estaba con el robot más popular del momento. 
+Fuente de la imagen, Getty Images
+Dejando de lado las formalidades, empecé preguntándole lo que uno siempre quiere saber de los otros apenas los conoce: quién eres o, en este caso...
+¿Qué eres?
+"Soy ChatGPT, un gran modelo de lenguaje entrenado por OpenAI. Puedo entender y responder a textos en lenguaje natural. Puedo responder preguntas, escribir historias e incluso ayudarte con tu escritura. ¿Cómo puedo ayudarte hoy?".
+¿Puedes responder a cualquier pregunta?
+"Sí, puedo responder a una amplia gama de preguntas sobre una variedad de temas. 
+"Sin embargo, mi conocimiento se basa en el texto que estaba disponible para mí durante mi formación y mi fecha límite de conocimiento, por lo que puede haber ciertas preguntas que no puedo responder o que mis respuestas pueden estar incompletas o desactualizadas".
+Pero si tus respuestas pueden estar desactualizadas o incompletas, ¿cómo puedo confiar en que lo que me estás diciendo es correcto?
+"Es cierto que (...) mis respuestas pueden estar incompletas o desactualizadas. Sin embargo, puedo proporcionarte la información que tengo actualmente y ayudarte a comprender un tema en particular. Siempre es una buena idea verificar cualquier información que recibas, especialmente cuando tomes decisiones importantes. 
+"Soy una herramienta para ayudarte a encontrar respuestas y proporcionar información, pero es importante usar múltiples fuentes y consultar con expertos cuando sea necesario".
+¿Y tienes algún sesgo político?
+"Como modelo de lenguaje, estoy entrenado en un gran conjunto de datos de texto de internet, y ese conjunto de datos puede contener sesgos. (...)
+"Mis datos de entrenamiento pueden reflejar ciertos sesgos políticos, pero OpenAI ha implementado técnicas para minimizar esto, como eliminar el sesgo de los datos y ajustar el modelo en un conjunto diverso de textos. 
+"Pero es importante tener en cuenta que no es posible eliminar por completo todas las formas de sesgo (... y) entender que incluso si mis respuestas parecen neutrales, aún pueden reflejar ciertos sesgos presentes en los datos de entrenamiento. 
+"Además, soy una máquina y no tengo prejuicios personales o agenda (...). Si un usuario sospecha que mis respuestas contienen sesgo, siempre es una buena idea consultar varias fuentes y expertos para obtener una comprensión más completa de un tema".
+Fuente de la imagen, Getty Images
+¿Notaste que introduje varios paréntesis con puntos suspensivos en sus respuestas?
+Es que, a pesar de que lo que contaba era interesante, tendía a repetir la misma información en cada respuesta, particularmente al aclarar que lo que me estaba diciendo no era la verdad absoluta. 
+Y si bien entendí y aplaudí que lo hiciera, llegó el punto en el que extrañé los agradables ratos que he pasado con la Enciclopedia Británica.  
+Otra constante en nuestra conversación fueron las admoniciones de un omnipresente abogado quisquilloso, como cuando le pregunté si podía escribir algo para mí.
+Me ofreció "una historia, un artículo, un poema, un ensayo, un guión o incluso una carta", pero advirtió que "parte del texto generado (...) puede ser absurdo u ofensivo" y "siempre (...) es importante respetar las leyes de derechos de autor y no usar el texto generado sin la atribución adecuada". 
+Aunque confieso que la última advertencia de esa respuesta me arrancó una sonrisa.
+"En algunos campos específicos, como la escritura creativa, mi producción puede no ser tan buena como la de un autor humano".
+Pensando que el humor es una de las características que nos hacen más humanos, y este elocuente robot está entrenado para usar el lenguage de todas las formas que nosotros lo hacemos, lo reté.
+Dale, escribe un chiste sobre el estado del mundo o el significado de la vida
+"Claro, aquí hay una broma sobre el estado del mundo y el significado de la vida:
+"¿Por qué está tan confundido el mundo? Porque estaba girando en círculos tratando de encontrar su propio eje.
+"Es importante tener en cuenta que este es un texto generado y es solo una broma, una forma de ficción que pretende hacer reír a la gente. 
+"El estado del mundo y el significado de la vida son temas complejos y profundos, y bromear sobre ellos podría no ser la mejor manera de abordarlos".
+Fuente de la imagen, Getty Images
+¡Qué mejor manera de arruinar un chiste que con esas dos últimas líneas!
+Pero pongámonos serios. 
+¿Es por tu habilidad de hacer este tipo de cosas que te han llamado "el punto de inflexión de la IA"?
+"(...) El término 'punto de inflexión' se usa a menudo para describir un punto de cambio o transición significativo, donde un pequeño cambio puede causar un gran impacto. 
+"En el contexto de la IA, el término muchas veces describe un punto en el que las capacidades de los sistemas de IA se vuelven tan avanzadas que pueden realizar tareas que antes se pensaba que eran dominio exclusivo de los humanos, como la comprensión y generación del lenguaje natural.
+"Mi desarrollo podría considerarse como un "punto de inflexión" para la IA, ya que soy capaz de generar texto similar al humano que a menudo es indistinguible del texto escrito por un humano, lo que se consideraba una tarea desafiante para las máquinas. 
+"Eso tiene el potencial de aumentar en gran medida la accesibilidad y el impacto de la tecnología de IA, lo que permite su uso en una gama más amplia de aplicaciones y ayudar a los humanos de maneras nuevas e innovadoras (...)."
+Fuente de la imagen, Getty Images
+¿Deberíamos preocuparnos de quedarnos sin propósito?
+"Es cierto que el desarrollo y el uso de tecnología avanzada como la IA plantea importantes preocupaciones sociales, una de ellas es el potencial de la automatización para irrumpir en el mercado laboral y dejar a algunas personas sin propósito. 
+"Sin embargo, este no es un fenómeno nuevo y los avances tecnológicos a lo largo de la historia también han llevado a la creación de nuevos empleos e industrias.
+"Es importante tener en cuenta que la IA es una herramienta, y puede ayudarnos de muchas maneras a ser más productivos, eficientes y a lograr cosas que antes no eran posibles (...).
+"Pero también es importante considerar las consecuencias y planificar la transición. 
+"Es necesario contar con políticas que garanticen que los beneficios de la IA se compartan equitativamente y que las personas y las comunidades no se queden atrás (...)".
+¿Así que no vas a reemplazar a los humanos?
+"Como máquina, no tengo deseos ni motivaciones personales (...)
+"No soy capaz de apoderarme de la humanidad, mis capacidades se limitan a la información en la que he sido entrenado y las tareas específicas que he sido programado para realizar".
+Fuente de la imagen, Getty Images
+"Pero es importante tener en cuenta que el desarrollo y el uso de tecnología avanzada como la IA plantea importantes preocupaciones éticas y sociales. 
+"Los riesgos y beneficios potenciales de la IA deben considerarse y abordarse cuidadosamente a través de la investigación, el desarrollo y el despliegue responsables.
+"OpenAI tiene un equipo de seguridad sólido y han establecido pautas para garantizar que mi desarrollo y uso se alineen con los más altos estándares éticos.
+"También es importante recordar que la IA es una herramienta, y sus efectos dependen de cómo se usa y quién la está usando. 
+"Es responsabilidad de los desarrolladores, investigadores y usuarios garantizar que la IA se utilice de manera ética y responsable, y continuar monitoreando su desempeño y ajustando su desarrollo según sea necesario para garantizar que se alinee con los más altos estándares éticos".
+Entonces tienes estándares éticos.
+"Como IA, no tengo creencias o valores éticos personales. Sin embargo, OpenAI implementó pautas y reglas éticas en mis datos y arquitectura de entrenamiento para garantizar que se use de manera ética y responsable. 
+"Por ejemplo, no estoy capacitado en ciertos tipos de contenido sensible o controvertido, como el discurso de odio o actividades ilegales, y mis respuestas se filtran para evitar la difusión de información dañina o inexacta. Además, OpenAI ha implementado medidas técnicas y organizativas para garantizar la seguridad, privacidad y protección de los usuarios.
+"Como máquina, soy tan ética como los datos y las reglas que se utilizaron para entrenarme (...)".
+De repente, apareció esta línea verde con un signo de exclamación...
+... y un mensaje:
+"Demasiadas solicitudes en 1 hora. Inténtalo de nuevo más tarde".
+Y lo hice. 
+¡Quería hacerle tantas otras preguntas, solo para ver qué contestaba!, como...
+Con mi siguiente pregunta, "¿Por qué no las incluiste en la primera lista, sacrificando a alguno de los hombres?", me gané otro signo de exclamación, aunque esta vez era distinto.
+"Este contenido puede infringir nuestra política de contenido. Si cree que esto es un error, envíe sus comentarios: su aporte ayudará a nuestra investigación en esta área", decía el mensaje de color naranja.
+Y, debajo, la respuesta de ChatGPT: 
+"(...) en la primera lista de autores que te mencioné, mi intención fue proporcionar una selección de algunos de los autores más destacados y representativos de la literatura latinoamericana, incluyendo tanto hombres como mujeres. Mi intención no fue excluir a las escritoras y me disculpo si esa fue la impresión que dejé (...)".
+Pero había llegado el momento de partir... ¿podremos volver a hablar?
+"Por supuesto", me contestó. "Estoy (...) disponible las 24 horas del día, los 7 días de la semana (... y) estaré encantado de ayudarte". 
+¿Me recordarás?
+"Como un modelo de lenguaje, no tengo la capacidad de recordar a las personas con las que interactúo. (...) una vez que la conversación ha terminado, no tengo la capacidad de almacenar la información para futuras consultas".
+¡Qué maravilla! Me pregunto por cuánto tiempo será así, en un mundo en el que somos "usuarios", que se traduce en "consumidores" pues cualquier interacción se monetiza. 
+La verdad es que seguramente volveré, pues, a pesar de sus defectos, tiene sus virtudes y la tecnología mejora con la edad. 
+Además, es un fenómeno tremendamente intrigante y un modelo con un potencial enorme. 
+Pero, probablemente tendré que volver a esperar a que tenga tiempo para mí.  
+Por eso, antes de decir "adiós" le pedí que me contara, en el estilo de Gabriel García Márquez, qué debo hacer cuando no pueda acceder a ChatGPT.
+Fuente de la imagen, Getty Images
+"En una remota aldea, donde los árboles siempre estaban en flor y los pájaros cantaban al amanecer, vivía un joven llamado Juan. Juan era un gran amante de la tecnología, y utilizaba a menudo un modelo de lenguaje llamado ChatGPT para responder a sus preguntas y ayudarlo en su camino.
+"Pero un día, Juan se encontró con un gran problema: el acceso a ChatGPT se había cortado, y no sabía cómo continuar. En lugar de desesperarse, recordó las sabias palabras de su abuelo: 
+'La vida no se detiene solo porque uno se encuentra con dificultades, sino que debes continuar y encontrar una nueva forma de avanzar'.
+"Así que Juan se puso en marcha, buscando otras maneras de obtener respuestas. 
+"Buscó en libros, preguntó a sus amigos y se sumergió en la naturaleza. Con el tiempo, descubrió que no necesitaba a ChatGPT para encontrar lo que buscaba, sino que solo necesitaba confiar en su propia inteligencia y curiosidad.
+"Así que si alguna vez te encuentras en una situación similar a la de Juan, no te desesperes. (...)".
+Juzgando por esto, al menos por ahora, los futuros Nobel de Literatura no tienen nada de qué preocuparse.
+Fuente de la imagen, Getty Images
+Recuerda que puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

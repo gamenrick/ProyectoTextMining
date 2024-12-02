@@ -1,0 +1,34 @@
+Inteligencia artificial y ciberseguridad
+ecanorea
+plainconcepts.com
+
+Los ciberataques a organizaciones son innumerables y crecen cada día en cifras récord. Los profesionales de la ciberseguridad se enfrentan a un entorno de amenazas sin precedentes, a lo que se suma la escasez de personal cualificado y ataques cada vez más sofisticados.
+El análisis y la mejora de la postura de ciberseguridad de una organización pasa por confiar en herramientas que no solo dependan de la intervención humana. La inteligencia artificial y el machine learning se han convertido en un factor esencial para proteger los datos y manejar más amenazas y de mayor complejidad, con un número menor de personas. Analizamos sus ventajas, cómo implementarla y ejemplos prácticos.
+El panorama global de amenazas cibernéticas está cambiando, y los consumidores de internet se enfrentan a ataques muy diferentes a años atrás. Ya sea por redes de bots masivos y automatizados que infectan los dispositivos o por ataques de phishing, la situación es preocupante.
+Los datos de adopción de dispositivos conectados alcanzan los 1.700 millones solo en América del Norte, y el auge del IoT o el 5G está aumentando esta cifra de forma exponencial en todo el mundo. Además, los dispositivos móviles son parte de nuestro día a día, por lo que las amenazas hacia estos crecen exponencialmente en forma de navegación insegura.
+Hasta hace unos años, las soluciones de seguridad pasaban por que los profesionales del sector investigasen, analizasen y agregaran una nueva muestra de malware a las listas destinadas a tener un registro de estos. Sin embargo, estas soluciones reactivas están dando paso a enfoques más proactivos, donde el machine learning y los algoritmos de IA juegan un papel clave.
+Según la firma Pillsbury, el 49% de los ejecutivos piensa que la inteligencia artificial es la mejor herramienta para contrarrestar los ataques cibernéticos.
+Por ello, también predice que se aumentará el gasto de IA en el campo de la ciberseguridad en un 24% anual hasta 2027. Esto supondrá alcanzar un valor de mercado de 46.000 millones de dólares.
+Introducir inteligencia artificial en una solución de seguridad cibernética es increíblemente útil para automatizar rápidamente los procesos de toma de decisiones y crear patrones a partir de datos incompletos o modificados.
+Estos algoritmos aprenden de los datos del mundo real, como amenazas de seguridad existentes o ejemplos encontrados por investigadores. Por ello, aportan numerosas ventajas como:
+Las ventajas mencionadas justo arriba son solo una pequeña parte del potencial de lo que la IA puede hacer para mejorar la ciberseguridad de una empresa.
+La clasificación y el análisis de incidentes es crucial durante el proceso de respuesta para eliminar falsos positivos y determinar cómo revertir los incidentes. Es por ello por lo que muchas empresas introducen algoritmos de inteligencia artificial ante amenazas como parte de su respuesta, lo que está mejorando sus procesos, al procesar mayores cantidades de datos en menos tiempo, a la par que predicen posibles ataques.
+Las áreas de seguridad en las que la IA se está volviendo más importante son:
+El impacto de la IA en nuestras vidas se volverá cada vez más importante. Puede ser usada por los profesionales de la ciberseguridad para reforzar las mejores prácticas y minimizar el alcance de los ataques en lugar de estar continuamente al acecho de posibles actividades maliciosas.
+La mano humana necesita ayuda a la hora de realizar el análisis e identificación de amenazas para minimizar el riesgo y mejorar la postura de seguridad.
+En Plain Concepts tenemos grandes conocimientos en soluciones cloud, además de liderar desarrollos para eliminar vulnerabilidades y afianzar la seguridad de todo tipo de datos alojados en la nube de nuestros clientes.
+Esto nos ha permitido ganar el premio Partner of the Year Seguridad gracias a haber desarrollado las guías técnicas de Seguridad y sus scripts para el despliegue de Microsoft 365 y Microsoft Azure para el Centro Criptológico Nacional (CCN-CERT), organismo adscrito al Centro Nacional de Inteligencia (CNI).
+La publicación de estas guías técnicas para el despliegue de los servicios de Microsoft facilita al personal de IT del CCN-CERT el cumplimiento del Esquema Nacional de Seguridad (ENS), de cara a garantizar la seguridad IT y de la información de los organismos, entes e instituciones dependientes de las administraciones públicas españolas. Eso nos ha acreditado como Entidad Implementadora de Guías CCN-STIC, un reconocimiento único en materia de ciberseguridad.
+En el vídeo a continuación, Pablo López, Jefe del Área Normativa y Servicios de Ciberseguridad del CCN, nos cuenta su experiencia y las razones por las que decidieron confiar en nosotros para la creación de estas guías.
+
+ 
+Si necesitas ayuda para desplegar una estrategia sólida y segura de tus datos con todo tipo de tecnologías como la IA, ¡podemos ayudarte!
+
+ 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

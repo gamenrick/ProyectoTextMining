@@ -1,0 +1,39 @@
+Diferencias entre Inteligencia Artificial, Machine Learning y Deep Learning - ATRIA Innovation
+Autor desconocido
+atriainnovation.com
+
+Cada vez es más habitual escuchar el término “Inteligencia Artificial” en noticias, libros, películas o incluso conversaciones cotidianas. Lo cierto es que, aunque parezca salido de una película de ciencia ficción, los algoritmos de predicción ya forman parte de nuestro día a día.
+La Inteligencia Artificial, el Machine Learning y el Deep Learning son conceptos relacionados pero diferentes que a menudo se confunden o utilizan indistintamente. En este blog, os vamos a explicar en qué consiste cada uno y las diferencias entre ellos.
+La Inteligencia Artificial (IA) es un campo de la informática que se ocupa de crear sistemas o programas que realizan tareas que normalmente requieren inteligencia humana. Esto incluye habilidades como la percepción, el razonamiento, el aprendizaje y la comprensión del lenguaje natural. Por ejemplo, un sistema de inteligencia artificial puede ser programado para identificar objetos en una imagen o para responder preguntas en lenguaje natural.
+A grandes rasgos, el funcionamiento de la inteligencia artificial consiste en ser capaz de extraer conclusiones a partir de una cantidad de datos que se le han entregado previamente. El algoritmo o modelo aprende de esos datos de tal manera que, cuando le introducimos un dato nuevo, es capaz de decir de qué tipo se trata.
+La inteligencia artificial puede utilizar una variedad de técnicas para realizar estas tareas, incluyendo el Machine Learning y el Deep Learning.
+
+El Machine Learning (ML) o aprendizaje automático es una rama de la Inteligencia Artificial que permite a las máquinas aprender a partir de datos reales sin ser específicamente programadas para ello. En lugar de seguir un conjunto fijo de reglas, un sistema de Machine Learning puede identificar patrones en los datos y utilizar esta información para hacer predicciones o tomar decisiones.
+
+Dentro del aprendizaje automático encontramos tres ramas: el aprendizaje supervisado, el aprendizaje no supervisado y aprendizaje por refuerzo.Aprendizaje supervisado
+El modelo debe recibir datos etiquetados. Cuando un dato nuevo es introducido, el modelo es capaz de predecir qué etiqueta del dataset le corresponde.
+Aprendizaje no supervisado
+Sin ninguna referencia o etiqueta en los datos, el modelo es el que encuentra patrones y clasifica los datos en base a sus características.
+Aprendizaje por refuerzo
+El modelo aprende a tomar decisiones en un entorno específico basándose en un esquema de “recompensas y castigos”.
+Plataformas de video en streaming como Netflix o HBO utilizan Machine Learning para detectar patrones en el historial de visualización de un usuario y así recomendarle películas y series que le podrían gustar. También es muy utilizado en industria para detectar defectos en piezas o ayudar en la producción.
+El Deep Learning o aprendizaje profundo es una rama dentro del Machine Learning. Mientras que los modelos de Machine Learning se basan en ecuaciones de regresión y árboles de decisión entre otros, los algoritmos de Deep Learning utilizan redes neuronales.
+Las redes neuronales actúan como un conjunto de neuronas conectadas entre sí que realizan operaciones matemáticas para extraer los diferentes parámetros y características de los datos. Así, son capaces de obtener un resultado en la clasificación o detección de datos futuros.
+El aprendizaje profundo requiere grandes cantidades de datos y poder de procesamiento para entrenar y ajustar los modelos, lo que lo hace más costoso que otras técnicas de aprendizaje automático.
+Algunos ejemplos de proyectos en los que en ATRIA hemos aplicado Deep Learning son:
+Detección de residuos en plantas de reciclaje
+En este proyecto, se utiliza un sistema de visión artificial que hace uso de Deep Learning para detectar residuos no deseados a la entrada de plantas de separación.
+Lectura de carácteres variables
+Este proyecto consiste en el diseño de un sistema de lectura de códigos ya que su sistema comercial está apagado por elevada tasa de error. Mediante Deep Learning, se entrenaron redes neuronales de tal manera que el software es capaz de reconocer y detectar códigos con tipografía variable.Detección de defecto en piezas prensadas
+Con el uso de Deep Learning, se detectan defectos en piezas prensadas en etapas tempranas del proceso de fabricación.
+
+En resumen, la Inteligencia Artificial es un amplio campo que abarca los desarrollos de herramientas que posibilitan a las máquinas a realizar tareas para las que se necesitaría inteligencia humana.
+El Machine Learning es un subconjunto de la Inteligencia Artificial. Tiene como finalidad el sacar conclusiones a partir de datos otorgados. Estos pueden estar etiquetados previamente para que el algoritmo sepa las categorías que tiene que detectar o no. Si los datos no están clasificados, es el propio algoritmo el que clasifica las fotos en base a sus características.
+Por último, el Deep Learning es una rama dentro del Machine Learning. La principal diferencia entre el Deep Learning y el Machine Learning es que el Deep Learning hace uso de redes neuronales para hacer sus predicciones.
+
+A la red neuronal se le proveen datos sin etiquetar y ella es la que va localizando los patrones similares en estos datos. Dicho de otro modo, el Machine Learning es como aprender a través de la práctica, mientras que el Deep Learning es como tener muchas capas de pensamiento que trabajan juntas para resolver problemas complejos. Ambas técnicas son útiles para enseñar a las computadoras a aprender de los datos y mejorar su desempeño en tareas específicas.
+Comprender estas diferencias ayuda las empresas y a los desarrolladores a elegir la técnica adecuada para abordar sus problemas y aprovechar al máximo las ventajas de estas tecnologías.
+¿Queréis aplicar Inteligencia Artificial en alguno de vuestros procesos? ¡Contacta con nosotros!
+Tu éxito es nuestra meta. Queremos ser tu compañero en el desarrollo de tus proyectos, aprovechando el poder de la innovación, la flexibilidad y la confianza que ofrecemos. Juntos, marcamos la diferencia a través de nuevas tecnologías.
+¡Contáctanos y construyamos el futuro juntos!
+Sumérgete en el mundo de la tecnología y la sostenibilidad a través de nuestro blog, donde encontrarás nuestras últimas actualizaciones, reflexiones e ideas sobre estos apasionantes temas.

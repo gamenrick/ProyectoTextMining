@@ -1,0 +1,73 @@
+¿Qué es la IA generativa? | Cognizant España
+Autor desconocido
+cognizant.com
+
+América
+Oriente Medio
+Europa
+Asia-Pacífico
+
+Escribe el servicio u oferta que quieres buscar y pulsa  Enter
+
+Escribe el servicio u oferta que quieres buscar y pulsa  Enter
+
+                                                Búsquedas habituales:
+                                            
+España
+
+                        Elimina la complejidad, limita el riesgo, despierta el ingenio y aprovecha los beneficios de la transformación de la IA con confianza.
+                    
+
+                        Reducir la brecha digital, capacitar a los usuarios y transformar la empresa y el trabajo con nuevas formas de colaboración hombre-máquina.
+                    
+
+                        Elimina la complejidad, limita el riesgo, despierta el ingenio y aprovecha los beneficios de la transformación de la IA con confianza.
+                    
+
+                        Reducir la brecha digital, capacitar a los usuarios y transformar la empresa y el trabajo con nuevas formas de colaboración hombre-máquina.
+                    
+
+No hay resultados.
+
+Quisiste decir...
+O intenta buscar por otro término
+La IA generativa es un subconjunto de la inteligencia artificial (IA) que se centra en la creación de algoritmos y modelos que generan contenido nuevo, como texto, fotos, códigos, videos, representaciones 3D, música y mucho más, imitando procesos creativos similares a los humanos. 
+
+Un modelo de lenguaje grande (LLM) es un modelo fundamental, un componente de la IA generativa que ha sido entrenado con grandes cantidades de datos de texto y se especializa en generar texto similar al humano al predecir la siguiente palabra en una secuencia. La IA generativa utiliza LLM para crear contenido o resultados diversos y novedosos, desde responder consultas hasta elaborar narrativas o ensayos, en función de los datos de entrada.
+
+A diferencia de los sistemas de IA tradicionales que se basan en programación basada en reglas o instrucciones explícitas para predecir, clasificar datos y automatizar tareas, la IA generativa aprovecha técnicas de aprendizaje profundo, en concreto las redes neuronales, para permitir que las máquinas aprendan patrones y estructuras dentro de los datos y utilicen ese conocimiento para generar. productos novedosos y contextualmente relevantes de forma autónoma; es decir, sin programación explícita. 
+
+No. La IA generativa no es sinónimo de aprendizaje profundo. El aprendizaje profundo es un subcampo del aprendizaje automático que se centra en el uso de redes neuronales artificiales con múltiples capas (redes neuronales profundas) para aprender y representar datos. La IA generativa puede emplear técnicas de aprendizaje profundo para crear modelos generativos, pero el aprendizaje profundo abarca una gama más amplia de aplicaciones más allá de la generación de contenido. La IA generativa está especializada en la creación de contenidos.
+
+Sí. La IA generativa puede responder consultas y generar respuestas de texto basadas en lenguaje conversacional y proporcionar respuestas legibles, y ahora se utiliza el procesamiento del lenguaje natural tanto para la entrada como para la salida. Esto hace que la IA generativa sea muy accesible y receptiva a las interacciones humanas.
+
+Esto puede explicar la democratización de la IA generativa. Cuando OpenAI lanzó su chatbot, ChatGPT, a finales de 2022, 100 millones de personas lo utilizaron en los primeros meses. Esta fue la adopción más rápida de una tecnología de consumo de la historia. Ahora, empresas de todo el mundo están implementando herramientas de IA de nueva generación.
+La IA generativa es un avance significativo en la forma en que se puede utilizar la inteligencia artificial (IA), con el potencial de alterar industrias y sectores económicos en todo el mundo. Al utilizar la IA generativa, las organizaciones preparadas para el futuro tienen la capacidad de aprovechar el uso de algoritmos sofisticados y el aprendizaje automático (machine learning) para alcanzar nuevos niveles de ventaja competitiva.
+
+Las organizaciones que evalúan cómo adoptar la IA generativa  de manera viable pueden respaldar múltiples casos de uso en toda su organización y lograr resultados tangibles para el negocio como los que siguen:
+
+Las industrias que ya utilizan la IA generativa son, entre otras, agricultura; automoción; servicios financieros y gestión patrimonial; seguros; atención sanitaria, industria y productos farmacéuticos; fabricación; y marketing y ventas.
+Imagínate embarcarte en una gran expedición, donde el terreno cambia constantemente y el mapa que tienes se vuelve a dibujar para revelar destinos nuevos y emocionantes.
+Así es como se está desarrollando la IA generativa, poniendo a nuestro alcance un potencial ilimitado, democratizando el acceso a conocimientos y habilidades, y sentando las bases para que surjan nuevas cadenas de valor como las siguientes
+
+Es probable que la IA generativa tenga un impacto significativo en la forma en que las empresas colaboran y se asocian. Aunque aumentará la competencia por sacar al mercado soluciones novedosas, habrá razones de peso para que las empresas aúnen recursos y conocimientos para crear soluciones de IA más sólidas que aborden un objetivo específico.
+
+Hoy la mayoría de los esfuerzos de automatización de procesos de negocio utilizan algoritmos de aprendizaje automático clásicos para automatizar procesos estáticos y predefinidos. Si bien permiten la velocidad, la simplificación y la personalización de los procesos, estos modelos dependen en gran medida de los datos etiquetados y de la experiencia humana.
+
+La IA generativa supone un cambio sísmico hacia operaciones de negocio dinámicas, basadas en los datos, ya que puede simular y generar innumerables escenarios en tiempo real, utilizando su capacidad de aprender y crear.
+
+Los nuevos niveles de flexibilidad y velocidad permitirán a las compañías optimizar los flujos de trabajo en muchos aspectos operativos, desde la gestión de la cadena de suministro y la previsión de ventas a la gestión de la relación con el cliente.
+
+Es más, dado que la IA generativa crea contenido nuevo, ahora se puede utilizar para una variedad de funciones de negocio, incluidas las de clasificar, editar, responder preguntas, resumir y redactar contenido nuevo. Produce resultados en el mismo medio en el que se le solicita. Aquí hay unos ejemplos :
+
+De los algoritmos con sesgos a los problemas de seguridad, las compañías se enfrentan a una nueva frontera de dilemas éticos, desde cómo garantizar que los sistemas de IA son justos y no tienen sesgos a evitar que se usen con fines nocivos o asegurar que son transparentes. No abordar los algoritmos con sesgos, las vulneraciones de privacidad y la toma de decisiones éticas por sistemas autónomos puede desencadenar un torrente de consecuencias. Abrazar el lado ético de la IA no es una opción, sino un imperativo.
+Cognizant cree que la tecnología, incluida la IA generativa, está diseñada para trabajar con las personas, no para reemplazarlas. Como afirma el CEO de Cognizant, Ravi Kumar S, “la imaginación y el ingenio humanos serán la fuente del trabajo humano de forma indefinida". Asumimos una gran responsabilidad por el comportamiento ético que involucra la IA generativa y buscamos encontrar problemas mediante el descubrimiento de casos de uso, identificando problemas urgentes interdisciplinarios que se adapten mejor a la tecnología de IA.
+
+Volver al glosario
+
+©2024 Cognizant, todos los derechos reservados
+
+Me gustaría que Cognizant se pusiera en contacto conmigo en función de la información proporcionada anteriormente. Acepto el tratamiento de mis datos personales tal y como se describe en el Aviso de Privacidad. 
+Este sitio está protegido por reCAPTCHA y se aplican la política de privacidad y los términos de servicio de Google.
+Pronto nos pondremos en contacto contigo
+Por favor, inténtalo de nuevo o envía tu consulta a inquiry@cognizant.com.

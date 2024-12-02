@@ -1,0 +1,67 @@
+Qué es el Deep Learning, cómo funciona y ejemplos prácticos
+Autor desconocido
+platzi.com
+
+8500Puntos
+hace 5 años
+La ciencia cada vez sorprende con sus avances y el Deep Learning no ha sido la excepción. La tecnología detrás del aprendizaje profundo encuentra diversas oportunidades para aplicarse en el mundo actual.
+Y entonces, ¿Qué es significa Deep Learning? En este post profundizamos en las dudas que tienes sobre este concepto, su funcionamiento y ejemplos del mundo actual.
+El deep learning es un subconjunto del aprendizaje automático donde las redes neuronales artificiales, algoritmos inspirados en el cerebro humano, aprenden de grandes cantidades de datos.
+Nuestro encéfalo está compuesto por distintos núcleos de redes neuronales que tienen características de percepción y respuesta muy específicas, es decir, cada red se especializa en tareas especiales y diferentes a las otras redes. Por ejemplo, la percepción de un olor y la respuesta de agrado o desagrado a dicho olor; la percepción de un sonido y el paso de ese sonido a sensaciones.
+Si esto lo traducimos en Inteligencia Artificial veremos que los modelos computacionales de Deep Learning son una imitación de esas características arquitecturales de nuestro sistema nervioso, lo que permite que cada red neuronal construida de forma artificial esté entrenada para tareas especiales.
+¿Deep learning?¿No es el cerebro de Siri y Alexa que reaccionan a mi voz?Pues sí lo es… de cierta manera. Si aún no tienes tan claro qué es el deep learning, te daré algunos ejemplos que te resultarán muy útiles para entender e iniciarte en esta gran disciplina.
+El campo de la inteligencia artificial es, esencialmente, cuando las máquinas pueden realizar tareas que generalmente requieren de inteligencia humana. Abarca el aprendizaje automático, donde las máquinas pueden aprender por experiencia y adquirir habilidades sin la participación de los humanos.
+La forma como funciona en el cerebro humano esta arquitectura de redes neuronales es que la información recibida del exterior pasa a través de un número grande de capas antes de convertirse en una respuesta.
+Deep Learning es un conjunto de algoritmos no lineales que pueden aplicarse para la modelización de datos y el reconocimiento de patrones. Cuando nos referimos a una forma no lineal estamos hablando de que las capas de las redes neuronales artificiales se apilan en una jerarquía que va desde las características de nivel de abstracción bajo hasta las de nivel de abstracción más compleja.
+Cómo hacer inteligencia artificial con python
+La forma en la que trabaja el Deep Learning es usando estas cascadas de capas con unidades de procesamiento que permiten la extracción y transformación de variables. Cada red, dentro de su jerarquía, aplica una transformación en su capa de entrada y utiliza esa información de aprendizaje para crear un modelo estadístico de salida que itera las veces necesarias hasta lograr un nivel de precisión en el aprendizaje y respuesta aceptable.
+El deep learning es una rama que ha mostrado resultados increíbles en tareas muy difíciles como reconocer objetos de una imagen, comprender el habla y los idiomas y, por supuesto, jugar juegos de mesa. Un grupo de personas muy inteligentes han estado trabajando en ello durante décadas, y es absolutamente de última generación.
+Los más expertos definen el deep learning como una área del Machine Learning que usa redes neuronales artificiales de múltiples capas. Es una herramienta muy poderosa, porque a diferencia del Machine Learning tradicional, logra aprender, de forma automática y de forma jerárquica, las features de distintos niveles de abstracción y resolver problemas difíciles de datos como: imagen, texto, video y audio.
+Usando simulaciones cerebrales, se busca que:
+Otro punto importante es que se trata de un aprendizaje en escala. Lo que quiere decir es que a medida que construimos redes neuronales más grandes y las entrenamos con más y más datos, su rendimiento continúa aumentando. Esto generalmente es diferente a otras técnicas de aprendizaje automático que alcanzan una meseta en el rendimiento.
+De manera similar a cómo aprendemos de la experiencia, el algoritmo de deep learning (Aprendizaje profundo, en español) realizaría una tarea repetidamente, cada vez que la modificara un poco se busca mejorar el resultado.
+Nos referimos al “aprendizaje profundo” porque las redes neuronales tienen varias capas (profundas) que permiten el aprendizaje. Casi cualquier problema que requiera “pensamiento” para resolverlo es un problema que el deep learning puede aprender a solucionar. Y eso es lo realmente poderoso.
+El deep learning permite a las máquinas resolver problemas complejos incluso cuando se utiliza un conjunto de datos muy diverso, no estructurado e interconectado. Cuanto más aprenden los algoritmos de aprendizaje profundo, mejor se desempeñan.
+Además de la escalabilidad, otro beneficio a menudo citado de los modelos del deep learning es su capacidad para realizar la extracción automática de características de los datos sin procesar, también llamado aprendizaje de características.
+Según, Yoshua Bengio, líder experto de deep learning, los algoritmos de aprendizaje profundo buscan explotar la estructura desconocida en la distribución de entrada para descubrir buenas representaciones a menudo en múltiples niveles, con características aprendidas de nivel superior definidas en términos de características de nivel inferior.
+Las funciones de aprendizaje automático en múltiples niveles de abstracción permiten que un sistema aprenda funciones complejas que mapean la entrada a la salida directamente de los datos, sin depender completamente de las características creadas por el hombre.
+Los algoritmos de deep learning usan conjuntos de datos masivos de oraciones para entrenar un modelo capaz de traducir automáticamente entre idiomas.
+Ya sea Alexa o Siri o Cortana, los asistentes virtuales de los proveedores de servicios en línea utilizan el deep learning para ayudar a comprender su discurso y el lenguaje que los humanos usan cuando interactúan con ellos.
+Los chatbots y los bots de servicio se han convertido en una herramienta útil para muchas empresas (aunque algunas la desaprovechan pidiendo solo el nombre y el email sin generar conversación). Es una oportunidad para responder a una cantidad de preguntas auditivas y de texto gracias al aprendizaje de deep learning.
+El deep learning se está utilizando para el reconocimiento facial no solo con fines de seguridad, sino también para etiquetar a las personas en las publicaciones de Facebook y, es posible, que en un futuro cercano podamos pagar los artículos en una tienda simplemente usando nuestras caras.
+La forma en que un vehículo sin conductor comprende las realidades en la carretera y cómo responder a ellas, ya sea una señal de tránsito, un semáforo, una pelota en la calle u otro vehículo, es a través de algoritmos de deep learning.
+Cuantos más datos reciban los algoritmos, mejor podrán actuar como humanos en su procesamiento de información: saber que una señal de _no estacionar _cubierta de nieve sigue siendo una señal de no estacionar.
+Puedes aprender un poco más sobre este tema visitando nuestro blog 5 aplicaciones del Deep Learning que están transformando tu vida.
+Compras y entretenimiento personalizadosEsas sugerencias que nos hace Netflix para terminar una serie y seguir con otra o las sugerencias de Amazon que nos hace pensar ¿cómo supo lo que necesito comprar? Sí, también son algoritmos de deep learning.
+Cuanta más experiencia obtengan los algoritmos de aprendizaje profundo, mejores serán. Deben pasar unos años extraordinarios a medida que la tecnología continúa madurando.
+La respuesta es: cualquier persona puede. Se necesita una gran cantidad de conocimiento, pero la verdad es que, gracias a muchas bibliotecas de código abierto potentes, los cursos en Platzi, la creación de aplicaciones útiles a partir del progreso de la investigación existente es mucho más fácil de lo que la mayoría esperaría.
+Para quienes ya tienen algunos conocimientos en Inteligencia Artificial, en Platzi tenemos un Curso de Deep Learning con Pytorch
+Sin embargo, para las personas que aún no han realizado cursos previos sobre este tema, recomendamos empezar por estos cursos:
+Porque es una mina de oro en este momento. Hoy Latinoamérica cuenta con un millón de profesionales en tecnología y se calcula que para el año 2022 se necesitarán 3 millones de profesionales en estas áreas. Además, el crecimiento de los sueldos en la industria de la tecnología es del 16% año tras año
+Mira la charla que dio Freddy Vega sobre cómo impactará la tecnología en Latinoamérica en los próximos 4 años.
+En Platzi buscamos que no solo consumas tecnología sino que la crees y hagas parte de la economía digital. Además tenemos un equipo que se encargará que con tu disciplina y constancia, logres tus objetivos de estudio.
+8500Puntos
+hace 5 años
+Es uno de los posts más completos que he leído sobre el tema. Felicidades por la buena redacción y buena distribución del contenido. ¡Gracias por  compartirlo!
+Muchas gracias por tu feedback Nos encanta que te guste el contenido.
+Ingrid, justo el empujón que necesitaba para dar el salto y estudiar ml, muchas gracias, muy buen articulo.
+¡Qué bueno saberlo! Nos cuentas cómo te va.
+¡Excelente post! :nerd
+excelente post!! muy buena información  😄
+Muy completa la información, gracias. Las charlas de Freddy son lo mejor 😄
+Ya tengo armado mi plan de estudios, el pròximo año toca IA y deep learning
+Excelente post, ahora a aprender :3
+Muy interesante cómo la tecnología está yendo más allá cada año. Es importante actualizarse constantemente. Y este post nos ayuda a eso. Gracias.
+Excelente post!   muy completo y sobre todo alienta a continuar profundizando en este mar de conocimiento.  Felicitaciones.
+Muy completa y amena la lectura, gracias Ingrid
+Excelente post. Si bien este es un campo bastante amplio, considero un muy buen punto de partida.  Aún tenemos muchas preguntas por resolver sobre como trabaja el cerebro humano, y la tecnología será la clave para acercarnos mas.  Muy inspirador, gracias!
+How Cool!
+Me fascina este contenido. Permite entender los conceptos “básicos”.  Utiliza un “lenguaje coloquial”, pero, con muchos datos, y material extra. Gracias.
+Super interesante! Gracias por compartir la información.
+WOw… Mencionaron a mi idolo, premio Turing del 2019: Yoshua Bengio.
+Quiero hacer YA toda la ruta de AI. Gracias por estos posts. Me dan mas ganas de nunca para de aprender. Gracias @ingridzuniga
+Ingrid excelente post, super claro de contenido directo, para los que nos cuesta visualizar conceptos tan abstractos como ML nos viene genial!!! Muchas gracias!!
+Excelente post. A mi esta materia me deja sin palabras, me parece algo tan futurista pero a la vez que está ya en nuestro día a día.
+a carajo lo lei un año después, 😃 pero bueno mas vale tarde que nunca,💚 ahí vamos adentrandonos ne el aprendizaje profundo!!
+Transformamos la economía de nuestros países entrenando a la próxima generación de profesionales en tecnología.
+De LATAM con para el mundo

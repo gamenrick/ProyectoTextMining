@@ -1,0 +1,43 @@
+OpenAI supera a Shein y Airbnb: así crece el interés de inversores y público por la startup de IA
+Raquel López García
+theconversation.com
+
+
+      Profesora Titular de Universidad, Departamento de Análisis Económico y Finanzas, Universidad de Castilla-La Mancha
+    
+Raquel López García does not work for, consult, own shares in or receive funding from any company or organisation that would benefit from this article, and has disclosed no relevant affiliations beyond their academic appointment.
+
+Universidad de Castilla-La Mancha provides funding as a member of The Conversation ES.
+View all partners
+¿Qué tienen que ver la inteligencia artificial y los unicornios? En el mundo empresarial, mucho. Para entender esta relación, empecemos por el principio. Vamos a definir el concepto de startup. 
+Una startup es una empresa de nueva creación o edad temprana con grandes posibilidades de crecimiento y desarrolla productos y servicios mediante el uso de las tecnologías de la información y la comunicación. 
+En el mundo de los negocios, un unicornio es una empresa no cotizada con un valor de más de mil millones de dólares. Y convertirse en unicornio es el sueño de cualquier startup.  Uno de los unicornios tecnológicos que ha acaparado recientemente el interés tanto de la prensa como de los particulares (potenciales usuarios y curiosos) ha sido OpenAI, la empresa creadora de ChatGPT.
+
+
+
+      Read more:
+      Por qué es tan relevante la demanda de The New York Times contra OpenAI y Microsoft por usar sus contenidos sin permiso
+
+
+
+El pasado 15 de febrero, OpenAI presentaba Sora, su último modelo de inteligencia artificial generativa, capaz de convertir instrucciones de texto en vídeos con resultados impactantes. El interés de búsqueda  en Google de la palabra OpenAI se disparó inmediatamente a nivel global. 
+En febrero de 2024, el número de startups unicornio en todo el mundo era de 1 233, con un valor total acumulado de 3,8 billones de dólares. 
+Compañías como Facebook y Google fueron en su día miembros de este selecto club.  Si diferenciamos por sectores de actividad, las empresas de base tecnológica concentran el mayor porcentaje de startups unicornio (31 %), con un valor total de 1,1 billones de dólares. 
+Le siguen las startups de los sectores de servicios financieros, y de consumo y comercio minorista, que representan un 17 % del total de unicornios en ambos casos. 
+Las startups son empresas de capital privado y, por lo tanto, su valor se deriva de operaciones internas que implican una valoración de las acciones de dichas compañías. Según CB Insights, el valor de OpenAI antes del lanzamiento de Sora era de 29 mil millones de dólares. Esta cifra se deriva de la oferta de adquisición de acciones lanzada sobre la startup por diversas sociedades de inversión en abril de 2023. Así, a principios de febrero de 2024 OpenAI ocupaba la décima posición como startup  mejor valorada del mundo dentro del club de los unicornios.
+La meteórica trayectoria de OpenAI en el último año ha ido ligada al lanzamiento de nuevos modelos o productos de inteligencia artificial generativa. Los ingresos anualizados de la compañía en agosto de 2023 –mes en el que se lanzó ChatGPT Enterprise, la versión de pago de ChatGPT para empresas– eran de 28 millones de dólares. Tan sólo cuatro meses más tarde, en diciembre de 2023, OpenAI registró unos ingresos anualizados de 2 mil millones de dólares.
+El desarrollo de Sora ha supuesto un nuevo punto de inflexión dentro de la compañía. El 16 de febrero, un día después de su presentación, en OpenAI se había cerrado una nueva oferta de adquisición de acciones en la cual se le otorgaba un valor de 80 mil millones de dólares. 
+La revalorización de la startup de 29 mil millones a 80 mil millones de dólares la ha llevado a posicionarse como el tercer unicornio mejor valorado del mundo. El primer y el segundo puesto lo ocupan Bytedance, la compañía detrás de la plataforma social TikTok (valorada en 225 mil millones de dólares), y SpaceX, la compañía de fabricación aeroespacial liderada por Elon Musk (con un valor de 150 mil millones de dólares).
+
+
+
+      Read more:
+      ¿Qué tiene TikTok de especial?
+
+
+
+OpenAI se sitúa en este momento por encima de startups como la empresa de moda Shein y la fintech Revolut, valoradas en 66 y 33 mil millones de dólares respectivamente. También tiene un valor superior al de la empresa cotizada Airbnb (un antiguo unicornio), que a finales de febrero de 2024 tiene una capitalización bursátil de 65 mil millones de dólares. 
+El lanzamiento de Sora también sirvió para mostrar la competencia entre una startup y una big tech cotizada (financiada con capital público). El 15 de febrero, unas horas antes de la presentación de Sora, Google anunció el lanzamiento de Gemini 1.5, su último modelo de inteligencia artificial generativa, concebido para convertirse en el rival de ChatGPT. No obstante, la propuesta de OpenAI eclipsó el lanzamiento de Google, que perdió un 3,7 % de su cotización bursátil entre el 14 y el 16 de febrero. 
+Actualmente, Sora sólo se encuentra disponible para los desarrolladores de OpenAI. Su comercialización a lo largo de este año contribuirá sin duda a que la compañía siga alcanzando cifras de ingresos milmillonarias y a consolidar su posición dentro del club de los unicornios.
+
+      Copyright © 2010–2024, The Conversation

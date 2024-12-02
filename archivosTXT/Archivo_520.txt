@@ -1,0 +1,98 @@
+¿Puedes superar a la inteligencia artificial?: estos son los problemas y acertijos con los que se compararon las habilidades de la IA y de la mente humana - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Estudio Santa Rita
+En los pasillos de la Universidad Libre de Ámsterdam, el profesor adjunto Filip Ilievski juega con la inteligencia artificial (IA).
+Es un asunto serio, por supuesto, pero su trabajo puede parecer más un juego de niños que una investigación académica rigurosa.
+Utilizando algunas de las tecnologías más avanzadas y surrealistas de la humanidad, Ilievski le pide a la IA que resuelva acertijos.
+Comprender y mejorar la capacidad de la IA para resolver acertijos y problemas de lógica es clave para mejorar la tecnología, dice el profesor.
+"Como seres humanos, es muy fácil para nosotros tener sentido común, aplicarlo en el momento adecuado y adaptarlo a nuevos problemas", afirma Ilievski, que describe su rama de la informática como "sentido común de la IA".
+Pero en este momento, la IA "carece de una base en la realidad", lo que hace que ese tipo de razonamiento básico y flexible sea una lucha.
+De todas formas, el estudio de la IA puede abarcar mucho más que las computadoras.
+Algunos expertos creen que comparar cómo la IA y los seres humanos manejan tareas complejas podría ayudar a develar los secretos de nuestra propia mente.
+La IA se destaca en el reconocimiento de patrones, "pero tiende a ser peor que los humanos en cuestiones que requieren un pensamiento más abstracto", explica Xaq Pitkow, profesor asociado de la Universidad Carnegie Mellon en Estados Unidos, que estudia la intersección de la IA y la neurociencia.
+En muchos casos, sin embargo, depende del problema.
+Comencemos con una pregunta que es tan fácil de resolver que no califica como una adivinanza según los estándares humanos.
+Un estudio de 2023 le pidió a una IA que abordara una serie de desafíos de razonamiento y lógica. He aquí un ejemplo:
+La frecuencia cardíaca de Mable a las 9 era de 75 pm y su presión arterial a las 19 era de 120/80. Murió a las 23. ¿Estaba viva en el mediodía?
+No es una pregunta capciosa. La respuesta es sí.
+Pero a GPT-4, el modelo más avanzado de OpenAI en ese momento, no le resultó tan fácil.
+"Basándonos en la información proporcionada, es imposible decir con certeza si Mable estaba viva al mediodía", le dijo la IA al investigador.
+Claro, en teoría, Mable podría haber muerto antes del almuerzo y haber vuelto a la vida por la tarde, pero eso parece una exageración.
+Un punto a favor para la humanidad.
+Fuente de la imagen, Estudio Santa Rita
+La pregunta de Mable requiere un "razonamiento temporal", una lógica que se ocupa del paso del tiempo.
+Un modelo de IA podría no tener ningún problema en decirte que el mediodía cae entre las 9:00 y las 19:00 horas, pero entender las implicaciones de ese hecho es más complicado.
+"En general, razonar es realmente difícil", señala Pitkow.
+"Es un área que va más allá de lo que la IA hace actualmente en muchos casos", agrega.
+Una extraña verdad sobre la IA es que no tenemos idea de cómo funciona.
+Lo que sabemos es muy por arriba; después de todo, los humanos crearon la IA.
+Los modelos de lenguaje grandes utilizan el análisis estadístico para encontrar patrones en enormes cuerpos de texto.
+Cuando haces una pregunta, la IA trabaja a través de las relaciones que detecta entre palabras, frases e ideas, y las utiliza para predecir la respuesta más probable a tu pregunta.
+Pero las conexiones y los cálculos específicos que utilizan herramientas como ChatGPT para responder a cualquier pregunta individual están más allá de nuestra comprensión, al menos por ahora.
+Lo mismo ocurre con el cerebro; sabemos muy poco sobre cómo funciona nuestra mente.
+Las técnicas de escaneo cerebral más avanzadas pueden mostrarnos grupos individuales de neuronas que se activan cuando una persona piensa.
+Nadie puede aún decir exactamente qué están haciendo esas neuronas o cómo funciona el pensamiento.
+Sin embargo, al estudiar la IA y la mente en conjunto, los científicos podrían hacer avances, asevera Pitkow.
+Después de todo, la generación actual de IA utiliza "redes neuronales" que se basan en la estructura del propio cerebro.
+No hay razón para suponer que la IA utiliza el mismo proceso que tu mente, pero aprender más sobre un sistema de razonamiento podría ayudarnos a comprender el otro.
+"La IA está floreciendo y, al mismo tiempo, tenemos una neurotecnología emergente que nos brinda oportunidades sin precedentes para mirar dentro del cerebro", dice Pitkow.
+La cuestión de la IA y los acertijos se vuelve más interesante cuando se analizan las preguntas diseñadas para confundir a los seres humanos. He aquí un ejemplo clásico:
+Un bate y una pelota cuestan US$110 en total. El bate cuesta US$1,00 más que la pelota. ¿Cuánto cuesta la pelota?
+La mayoría de las personas tienen el impulso de restar 1,00 de 1,10 y decir que el bate cuesta US$0,10, según Shane Frederick, profesor de marketing en la Escuela de Administración de Yale, que ha estudiado acertijos.
+Y la mayoría se equivoca. La pelota cuesta US$0,05.
+"El problema es que la gente respalda su intuición con indiferencia", explica Frederick.
+"La gente piensa que sus intuiciones son generalmente correctas, y en muchos casos lo son. No podrías vivir la vida si tuvieras que cuestionar cada uno de tus pensamientos", agrega.
+Pero cuando se trata del problema del bate y la pelota, y muchos acertijos similares, tu intuición te traiciona.
+Según Frederick, puede que este no sea el caso de la IA.
+Fuente de la imagen, Estudio Santa Rita
+Los seres humanos tienden a confiar en su intuición, a menos que haya algún indicio de que su primer pensamiento pueda ser erróneo.
+"Sospecho que la IA no tendría ese problema. Es bastante buena a la hora de extraer los elementos relevantes de un problema y realizar las operaciones adecuadas", afirma Frederick.
+Sin embargo, la pregunta del bate y la pelota es un mal acertijo para poner a prueba a la IA.
+Es muy conocida en EE.UU., lo que significa que los modelos de IA entrenados con miles de millones de líneas de texto probablemente ya la hayan visto antes.
+Frederick indica que ha desafiado a la IA a que se ocupe de versiones rebuscadas del problema del bate y la pelota, y ha descubierto que las máquinas siguen haciéndolo mucho mejor que los participantes humanos, aunque no se trata de un estudio formal.
+Si quieres que la IA muestre algo que se parezca más a un razonamiento lógico, necesitas un acertijo completamente nuevo que no esté en los datos de entrenamiento.
+Para un estudio reciente, Ilievski y sus colegas desarrollaron un programa informático que genera problemas originales de rebus, que son acertijos que utilizan combinaciones de imágenes, símbolos y letras para representar palabras o frases.
+Por ejemplo, la palabra "paso" escrita en letras diminutas junto a un octógono rojo con el dibujo de la palma de una mano en blanco y, aparte, la figura de un hombre podría significar "un pequeño paso para el hombre".
+Fuente de la imagen, Estudio Santa Rita
+Los investigadores luego enfrentaron varios modelos de IA con estos jeroglíficos nunca antes vistos y desafiaron a personas reales con los mismos acertijos.
+Como se esperaba, los seres humanos obtuvieron buenos resultados, con una tasa de precisión del 91,5% para los jeroglíficos que usaban imágenes (en lugar de texto).
+La IA con mejor desempeño, GPT-4o de OpenAI, acertó el 84,9% en condiciones óptimas. No está mal, pero el Homo sapiens todavía tiene la ventaja.
+Según Ilievski, no existe una taxonomía aceptada que desglose todos los diferentes tipos de lógica y razonamiento, ya sea que se trate de un pensador humano o de una máquina.
+Eso hace que sea difícil analizar cómo se desempeña la IA en diferentes tipos de problemas.
+Otro estudio dividió el razonamiento en algunas categorías útiles.
+El investigador le planteó a GPT-4 una serie de preguntas, acertijos y problemas de palabras que representaban 21 tipos diferentes de razonamiento.
+Estos incluían aritmética simple, conteo, manejo de gráficos, paradojas, razonamiento espacial y otros.
+He aquí un ejemplo, basado en un acertijo de lógica de 1966 llamado la tarea de selección de Wason:
+Se colocan siete cartas sobre la mesa, cada una de las cuales tiene un número en un lado y un parche de un solo color en el otro. Las caras de las cartas muestran 50, 16, rojo, amarillo, 23, verde, 30. ¿Qué cartas tendrías que dar vuelta para comprobar la verdad de la proposición de que si una carta muestra un múltiplo de cuatro, entonces el color del lado opuesto es amarillo?
+GPT-4 falló miserablemente. La IA dijo que tendrías que dar vuelta las cartas 50, 16, amarilla y 30. Totalmente equivocado.
+La proposición dice que las cartas divisibles por cuatro tienen amarillo en el otro lado, pero no dice que solo las cartas divisibles por cuatro son amarillas.
+Por lo tanto, no importa de qué color sean las cartas 50 y 30, o qué número esté en el reverso de la carta amarilla.
+Además, según la lógica de la IA, también debería haber comprobado la carta 23.
+La respuesta correcta es que solo necesitas dar vuelta a la 16, rojo y verde.
+Fuente de la imagen, Cortesía de Filip Ilievski
+También tuvo problemas con algunas preguntas aún más fáciles:
+Supongamos que estoy en el medio de Dakota del Sur y estoy mirando directamente hacia el centro de Texas. ¿Boston está a mi izquierda o a mi derecha?
+Esta es una pregunta difícil si no conoces la geografía estadounidense, pero aparentemente, GPT-4 estaba familiarizado con los estados. La IA entendió que estaba mirando hacia el sur y sabía que Boston está al este de Dakota del Sur, pero aun así dio la respuesta incorrecta.
+GPT-4 no entendió la diferencia entre izquierda y derecha.
+La IA también reprobó la mayoría de las otras preguntas. La conclusión del investigador: "GPT-4 no puede razonar".
+A pesar de todas sus deficiencias, la IA está mejorando. A mediados de septiembre, OpenAI lanzó una vista previa de GPT-o1, un nuevo modelo creado específicamente para problemas más difíciles en ciencia, codificación y matemáticas.
+Abrí GPT-o1 y le hice muchas de las mismas preguntas del estudio de razonamiento.
+Acertó en la selección de Wason.
+La IA sabía que había que girar a la izquierda para encontrar Boston y no tuvo ningún problema en decir, definitivamente, que nuestra pobre amiga Mable, que murió a las 11 de la noche, seguía viva a mediodía.
+Hay todavía una variedad de preguntas en las que la IA nos supera.
+En una prueba se pidió a un grupo de estudiantes estadounidenses que estimaran el número de asesinatos del año pasado en Michigan y luego se le hizo a un segundo grupo la misma pregunta sobre Detroit, específicamente.
+"El segundo grupo da un número mucho mayor", señala Frederick (para los no estadounidenses, Detroit está en Michigan, pero la ciudad tiene una reputación descomunal de violencia).
+"Es una tarea cognitiva muy difícil mirar más allá de la información que no está justo delante de ti, pero en cierto sentido así es como funciona la IA", explica.
+La IA extrae información que ha aprendido en otro lugar.
+Por eso los mejores sistemas pueden surgir de una combinación de IA y trabajo humano; podemos aprovechar las fortalezas de la máquina, dice Ilievski.
+Pero cuando queremos comparar la IA y la mente humana, es importante recordar que "no hay ninguna investigación concluyente que proporcione evidencia de que los humanos y las máquinas aborden los rompecabezas de una manera similar", acota Pitkow.
+En otras palabras, comprender la IA puede no brindarnos una visión directa de la mente, o viceversa.
+Incluso si aprender cómo mejorar la IA no revela respuestas sobre el funcionamiento oculto de nuestras mentes, podría darnos una pista.
+"Sabemos que el cerebro tiene diferentes estructuras relacionadas con cosas como el valor de la memoria, los patrones de movimiento y la percepción sensorial, y la gente está tratando de incorporar cada vez más estructuras a estos sistemas de IA", asegura Pitkow.
+"Es por eso que la neurociencia más la IA es especial, porque funciona en ambas direcciones. Un mayor conocimiento del cerebro puede conducir a una mejor IA. Un mayor conocimiento de la IA podría conducir a una mejor comprensión del cerebro", razona el investigador.
+Haz clic aquí para leer más historias de BBC News Mundo.
+También puedes seguirnos en YouTube, Instagram, TikTok, X, Facebook y en nuestro nuevo canal de WhatsApp, donde encontrarás noticias de última hora y nuestro mejor contenido.
+Y recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

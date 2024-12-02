@@ -1,0 +1,37 @@
+Ética y Machine Learning: retos de presente y futuro - Plain Concepts
+ecanorea
+plainconcepts.com
+
+El Machine Learning tiene el potencial de transformar la sociedad y la forma de hacer negocios de muchas maneras positivas y significativas, pero es fundamental considerar las implicaciones éticas de los modelos y sistemas.  
+Mientras que los sistemas de IA se vuelven cada vez más sofisticados y están integrados en nuestra vida diaria, es fundamental abordar las dimensiones éticas ligadas con su crecimiento. Analizamos sus implicaciones, los retos a los que se enfrenta y las claves para solventarlos y conseguir proyectos basados en una IA responsable.  
+Los principios clave de la ética del Machine Learning se sustentan en cuatro pilares fundamentales: 
+Al adherirse a estos principios clave, se puede promover el desarrollo y el uso responsable de los algoritmos de ML. Además, se puede fomentar la confianza, la equidad y la responsabilidad en la implementación de estos sistemas, beneficiando así a las personas, la sociedad y numerosos sectores.  
+Los sistemas de IA poseen la capacidad de aprender y tomar decisiones de manera autónoma, imitando la inteligencia humana, pero este progreso plantea muchas preguntas sobre las cuestiones éticas asociadas con el uso de esta tecnología. 
+Uno de los principales problemas éticos de la IA es la privacidad y protección de datos. Los sistemas de IA manejan grandes cantidades de datos personales, por lo que hay una gran preocupación puesta en torno a los métodos que utilizan los algoritmos de IA para recopilar, almacenar y utilizar estos datos.  
+Por otro lado, el uso involuntario de datos y algoritmos sesgados o discriminatorios complica aún más la cuestión. Y los posibles dilemas éticos en el entorno laboral o de desigualdad económica son otros de los principales.  
+Este es uno de los retos más importantes a los que se enfrenta el ML, y es el aspecto que debería garantizar que las personas sean tratadas por igual al tomar decisiones. Los algoritmos no deben dar un trato preferencial o discriminatorio a un grupo específico de personas. 
+Las cuestiones éticas no se limitan solo al sesgo, sino que también incluyen la posibilidad de que un grupo específico de personas no pueda acceder a los servicios de los sistemas. Por ejemplo, las personas con discapacidad o limitaciones lingüísticas no deberían tener dificultades para utilizar los servicios de IA-ML. 
+La demanda de protección de la información individual y empresarial ha crecido muchísimo, especialmente durante la última década, lo que ha dado lugar a normativas como el RGPD, la HIPAA o la CCPA. 
+Estas normativas dictan cómo los proveedores de servicios deben almacenar y procesar los datos recopilados de los usuarios en función de la intención.  
+Además de la protección de datos, las organizaciones también deben proteger los diferentes procesos que manejan los datos recopilados, como el preprocesamiento, el control de versiones, el análisis, la reutilización y el almacenamiento.  
+Que los algoritmos no sean opacos es otro reto para la confianza de esta tecnología, pues afecta a la rendición de cuentas de los sistemas de IA y ML por las decisiones que toman y la lógica que las sustenta. Por lo que es una combinación de gobernanza y explicabilidad.  
+Es importante atajar la incapacidad de proporcionar explicaciones detrás de las decisiones, incluida la trazabilidad y las interpretaciones de bajo nivel o específicas de los datos, lo que genera desconfianza. 
+ Los modelos de IA y ML tienen potencial de explotación, ya que lo que puede haber comenzado como un uso positivo puede modificarse para perseguir objetivos maliciosos. Por ello, los modelos deben ser confiables, de modo que sus funciones sean reproducibles en condiciones similares a las de su desarrollo y prueba.  
+Además, se deben conseguir sistemas robitos que tengan la capacidad de afrontar situaciones impredecibles, pues los escenarios desconocidos pueden exponer a los usuarios a riesgos como la exposición de la identidad o la pérdida de credenciales.  
+Ranking Digital Rights llevó a cabo un estudio en el que se analizaba la confianza depositada de los usuarios en las grandes empresas tecnológicas según sus prácticas de curación de datos basadas en algoritmos, lo que mostró una desalentadora situación.  
+
+Aunque las empresas han aceptado que la IA mejorará los procesos de trabajo y los rendimientos esperados, también se han dado cuenta de lo importante que es invertir en su investigación.  
+Uno de los motivos es los beneficios que puede conseguir una compañía cuando se sustente en una IA confiable: 
+Un sistema que preserve la ética es un gran paso hacia el uso de la tecnología para el bienestar humano. Algunos de los pasos a seguir para conseguir una IA confiable son: 
+La IA responsable debe integrarse en toda la estructura de la organización, pero mejorar la conciencia y las medidas de IA responsable requiere cambios en las operaciones y la cultura. Por ello, la elección más indicada es confiar en un socio tecnológico que tenga presente la importancia de este tipo de enfoque empresarial. 
+Este enfoque facilita una innovación más rápida y minimiza el riesgo, por ello, las empresas que se suban a la próxima ola de regulación siguiendo prácticas comerciales responsables van a ser capaces de satisfacer a legisladores, accionistas y a clientes con productos y servicios a la vanguardia y seguros. 
+En Plain Concepts hemos sido reconocidos como Partner del Año de Microsoft 2023 en IA Responsable gracias a nuestro enfoque en la educación y concienciación sobre los aspectos éticos y el uso responsable de IA se basa en dos pilares fundamentales: la formación interna y la comunicación con nuestros clientes. 
+Internamente, brindamos capacitación regular a nuestros empleados sobre los aspectos éticos de la IA, promoviendo un entendimiento profundo de los desafíos y las mejores prácticas en este ámbito. Con los clientes, nos enfocamos en la educación y el asesoramiento, proporcionándoles información clara y precisa sobre los aspectos éticos y el uso responsable, guiándolos en la toma de decisiones éticas en sus proyectos. 
+Ponemos a tu disposición diferentes herramientas para poder entender mejor y saber cómo responden los diferentes algoritmos desarrollados. Nos adaptamos a los nuevos cambios legislativos y a tus necesidades para emprender un camino juntos hacia la eficacia y la responsabilidad. Si quieres saber cómo, no dudes en ponerte en contacto con nosotros y nuestros expertos podrán asesorarte. 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

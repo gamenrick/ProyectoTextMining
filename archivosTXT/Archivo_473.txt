@@ -1,0 +1,58 @@
+Microsoft 365 Copilot: ¿Qué es y cómo usarlo? — CiraSync
+iog@ciraapps.com
+cirasync.com
+
+Updated on Nov 7, 2023 Tags: Artículos del Blog
+Microsoft acaba de anunciar un nuevo asistente de IA llamado Copilot para sus aplicaciones y servicios de Microsoft 365. Copilot funcionará junto con otras aplicaciones de Microsoft 365 como asistente de chatbot en la barra lateral (de las aplicaciones de oficina).
+Microsoft 365 Copilot transformará la comunicación y la forma de trabajar de las empresas con las aplicaciones de Microsoft. Esta herramienta combina grandes modelos lingüísticos actualizados para favorecer la innovación y la eficacia.
+Pero lo más increíble es que Microsoft afirma que la herramienta va a «convertir sus palabras en la herramienta de productividad más potente del planeta».
+Así que aquí están las verdaderas preguntas: ¿Qué es Microsoft 365 Copilot y para qué sirve? ¿Cómo desbloquea la productividad?
+Sumerjámonos de lleno.
+
+Microsoft 365 Copilot es una función de inteligencia artificial que ayuda a los usuarios con tareas repetitivas como redactar documentos, resumir correos electrónicos y preparar demostraciones. Dispone de la mejor tecnología de IA utilizando el modelo de lenguaje GPT-4 large.
+Utiliza la misma tecnología disponible en Bing Chat.
+Algunas de las funciones más populares de Copilot son el chat empresarial y su integración con aplicaciones de Microsoft como MS Word.
+Copilot Business Chat es un bot que escanea y lee los datos y aplicaciones de tu empresa para encontrar la información relevante que necesitas en lugar de tener que buscar y abrir documentos o esperar las respuestas de tus compañeros.
+Podrá acceder a Business Chat en Microsoft 365.com, Bing y Microsoft Teams.
+Sin duda, el gigante tecnológico seguirá anunciando nuevas funciones de Copilot en el futuro.
+
+Puede usarlo en Word, Excel, PowerPoint, Outlook y Teams, que son herramientas que mucha gente utiliza a diario. Esta tecnología de IA se muestra y funciona igual en todas las aplicaciones de Microsoft 365 gracias a una interfaz de usuario sencilla y coherente.
+Copilot es un motor avanzado de procesamiento y orquestación que combina las capacidades de los LLM, incluido GPT-4, con las aplicaciones de Microsoft 365 y los datos de tu empresa en Microsoft Graph. 
+El precio de Microsoft 365 Copilot se ha anunciado en 30 dólares por usuario y mes para los usuarios de los paquetes Microsoft 365 E3, E5, Business Standard y Business Premium. Aún no se ha comunicado la fecha exacta de disponibilidad, pero en el futuro se ofrecerá más información.
+Además, hay tres (3) razones por las que Microsoft no hace Copilot gratuito. 
+En primer lugar, la empresa tiene un historial de cobro por herramientas de productividad. Por ejemplo, Microsoft Office es un servicio de suscripción de pago. 
+En segundo lugar, Copilot es una potente herramienta que simplificará la vida de empresas y desarrolladores. Si Copilot fuera gratuito, estaría disponible para todo el mundo, lo que podría igualar las condiciones y dificultar la competencia de Microsoft.
+Por último, Microsoft ha invertido mucho en el sistema Copilot. La empresa lleva varios años trabajando en el servicio e invirtiendo mucho dinero en investigación y desarrollo. Probablemente querrán recuperar su inversión cobrando por Copilot.
+La mayoría de las herramientas de IA, por no decir todas, no funcionan sin conexión a Internet. Así que es muy probable que Copilot sólo funcione si está conectado a Internet.
+Pero el problema es que Microsoft 365 Copilot está siendo probado actualmente sólo por ciertos individuos y empresas, y no está disponible para cualquier persona en público para su uso, por lo que no podemos decir con firmeza si Copilot ofrecerá un modo sin conexión.
+
+Puede utilizar Microsoft 365 Copilot dejando que haga el trabajo laborioso por usted. Como cualquier herramienta de inteligencia artificial, sólo tienes que introducir una instrucción y Copilot hará lo que le pidas.
+Piense en Copilot como su mano derecha.
+Imaginemos que el departamento informático ha añadido una función que cambia la vida del producto que la empresa vende a sus clientes. Es una función que los clientes llevan meses buscando y, por fin, ha llegado el momento de anunciarla.
+Puede pedir a Copilot que redacte un anuncio de función basado en el documento que contiene los detalles enviados por el departamento de TI. La inteligencia artificial se encargará de esta tarea por usted. ¿Y si no le gusta lo que genera? ¡Sencillo! Haga clic en Regenerar y se le ocurrirá algo aún mejor.
+Como puede ver, puede utilizar Copilot para hacer muchas cosas. Puede crear una diapositiva de reunión, redactar un correo electrónico, crear una tabla y gráficos e incluso resumir una reunión por usted.
+Copilot le ayudará tanto si necesita ayuda para gestionar una tabla dinámica de Excel como para controlar su buzón de correo.
+Puede encontrar más escenarios de uso en el siguiente vídeo del gigante tecnológico.
+Copilot también puede utilizarse para analizar datos en Microsoft Apps y realizar acciones, como buscar tendencias en conjuntos de datos específicos, realizar análisis de datos, producir nuevas hojas y gráficos basados en ellos, e incluso describir cómo funciona y llega a esas conclusiones en Excel.
+
+Puede utilizar Copilot en las aplicaciones de Microsoft que utiliza a diario, como Word, Outlook, Excel, Teams y PowerPoint. El objetivo es que tenga más tiempo para centrarse en sus tareas más importantes.
+Outlook: Con el asistente Copilot AI, ahora puede resumir correos electrónicos o largas cadenas de correo electrónico en Outlook y responder a ellos casi al instante. Puede utilizarlo para reescribir o reformular su correo electrónico e incluso añadirle estilo.
+Teams: Copilot puede ayudar con la colaboración en equipo y la programación en Microsoft Teams. Puede organizar reuniones y temas y establecer calendarios. En general, Copilot puede ayudar a las organizaciones a celebrar reuniones más productivas y a organizar temas de debate importantes a través de Teams.
+Word: Copilot puede crear copias de documentos y editar frases, mejorar su estilo de redacción y resumir el contenido de todo un documento. Esta plataforma de IA también puede mejorar la escritura de los usuarios dándoles consejos sobre cómo reforzar sus argumentos o corregir errores gramaticales.
+PowerPoint: Incluso puede utilizar comandos de lenguaje natural para cambiar los diseños y dar formato al texto para simplificar las presentaciones largas. Copilot puede convertir documentos escritos en presentaciones que incluyan notas del orador o puede utilizarse para crear una presentación a partir de un simple aviso, un documento de Word o una plantilla.
+Excel: Gracias a esta integración, analizar datos como números en hojas de Excel será más fácil. Esto le permite hacer consultas sobre sus datos en lugar de depender de fórmulas complicadas.
+Microsoft dice que su función Copilot se está probando ahora con 20 clientes y que la prueba se ampliará en los próximos meses. Actualizaremos esta sección tan pronto como tengamos una fecha del lanzamiento.
+Las empresas ya han mejorado su productividad y eficiencia usando esta herramienta de IA de Microsoft. Tanto si es vendedor como si es contable, Copilot puede ayudarle a completar su trabajo rápidamente con una sofisticada tecnología de IA y herramientas innovadoras.
+¿Copilot es gratis?
+Microsoft 365 Copilot no está disponible actualmente para el público, pero es poco probable que sea gratuito.
+¿Dónde puedo usar Copilot?
+Puede usar Copilot dentro de herramientas de Microsoft 365 que ya usa, como Word, Excel, Power Point, Teams y más.
+¿Puedo usar Copilot en dispositivos móviles como Android?
+Actualmente, no sabemos si se podrá usar Copilot en dispositivos Android.
+¿Tengo que instalar Copilot?
+No, Copilot estará disponible automáticamente para cualquier suscripción a Microsoft 365.
+¿Copilot puede escribir contenido para entradas de un blog?
+Sí, Microsoft 365 Copilot debería ser capaz de generar y escribir entradas para el blog en función a palabras claves, lineamientos o preguntas que usted le proporcione.
+Try for Free
+Ikimi O. is an experienced technical writer passionate about software, technology, and engineering. He has a background in engineering and has written content on a wide variety of topics and niches. His hobbies include reading, watching movies, and traveling.
+Try for Free

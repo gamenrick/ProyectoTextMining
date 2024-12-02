@@ -1,0 +1,44 @@
+Así es Moonshot, el ambicioso plan de Amazon para competir contra Nvidia en chips de inteligencia artificial
+Autor desconocido
+elespanol.com
+
+
+
+                                                            El procesador de Amazon Trainium2.
+                                                
+Amazon
+Omicrono
+
+La inteligencia artificial (IA) está ganando cada vez más y más peso en la tecnología y las necesidades a nivel de hardware, en España y todo el mundo. Lo que ha provocado que compañías como OpenAI ya valoren crear su propio chip de IA o Huawei, uno de los principales fabricantes, esté preparando una producción masiva de su procesador. Aunque que está por delante en esta carrera es Nvidia, a quien Amazon tiene en su punto de mira; y es que la empresa de Jeff Bezos tiene un ambicioso plan 'Moonshot' para competir en el mercado de los chips de inteligencia artificial.
+Según informan desde el medio Bloomberg, los ingenieros de Amazon se están centrando en uno de los proyectos más ambiciosos de la industria tecnológica: disminuir el dominio de Nvidia en el mercado de procesadores de inteligencia artificial, que actualmente mueve más de 100.000 millones de dólares, unos 95.455 millones de euros al cambio aproximadamente. Y es que tras años de lucha, la compañía de Bezos se ha visto en la tesitura de tratar de dar caza a Nvidia lo antes posible, construyendo un sistema sencillo y fiable.
+Un sistema que pueda convertir rápidamente los centros de datos de Amazon en enormes máquinas de inteligencia artificial. Y es que en los últimos años Nvidia ha pasado de ser un fabricante de chips especializado a convertirse en el principal proveedor del hardware que permite la IA generativa. Los procesadores de la firma cuestan decenas de miles de dólares cada uno y gracias a su alta demanda son complicados de conseguir. Esto provoca que sus principales clientes, proveedores de servicios en la nube como Amazon, estén deseando reducir su dependencia de estos chips, sustituyéndolos.
+
+
+                                                            Los procesadores de Amazon Graviton4 y Trainium2.
+                                                
+Amazon
+Omicrono
+
+En ese sentido, Amazon estaría en una buena situación para convertirse en una potencia en el mercado de los chips de IA. Hace quince años, la empresa inventó el negocio de la computación en nube y, con el tiempo, empezó a construir la infraestructura que lo sustenta. La compañía también eliminó muchos de los servidores y conmutadores de red de sus centros de datos y los sustituyó por hardware fabricado a medida. Y, hace una década, James Hamilton, vicepresidente sénior, convenció a Jeff Bezos para que fabricara chips.
+Sin embargo, Hamilton es consciente de que no será fácil llevar las ambiciones de Amazon en materia de chips al siguiente nivel. Y es que diseñar hardware de IA fiable es complicado; y aún más es escribir software capaz de hacer que estos procesadores sean útiles para una amplia gama de clientes. El problema está en que el equipo de Nvidia puede manejar sin problemas cualquier tarea de IA y la empresa ya está distribuyendo sus chips de próxima generación a sus clientes, entre ellos Amazon, y ha empezado a hablar de los productos que les sucederán dentro de un año.
+
+Meta, Facebook
+Omicrono
+
+Los expertos consideran poco probable que Amazon desbanque a Nvidia a corto plazo. Aun así, el gigante tecnológico trabaja en ello y ha demostrado su capacidad para resolver grandes problemas técnicos con un presupuesto ajustado "Nvidia es una empresa muy, muy competente que hace un trabajo excelente, así que va a tener una buena solución para muchos clientes durante mucho tiempo. Tenemos la firme opinión de que podemos producir una pieza que compita con ellos de tú a tú". ha indicado James  Hamilton al mismo medio.
+Con la unión entre Amazon y Annapurna Labs, ambas llevan trabajando desde el año 2019 en la fabricación de chips con IA. Primero llegó Inferentia, que se desplegó ese año en los centros de datos de Amazon, y después Trainium1, que estaba dirigido a empresas que buscan entrenar modelos de aprendizaje automático. Más tarde, los ingenieros volvieron a empaquetar el chip con componentes que lo hicieron más adecuado para la inferencia, como Inferentia2. Amazon tuvo una lenta demanda de chips de IA al principio, aunque luego ha aumentado. 
+
+
+                                                            El logo de Amazon.
+                                                
+Amazon
+Omicrono
+
+Trainium2 es la tercera generación de chips de inteligencia artificial de la empresa, presentado el año pasado. Y según la industria este se encuentra en un momento decisivo: o merece la pena o fracasa, y la empresa busca un nuevo camino. La idea de Amazon es que las herramientas de IA, que se ejecutan con Nvidia, se desplacen con Trainium, que según el gigante tecnológico puede ofrecer un 30% más de rendimiento por el mismo precio. 
+Mientras que Trainium1 estaba compuesto por ocho chips, colocados uno al lado del otro en una profunda caja de acero que deja mucho espacio para que se disipe el calor; en Trainium2, que tiene cuatro veces más rendimiento y tres veces más memoria, los ingenieros eliminaron la mayoría de los cables y en su lugar dirigieron las señales eléctricas a través de placas de circuitos impresos. Y Amazon redujo a dos el número de chips por caja, de modo que los ingenieros que realizan el mantenimiento de una unidad tienen que desmontar menos componentes.
+El objetivo de Amazon es sacar al mercado un nuevo chip cada 18 meses, en parte reduciendo el número de viajes que el hardware tiene que hacer a proveedores externos. Es probable que Trainium2 se considere un éxito si puede asumir una mayor parte del trabajo interno de IA de la compañía, junto con algún que otro proyecto de grandes clientes de AWS. Algo que ayudaría a la firma a liberar su valioso suministro de chips Nvidia de gama alta para equipos especializados en inteligencia artificial. Aunque para ello tienen que conseguir que funcionen bien. 
+Adiós al insomnio: este invento balancea suavemente tu cama para ayudarte a dormir y a conciliar mejor el sueño
+El genial invento que potencia el calor de los radiadores: cuesta menos de 72 euros, se instala fácil y reduce la factura de la luz
+Ni tendedero ni secadora: la solución más barata para secar la ropa en invierno que acelera el secado y elimina los olores
+Vuelve el reloj-calculadora de Casio: así es la nueva versión del icónico dispositivo que tiene una batería para durar 5 años
+© 2024 EL LEÓN LIBRE PUBLICACIONES, S.L.

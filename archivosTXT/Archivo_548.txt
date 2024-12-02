@@ -1,0 +1,74 @@
+La sorprendente respuesta a la gran pregunta de Alan Turing: ¿puede una computadora hacerte creer que es humana? - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+En 2006, Robert Epstein buscaba al amor de su vida en internet. 
+Tal como lo contó en un podcast de la revista Scientific American Mind, su búsqueda empezó con un promisorio intercambio de correos electrónicos con Ivana, una guapa mujer morena de Rusia. 
+Espstein se sentía desilusionado -para ser honestos, quería algo más que una amiga por correspondencia-, pero ella se mostraba como una persona cálida y amable. 
+Al poco tiempo, ella le confesó que estaba enamorada de él.
+"Siento algo muy especial por ti. De la misma manera que la hermosa flor que florece en mi alma... No puedo explicarlo... Esperaré tu respuesta, con los dedos cruzados... ", le dijo ella.
+La correspondencia se fue intensificando, pero a Epstein le tomó un buen tiempo darse cuenta de que Ivana nunca respondía directamente a sus preguntas. 
+Fuente de la imagen, Dan Taylor
+Ella hablaba de caminatas en el parque, de conversaciones con su madre, y repetía cuánto le gustaba Epstein.
+Ya con sospechas, él le envió una frase que no tenía ningún sentido. Ella respondió con otro email hablando de su madre.
+Finalmente, Epstein se dio cuenta de lo que estaba ocurriendo: Ivana era un robot conversacional (también conocido por su nombre en inglés, chatbot) 
+Fuente de la imagen, Getty Images
+Lo que hace sorprendente a esta historia no es que un chatbot ruso lograra engañar a un californiano solitario de mediana edad. 
+Lo llamativo es que el hombre que había sido engañado es uno de losfundadores del Premio Loebner, una competencia anual sobre conversación artificial donde computadoras tratan de engañar a los humanos haciéndoles creer que, también, son humanas. 
+En otras palabras, uno de los expertos mundiales en chatbot pasó dos meses intentando seducir a un programa informático. 
+Todos los años, esta competencia desafía a los chatbot a pasar la prueba de Turing, propuesta en 1950 por el matemático, descifrador de códigos informáticos y pionero de la computación Alan Turing. 
+En el "juego de imitación" de Turing, un juez se comunica mediante un teleprónter con un humano y una computadora. El objetivo de la computadora es imitar una conversación humana de forma lo suficientemente convincente para persuadir al juez. 
+Fuente de la imagen, Science Photo Library
+Turing pensaba que, antes de que pasaran 50 años, las computadoras podrían engañar al 30% de los jueces humanos después de conversar por cinco minutos. 
+Y no se equivocó tanto. De hecho se necesitaron 64 años, aunque expertos continúan discutiendo si "Eugene Goostamn", el programa informático que superó la prueba en 2014, tiene realmente validez. 
+Al igual que Ivana, Goostman justificó su lenguaje afirmando que no era un hablante de inglés nativo. Dijo que era un niño de 13 años de Odessa, en Ucrania. 
+Fuente de la imagen, Vladimir Veselov
+Uno de los primeros y más famosos chatbots, Eliza, no hubiera pasado el test de Turing, pero logró con unas pocas líneas de código imitar exitosamente a una terapeuta humana. 
+Bautizada como Eliza Doolittle en honor a la heroína de Pigmalión de George Bernard Shaw, fue programada a mediados de los años 60 por Joseph Weizenbaum.
+Fuente de la imagen, Getty Images
+Si escribías "mi marido me hizo venir aquí", Eliza respondía simplemente: "tu marido te hizo venir aquí". Si decías que estabas enojado, Eliza podía preguntar: "¿crees que venir aquí te ayudará a sentirte menos enojado?". O, simplemente, diría: "Por favor, continúa". 
+A la gente no le importaba que Eliza no fuera humana: parecían estar contentos de que alguien los escuchara sin juzgarlos o sin tratar de acostarse con ellos. 
+Cuentan que, una vez, la secretaria de Weizenbaum incluso le pidió que saliera de la habitación para poder hablar con Eliza en privado.  
+Los psicoterapeutas estaban fascinados con su funcionamiento 
+Un artículo en el Journal of Nervous and Mental Disease bromeaba con el hecho de que "un sistema de computación podría lidiar con varios cientos de pacientes por hora".
+Un terapeuta humano podría ser mucho más eficiente supervisando a un ejército de bots. Y de hecho, ahora, hay chatbots como Woebot, diseñado por la psicóloga clínica Alison Darcy, que ofrecen terapia cognitivo conductual. 
+Weizenbaum, en cambio, estaba horrorizado con la idea de que la gente eligiera a un sustituto tan pobre frente a la interacción humana. 
+Pero, como Mary Shelley de "Doctor Frankestein", lo cierto es quehabía creado algo que se escapó de su control. 
+Los chatbotsahora son omnipresentes y reciben un número en aumento de quejas y consultas.
+Babylon Health es un chatbot que le pregunta a la gente por sus síntomas médicos y decide si deben consultar a un doctor. 
+Fuente de la imagen, Getty Images
+Amelia habla directamente con los clientes de algunos bancos, pero es utilizada por la compañía estadounidense Allstate Insurance para proporcionar información a los trabajadores del centro de llamadas que utilizan cuando hablan con los clientes.
+Y programas controlados por la voz como Alexa de Amazon, Siri de Apple y la asistente de Google interpretan nuestros pedidos y nos responden, con el único objetivo de ahorrarnos escribir en una pequeña pantalla.
+Brian Christian, autor de The Most Human Human, un libro sobre la prueba de Turing, dice que los chatbots más modernos ni siquiera tratan de pasar el desafío.
+Pero hay excepciones: chatbots similares a Ivana fueron utilizados por Ashley Madison -una página web diseñada para facilitar relaciones extramatrimoniales- para esconder el hecho de que muy pocas mujeres usaban el sitio. 
+Y es que parece ser que somos menos proclives a notar que un chatbot no es humano cuando está vinculado directamente a nuestra libido. 
+Fuente de la imagen, Reuters
+Otra táctica es irritarnos. El chatbot MGonz, por ejemplo, engaña a las personas iniciando un intercambio de insultos. 
+El mundo de la política -quizá el caso más notorio es el de la campaña electoral de 2016 en EE.UU.- está repleto de chatbots en las redes sociales que pretenden ser ciudadanos indignados, que tuitean mentiras y memes insultantes. 
+Pero, por lo general, los chatbots están felices de presentarse como lo que son. Parecer humano es difícil. 
+Los bots comerciales han ignorado este desafío, y en cambio se han especializado en hacer correctamente tareas pequeñas (solucionan problemas simples y pasan los casos complejos a personas reales). 
+El economista Adam Smith explico a principios del siglo XVIII que la productividad se construye sobre un proceso de división del trabajo en pequeñas tareas especializadas. 
+Los chatbotsmodernos trabajan con el mismo principio. 
+La lógica hace que, hoy en día, los economistas argumenten que la automatización no destruye los trabajos sino que los cambia. 
+Fuente de la imagen, Getty Images
+Las computadoras asumen las tareas rutinarias mientras que los humanos aportan creatividad y adaptabilidad. 
+Eso es lo que notamos, por ejemplo, con la hoja de cálculo digital, el cajero automático o las cajas de autoservicio. Los chatbots son otro ejemplo. 
+Pero debemos tener cuidado con el riesgo de que, como consumidores o productores y tal vez incluso como ciudadanos comunes, empecemos a contorsionarnos para acomodarnos a las computadoras.
+Usamos por nosotros mismos las cajas de autoservicio, aunque una breve charla con la persona que trabaja en ellas podría ponernos de buen  humor. 
+Publicamos actualizaciones de nuestro estatus -o simplemente hacemos clic en un emoji- que está filtrado por algoritmos de redes sociales. Como con Eliza, nos conformamos con la sensación de que alguien nos está escuchando. 
+Christian argumenta que nosotros, los humanos, deberíamos ver esto como un desafío para perfeccionarnos. 
+Dejemos que las computadoras se encarguen de todos los centros de llamadas. ¿No es eso mejor que forzar a un robot hecho de carne y hueso a seguir un guión y frustrar a todos los involucrados?
+Esperemos que más que fracasar o lograr engañar a los humanos, mejores chatbots nos ahorren tiempo a todos, liberándonos para que podamos entablar entre nosotros conversaciones más profundas. 
+Tim Harford escribe la columna "Economista clandestino" en el diario británico Financial Times. El Servicio Mundial de la BBC transmite la serie 50 Things That Made the Modern Economy. Puedes encontrar más información sobre las fuentes del programa y escuchar todos los episodios o suscribirte al podcast de la serie. 
+Ahora puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 1
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 2
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 3
+Contenido no disponible
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

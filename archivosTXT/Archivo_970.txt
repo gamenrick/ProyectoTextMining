@@ -1,0 +1,34 @@
+Los retos de la Inteligencia Artificial en la industria alimentaria -
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ La seguridad alimentaria, la escasez de suministros, el aumento de los desperdicios y el alza de los precios, son actualmente, los principales problemas de la industria alimentaria. No obstante, el análisis de datos y el uso de Inteligencia Artificial, IA, en la industria alimentaria se presentan como la respuesta eficaz para reducir estos inconvenientes
+14/06/2023
+La industria alimentaria es la principal actividad de la industria manufacturera en la Unión Europea, que engloba el 14,2% de la producción y su valor supera los 1.093.000 millones de euros. Mientras, en España  tal y como señala el Informe anual de la Industria Alimentaria Española período 2021-2022 del Ministerio de Agricultura, Pesca y Alimentación, se trata de la primera rama manufacturera del sector industrial, según los últimos datos de Estadística Estructural de Empresas del INE, con 126.354,1 M€ de cifra de negocios.  
+Todo ello representa el 25,4% del sector manufacturero y el 22,5% de las personas ocupadas en España. Además, el número de empresas de la industria alcanza las 30.260 según los últimos datos recogidos por el Directorio Central de Empresas del INE, lo que supone el 15,7% de toda la industria manufacturera del país.  
+Sin embargo, aunque las cifras avalan su importancia en el tejido productivo del país, el sector se enfrenta a graves problemas que impiden su innovación y regeneración. 
+Herramientas como la inteligencia artificial en la industria alimentaria han contribuido a ayudar y garantizar seguridad, calidad, suministros y evitar desperdicios como resultado de la revolución tecnológica que ha vivido el sector en los últimos años que ha transformado la forma de producir alimentos. 
+La Organización de las Naciones Unidas para la Alimentación y la Agricultura, FAO, lleva tiempo advirtiendo sobre la falta de seguridad en los alimentos. Tal y como recoge su último informe ‘El estado de la seguridad alimentaria y la nutrición en el mundo 2021’, la situación se ha agravado a raíz de la pandemia. Un tercio de la población mundial no pudo acceder a alimentos seguros en 2020, cerca de 2.370 millones de personas, 320 millones más que en 2019. 
+Aquí la IA se utiliza para favorecer la seguridad y calidad de los alimentos, reduciendo así el riesgo de contaminación y, sobre todo, insalubridad gracias al empleo de sistemas de monitoreo. Con ellos se pueden medir patrones de producción, alertar a los productores cuando se detecten problemas, analizar los riesgos o puntos críticos de la producción y evaluar el fraude para la salud del consumidor. 
+El covid-19, la guerra de Ucrania y el cambio climático están complicando, en muchas zonas geográficas el acceso y suministros de ciertos alimentos. La cerveza, la leche y el agua fueron algunos de los productos con menor tasa de disponibilidad, según el último Barómetro de la Asociación de Fabricantes y Distribuidores, AECOC. 
+La cadena de suministro alimentaria ya aplicaba tecnología, sin embargo, la IA puede mejorar su eficiencia y rentabilidad en todas sus etapas de producción. La IA en la cadena de suministros aporta información sobre la predicción de la demanda, y gracias al uso de los algoritmos se optimizan las rutas de transporte para reducir los costes de carburantes. Además, la gestión inteligente en tiempo real del inventario perfecciona el almacenamiento, reduciendo costes y garantizando la disponibilidad de los alimentos, mejorando la experiencia del cliente.  
+El desperdicio de comida es un problema global, aproximadamente se pierden 1.700 millones de toneladas de alimentos al año, según datos de la FAO. Un estudio de Eurostat afirma que en 2020 en la Unión Europea se desperdiciaron 57 millones de toneladas de alimentos en todas las fases del proceso, desde la transformación, distribución y restauración. Solo en España pierde un total de 90 kilos de comida por persona al año, aunque la cifra es elevada, se encuentra entre los países donde menos comida se tira.  
+La IA en la industria alimentaria no solo beneficia a la sociedad económicamente evitando el desecho de alimentos, sino también permite que la población en general tenga acceso a comida. Las máquinas inteligentes realizan un seguimiento preciso del inventario gracias a la recopilación de imágenes que se transforman en datos, y al uso de algoritmos que tienen en cuenta diferentes parámetros dictados con anterioridad, como es el clima, la frescura de los alimentos o las predicciones de demanda. De esta manera, se elabora un cálculo aproximado de la cantidad correcta de alimentos necesarios. 
+Según el informe ‘Perspectivas de los mercados de productos básicos’ del Banco Mundial, la guerra en Ucrania ha alterado el orden mundial del comercio, producción y consumo de alimentos, por ende, los precios se mantendrán en alza hasta finales de 2024, en consecuencia agravando la inseguridad alimentaria, la insalubridad y la inflación. 
+El mismo organismo internacional advierte que este incremento de los precios principalmente por causas geopolíticas, va a aumentar la pobreza extrema, el hambre y la malnutrición, amenazando el desarrollo mundial de la población. 
+Como solución a este problema existen algoritmos de IA diseñados específicamente para fijar los precios dinámicos de los productos perecederos. El precio se ajusta idóneamente a la fecha de caducidad, por ende, aquellos con menor vida útil dispondrán de un descuento en el coste. Para llevar a cabo este proceso, es necesario un sistema de sensores avanzados capaces de aprender a detectar en qué condiciones se encuentra el producto, predecir el deterioro y la calidad y, consecuentemente, dictaminar un precio.  
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

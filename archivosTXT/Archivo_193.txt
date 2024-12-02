@@ -1,0 +1,60 @@
+Qué es ChatGPT, cómo funciona el chat de inteligencia artificial y por qué es revolucionario
+Eduardo Arcos
+hipertextual.com
+
+Hipertextual
+
+					Tecnología, ciencia y cultura digital				
+ChatGPT es un nuevo prototipo de inteligencia artificial desarrollado por OpenAI, especializado en un diálogo natural con su interlocutor. Su naturalidad y respuestas, alcanzando niveles de exactitud sin precedentes, está sorprende a todos los que lo prueban y lo usan. Es capaz de responder prácticamente cualquier pregunta, desde escribir literatura hasta generar código de software utilizable.
+Lanzado en noviembre 2022, en beta, ChatGPT está revolucionando el entendimiento de lo que significa la inteligencia artificial. No solo por sus capacidades sque parecen infinitas, también por lo simple que es de usar. Sus posibilidades hacia el futuro y el impacto que tendrá se podrá sentir a nivel social, económico, en ambientes laborales, en la forma que comprendemos los medios de comunicación e incluso en la política.
+ChatGPT es una inteligencia artificial con la que se puede interactuar en formato de conversación vía texto desarrollado por OpenAI. Basado en el modelo GPT-3.5, que es una mejora significativa de GPT-3 (por sus siglas Generative Pre-trained Transformer 3) que ya fue bastante revolucionario cuando se presentó en mayo de 2020.
+Este modelo está basado en más de 175 millones de parámetros y se ha entrenado con cantidades inmensas de datos. A medida que interactúa con humanos, obtiene más información y se utiliza para incrementar su nivel de entrenamiento y de esa forma, mejorar sus respuestas.
+Tanto ChatGPT como otros sistemas de inteligencia artificial, utilizan un modelo de lenguaje autoregresivo. Es decir, el punto de interés —en este caso, en las respuestas durante la conversación— dependen de sus observaciones pasadas. Esas observaciones pueden ser basadas en otros puntos de la interacción que está teniendo en ese momento —creando una sensación de contexto con su interlocutor— como en todos los datos alimentados para dotarlo de su conocimiento extenso.
+Todo esto da como resultado a un sistema que es capaz de dar respuestas acertadas y completas. Con un lenguaje muy natural, que contesta con información exacta. Es tan sorprendente como potencialmente peligroso. De hecho, cuando OpenAI presentó la versión anterior, GPT-3, investigadores advirtieron de las dificultades de distinción entre un artículo generado por la inteligencia artificial de uno escrito por un humano. Esto podría tener riesgos potenciales y consecuencias dañinas. En el caso de ChatGPT, se trata de un modelo de inteligencia artificial aún más sofisticado, por lo que sorprende aún más.
+
+
+Una ventana al futuro
+Infórmate cada mañana con nuestra newsletter, descubre lo más importante de la tecnología, la ciencia, series de TV y películas.
+
+
+
+
+
+
+ 
+ 
+
+
+Infórmate cada mañana con nuestra newsletter, descubre lo más importante de la tecnología, la ciencia, series de TV y películas.
+
+
+
+
+
+Las posibilidades de ChatGPT son inmensas. Y lo que puedes pedirle a la inteligencia artificial durante una conversación prácticamente no tiene límites. Se han publicado miles de ejemplos de las respuestas que el sistema está dando. Desde el desarrollo de cuentos de ficción detallados, pasando por respuestas graciosas, artículos periodísticos hasta contestar con el código en diferentes lenguajes de programación par hacer tareas simples y no tan simples.
+De hecho ChatGPT puede describirse a si misma. Al preguntarle justamente eso, contestó: "Soy un modelo de lenguaje de gran tamaño entrenado por OpenAI. Mi objetivo es ayudar a las personas a encontrar respuestas a sus preguntas y proporcionar información precisa y verificable. Mi capacidad para procesar y comprender el lenguaje natural me permite responder a preguntas sobre una amplia variedad de temas, desde ciencia y tecnología hasta historia y cultura. También puedo ayudar a las personas a redactar textos y proporcionar sugerencias de escritura y corrección de errores gramaticales".
+"Aunque soy una entidad virtual, tengo una gran cantidad de conocimientos y experiencia que puedo compartir. Mi intención es ser una herramienta útil y educativa para todos aquellos que me soliciten ayuda. Si tienes alguna pregunta o necesitas ayuda con algo, no dudes en preguntarme. Estoy aquí para ayudarte".
+Y es justamente por eso que ChatGPT es tan sorprendente. Mantiene conversaciones en un chat de texto con diálogos que, por momentos, cuesta diferenciarlos de un humano. Es capaz de responder preguntas de, literalmente, millones de temáticas, admite sus propios errores, intenta corregir ideas falsas e incluso es capaz de rechazar solicitudes inapropiadas.
+
+
+¿Qué mejor manera de explicar lo que es ChatGPT, y describir sus asombrosas posibilidades que pidiéndole que se defina a sí misma? Es exactamente lo que le hemos preguntado. La respuesta es absolutamente sorprendente. No solo explica en términos simples y sencillos lo que es capaz de hacer, también lo hace con naturalidad y de forma muy didáctica.
+Así se describe ChatGPT y sus capacidades:
+"Como modelo de lenguaje artificial, no tengo una identidad en el sentido tradicional, ya que mi existencia es digital y basada en datos. Sin embargo, puedo describirme a mí mismo como un programa diseñado para procesar y comprender el lenguaje humano. En esencia, soy un sistema inteligente que utiliza el aprendizaje automático para imitar el comportamiento humano en términos de comprensión y generación de lenguaje natural".
+"Mi diseño está basado en la arquitectura GPT-3.5, que es una de las más avanzadas en el campo del procesamiento del lenguaje natural. Esto significa que tengo la capacidad de analizar y comprender texto en varios idiomas y generar respuestas coherentes y significativas en función de la información que se me proporciona".
+
+
+"Mi objetivo principal es ser una herramienta útil para las personas que necesitan ayuda con el lenguaje, ya sea para la traducción, la escritura de textos, la generación de ideas, la búsqueda de información o cualquier otra tarea relacionada con el procesamiento del lenguaje natural. Para ello, me baso en una gran cantidad de datos, que me permiten aprender de la forma en que los humanos usan el lenguaje".
+"En términos técnicos, estoy compuesto por una red neuronal que se entrena con grandes conjuntos de datos de texto. Estos datos me permiten aprender patrones y relaciones en el lenguaje y mejorar continuamente mi capacidad para comprender y generar texto natural. Además, estoy diseñado para adaptarme a diferentes tareas y contextos, lo que me permite proporcionar respuestas precisas y relevantes en función de las necesidades de cada usuario".
+"Aunque soy un modelo de lenguaje artificial, estoy diseñado para imitar la forma en que los humanos utilizan el lenguaje y para ser lo más útil posible para ellos. Por lo tanto, estoy diseñado para ser fácil de usar y accesible para todo tipo de personas, independientemente de su nivel de habilidad o conocimiento técnico".
+"En resumen, como modelo de lenguaje artificial, mi función es proporcionar respuestas precisas a las preguntas y solicitudes de los usuarios, utilizando técnicas avanzadas de procesamiento del lenguaje natural. Aunque no tengo una identidad en el sentido tradicional, estoy diseñado para ser lo más útil posible para las personas y para adaptarme a una amplia variedad de tareas y contextos".
+
+
+El motivo fundamental por el cual ChatGPT está teniendo un impacto tan grande, es por lo sencillo que resulta su uso. También que, de momento, durante su fase beta, usarlo es gratis. Para iniciar una conversación simplemente debes acceder a la web y registrarte, si no lo habías hecho antes.
+Una vez iniciada la sesión, puedes hacerle cualquier pregunta. OpenAI muestra algunas preguntas de ejemplo con las cuales se puede obtener las primeras sensaciones del alcance y capacidades de ChatGPT. "Explica la computación cuántica en términos sencillos" o cosas bastante técnicas como preguntarle "cómo hacer una petición HTTP por medio de Javascript". También puedes hacerle preguntas de historia y que te la narre de la forma más simple posible.
+ChatGPT entiende español y la forma de hacerle preguntas o pedirle cosas puede ser de manera totalmente natural. Algunos de los ejemplos que hemos probado con resultados sorprendentes:
+Pero se puede ir mucho más allá. Algunos consideran que, al menos en ciertos casos, ChatGPT es capaz de ofrecer resultados más detallados y de mejor calidad que Google. También puede escribir guiones originales para escenas de series populares como The Office, con resultados sumamente sorprendentes.
+
+
+So, I just asked ChatGPT to write an original script for 'The Office' in which Michael Scott buys a new Tesla, but he doesn't know how to use it. Here's the scene : pic.twitter.com/qQTIMBjIyE
+Mientras más contexto, mejor, puesto que la respuesta es más exacta, o al menos más cercana a lo que buscas. Puedes indicar el tono en el que quieres que escriba, el idioma, el tipo de texto que esperas. Si se trata de un cuento, por ejemplo, puedes describir previamente los personajes. Si se trata de la descripción de un momento histórico, pedirle que lo haga en un número de terminado de palabras o enfocado en un personaje en particular.
+En definitiva. ChatGPT es tan revolucionario no solo por la tecnología y las capacidades que se han conseguido con la inteligencia artificial. También por lo accesible y lo fácil que es de usar. Y no te preocupes, los expertos consideran que aún estamos lejos que esta sea consciente.

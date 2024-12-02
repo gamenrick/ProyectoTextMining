@@ -1,0 +1,60 @@
+Inteligencia artificial generativa: cómo aplicarla en servicios financieros
+Autor desconocido
+cobistopaz.com
+
+
+La inteligencia artificial generativa es un tipo de tecnología que llegó para potenciar la productividad y el rendimiento en el desempeño diario de diversos sectores, convirtiéndose en una de las tendencias de gran impacto para la industria financiera. 
+Según el informe AI Risk Survey Report realizado por KPMG en septiembre del 2022, el 85% de los encuestados espera un aumento en el uso de modelos de IA y análisis predictivo y la mitad de los encuestados afirmaron observar un ROI positivo de las inversiones en tecnología de inteligencia artificial. En esta carrera, desde OpenAI y Amazon hasta Google y Microsoft están dedicando recursos a los avances en inteligencia artificial. 
+Qué es la inteligencia artificial generativa 
+La inteligencia artificial es un término utilizado para clasificar a las máquinas que imitan la inteligencia humana, mientras que la IA generativa es un tipo de sistema capaz de generar texto, imágenes y otro contenido en respuesta a las indicaciones del lenguaje natural. La IA generativa produce este nuevo contenido como, por ejemplo, datos sintéticos, que son información generada a partir de muestras de datos reales para entrenar modelos. El algoritmo se basa en el aprendizaje de patrones y correlaciones, y una vez entrenado, puede generar datos idénticos. 
+La inteligencia artificial generativa se puede dividir en cinco categorías: generación de contenido, extracción de información, chatbots inteligentes, traducción de idiomas y generación de código.En este artículo nos centraremos principalmente en como la IA generativa contribuye a las áreas de detección y prevención de fraude, privacidad de los datos, gestión del riesgo y personalización de la experiencia del cliente. 
+Aplicaciones de la IA generativa en servicios financieros 
+Detección y prevención de fraude 
+Este aspecto es una de las preocupaciones prioritarias para los bancos, cooperativas y empresas de soluciones financieras. La exploración de tecnologías avanzadas como la IA generativa permite mejorar las capacidades para detectar patrones y/o modelos predictivos. 
+Al entrenar modelos en grandes conjuntos de datos es posible generar datos sintéticos que simulen las características y comportamientos de las actividades fraudulentas. Estos datos sintéticos pueden ayudar a crear escenarios realistas para probar y ajustar sus sistemas de detección de fraude en línea. 
+Además, los modelos de machine learning entrenados con datos generados por IA pueden detectar actividades fraudulentas con mayor precisión, reduciendo los falsos positivos y negativos. Lo anterior conduce a una detección de fraude más eficiente y un menor impacto en las transacciones legítimas de los clientes. 
+Privacidad de los datos e información 
+El uso de datos sintéticos permite crear información compartible en vez de datos de clientes que no pueden ser compartidos debido a las leyes de protección de datos. Por ejemplo, los datos sintéticos de los clientes son ideales para la formación de modelos de machine learning, los cuales ayudan a determinar si un cliente es elegible para un crédito o préstamo hipotecario, y cuánta es la suma que se puede ofrecer.  
+Gestión de riesgo y cumplimiento normativo 
+Establecer un plan de gestión de riesgos es esencial para manejar la liquidez y el funcionamiento adecuadamente, además de tomar medidas para preservar la rentabilidad. La IA generativa es una solución que minimiza dichas pérdidas resultantes.  
+Por ejemplo, la Generative Adversarial Network (GAN) -un modelo generativo basado en redes neuronales profundas- permite calcular el valor y la cantidad potencial de una pérdida de valor en riesgo para un periodo determinado. También crea escenarios económicos para predecir el futuro del mercado financiero.  
+La IA generativa también permite mantener el cumplimiento normativo. Mediante la automatización de procesos, ayuda a identificar posibles incumplimientos y a mitigar los riesgos antes de que ocurran; con monitorización en tiempo real de las transacciones, la identificación de anomalías y la detección de patrones que indican posibles violaciones. Además, puede analizar los cambios normativos y actualizar los sistemas, garantizando el cumplimiento continuo de los requisitos en evolución. 
+Personalización de la experiencia del cliente 
+Ofrecer experiencias óptimas, ágiles y únicas es cada vez más importante en las soluciones financieras de la actualidad. Los clientes esperan soluciones personalizadas que satisfagan sus necesidades y preferencias individuales. El ofrecer una propuesta de valor fomenta la confianza y la lealtad, fortaleciendo la relación con las personas. 
+La inteligencia artificial generativa permite ofrecer asesoramiento financiero personalizado aprovechando los datos, patrones de consumo y preferencias de los clientes. Al analizar grandes conjuntos de información, como el historial de transacciones y los objetivos financieros, los algoritmos de IA pueden generar recomendaciones personalizadas adaptadas a las circunstancias únicas de cada cliente.  
+Otro ejemplo son las carteras de inversión. La IA generativa puede optimizar la asignación de activos y sugerir opciones de inversión adecuadas mediante el análisis de datos históricos del mercado y la aplicación de algoritmos avanzados. Este enfoque personalizado asegura que las personas reciban recomendaciones alineadas con sus metas, aumentando la probabilidad de lograr los resultados deseados. 
+Lo anterior permite a los clientes tomar decisiones más informadas sobre el presupuesto, el ahorro y la inversión, mejorando en última instancia su bienestar financiero. 
+La inteligencia artificial generativa tiene un gran impacto en la industria financiera con la automatización de procesos, generación de patrones y modelos predictivos, una mejor evaluación de riesgos, detección de fraude, además de la optimización de experiencias personalizadas en el viaje del cliente.  
+La adopción de este tipo de tecnología permite a las instituciones proveedores de servicios financieros tomar decisiones basadas en datos, mejorar la productividad y eficiencia operativa para mantenerse competitivos en la economía digital de hoy. 
+Cómo puede ayudar Cobis Topaz 
+Con Topaz One, la primera plataforma full banking del mundo, las instituciones pueden innovar con agilidad, creando soluciones y servicios que anticipan las necesidades futuras de sus clientes. Nuestra plataforma, impulsada por inteligencia artificial y tecnologías de vanguardia, está diseñada con un enfoque en productos customer centric.
+Las soluciones integradas en Topaz One están presentes en reportes de Gartner, Forrester, Celent y otras consultoras importantes, reconociendo su robustez, escalabilidad y flexibilidad con opciones on premise y en la nube. 
+Conoce nuestras ofertas 
+FinancialCore 
+Arquitectura modular en la nube con soluciones para una configurabilidad y operatividad incomparables. 
+FinChannels 
+Suite omnicanal que garantiza una experiencia de cliente excepcional en todos los puntos de contacto. 
+FinOrigination 
+Crea y lanza productos financieros rápidamente, adaptados a las cambiantes necesidades del mercado 
+FinXperience 
+Anticipa necesidades y expectativas ofreciendo productos únicos e hiperpersonalizados. 
+SecureJourney 
+Eleva la seguridad e integridad de transacciones con tecnología antifraude y antilavado de dinero. 
+TechPay 
+Habilitamos la implementación de sistemas de pagos inmediatos, una revolución en ascenso en Latinoamérica.
+
+                Creatividad, pasión y orientación al detalle. Tres palabras que me definen a la hora de producir, editar y publicar contenidos de tecnología y finanzas. Comunicadora social y periodista con experiencia en prensa y producción editorial. Magíster en Marketing y Publicidad Digital, con foco en optimización SEO y estrategias digitales. Cine/telefila, deportista y gamer.
+              
+
+        La mayoría de organizaciones públicas y privadas de la región consideran estar preparadas para responder a ataques cibernéticos. Sin embargo, se necesita seguir invirtiendo en seguridad digital para estar a la altura de los desafíos del siglo XXI.
+      
+
+        La inteligencia artificial está cada vez más inmersa en el mundo en el que vivimos, la banca no es ajena a esta tendencia. La industria financiera necesita implementar este tipo de tecnología para seguir siendo competitiva. La aplicación de IA en apps y servicios bancarios permite aumentar los ingresos mediante una mayor personalización de su portafolio para los clientes, reducir los costos a través de la automatización, margen de error limitado y una mejor utilización de los recursos.
+      
+
+        Según un informe de la firma de ciberseguridad Kaspersky sobre la frecuencia de ciberataques en América Latina, entre noviembre de 2018 y noviembre de 2019 se registraron 97 millones de ataques de phishing o correo fraudulento en la región: lo que equivale a 42 ataques por segundo. Estas cifras evidencian la necesidad de invertir en ciberseguridad para garantizar una mejor protección a las operaciones digitales en 2020.
+      
+
+        La transformación que vive actualmente el sector financiero está generandoun cambio significativoa nivel mundial. La frecuencia de uso de aplicaciones de pagos digitales ha generado una población bancarizada en Latinoamérica que comienza a diversificarse.
+      
+Somos una de las mayores empresas de tecnología especializada en soluciones financieras digitales de Latinoamérica, parte del Grupo Topaz, con la 1ª plataforma full banking del mundo, reconocida por Gartner, Celent y otras consultoras internacionales. Presentes en 25 países de las Américas, con más de 300 clientes y más de 550 millones de clientes finales atendidos.

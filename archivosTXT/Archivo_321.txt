@@ -1,0 +1,52 @@
+Inteligencia Artificial generativa: riesgos y oportunidades | Marsh
+Autor desconocido
+marsh.com
+
+
+Por favor inicie sesión para poder ver la versión completa de marsh.com
+Da clic aquí para ingresar como colega
+*Requerido
+Aportamos una combinación incomparable de experiencia específica de la industria, capital intelectual profundo y experiencia global para la variedad de riesgos que enfrenta.
+Nuestros servicios de consultoría, corretaje y defensa de reclamos aprovechan los datos, la tecnología y el análisis para ayudarlo a cuantificar y administrar mejor el riesgo.
+ 
+Damos forma al futuro a través de nuestra perspectiva, experiencia y soluciones, empoderando a nuestros clientes para que prosperen: una base fortalecida durante 150 años.
+Artículo
+
+
+           07/26/2023
+      
+
+Aprovechar el progreso tecnológico significa equilibrar los riesgos y las potenciales recompensas. En términos de tecnología, 2023 ha sido el año de la inteligencia artificial generativa (IA), con ChatGPT, Bard y DALL-E convirtiéndose en nombres familiares a una velocidad y escala de adopción notables. Por ejemplo, ChatGPT adquirió alrededor de 57 millones de usuarios activos mensuales en su primer mes; en comparación, TikTok tardó nueve meses en lograr la misma base de usuarios.
+La IA generativa representa un tipo de inteligencia artificial que es capaz de crear contenido nuevo y creíble, como texto altamente técnico, audio realista e imágenes realistas. Algunas estimaciones dicen que para 2025, el 10% de todos los datos serán el resultado de creaciones de IA generativa.
+Con el auge de la IA generativa surgen una serie de preguntas para los profesionales de riesgos y seguros, y sus organizaciones. ¿Qué riesgos y oportunidades únicos plantea la IA generativa, si es que los hay? ¿Por qué hay una mayor atención en torno a la IA generativa, cuando otras formas de IA han existido durante décadas? ¿Qué riesgos tendrán que enfrentar los asegurados, los corredores y las aseguradoras a medida que la IA generativa evolucione e interactúe con otras tecnologías emergentes?
+Si bien los titulares promocionan tanto los riesgos como las oportunidades extremas de la IA generativa, una perspectiva equilibrada es fundamental para tomar decisiones informadas y gestionar los riesgos de manera responsable. Para mantenerse relevantes y competitivas, las empresas deberán aprender cómo y cuándo aprovechar la IA generativa para lograr objetivos de manera óptima, como lograr eficiencias operativas, aumentar la satisfacción del cliente y desarrollar nuevos productos y servicios.
+Las empresas deberán evaluar estratégicamente cómo y cuándo adoptar sistemas de inteligencia artificial generativa, asociarse con proveedores, implementar protocolos de gestión de riesgo y gobierno apropiados, y capacitar a los empleados con nuevos conjuntos de habilidades, como ingeniería rápida.
+Webinar
+Mire la repetición de nuestro webinar y descargue la presentación para tener una orientación práctica sobre cómo navegar los riesgos y las recompensas de la IA generativa.
+
+Mire la repetición de nuestro webinar y descargue la presentación para tener una orientación práctica sobre cómo navegar los riesgos y las recompensas de la IA generativa.
+Muchos riesgos asociados con la IA generativa son extensiones de riesgos familiares existentes, como la privacidad de los datos, que ha sido una preocupación durante décadas. El uso indebido de la tecnología para generar contenido dañino se ha asociado durante mucho tiempo con las plataformas de redes sociales. La posible infracción de los derechos de propiedad intelectual a partir de la generación de contenido es un riesgo familiar al que se han enfrentado históricamente muchas industrias, desde la música y la publicación hasta el desarrollo de software. Los errores tecnológicos han existido desde el advenimiento de la tecnología.
+Estos riesgos pueden volverse más concentrados o emerger en nuevas circunstancias a medida que la IA generativa se aplica a casos de uso crecientes y diversos, pero siguen siendo extensiones de riesgos familiares existentes, que generalmente pueden ser abordados por seguros de accidentes, medios, cibernéticos y de primera persona existentes. productos, entre otros.
+Sin embargo, pueden surgir nuevos riesgos de la IA generativa de dos maneras principales:
+Los modelos de IA generativa avanzada pueden desarrollar capacidades emergentes, que son capacidades que los creadores del modelo no pretendían ni esperaban originalmente. Por ejemplo, un sistema de IA generativa entrenado en conjuntos de datos basados en texto puede desarrollar la capacidad de escribir código, aunque no haya sido programado explícitamente para hacerlo.
+Si bien las capacidades emergentes pueden proporcionar nuevos beneficios a los usuarios de sistemas de IA generativa, también presagian una falta de previsibilidad. A medida que los sistemas de IA generativa interactúan cada vez más con sistemas complejos creados por humanos, como los mercados financieros, los ecosistemas de atención médica y las redes sociales, es posible que nos enfrentemos a riesgos imprevistos, como nuevos tipos de vulnerabilidades y vectores de ataque.
+La convergencia de la IA generativa y otras tecnologías emergentes puede dar lugar a nuevos riesgos. Por ejemplo, la combinación de IA generativa y tecnologías de realidad mixta está desdibujando aún más la línea entre los mundos físico y digital, lo que dificulta, si no es que imposibilita, diferenciar entre entidades y creaciones artificiales/digitales y humanas/físicas.
+La convergencia tecnológica también puede plantear nuevos desafíos para los dominios legales y regulatorios. Por ejemplo, a medida que los sistemas de IA generativa producen cada vez más resultados creíbles y realistas, ¿cómo podremos distinguir entre los resultados generados por IA y los generados por humanos, y cómo se determinarán los derechos de propiedad intelectual correspondientes?
+A medida que la IA generativa continúa desarrollándose, sus creadores, proveedores de servicios y usuarios deben determinar cómo y cuándo usar la tecnología, y anticipar y gestionar sus riesgos de manera proactiva. Las empresas deben continuar verificando los resultados cuando usan IA generativa, como con todas las tecnologías. Por ejemplo, cuando los modelos generativos de IA producen resultados erróneos y sin sentido, conocidos popularmente como "alucinaciones", la carga permanece, como siempre, en los usuarios humanos para verificar la precisión y la relevancia contextual de dichos resultados antes de usarlos.
+A medida que surgen nuevas categorías de riesgos a partir de las capacidades en evolución y la convergencia tecnológica, el sector de los seguros debe adoptar un enfoque reflexivo y metódico para la suscripción, la fijación de precios y el desarrollo de productos teniendo en cuenta al cliente final. La falta de datos históricos de reclamos y precedentes legales crea la necesidad de desarrollar proxies para informar el desarrollo de productos. También será importante desarrollar circuitos de retroalimentación para monitorear y anticipar los riesgos a medida que surgen y evolucionan.
+El sector asegurador jugará un papel indispensable en la configuración de cómo las empresas equilibran los riesgos y recompensas únicos de la IA generativa. Esto incluye proporcionar a las empresas un análisis de cobertura para ayudar a comprender qué riesgos asociados con la IA generativa pueden estar cubiertos por sus pólizas de seguro actuales, o dónde la cobertura puede ser limitada.
+Las oportunidades y los riesgos de la IA generativa, si bien son complejos, están bajo nuestro control. Nuestra capacidad humana para comprender y navegar debe estar en el centro de todas las discusiones sobre el futuro de la IA generativa, incluida la forma de gestionar sus riesgos y beneficiarse de sus oportunidades.
+Artículo
+10/11/2024
+Artículo
+09/09/2024
+Artículo
+08/19/2024
+Artículo
+07/22/2024
+Marsh McLennan es líder en gestión de riesgo, estrategia y fuerza laboral, y ayuda a los clientes a navegar en un entorno dinámico a través de cuatro negocios globales.
+
+		©
+		
+		Marsh LLC. Todos los derechos reservados.
+	

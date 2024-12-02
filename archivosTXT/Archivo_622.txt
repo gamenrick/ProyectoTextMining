@@ -1,0 +1,48 @@
+Microsoft Fabric y GenAI, la alianza perfecta para afrontar los desafíos empresariales - Plain Concepts
+ecanorea
+plainconcepts.com
+
+Según PWC, el 44% de los líderes empresariales planean implementar la modernización de datos en 2024 para aprovechar las ventajas que ofrece GenAI. Esta tecnología no solo consume datos, sino que también acelera y reduce los costos de modernización de datos. Por ello, será una pieza clave en cualquier estrategia empresarial moderna.  
+Microsoft Fabric puede ser la herramienta clave para implementar GenAI a escala. Te explicamos cómo usarlos de forma correcta para alinear tus datos con tus iniciativas de IA generativa.  
+En un artículo anterior ya hablamos del concepto de Data Fabric, referido a una arquitectura de servicios y funcionalidades que contribuye a procesar mejor los volúmenes de datos procedentes de multitud de fuentes. 
+Microsoft Fabric, por su parte, es una solución SaaS de análisis que abarcar desde el movimiento de datos a la ciencia de datos, hasta el real-time analytics o la inteligencia empresarial. 
+Es una solución que ofrece un conjunto de servicios como Power BI, Azure Synapse y Azure Data Factory en un único entorno integrado.  
+Desde el anuncio de su vista previa, ya son más de 25.000 organizaciones en todo el mundo que están usando Fabric gracias a sus características para remodelar la forma en la que los equipos trabajan con los datos.  
+Es una plataforma unificada e impulsada por IA creada para la era del GenAI, y te vamos a explicar por qué la necesitas.  
+
+Antes de entrar en detalle en la cooperación que supone Microsoft Fabric junto a la IA generativa, vamos a analizar un poco más a fondo su arquitectura.  
+Como decíamos más arriba, Fabric combina lo mejor de Power BI, Synapse y Data Factory en una plataforma unificada de software con siete cargas de trabajo principales, cada una diseñada específicamente para personas y tareas específicas. 
+Con este tipo de arquitectura unificada, se pueden reducir costos y esfuerzos típicos de integrar servicios de análisis y ayudar a simplificar el patrimonio de datos de cada empresa. También ayuda a administrar y proteger los datos de manera más efectiva gracias a capacidades de seguridad y gobierno de extremo a extremo.  
+El lago de datos unificado de múltiples nubes, OneLake, se conecta automáticamente a cada carga de trabajo de Fabric y está diseñado para simplificar la administración de datos y reducir la duplicación de estos.  
+Una vez habilitado OneLake, se pueden usar dominios y espacios de trabajo para organizar tus datos en una malla de datos lógica y permitir que todos realicen búsquedas en esta malla utilizando un centro de datos intuitivo y personalizado. Al contar con un formato de datos abiertos, solo se necesitan cargar los datos en el lago una vez, teniendo la posibilidad de usar una copia única en cada carga de trabajo y motor de Fabric, minimizando la duplicación y expansión de datos. 
+Una de las características más atractivas de Fabric es que están incorporando IA en cada una de sus capas, con el objetivo de ayudar a los usuarios a hacer más cosas y más rápido. 
+Con Copilot en Fabric se puede usar lenguaje natural para crear flujos de datos y canalizaciones, escribir declaraciones SQL, crear informes o, incluso, desarrollar modelos de ML. Pero hay mucho más. 
+En Power BI puede crear informes y hacer resúmenes narrativos en segundos. En Data Factory se le pueden dar instrucciones de cómo se quiere ingerir y transformar los datos utilizando lenguaje natural y Copilot hará el resto. De hecho, cuando se trabaja en un cuaderno de ingeniería de datos o ciencia de datos, Copilot puede enriquecer, modelar, analizar y explorar los datos rápidamente.  
+GenAI puede ayudar a dar sentido a datos desestructurados, como los incluidos en presentaciones, contratos, documentos de estrategia, registros de clientes, etc. Algunos de sus casos de uso más populares son resumir, traducir, analizar y solucionar problemas, lo que se traduce en mejor productividad y nuevos servicios.  
+Pero para poder hacer todo esto, la IA generativa debe tener acceso a datos que sean relevantes, completos, confiables, seguros y actualizados. 
+Una de las plataformas que puede ayudar a abordar los desafíos de los datos es Microsoft Fabric, que puede alinearse con tus datos e iniciativas empresariales de GenAI. Algunas de las mejores prácticas para hacerlo son las siguientes: 
+Es más que probable que cuentes con conjuntos de datos de diferentes estándares y en diferentes sistemas. Esto podría suponer un problema para GenAI a la hora de acceder a esta información.  
+El data lake de Fabric puede incorporar accesos directos que apunten a otras ubicaciones de almacenamiento, sin necesidad de incurrir en costos, demoras y riesgos de mover o copiar datos.  
+Con esta plataforma podrás acceder de forma rápida y segura a tus datos en la nube, y pensar, en el caso de contar con uno, cómo hacer la transición del lago de datos actual. Cabe la posibilidad de tener que adaptar tu arquitectura tecnológica, así como evaluar la calidad de los datos y establecer algunas reglas sobre cómo se indexarán, gobernarán y distribuirán, entre otras cuestiones.  
+Una vez que los accesos al data lake de Fabric hayan conectado tus datos, ya será posible que GenAI pueda acceder a ellos.  
+Aunque estos datos estén en diferentes formatos, la plataforma te ayudará a estandarizarlos, solucionar problemas y organizarlos para que tus aplicaciones de IA funcionen a partir de datos compatibles. 
+En este punto, a medida que las diferentes aplicaciones de GenAI obtengan información de Fabric e ingresen nuevos datos al sistema, se podrán mantener sincronizados.  
+Los atajos de la plataforma también pueden ayudar en el descubrimiento de los datos que puedan necesitar las aplicaciones, lo que significa que los equipos podrán usar la IA con datos consistentes y de alta calidad.  
+Para que haya confianza en los datos y los resultados que producen, se deben proteger, solucionar problemas, gobernarlos e informar sobre ellos. Fabric conectará tus datos en una sola capa, lo que permitirá implementar ciberseguridad, controles, políticas de privacidad y cumplimiento.  
+También es una herramienta que cuenta con gobernanza, informes, análisis y otras herramientas diseñadas para fortalecer la calidad, la seguridad, la transparencia y el cumplimiento de los datos. Se integra de forma fácil, por ejemplo, con Purview. 
+Fabric ha sido diseñada para complementarse con herramientas de IA generativa, como Copilot y Azure OpenAI, los que pueden aprovechar los canales de datos de Fabric para una integración de un extremo a otro.  
+Los modelos van a poder obtener los datos más recientes y limpios, automáticamente con gobernanza y supervisión integradas como contexto de las indicaciones y complementos.  
+Además, cuenta con elementos visuales de Power BI para poder mostrar de forma más atractiva el valor que están dando las iniciativas de IA. 
+Como Fabric está diseñada como plataforma de datos universal, ofrecer formas de ayuda para gestionar los costos relacionados con los datos. Esto te permitirá elegir diferentes proveedores para satisfacer tus necesidades de almacenamiento y computación, utilizar diferentes proveedores y servicios para diferentes conjuntos de datos y moverse entre ellos.  
+Esto aumenta la flexibilidad, lo que supone un ahorro significativo, especialmente para GenAI, que requiere de muchos recursos de almacenamiento y computación.  
+
+A través de la integración de tecnología LLM, podrás solicitar la información concreta que desees extraer o deducir de tus datos, así como entender el funcionamiento del código utilizado en los distintos servicios para su extracción, etc. 
+Comenzar a usar Fabric puede resultar abrumador al principio, por ello Plain Concepts será tu mejor aliado. Contamos con años de experiencia ayudando a nuestros clientes a crear una estrategia de data robusta y eficaz, y podemos ayudarte a unificar y securizar tus datos para que puedas sacar el máximo partido de la IA generativa en tu organización.  
+Ponemos a tu disposición a nuestros expertos para que te ayuden a definir el mejor camino para convertirte en una compañía digital y moderna, lista para abordar los desafíos de estrategia, operaciones, organización y tecnología. Si quieres empezar ya a darle un nuevo significado a tus datos y aprovechar todas las ventajas que te puede aportar la IA, ¡contáctanos! 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Este cambio traerá consigo numerosos beneficios a los clientes de Power BI gracias a las nuevas y mejoradas capacidades que ofrecer Microsoft Fabric. Te contamos todos los detalles sobre esta transición y lo que debes hacer. 
+
+
+
+
+

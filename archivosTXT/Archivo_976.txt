@@ -1,0 +1,40 @@
+BBVA internacionaliza su factoría de inteligencia artificial para crecer en productos con IA
+BBVA
+bbva.com
+
+Cerrar panel
+BBVA.com
+Pulsar Enter
+Búsqueda Predictiva
+Cerrar panel
+Cerrar panel
+Cerrar panel
+BBVA.com
+EnglishEspañol
+Cerrar panel
+Innovación
+La AI Factory, el centro de BBVA especializado en el desarrollo de soluciones de inteligencia artificial (IA), se expande a México y Turquía con el fin de crear productos de manera global y aprovechar el conocimiento de todo el Grupo. Con estos nuevos centros, BBVA pretende acelerar la adopción de soluciones basadas en IA orientadas a mejorar la experiencia de sus clientes y optimizar sus procesos internos. Además, el banco ha contratado a 230 expertos en IA, lo que duplica la plantilla de estas ‘factorías’ a más de 400 profesionales.
+BBVA AI Factory investiga las últimas tendencias mundiales en inteligencia artificial y desarrolla componentes analíticos para habilitar soluciones tecnológicas del banco muy diversas, como las funcionalidades de salud financiera de la ‘app’ de BBVA o la recomendación personalizada de productos financieros. Con la apertura de dos centros en México y Turquía –las regiones con mayor volumen de clientes y negocio del Grupo junto a España–, BBVA internacionaliza esta factoría para impulsar la creación a escala global de sus productos y servicios y la transformación de sus procesos internos con IA.
+Inteligencia Artificial
+BBVA es la decimotercera entidad bancaria más avanzada del mundo por su integración de las tecnologías de datos e inteligencia artificial, según el índice internacional Evident AI Index. El banco se alza como el primero español y cuarto europeo de la lista, donde destaca especialmente por el desarrollo profesional que ofrece a sus expertos en IA y por haber definido una estrategia transversal de la que participan los niveles más altos de la organización.
+Para dotar a los nuevos centros, BBVA ha contratado a 230 nuevos profesionales en analítica avanzada e inteligencia artificial, que se suman a los 200 de la sede española. Entre las nuevas incorporaciones se encuentran científicos de datos, ingenieros de ‘machine learning’, desarrolladores, arquitectos de datos y expertos en producto digital. BBVA AI Factory duplica así su talento especializado en datos e inteligencia artificial hasta alcanzar los más de 400 profesionales.
+Los tres centros están impulsando ya de manera coordinada los distintos desarrollos de IA del banco. Algunos trabajos nacen sincronizados de manera global desde el primer momento, mientras que en otros casos se toma un desarrollo local para adaptarlo al resto de mercados de BBVA. El proceso de ideación de los proyectos se coordina de forma conjunta, lo que permite aprovechar al máximo la diversidad de conocimientos y talento de todo el Grupo. Algunos de los proyectos en los que trabaja actualmente BBVA AI Factory, de la mano de los equipos tecnológicos y de negocio de BBVA, incluyen la creación de un asistente virtual plenamente conversacional que simplificará la experiencia de usuario en los canales digitales, o el desarrollo de herramientas ‘copilot’ que ayudarán a los gestores a aumentar la eficacia de su trabajo y mejorar el modelo de relación con los clientes.
+“Nos alineamos totalmente con las necesidades de las áreas de negocio y desarrollamos nuestros componentes analíticos para responder a ellas, lo que nos permite trasladar el máximo valor de la IA a los clientes”, explica Ignacio Teulón, responsable Global de BBVA AI Factory. “Pero al mismo tiempo, tenemos un enfoque transversal que nos permite ver cómo podemos reutilizar estas ‘piezas de lego’ en otros problemas de negocio totalmente distintos para optimizar el trabajo que hacemos”.
+Ignacio Teulón, responsable Global de BBVA AI Factory
+Innovación
+La publicación internacional reconoce con dos premios The Innovators el servicio de criptoactivos de BBVA en Suiza y un proceso automatizado que ha desarrollado el banco para guiar la creación y aplicación de modelos ‘machine learning’ a la detección y gestión temprana de deuda.
+Ignacio Teulón señala dos grandes líneas de trabajo: por un lado, la transformación del negocio bancario, “porque la IA nos da un conocimiento profundo de nuestros clientes, con el que podemos ofrecerles soluciones de gestión de salud financiera auténticamente personalizadas”. Y por otro, la transformación interna que pasa por dotar a las distintas unidades del banco de herramientas que les permitan ser más productivas y generar nuevos prototipos con más rapidez, como la IA generativa y la alianza con OpenAI para introducir ChatGPT Enterprise en los procesos internos de BBVA. “La inteligencia artificial nos da unos medios aún más potentes para seguir situando al cliente en el centro de nuestra estrategia, pero también nos ayuda a aproximarnos a los problemas bajo una nueva perspectiva”, afirma Teulón, en cuya trayectoria de más de 20 años en BBVA ha contribuido a impulsar su transformación digital, dar el salto a la banca móvil con su ‘app’ reconocida internacionalmente y, ahora, a reforzar la estrategia de IA del Grupo.
+La reutilización de código es uno de los pilares en el que se basan los desarrollos de inteligencia artificial en BBVA, ya que permite acortar los tiempos de creación de los productos y su puesta en marcha en todos sus mercados.
+Innovación
+Redes neuronales, procesamiento de lenguaje natural, aprendizaje automático… La IA es un colaborador esencial de BBVA para ayudar a sus clientes a administrar su ahorro, gestionar sus inversiones, analizar su consumo y anticipar sus próximos gastos.
+Los desarrolladores de BBVA AI Factory centralizan sus componentes en la librería Mercury, que en la actualidad cuenta con más de 500 piezas de código y cada mes utilizan de media en torno a 100 científicos de datos de BBVA. Los recursos disponibles en Mercury ayudan a crear muchas de las funcionalidades basadas en datos que el banco pone a disposición de los clientes, como el categorizador de movimientos bancarios, la previsión de gastos e ingresos o la detección de situaciones anómalas en la cuenta. Este código también se emplea internamente para evaluar el funcionamiento de los modelos de datos, como por ejemplo un componente que se ha utilizado para aportar transparencia y explicabilidad a los modelos de ‘machine learning’ con los que el banco detecta y hace una gestión temprana de deuda, que la publicación Global Finance ha premiado con uno de sus premios The Innovators 2024.
+En 2023, la factoría compartió parte de esta librería con la comunidad ‘open source’ a través de la plataforma colaborativa Github, con el objetivo de contribuir a la innovación del ecosistema ‘fintech’ y evolucionar Mercury con contribuciones externas. Cada mes se producen en Github una media de más de 900 descargas de esta librería abierta, que otros desarrolladores pueden utilizar en sus propios proyectos.
+Como retos a futuro, Ignacio Teulón destaca la necesidad de seguir creando componentes analíticos que respondan a retos de negocio específicos pero mantengan un potencial de reutilización, así como compartir las mejores prácticas globales en analítica avanzada que se puedan trasladar a los negocios a nivel local. Además, considera crucial no perder el equilibrio entre el desarrollo aplicado y la investigación de tendencias, y aprovechar la nueva oportunidad que presenta la IA generativa para seguir ofreciendo valor añadido a los clientes y optimizar procesos internos.
+Sigue leyendo sobre
+
+Échale un vistazo
+Newsletter
+Resultados BBVA
+Aprendemos Juntos
+Reporte Vulnerabilidades
+© Banco Bilbao Vizcaya Argentaria, S.A. 2024

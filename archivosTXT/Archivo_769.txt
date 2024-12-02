@@ -1,0 +1,47 @@
+IA y Machine Learning en gestión del agua y el medioambiente
+Autor desconocido
+group.sener
+
+Mecanismo de apunte de la antena de alta ganancia para el rover Perseverance de la misión Mars 2020
+NATO Pod – Certificable-Multidomain POD (CMP)
+AUTOPLAK1
+Incubadora inteligente
+BIRD: monitorización del paciente en tiempo real 
+ACROT: Asesoría para el Control de Riesgos de Operación de Tuneladoras 
+German LNG, la primera terminal de regasificación terrestre alemana
+HiveWind: una plataforma flotante semisumergible de fácil construcción y montaje para turbinas eólicas marinas
+Carretera Cebu-Cordova Link Expressway (Filipinas)
+ACROT: Asesoría para el Control de Riesgos de Operación de Tuneladoras 
+Unidad flotante combinada para el suministro de GNL para Panfido
+Atunero congelador para Pevasa 
+Parc Tramuntana: energía eólica marina para el reto del cambio climático
+Vector H, generación de hidrógeno verde
+Mecanismo de apunte de la antena de alta ganancia para el rover Perseverance de la misión Mars 2020
+NATO Pod – Certificable-Multidomain POD (CMP)
+AUTOPLAK1
+Incubadora inteligente
+BIRD: monitorización del paciente en tiempo real 
+ACROT: Asesoría para el Control de Riesgos de Operación de Tuneladoras 
+German LNG, la primera terminal de regasificación terrestre alemana
+HiveWind: una plataforma flotante semisumergible de fácil construcción y montaje para turbinas eólicas marinas
+Carretera Cebu-Cordova Link Expressway (Filipinas)
+ACROT: Asesoría para el Control de Riesgos de Operación de Tuneladoras 
+Unidad flotante combinada para el suministro de GNL para Panfido
+Atunero congelador para Pevasa 
+Parc Tramuntana: energía eólica marina para el reto del cambio climático
+Vector H, generación de hidrógeno verde
+La inteligencia artificial (IA) se está utilizando cada vez más en la gestión del agua para mejorar la eficiencia, la sostenibilidad y la rentabilidad de los servicios de abastecimiento y saneamiento del agua, así como para la gestión del territorio frente a fenómenos climatológicos extremos asociados tanto a inundaciones como sequias.
+La disponibilidad de gran cantidad de datos históricos de diversa índole y la captura permanente de nuevos datos proporcionan un punto de partida inmejorable para la aplicación de técnicas de IA y ML en vistas a mejorar la gestión del territorio y a realizar una gestión optima de los recursos hídricos y su infraestructura asociada.
+Los algoritmos basados en redes neuronales artificiales (ANN, por sus siglas en ingles), han demostrado ser efectivos en la resolución de problemas complejos para la optimización de la planificación y gestión de recursos hídricos. Algunos de los beneficios de utilizar algoritmos incluyen su capacidad para adaptarse a problemas no lineales, su flexibilidad para manejar múltiples objetivos y su capacidad para manejar la incertidumbre y la variabilidad en el sistema.
+Este tipo de redes neuronales son modelos impulsados por datos entrenados en función de las relaciones de entrada-salida de un modelo basado en la física o mediciones de campo. Este tipo de emulador tiene la ventaja de que puede reproducir el comportamiento no lineal complejo entre la entrada y la salida deseada. Esta es una de las razones por las que los emuladores ya se aplican comúnmente en el campo de la hidrología. Además, los algoritmos, tipo genéticos, pueden proporcionar un conjunto de soluciones óptimas en lugar de una única solución, lo que puede ayudar a comprender mejor los compromisos entre diferentes objetivos en la toma de decisiones.
+A continuación, se describen algunos de los desarrollos donde actualmente se está aplicando la inteligencia artificial, con el objetivo de mejorar la eficiencia, la sostenibilidad y la rentabilidad de los servicios de abastecimiento y saneamiento del agua.
+Las inundaciones son uno de los peligros naturales más dañinos y frecuentes y se espera que afecten más severamente a más personas e infraestructuras en el futuro debido al cambio climático, el cambio de uso del suelo y el crecimiento de la población. Algunos de los campos en los que se emplean las técnicas descritas actualmente son:
+Igualmente, estas técnicas son útiles hoy a la hora de garantizar el abastecimiento de agua, ayudando en la predicción de la disponibilidad y de las demandas de agua.
+La gestión del agua es un tema complejo, especialmente considerando las previsiones del cambio climático. Las regiones semiáridas se caracterizan por largos períodos de baja precipitación, el aumento de las temperaturas, la disminución de los recursos hídricos. Una gestión eficiente requiere una comprensión adecuada de la disponibilidad de agua y es clave para la mitigación de la sequía. Con frecuencia, se utilizan modelos basados en la física para simulaciones y predicciones de agua disponible, pero estos métodos tienen una limitación importante porque no se pueden aplicar en casos de falta de datos. Sin embargo, el uso de técnicas de aprendizaje automático tiene la ventaja de permitir obtener un buen enfoque con menos variables que los modelos basados en la física. El modelo de aprendizaje automático automatizado para la predicción de recursos hídricos consta de tres partes:
+El modelo se pre-entrena utilizando los datos más actualizados (hasta el mes anterior al período a predecir). Usando este modelo pre-entrenado, se realiza una predicción recursiva de múltiples pasos (hasta 12 meses) utilizando los datos de la serie temporal de entrada, utilizando el promedio móvil mensual de los últimos años para las variables explicativas que no sean la precipitación. En el caso de la precipitación, se construyen distintos escenarios, lluvia baja, lluvia normal y lluvia alta. Este módulo se ejecuta cada vez que se actualizan los datos de entrada (idealmente cada mes).
+Predicción de las demandas de agua potable para la gestión de redes de abastecimiento: Un modelo de pronóstico a corto plazo confiable es fundamental para administrar adecuadamente un sistema de distribución de agua. En los últimos años, las redes neuronales han ganado especial atención, especialmente con el auge del enfoque de aprendizaje profundo. Los algoritmos de redes neuronales son capaces de evaluar la influencia del uso de diferentes conjuntos de entradas, analizando muchas combinaciones de observaciones pasadas, variables temporales/calendario y también variables meteorológicas. Los resultados muestran que el modelo de aprendizaje profundo basado en la red neuronal proporciona una solución efectiva para pronosticar el consumo.
+Las metodologías propuestas consideran simular todas las diferentes combinaciones entre los conjuntos de observaciones históricas, variables meteorológicas (temperatura, precipitación, etc..) y a variables temporales (mes, día, hora, día laborable/festivo, etc.). En este tipo de metodologías, la observación histórica desempeña un papel crucial para entrenar un modelo de forma eficiente.
+El gran número de variables que influyen en la eficacia del tratamiento de aguas residuales dificulta predecir el resultado de un proceso que aún no ha sido probado. Sin embargo, los modelos de aprendizaje automático (ML) se han aplicado con éxito en algunos estudios relacionados con plantas de tratamiento de aguas residuales para predecir la concentración del efluente a partir de las cargas influentes y las condiciones operativas.
+El ML supervisado es el enfoque más común tanto en el tratamiento del agua potable como en los sectores del tratamiento de aguas residuales. El objetivo principal de estos modelos es predecir una variable objetivo (salida) como función de una serie de variables (entradas), alimentando los modelos con series de datos que incluyen valores de ambos tipos de variables. Esta tecnología permite percibir interacciones entre diferentes variables que pueden no ser visibles a simple vista. Esto podría ayudar en la toma de decisiones al diseñar tratamientos de aguas residuales, permitiendo una optimización más rápida de los procesos.
+La IA ofrece grandes oportunidades para mejorar la eficiencia, la seguridad y la sostenibilidad de los proyectos de Sener, tanto en sector del agua como el espacio, en la movilidad, la energía y la defensa. Pero la IA también implica grandes desafíos y responsabilidades, por lo que es necesario un compromiso de uso de forma ética, transparente y respetuosa con las personas y el medio ambiente.
+Ivan Collado es ingeniero de caminos, especializado en obras hidráulicas y BIM Manager en ingeniería civil. Cuenta con 18 años de experiencia, todos ellos, en Sener, trabajando en estudios en el campo de la planificación u obra e infraestructura hidráulicas, asociados a otros proyectos diversos. En el campo industrial, ha participado en proyectos vinculados a sistemas de refrigeración de plantas energéticas, abarcando sus obras de captación, transporte, vertido y análisis de transitorios.

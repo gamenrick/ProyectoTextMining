@@ -1,0 +1,34 @@
+¿Cómo está influyendo la IA en los empleos durante este 2024? | Computer Weekly
+Autor desconocido
+computerweekly.com
+
+jirsak - stock.adobe.com
+Mucho se ha discutido en la industria respecto de cómo la incorporación de herramientas de inteligencia artificial está afectando los puestos laborales en las empresas. Algunos anticipan olas de despidos, mientras otros destacan oportunidades de nuevas contrataciones. Para dilucidar este escenario, conversamos con expertos del sector que nos entregan su visión.
+Según datos de Layoffs.fyi, sitio que rastrea despidos en la industria tecnológica mundial, en el 2023 hubo más de 260 mil despidos en más de 1.100 compañías del sector a nivel mundial, un aumento del 59 % comparado con el 2022. Entre los motivos de los despidos, en la cuarta posición, con un 39 %, está el reemplazo de trabajadores por el uso de la inteligencia artificial generativa. No obstante, aunque esta tecnología ha provocado el despido de trabajadores en diferentes áreas, también ha permitido a las organizaciones y sus colaboradores el desarrollo en otras áreas, reinventándose y reestructurando la manera de hacer los trabajos.
+“Se están necesitando profesionales que puedan desarrollar, implementar y mantener todos los sistemas y software que hay detrás de la implementación de las tecnologías, así como interpretar los datos generados por estas herramientas”, señala Luz María García, gerente general de la Asociación Chilena de Empresas de Tecnologías de la Información (ACTI A.G.). La experta comenta que un estudio hecho por el National Bureau of Economic Research de EE.UU. encontró que la introducción de una IA Gen en un centro de atención al cliente aumentó la productividad de los agentes en un 14 % en promedio.
+Los expertos sostienen que la implementación de la IA Gen está reinventando los puestos de trabajo, principalmente aquellos en donde la tecnología puede reemplazar tareas repetitivas y sistemáticas. Esta tecnología está entregando una oportunidad para abrir nuevas vías de empleo.
+Según estudios hechos por Accenture, el 90 % de los ejecutivos de grandes empresas esperan usar la IA Gen como aliada estratégica; por ello, la opción de crecimiento es altísima. “Aquí, el desafío para las organizaciones es lograr la capacitación continua y la adaptabilidad para que así los colaboradores se puedan beneficiar de estas nuevas oportunidades, y se mantengan en el mercado laboral. Además, la irrupción de esta tecnología está permitiendo la contratación de nuevo personal capacitado en temáticas como el análisis de datos o desarrollo de software”, explica Francisco Rojas, director ejecutivo de Data & IA en Accenture Chile.
+Otros estudios de la industria confirman estas opiniones. De acuerdo con investigaciones de Experis, más de la mitad de las empresas esperan aumentar su plantilla debido a la IA y el aprendizaje automatizado (machine learning o ML) en los próximos dos años. Casi una de cada cuatro compañías cree que no habrá impacto, y menos de una de cada cinco prevé reducciones de personal.
+A juicio de Franco Toselli, socio de IT Hunter International, en un futuro muy cercano, el uso y dominio de las herramientas de IA serán tan indispensables como los productos de Office (Excel, PowerPoint y Word). “No dominarlas puede representar, para un individuo, una desventaja competitiva en su empresa, en comparación con sus pares”, advierte.
+El experto agrega que, en el campo de la tecnología e informática, se está incrementando la demanda de perfiles con conocimientos en IA, tales como analista de inteligencia artificial, desarrollador de IA, arquitecto de inteligencia artificial, líder de inteligencia artificial, ingeniero en GenAI y consultor de Machine Learning. Los salarios para estos profesionales varían significativamente según la experiencia, educación, empresa y ubicación. En promedio, pueden esperar ganar entre $1.500.000 y $3.500.000 de pesos chilenos líquidos al mes (entre US$ 1.583 y US$ 3.693 dólares).
+Jorge Gamero, director de Experis para Sudamérica, destaca que las nuevas tecnologías, como la IA, potenciarán el surgimiento de hasta 149 millones de nuevos empleos digitales que requieren de habilidades, tanto técnicas como blandas, por lo que “se estima que, para el 2025, el 50 % necesitará volver a capacitarse. Si bien los conocimientos van desde programación, ciberseguridad, gestión de datos y manejo de clouding, también es importante el desarrollo de habilidades blandas como el pensamiento crítico, toma de decisiones, colaboración y resolución de problemas que son claves para que los talentos sean cada vez más competitivos ante estas innovaciones”, detalla. 
+De acuerdo con estudios de Accenture, es fundamental que los colaboradores adquieran habilidades en la IA Gen y en el uso de tecnologías digitales avanzadas, siendo primordial la reinvención para cerrar brechas de rendimiento.
+En este sentido, Francisco Rojas, de Accenture Chile, señala que “la IA Gen está siendo una oportunidad porque con esta tecnología se están creando nuevos trabajos, como desarrolladores de modelos, ingenieros de prompt, científicos de datos, entre otros. Esta herramienta les ha dado a los trabajadores la oportunidad de adquirir habilidades técnicas, analíticas, de gestión y éticas para adaptarse y desarrollarse en el entorno. Los nuevos perfiles están orientados a satisfacer estas necesidades, asegurando que las organizaciones puedan aprovechar al máximo las oportunidades que ofrece esta tecnología”.
+Essas páginas simulam o layout de portais de grandes redes varejistas, plataformas de viagens, entre outras, atraindo usuários ...
+Buscando estratégias para potencializar as vendas no período, empresas business-to-business apostam em campanhas de marketing e ...
+Em um período de vendas tão estratégico como a Black Friday, sofrer uma interrupção operacional pode criar danos à imagem da ...
+Todos los Derechos Reservados, 
+			TechTarget, S.A de C.V 2013 - 2024 
+
+
+Política de privacidad
+
+
+
+Configuración de las Cookies
+
+
+
+Configuración de las Cookies
+
+

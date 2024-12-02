@@ -1,0 +1,92 @@
+Apple integra inteligencia artificial al iPhone y a Siri | CNN
+Samantha Murphy Kelly
+cnn.com
+
+
+(CNN) – Apple acaba de lanzar una nueva era para la compañía con la introducción de sus primeras funciones de inteligencia artificial (IA) generativa para el iPhone.
+    
+
+            En su Conferencia Mundial de Desarrolladores (WWDC, por sus siglas en inglés), celebrada este lunes, la compañía dio a conocer el primer lote de herramientas impulsadas por la “inteligencia de Apple”; desde Genmoji personalizados —los emoji de Apple generados por IA— hasta una Siri significativamente más inteligente, que puede responder preguntas sobre tu agenda, qué hay en tu correo electrónico y a qué hora aterriza el vuelo de tu ser querido.
+    
+
+            Apple también anunció una asociación con OpenAI, creador de ChatGPT, para potenciar estas funciones. Aunque es probable que la asociación dé a la empresa un impulso muy necesario, el hecho de que Apple se alíe con una empresa y una tecnología que aún no se han ganado la confianza del público, y que se enfrenta a críticas por tomar las entradas de los usuarios e incorporarlas al conjunto de datos de ChatGPT, puede causar algunos problemas en el futuro.
+    
+
+            Apple, por otro lado, está adoptando un enfoque muy diferente, diciendo que la mayoría de las funciones de IA se llevarán a cabo en el teléfono, manteniendo las entradas lejos de una nube de servidores lejanos.
+    
+
+            Un gran impulso a la IA podría estimular el crecimiento de las ventas y servicios de iPhone en los próximos años, ya que ahora los usuarios están esperando más tiempo para actualizar sus dispositivos y un entorno económico incierto pesa sobre los consumidores, especialmente en China. La compañía también se enfrenta al escrutinio regulatorio en Washington y esta semana el fabricante de chips Nvidia la superó como la segunda empresa pública más grande de EE.UU.
+    
+
+            La compañía dijo que está impresionada con las herramientas de IA generativa que ya existen en el mercado, pero que quería dar un paso más y personalizarlas para los usuarios de Apple, teniendo en cuenta la privacidad.
+    
+
+            “Queremos asegurarnos de que el resultado refleje los principios básicos de nuestros productos: tiene que ser lo suficientemente potente como para ayudarte con las cosas que más te importan”, dijo Tim Cook, CEO de Apple, durante la presentación. “Tiene que ser intuitivo y fácil de usar. Tiene que estar profundamente integrado en tus experiencias de producto”.
+    
+
+            Y añadió: “Y lo que es más importante, tiene que entenderte y basarse en tu contexto personal, como tu rutina, tus relaciones, tus comunicaciones y mucho más. Y, por supuesto, tiene que construirse con privacidad, desde cero”.
+    
+
+            El momento en que se anuncia también es digno de mención: Apple no siempre es la primera en adoptar e integrar tecnologías emergentes, normalmente investiga, desarrolla y trata de perfeccionar nuevas tecnologías durante años antes de incluirlas en nuevos productos, pero la velocidad a la que el mundo está adoptando la IA generativa quizá esté acelerando la necesidad de la compañía de tener un smartphone con la tecnología más innovadora.
+    
+
+            “Vemos la IA generativa como una oportunidad clave a través de nuestros productos y creemos que tenemos ventajas que nos diferencian allí”, dijo Cook en la llamada de ganancias más reciente de la compañía a principios de mayo, señalando que la compañía anunciaría noticias en las “próximas semanas.”
+    
+
+            Según Dan Ives, analista de Wedbush, la apuesta de la empresa por la IA “abrirá una nueva frontera para Apple” que tendrá un impacto duradero en sus productos y servicios.
+    
+
+            A continuación te contamos todo lo que Apple anunció en su gran evento:
+    
+
+            Apple apuesta por la IA generativa -la forma de inteligencia artificial que puede ofrecer respuestas detalladas y minuciosas a las preguntas- a través de Siri, el asistente virtual de la compañía con un historial de aciertos y errores, convirtiéndolo básicamente en un chatbot para el iPhone.
+    
+
+            De este modo, Siri podría realizar tareas específicas, como recordar una foto tomada hace años en el dispositivo o responder a preguntas detalladas sobre el tiempo, las noticias o trivialidades. También puede realizar tareas más avanzadas, como responder cuándo aterriza el avión de la madre de un usuario, analizando la información enviada previamente en un correo electrónico. Con el tiempo, podría aprender las preferencias del usuario y responder en consecuencia.
+    
+
+            Esto no es muy distinto de lo que algunos competidores ya han introducido en las herramientas generativas. También es probable que Siri se adapte automáticamente y sin problemas a los usuarios, basándose en la voz, el audio y el lenguaje natural, junto con imágenes y pistas contextuales.
+    
+
+            Los usuarios también podrán crear fotos personalizadas, como por ejemplo tomar una foto de tu madre y convertirla en una versión caricaturesca y estilizada, añadiéndole una capa de superhéroe. Puede realizar acciones en distintas aplicaciones, como pedir al software que busque todas las fotos de un miembro de la familia, y recuperar y analizar datos de todas tus aplicaciones, por ejemplo, teniendo en cuenta lo que hay en tu pantalla, como el correo electrónico o el calendario.
+    
+
+            Si hay que reprogramar una reunión, Apple Intelligence puede procesar datos personales relevantes y ver el correo electrónico que tu hijo envió días antes sobre un recital, alertando a los usuarios si puede haber un conflicto.
+    
+
+            “La IA generativa permitirá que las próximas generaciones de iPhones se conviertan en un sexto sentido, facultándonos para escanear e interactuar con el mundo que nos rodea”, dijo a CNN Thomas Husson, analista de la firma de investigación de mercado Forrester.
+    
+
+            “La IA será cada vez más fundamental para todo el enfoque estratégico de Apple, por lo que destacará los esfuerzos de I+D en curso, la inversión prevista y las adquisiciones que la compañía ha realizado para apoyar su propuesta”, dijo.
+    
+
+            Apple inició la presentación de iOS 18 destacando los nuevos controles y la personalización que llegarán a iOS 18, incluido un aspecto renovado para todos los iconos cuando entra en modo oscuro, un nuevo color de tinte que complementa el fondo de pantalla y un centro de control rediseñado que está disponible desde la pantalla de bloqueo, por lo que puedes cambiar el icono de la linterna por otras herramientas.
+    
+
+            Apple dijo que también está redoblando sus esfuerzos en materia de privacidad y seguridad, por ejemplo dando a los usuarios la opción de “bloquear” ciertas aplicaciones, haciéndolas accesibles sólo a través de Face ID, Touch ID o el código de acceso del usuario. Esta función puede ser especialmente útil para proteger aplicaciones bancarias o de seguros, o si vas a prestar tu teléfono para enseñar unas fotos o conseguir el número de teléfono de alguien.
+    
+
+            Los usuarios también pueden “ocultar” una aplicación para que solo aparezca en una carpeta oculta y bloqueada. Y el contenido multimedia de las aplicaciones ocultas no aparecerá en ningún otro lugar del teléfono.
+    
+
+            Los mensajes de texto también van a mejorar. La compañía anunció que pronto permitirá enviar mensajes de texto vía satélite, aunque no se disponga de conexión móvil o WiFi. Apple también añadirá una de las funciones más solicitadas de iMessage: la posibilidad de programar mensajes.
+    
+
+            Apenas unos meses después de su lanzamiento, Apple mostró algunas actualizaciones del software que impulsa sus visores de realidad mixta Vision Pro.
+    
+
+            Durante su última llamada de resultados, Cook dijo que más de la mitad de las empresas de Fortune 100 ya han comprado un Apple Vision Pro. “Estamos explorando formas innovadoras de utilizarlo para hacer cosas que antes no eran posibles”, añadió.
+    
+
+            Vision OS 2 promete ofrecer experiencias más completas a los usuarios, como una pantalla más amplia para las estaciones de trabajo, nuevos gestos con la mano que permiten comprobar la duración de la batería o abrir la pantalla de inicio, y profundizar en las fotos de la biblioteca, gracias a un aprendizaje automático avanzado que proporciona una profundidad más natural.
+    
+
+            La compañía dijo que también añadiría más capacidad para que los usuarios capturen videos espaciales.
+    
+
+            Apple también llevará Vision Pro a más países, como Reino Unido, China, Japón, Singapur y Australia, este verano.
+    
+
+            Las actualizaciones también podrían impulsar las ventas del costoso Vision Pro, cuyo precio inicial es de US$ 3.499. Al parecer, la demanda de los nuevos visores de Apple ha sido escasa.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

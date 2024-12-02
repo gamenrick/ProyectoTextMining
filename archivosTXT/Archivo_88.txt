@@ -1,0 +1,73 @@
+Deep Learning: Un recorrido histórico - myCloudDoor
+Javier Aguado
+myclouddoor.com
+
+Para entender el término “Deep”, necesitamos hacer un recorrido secuencial por los diferentes hitos que se han ido sucediendo través de la historia.
+En los años 80, era muy difícil entrenar un algoritmo de ML por dos razones: una, el hardware el momento requería de semanas, meses o años para entrenarse, y el volumen de datos ejemplo era muy escaso o difícilmente accesible. Por lo tanto, este campo fue prácticamente abandonado, incluso minusvalorado, hasta que en 2010 surgió el hardware adecuado para agilizar la computación.
+Matemáticamente, consiste en hacer corresponder un espacio X con otro Y, mediante una transformación geométrica, pudiendo tener éstos múltiples dimensiones (no sólo 3D). En su forma más simple, se pretende emular el funcionamiento de una neurona, mediante un modelo matemático (una función lineal, a la que se le coloca a su salida una función de activación, que introduce una alinealidad).
+ 
+[thb_testimonial_parent thb_style=”style2″ thb_pagination=””][thb_testimonial quote=”En los años 80, era muy difícil entrenar un algoritmo de ML”][/thb_testimonial_parent]
+ 
+El MIT implementó la primera red neuronal en 1954.
+En 1958, apareció el Mark I Perceptron, basado en el modelo de McCulloch-Pitts, consistente en simular un proceso de decisión basado en la suma ponderada de las entradas al sistema, y ofrece un 0 si el resultado no supera un cierto umbral, y un 1 en caso contrario:
+
+Donde:
+y=1, si ∑wi*x+b > 0
+y=0, si ∑wi*x+b <= 0
+A esta red, se le conectó una cámara con una matriz de 20×20 fotocélulas a su entrada.
+
+¿Cómo aprende?. Ajustando los pesos mediante potenciómetros, en función del error que se comete en la clasificación a la salida, ante una determinada entrada conocida.
+El proceso sería el siguiente:
+Salida_obtenida = sign(W*X)
+Error = salida_deseada – salida obtenida
+wi+1 = wi + error * entradai       para todo i
+Aquí se observa cómo el sistema ajusta los límites de la clasificación, conforme se le va ofreciendo un mayor número de ejemplos:
+
+El Perceptron es un clasificador lineal que nunca convergerá, es decir, minimizará el error, si los vectores de entrada (en este caso, la matriz de 20×20 serializada), no son linealmente separables
+En este ejemplo, las clases son perfectamente separables, y la clasificación sería realizada correctamente, mediante dos límites completamente distintos (de hecho, son ortogonales):
+
+En 1959, la universidad de Stanford desarrolló sus propias redes neuronales, ADALINE y MADALINE (Multiple Adaptive Linear Elements). MADALAINE está aún en uso, y sirve para eliminar el ruído en las líneas telefónicas.
+La diferencia entre el Perceptron y ADALINE, radica en las diferentes funciones de activación que se aplican en la salida, y en el método de aprendizaje (mediante Least Mean Squares y la regla delta):
+
+En 1969, el libro titulado “Perceptrons”, fue publicado por el MIT, argumentaba que el concepto del Perceptron no podía ser aplicado a redes multicapa, dado que el cálculo de los valores correctos de los pesos requeriría de un número desorbitado de operaciones, prohibitivas para la capacidad de computación de la época. Esto produjo un bloqueo de las investigaciones en el área de ML, durante casi 12 años, época conocida como el Invierno de la Inteligencia Artificial.
+No fue hasta 1985, cuando el MIT publicó un trabajo acerca del mecanismo de  retropropagación, un algoritmo para el ajuste de los parámetros (pesos). En una primera batida con pesos aleatorios, el resultado de la salida no coincidirá con el valor de entrenamiento en la entrada. La retropropagación se basa en el gradiente (cuantificando cómo un cambio en los pesos afecta a la salida de cada nodo), para ajustar los valores a través de red de forma iterativa, hasta que hay una convergencia y se da un margen de error aceptable entre valores predichos y reales.
+Este es un ejemplo gráfico de cómo funciona un algoritmo de gradient descent, con una sola variable:
+
+J(w) sería el error cometido en la predicción, y w los diferentes pesos probados. Convergería (aprendería), para aquel w que ofreciese el J(w) mínimo.
+Este sería un ejemplo con un vector de entrada bidimensional, en el que ya no sería tan sencillo calcular el mínimo:
+
+Evidentemente, podemos tener un número muy elevado de pesos, por lo que los diagramas previos superarán con creces las tres dimensiones. Para ello, existen diversas opciones (learners, optimizers o solvers), tales como: Stochastic Gradient Descent (SGD), Minibatch SGD, Nestorov, Adagrad, Adsdelta…, que nos permitirán obtener diferentes grados de precisión en el aprendizaje.
+Y a partir de 1990, hasta llegar a nuestros días, tomaron el impulso definitivo, propulsadas tanto por los avances en Hardware, además de las innovaciones en la concepción de los modelos.
+
+Actualmente disponemos de dos potentes entornos hardware muy eficaces en el tratamiento matricial, en la nube, tales como Google Tensor Processing Unit (TPU), o las FPGAs de Microsoft, desarrolladas en el proyecto Brainwave:
+
+Además, las nuevas disposiciones arquitecturales de las redes de convolución, especialmente aptas para el tratamiento de imágenes, recurrencia y LSTM (Long/Short Term Memory), con un rendimiento excepcional (reducción notable del número de parámetros de aprendizaje), el en análisis de series temporales y en la clasificación de texto.
+ 
+[thb_testimonial_parent thb_style=”style2″ thb_pagination=””][thb_testimonial quote=”El aprendizaje de una red neuronal depende en gran medida de la cantidad y el tipo de ejemplos con los que se enseña a la misma”][/thb_testimonial_parent]
+ 
+Es cuando el concepto de Deep Learning cogió fuelle, y permitió añadir capas intermedias de neuronas, permitiendo realizar clasificaciones no lineales complejas.
+
+Existen numerosos entornos de programación que facilitan el diseño de redes neuronales, tales como Tensor Flow, Theano, Caffe, CNTK, Keras …
+He aquí un ejemplo realizado con TensorFlow, que muestra la capacidad de una red con una sola capa (dos neuronas), ante una entrada cuyo límite de decisión es claramente lineal:
+
+La misma red, ante una entrada no lineal, es incapaz de resolverlo:
+
+Al añadir más capas, cada una de ellas es capaz de centrarse en detalles más sutiles, pudiendo converger con una entrada altamente no lineal:
+
+Uno de los grandes potenciales del Deep Learning, es su capacidad de extraer atributos relevantes (feature learning) de los datos en bruto, a diferencia de los algoritmos “clásicos” de ML, en los que la labor de feature engineeering debe ser realizada manualmente (labor harto compleja), impactando notablemente en el rendimiento del algoritmo:
+
+Cabe resaltar, que la tecnología de redes neuronales, para que sea efectiva, precisa de volúmenes ingentes de información para ser entrenada (va muy ligada al concepto de Big Data), además de estar orientada a resolver problemas complejos, tales como los relacionados con visión artificial, reconocimiento de voz y el análisis texto.
+ 
+[thb_testimonial_parent thb_style=”style2″ thb_pagination=””][thb_testimonial quote=”Uno de los grandes potenciales del Deep Learning, es su capacidad de extraer atributos relevantes de los datos en bruto”][/thb_testimonial_parent]
+ 
+No obstante, DL no es la solución universal y, de hecho, muchas de las soluciones que se han proclamado como puras DL, son una combinación de ésta conjuntamente con algoritmos considerados propios del ámbito de ML. Por ejemplo, AlphaGo es una combinación DL con un árbol de decisión. O el caso de Microsoft, que sustituyó las últimas capas del sistema de clasificación de imágenes ResNet 50 (reutilizada como  transfer learning), con una precisión en la clasificación del 68%, por un modelo de regresión logística, incrementando los aciertos a un 98%.
+
+Es más, no siempre una red neuronal será la solución que reporte el menor error predictivo o clasificatorio; a continuación se muestra un caso de predicción de la probabilidad en devolución de un crédito, mediante tres modelos de ML (boosted decision tree, decisión forest y regresión lineal), y una red neuronal:
+
+Se puede observar un el RMSE (Root Mean Square Error) de esta última, supera al del resto de modelos.
+A medio plazo, surgirán múltiples oportunidades con esta tecnología. De hecho, y dado que el aprendizaje de una red neuronal depende en gran medida del tipo de ejemplos con los que se enseña a la misma, se abre la puerta para una nueva disciplina consistente en el entrenamiento de Redes Neuronales conforme a los dictados de la ley, así como nuevos retos en el campo de la seguridad, ante la posibilidad de que el comportamiento de la red se vea notablemente alterado bajo la presencia de ciertos disparadores en su entrada (backdoor targets).
+Una investigación de la Universidad de Nueva York, muestra cómo la inserción de un post-it en una señal de stop, modifica el comportamiento de la red neuronal modificada para que, en vez de detener el vehículo, maliciosamente la interprete como una señal limitadora de velocidad.
+
+A pesar de ser un campo complejo y encontrarse en un grado de evolución exponencial, en myCloudDoor estamos comenzando a tomar contacto con esta tecnología, a entrenar algunos modelos, y a buscar posibles aplicaciones de los mismos, que aporten valor a nuestros clientes.
+This website uses cookies to improve your experience. We assume you agree, but you can opt-out if you wish.					
+			Read more	

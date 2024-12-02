@@ -1,0 +1,49 @@
+Crean lentes dotadas de inteligencia artificial... que no requieren de circuitos ni electricidad, sólo de vidrio
+Autor desconocido
+xataka.com
+
+Marcos Merino
+La inteligencia artificial no requiere de la presencia de materia gris, pero sí de circuitos, sensores y procesadores. O, al menos, eso pensábamos hasta ahora. Pero tres investigadores de la Universidad de Wisconsin-Madison (EE.UU.) se han propuesto demostrarnos lo contrario.
+Para ello, han presentado un 'vidrio inteligente' que prescinde de cualquier rastro de silicio o de electricidad: su 'inteligencia' reside en un material tan inerte y aparentemente poco sofisticado como es el vidrio.
+Parece una idea sacada de alguna película de ciencia-ficción, pero sus creadores aseguran que eso es todo el 'hardware' necesario para realizar una labor básica de reconocimiento de imágenes. En palabras de uno de los investigadores, Zongfu Yu,
+"Estamos utilizando la óptica para condensar la configuración normal de cámaras, sensores y redes neuronales profundas en una única pieza fina de cristal". 
+"Esto es completamente diferente al método típico para lograr visión artificial. Podríamos usar el vidrio como un candado biométrico, sintonizado para reconocer el rostro de una única persona. Una vez construido, duraría indefinidamente y sin necesidad de electricidad o de Internet, lo que significa que podríamos mantener algo seguro incluso después de miles de años".
+Actualmente, esa clase de comprobaciones de seguridad consumen una cantidad considerable de batería y de capacidad de procesamiento que podrían empezar a ahorrarse, abriendo así nuevas fronteras para la electrónica de baja potencia.
+Que la investigación haya sido publicada esta semana en la revista Photonics Research da una pista de qué hay detrás de este reconocimiento básico de imágenes: técnicas basadas en la luz, que permiten prescindir de las típicas redes neuronales y 'entrenar' un material analógico para diferenciar entre una serie de imágenes concretas.
+El secreto reside en pequeñas burbujas e impurezas (de materiales capaces de absorber la luz, como el grafeno) de distintos tamaños y formas, estratégicamente situadas dentro del vidrio para distorsionar la luz entrante, dirigiéndola de un modo muy concreto, hasta concentrarla en un punto específico del extremo contrario que actuaría como indicador.
+En el ejemplo expuesto por los investigadores, la lente contaba con 9 indicadores que se se correspondían con cada uno de los dígitos del 1 al 9. Al ser la distorsión de la luz diferente en cada caso, sólo se iluminaba el indicador vinculado al dígito en cuestión.
+El proceso que normalmente quedaría en manos de redes neuronales, que dan forma a modelos de IA según qué 'entrenamiento' reciban, ahora pasa a depender de la prueba y el error: los científicos van cambiando la disposición de las burbujas e impurezas del vidrio hasta obtener el resultado deseado.
+Los investigadores aseguran que esto último es un proceso largo y computacionalmente complejo, pero que al ser el vidrio un elemento tan barato y fácil de fabricar, a la larga esta nueva técnica se revelerá como una innovación muy rentable.
+Además, las pruebas no sólo habrían demostrado que funciona, según sus creadores... sino que incluso muestra que el prototipo que han fabricado es capaz de actualizar en tiempo real sus resultados si alguien convierte, por ejemplo, un 3 manuscrito en un 8.
+No nos emocionemos: esta tecnología (analógica, sí, pero tecnología) está aún dando sus primeros pasos y tardaremos en poder darle usos cotidianos. Pero su potencial resulta sorprendente. En palabras de Ming Yuan, profesor en Columbia y colaborador externo de la investigación,
+"el verdadero poder de esta tecnología radica en su capacidad para manejar las tareas de clasificación muy complejas, en tiempo real y sin ningún consumo de energía. Estas tareas resultarán ser la clave para entrenar a los coches sin conductor a reconocer una señal de tráfico, por ejemplo".
+Vía | Univ. de Wisconsin-Madison
+Imagen | Pixabay
+Los mejores comentarios:
+Ver 20 comentarios
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

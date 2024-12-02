@@ -1,0 +1,122 @@
+Desafíos de la Inteligencia Artificial Generativa (GenAI) desde una perspectiva jurídica
+
+PricewaterhouseCoopers
+pwc.es
+
+More
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+De interés
+Entertainment and Media Outlook 2024-2028
+Consenso Económico y Empresarial - Cuarto trimestre de 2024
+Annual Corporate Directors Survey 2024 de PwC
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+De interés
+Entertainment and Media Outlook 2024-2028
+Consenso Económico y Empresarial - Cuarto trimestre de 2024
+Annual Corporate Directors Survey 2024 de PwC
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+De interés
+ Fondo de Recuperación Europeo
+Ciberseguridad
+Inteligencia artificial responsable y confiable
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+De interés
+La Nueva Ecuación
+Reconocimientos
+Nuestro propósito y nuestros valores: Código de conducta
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+De interés
+Ideas, la revista digital de PwC
+Periscopio fiscal y legal
+Loading Results
+No Match Found
+La Inteligencia Artificial Generativa es una tecnología que ofrece grandes ventajas y beneficios para la sociedad, pero que también plantea importantes desafíos y riesgos para el derecho, que debe regular sus implicaciones y consecuencias en diversos ámbitos y sectores. En este artículo, se han abordado tres de los principales desafíos legales de la IA: la propiedad intelectual, la privacidad y protección de datos, y la no discriminación.
+ 
+Estos desafíos no son simples de resolver, y requieren de un análisis jurídico y técnico multidisciplinar, dinámico y que tenga en cuenta las particularidades y las circunstancias de cada situación. Asimismo, requieren un equilibrio entre el fomento la innovación y el progreso y la protección de los derechos y las libertades de las personas.
+La inteligencia artificial generativa (GenAI) es una de las tecnologías más disruptivas y transformadoras de nuestro tiempo, que ofrece enormes oportunidades y beneficios para la sociedad, la economía, la ciencia, la cultura y el medio ambiente. Sin embargo, la GenAI también plantea importantes desafíos y riesgos para el derecho, que debe regular sus implicaciones y consecuencias en diversos ámbitos y sectores. En este artículo, se abordan a alto nivel tres de los principales desafíos legales de la GenAI: la propiedad intelectual, la privacidad y protección de datos, y los sesgos y la discriminación.
+La propiedad intelectual (PI) entendida como el conjunto de derechos que reconoce y protege las creaciones del intelecto humano, como las obras literarias,  científicas o musicales tiene como finalidad incentivar la creatividad, la innovación y el desarrollo, y recompensar a los autores y titulares de los derechos por sus esfuerzos y aportaciones.
+El desarrollo tecnológico ha sido capaz de producir una tecnología que tras procesar millones de esas obras es capaz de “crear” contenido original, en ocasiones indistinguible del humano a partir de una mínima instrucción (“prompt”) de una persona.  GenAI provoca preguntas, y controversias judiciales, sobre los límites de uso de los materiales protegidos por PI para el entrenamiento de los modelos o como parte de la creación de otros nuevos a través de los propios prompts así como sobre la posibilidad de protección de los resultados de la tecnología. Por ejemplo, la GenAI puede generar textos, imágenes, música, vídeos, etc., a partir de datos o algoritmos, o puede mejorar o adaptar obras existentes a nuevos contextos o necesidades. Asimismo, la GenAI puede inventar o descubrir soluciones técnicas, productos, procesos, etc., que puedan ser patentables o registrables.
+Estas situaciones plantean interrogantes sobre la titularidad, el alcance y la remuneración de los derechos de PI. ¿Quién es el autor o el inventor de una obra o una invención generada por GenAI? ¿El humano que diseña, programa o alimenta la GenAI, el que la utiliza o la pone en funcionamiento, el que la posee o la comercializa, o la propia GenAI? ¿Qué criterios se deben aplicar para determinar la originalidad, la novedad, la actividad inventiva, la utilidad, etc., de las creaciones de la GenAI? ¿Qué derechos y obligaciones se derivan de la PI de la GenAI, y cómo se pueden ejercer, licenciar, transferir, ceder, etc.? ¿Cómo se puede garantizar una remuneración justa y equitativa a los autores, inventores, titulares y usuarios de la PI de la GenAI?
+Estas cuestiones no tienen una respuesta única ni sencilla, y requieren de un análisis jurídico y técnico caso por caso, teniendo en cuenta las particularidades y las circunstancias de cada situación. Algunas posibles soluciones son las siguientes:
+La privacidad y la protección de datos son derechos fundamentales que garantizan el control y la autodeterminación de las personas sobre sus datos personales, es decir, cualquier información que las identifique o las haga identificables, como el nombre, el DNI, el correo electrónico, la imagen, la huella digital, el historial médico, las preferencias, las opiniones, etc. La privacidad y la protección de datos implican el respeto a la intimidad, la dignidad, la libertad y la seguridad de las personas, y el cumplimiento de unos principios y unos requisitos legales para el tratamiento de sus datos.
+La GenAI puede afectar a la privacidad y la protección de datos de varias formas, como recopilando, procesando y analizando grandes cantidades de datos personales, provenientes de diversas fuentes y con distintos fines. Por ejemplo, la GenAI puede utilizar los datos personales para ofrecer servicios personalizados, como recomendaciones, publicidad, asistencia, etc., o para tomar decisiones que afecten a los derechos o intereses de las personas, como la concesión de un crédito, la selección de un candidato, el diagnóstico de una enfermedad, la imposición de una sanción, etc.
+Estas situaciones plantean riesgos para la privacidad y la protección de datos, como la vulneración del consentimiento, la finalidad, la minimización, la calidad, la licitud, la lealtad y la transparencia de los datos. Asimismo, pueden generar consecuencias negativas para las personas, como la pérdida de control, la invasión de la intimidad, la suplantación de la identidad, el robo o la fuga de datos, el daño reputacional, la discriminación, la exclusión, la manipulación, etc.
+Para evitar o minimizar estos riesgos y consecuencias, la GenAI debe cumplir con el Reglamento General de Protección de Datos (RGPD) y otras normas aplicables, que establecen los principios y requisitos para el tratamiento de los datos personales. Siendo particularmente reseñables en consentimiento informado, la finalidad y calidad de los datos o la transparencia y seguridad de estos datos.
+La discriminación consiste en la preferencia, el prejuicio o el trato desigual o injusto hacia personas o grupos, basados en características o circunstancias irrelevantes o arbitrarias, como el género, la raza, la edad, la orientación sexual, la religión, la discapacidad, etc. Vulnerando  los principios de igualdad, dignidad, diversidad y no discriminación, que son valores fundamentales de los derechos humanos y del Estado de derecho.
+La GenAI reproduce y puede amplificar los sesgos presentes en la información que se ha usado para su entrenamiento y un uso irresponsable puede generar discriminaciones injustas o arbitrarias, debido a diversos factores, como que los  datos sean incompletos, sesgados o erróneos, los algoritmos que pueden estar diseñados, programados o modificados con criterios subjetivos, arbitrarios o discriminatorios, o con fines ilícitos, abusivos o contrarios a la ética o los usos que pueden de forma indebida, irresponsable o malintencionada, o sin el consentimiento, el conocimiento o la supervisión de las personas o los grupos afectados.
+Estos factores pueden provocar que la GenAI tome decisiones o realice acciones que discriminen o perjudiquen a las personas o los grupos, en función de sus características o circunstancias, y que afecten a ámbitos vitales, como el laboral, el educativo, el sanitario, el judicial, el policial, etc. Algunos ejemplos reales o hipotéticos son los siguientes:
+Para prevenir y corregir los sesgos y las discriminaciones de la  GenAI, se deberían adoptar medidas como las siguientes:
+Que aseguren la participación y la representación de las personas y los grupos afectados, y que eviten la exclusión, la marginación o la invisibilización de las minorías, las vulnerables o las discriminadas.
+Que verifiquen el cumplimiento de los principios y los requisitos legales, éticos y técnicos de la GenAI, y que detecten y eliminen los sesgos, los errores, las anomalías o las irregularidades de los algoritmos, mediante la revisión, la validación, la corrección o la eliminación de los mismos.
+Que garanticen el derecho a la información, a la expresión, a la consulta y a la participación de las personas y los grupos afectados por la GenAI, y que recaben sus opiniones, sus necesidades, sus expectativas y sus propuestas sobre la GenAI, mediante mecanismos de diálogo, de consulta o de participación.
+Que promuevan la conciencia y la responsabilidad de los diseñadores, los desarrolladores, los usuarios y los ciudadanos sobre los impactos y las consecuencias de la GenAI, y que fomenten el respeto, la tolerancia, la solidaridad y la convivencia entre las personas y los grupos, mediante la formación, la información, la comunicación o la divulgación de la GenAI.
+Que faciliten el acceso a la justicia y a la reparación de las personas y los grupos que se vean afectados o perjudicados por la GenAI, y que sancionen o corrijan las conductas o las situaciones de sesgo o de discriminación de la GenAI, mediante la denuncia, la queja, la demanda, la indemnización, la restitución, la satisfacción, etc.
+Artículo elaborado por Rocío Catalá Martínez, manager del área NewLaw de PwC Tax & Legal
+ 
+
+Patricia Manca
+
+Socia responsable de NewLaw
+
+Beatriz Hoya
+
+Directora de NewLaw
+© 2016
+							
+							 - 2024 PwC. Todos los derechos reservados. No se permite la distribución adicional sin autorización de PwC. “PwC” hace referencia a la red de firmas miembros de PricewaterhouseCoopers International Limited (PwCIL) o, según cada caso concreto, a firmas miembros individuales de la red PwC. Cada firma miembro es una entidad jurídica independiente y no actúa como agente de PwCIL ni de ninguna otra firma miembro. PwCIL no presta servicios a clientes. PwCIL no se responsabiliza ni responde de los actos u omisiones de ninguna de sus firmas miembros, ni del contenido profesional de sus trabajos ni puede vincularlas u obligarlas en forma alguna. De igual manera, ninguna de las firmas miembro son responsables por los actos u omisiones del resto de las firmas miembros ni del contenido profesional de sus trabajos, ni pueden vincular u obligar ni a dichas firmas miembros ni a PwCIL en forma alguna.
+						

@@ -1,0 +1,44 @@
+Apple Intelligence, la apuesta de Apple por la IA incorporando ChatGPT a los iPhones y otros dispositivos (y por qué Elon Musk está en contra) - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+Apple quiere relanzar su asistente de voz Siri y su sistema operativo con la incorporación de ChatGPT, de OpenAI, en un intento de ponerse al día en la carrera de la inteligencia artificial (IA).
+El fabricante del iPhone anunció la renovación de Siri junto con otras funciones nuevas en su presentación anual para desarrolladores este lunes.
+Formará parte de un nuevo sistema de IA personalizado al que ha llamado "Apple Intelligence", que tiene como objetivo ofrecer a los usuarios una forma más fácil de navegar por los dispositivos Apple.
+Las actualizaciones de sus sistemas operativos para iPhone y Mac permitirán el acceso a ChatGPT a través de una asociación con el desarrollador OpenAI.
+Según la compañía, ChatGPT también se podrá utilizar para potenciar otras herramientas, incluidas las de generación de texto y contenido. La versión de prueba estará disponible en el otoño boreal.
+Tim Cook, director ejecutivo de Apple, dijo al inaugurar la Conferencia Mundial de Desarrolladores en la sede del gigante tecnológico en Cupertino, California, que esta apuesta llevaría los productos de su compañía "a nuevas alturas".
+Fuente de la imagen, Reuters
+El anuncio no fue bien recibido por todos. Elon Musk, el propietario de Tesla y X (antiguo Twitter), amenazó con prohibir los iPhones en sus empresas por lo que considera problemas en la "seguridad de los datos".
+"Apple no tiene idea de lo que realmente pasa  una vez que entregan sus datos a OpenAI", dijo Musk en X. "Te están vendiendo", añadió.
+Apple ha sufrido en los últimos meses presiones para introducir nuevas funciones de IA en sus productos después del rápido aumento de rivales que han adoptado la tecnología.
+Después de ser desplazada por Microsoft como la empresa más valiosa del mundo en enero, en junio su valoración fue superada también por Nvidia, compañía centrada en el software relacionado con la IA y la fabricación de chips.
+Ben Wood, analista jefe de CCS Insight, dijo que si bien el nuevo sistema de IA personal de Apple "debería ayudar a aplacar a los inversores nerviosos", la integración de ChatGPT puede aflorar y crear problemas más profundos para la empresa.
+Fuente de la imagen, Apu Gomes / Getty
+"Podría decirse que esto muestra que Apple admite sus limitaciones, dado que ChatGPT intervendrá en un punto en el que Siri ya no puede ayudar a un usuario", le dijo a la BBC.
+Apple ha estado en gran parte ausente en la avalancha de productos de IA lanzados por empresas tecnológicas en los últimos meses.
+Cook dijo a los inversores en 2023 que la compañía abordaría esta nueva tecnología con cautela.
+“Apple Intelligence” no es un producto ni una aplicación por derecho propio.
+Se convertirá en parte de todas las aplicaciones y productos Apple que utilizan los programas clientes, ya sea un asistente de escritura que refine tus borradores de mensajes o el que muestre la mejor ruta para llegar a tu próxima cita.
+En ese sentido, es similar al asistente de IA Copilot de Microsoft, pero no hay que pagar extra para activarlo.
+Siri, el asistente de voz que Apple adquirió en 2010, se ha actualizado con una nueva interfaz y un enfoque más dialogante para ayudar a los usuarios a navegar por los dispositivos y aplicaciones sin problemas.
+Fuente de la imagen, Edward Berthelot / Getty
+Apple se esforzó en enfatizar la seguridad de "Apple Intelligence" durante la presentación del lunes.
+Una parte del procesamiento se llevará a cabo en el propio dispositivo, mientras que acciones mayores, que requieren más energía, se enviarán a la nube, pero no se almacenarán datos allí, según indicaron los responsables de la compañía.
+Esto es crucial para los clientes que pagan precios premium por las promesas de privacidad de Apple.
+El sistema "pone poderosos modelos generativos en el corazón de su iPhone, iPad y Mac", dijo el vicepresidente senior de ingeniería de software de Apple, Craig Federighi.
+"Se basa en su contexto personal para brindarle información más útil y relevante para usted, y protege su privacidad en cada paso".
+La decisión de Apple de integrar la tecnología ChatGPT de OpenAI había sido ampliamente anticipada en el mercado, pero se trata de una medida inusual para una empresa que protege tan celosamente sus propios productos como Apple.
+Google y Microsoft han estado recientemente bajo la lupa por los errores cometidos por sus productos de IA en los últimos meses, y el gigante de las búsquedas tuvo que retirar una nueva función en mayo después de que sus respuestas erróneas a las consultas de los usuarios se volvieran virales.
+Durante años, Apple se negó a permitir que sus clientes descargaran aplicaciones fuera de su tienda virtual App Store por motivos de seguridad y no autorizaba ningún navegador web que no fuera su propio Safari por la misma razón.
+Solo empezó a hacerlo cuando se vio obligado por la legislación de la Unión Europea.
+¿Estamos entonces ante un reconocimiento de que ni siquiera Apple está ahora en condiciones de competir con OpenAI y su ChatGPT?
+Si es así, dice mucho del poder actual del gigante de la IA.
+Apple dijo que integraría otros productos en el futuro, pero no reveló cuáles.
+También anunció que su casco de realidad mixta Vision Pro saldrá a la venta en Reino Unido el 12 de julio. En Estados Unidos salió a la venta en febrero.
+Otras características destacadas anunciadas por Apple son:
+Haz clic aquí para leer más historias de BBC News Mundo.
+También puedes seguirnos en YouTube, Instagram, TikTok, X, Facebook y en nuestro nuevo canal de WhatsApp, donde encontrarás noticias de última hora y nuestro mejor contenido.
+Y recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

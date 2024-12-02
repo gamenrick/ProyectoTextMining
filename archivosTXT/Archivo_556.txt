@@ -1,0 +1,116 @@
+Drones ucranianos con inteligencia artificial intentan alterar la industria energética de Rusia. Hasta ahora, está funcionando | CNN
+Vasco Cotovio,Clare Sebastian,Allegra Goodwin
+cnn.com
+
+
+(CNN) – Un fuerte zumbido se escucha mientras una pequeña silueta se aproxima en el aire. El ruido recuerda inquietantemente a los ataques rusos con drones sobre Ucrania, pero este episodio se grabó más cerca de Moscú que de Kyiv.
+    
+
+            “Están volando hacia nosotros”, se oye decir a una mujer en ruso, en un video compartido en redes sociales y revisado por CNN. A medida que el objeto se acerca, queda claro: se trata de un dron ucraniano sobrevolando territorio ruso. “Estoy muy asustada”, exclama.
+    
+
+            Otro video, grabado instantes después, muestra al mismo dron girando a la izquierda mientras las sirenas de ataque aéreo amortiguan el ruido de las hélices. Segundos después, el dron se precipita desde el cielo, estrellándose contra una torre cubierta de tuberías en una refinería de petróleo rusa, explotando con el impacto.
+    
+
+            CNN geolocalizó los videos en la refinería de Rosneft en Ryazan –una de las mayores de Rusia–, a más de 500 km de Ucrania. El ataque del 13 de marzo, uno de los varios que sufrió esta instalación, formaba parte de un esfuerzo concertado de Ucrania para atacar refinerías de petróleo rusas con drones de largo alcance.
+    
+
+            Estos atrevidos ataques ucranianos están afectando a la enorme industria rusa del petróleo y el gas, que, a pesar de las prohibiciones de importación y los precios máximos impuestos por Occidente, sigue siendo la principal fuente de ingresos de la economía de guerra de Moscú.
+    
+
+            Los ataques han sido posibles gracias al uso de drones con mayor alcance y capacidades más avanzadas, algunos de los cuales incluso han comenzado a integrar una forma básica de inteligencia artificial (IA) para ayudarles a navegar y evitar ser interferidos, según declaró a CNN una fuente cercana al programa de drones ucraniano.
+    
+
+            “La precisión en caso de interferencia es posible gracias al uso de la inteligencia artificial. Cada avión tiene un ordenador terminal con datos de satélite y del terreno”, explicó la fuente. “Los vuelos se determinan de antemano con nuestros aliados, y las aeronaves siguen el plan de vuelo para permitirnos atacar objetivos con metros de precisión”.
+    
+
+            Esa precisión es posible gracias a los sensores del dron.
+    
+
+            “Tienen una cosa llamada ‘visión artificial’, que es una forma de IA. Básicamente, se toma un modelo y se tiene en un chip y se entrena este modelo para identificar la geografía y el objetivo hacia el que navega”, dijo Noah Sylvia, analista de Investigación en el Royal United Services Institute, un grupo de reflexión con sede en el Reino Unido. “Cuando finalmente se despliega, es capaz de identificar dónde está”.
+    
+
+            “No requiere ninguna comunicación [con satélites], es completamente autónomo”, añadió Sylvia.
+    
+
+            Chris Lincoln-Jones, exmilitar británico y experto en guerra con drones e inteligencia artificial, dijo que el nivel de “inteligencia” es aún muy bajo.
+    
+
+            “Este nivel de autonomía no se había visto antes en drones, pero aún estamos en las primeras fases del potencial de esta tecnología”, declaró a CNN.
+    
+
+            CNN se puso en contacto con la Inteligencia de Defensa ucraniana y el Servicio de Seguridad de Ucrania (SBU), pero quisieron hacer comentarios sobre el uso de la tecnología de IA.
+    
+
+            El uso de drones en Ucrania no es nuevo. El país ha dependido en gran medida de ellos desde el comienzo de la invasión a gran escala de Rusia el 22 de febrero de 2022, y ha acumulado recursos para avanzar en la tecnología y la fabricación nacional.
+    
+
+            Al principio, Kyiv utilizaba sobre todo equipos comerciales, ya fuera para vigilancia o ingeniosamente adaptados sobre el terreno para lanzar pequeñas bombas, pero desde entonces ha creado una industria de drones en toda regla, lo que le da una ventaja tecnológica frente a Rusia, que cuenta con una mano de obra mucho mayor y un aparato industrial mejor preparado.
+    
+
+            También explica la creciente precisión de Kyiv, visible en estos ataques a refinerías, en los que las fuerzas ucranianas se han centrado en una zona específica, maximizando el impacto de estos ataques.
+    
+
+            Varios expertos contactados por CNN dijeron que en lugar de atacar instalaciones de almacenamiento de combustible, por ejemplo, Ucrania estaba atacando unidades de destilación, donde el petróleo crudo se procesa y se convierte en combustible u otros derivados.
+    
+
+            “Por lo que hemos visto, en parte están atacando objetivos que necesitan mucha tecnología occidental y a Rusia le resulta mucho más difícil conseguirla”, explicó Sylvia.
+    
+
+            Este enfoque permite a Kyiv sacar más partido a su dinero, pues hace más daño que atacar las refinerías al azar. Y los mercados se están dando cuenta.
+    
+
+            “Realmente vemos esto como un cambio en las tácticas ucranianas para tratar de desfinanciar la maquinaria de guerra rusa”, dijo en una entrevista Helima Croft, directora gerente y jefa global de Estrategia de Materias Primas en el banco de inversión RBC Capital Markets.
+    
+
+            Los expertos creen que estos ataques podrían tener un mayor impacto en la economía rusa que las actuales sanciones.
+    
+
+            “Si se piensa en las sanciones que se han aplicado hasta ahora, en gran medida han pasado por alto la energía”, explicó Croft. “Realmente han sido las exportaciones de energía, crudo, gas natural, productos refinados las que han dado a Rusia el salvavidas económico para seguir luchando en esta guerra”.
+    
+
+            Ucrania afirma que el 12% de la capacidad de refinación rusa está ahora fuera de servicio, mientras que Reuters calcula que llega al 14%. Rusia admitió que parte de su capacidad de refinación está fuera de servicio y prohibió temporalmente las exportaciones de gasolina para evitar un aumento de los precios internos del combustible.
+    
+
+            “Estas semanas han demostrado a muchos que la maquinaria de guerra rusa tiene vulnerabilidades a las que podemos llegar con nuestras armas”, declaró este mes el presidente de Ucrania, Volodymyr Zelensky, tras una serie de estos ataques.
+    
+
+            “Lo que nuestros propios drones son capaces de hacer es una verdadera capacidad ucraniana de largo alcance. Ahora, Ucrania siempre tendrá una fuerza de ataque en el cielo”.
+    
+
+            Los ataques ucranianos a refinerías han provocado una subida de los precios mundiales del petróleo, con el crudo Brent subiendo casi un 13% este año, lo que ha dejado a los políticos de Estados Unidos preocupados por su posible impacto económico en un importante año electoral.
+    
+
+            Aunque no mencionan los precios de la energía, funcionarios de Washington han dicho que están disuadiendo activamente a Ucrania de atacar estas refinerías. “Llevamos mucho tiempo diciendo que no alentamos ni posibilitamos ataques dentro de Rusia”, declaró un funcionario a CNN.
+    
+
+            Croft dijo que las sanciones estadounidenses e internacionales impuestas desde el comienzo de la guerra se habían estructurado para mantener la energía rusa en los mercados.
+    
+
+            “Ese fue el trato con Ucrania: les daremos dinero, les daremos armas, pero manténganse alejados de las instalaciones de exportación, manténganse alejados de la energía rusa, porque no queremos una crisis energética masiva”, explicó Croft.
+    
+
+            Pero el estancamiento en Washington de la financiación para Ucrania y la posibilidad de un cambio en la Casa Blanca el año que viene podrían dar a Kyiv cierto margen de maniobra.
+    
+
+            “Si no reciben las armas y el dinero que se les prometió, ¿cuál es su incentivo para cumplir el acuerdo con Washington?”, dijo Croft.
+    
+
+            Una preocupación mayor, según los expertos, es que Ucrania no se detenga en las refinerías. Algunos de los mayores puertos petroleros de Rusia, responsables de cerca de dos tercios de sus exportaciones de crudo y derivados, según RBC, están al alcance de los drones ucranianos.
+    
+
+            “Creo que el impacto en los mercados sería sustancial si simplemente se viera afectada una de las principales instalaciones de exportación”, afirmó Croft. “Muchas de estas instalaciones de exportación son adyacentes a las refinerías y, por ahora, parece una elección deliberada de objetivos para ir tras las refinerías”.
+    
+
+            Las autoridades ucranianas han reconocido la preocupación de Estados Unidos, pero afirman que los ataques continuarán.
+    
+
+            “Está claro que tenemos que minimizar al máximo estos ingresos presupuestarios y cortar automáticamente el oxígeno al Sr. Putler”, dijo Vasyl Maliuk, jefe del SBU, utilizando una combinación del nombre de Putin y Hitler, algo común en Ucrania.
+    
+
+            “Así que seguiremos trabajando, mientras el país de las gasolineras sigue ardiendo”, añadió.
+    
+
+Paul Murphy, Natasha Bertrand, Olga Voitovych y Victoria Butenko, de CNN, contribuyeron a este informe.
+
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

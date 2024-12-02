@@ -1,0 +1,28 @@
+La inteligencia artificial puede llevar a la extinción de la humanidad: la advertencia de los grandes expertos en IA - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, EPA
+La inteligencia artificial podría llevar a la extinción de la humanidad, advirtió en un documento un grupo de expertos entre los que están los máximos responsables de OpenAI y Google Deepmind.
+"Mitigar el riesgo de extinción a manos de la IA debería ser una prioridad mundial, junto con otros peligros a escala social, como las pandemias y la guerra nuclear", se puede leer en una declaración publicada en la página de internet del Centro para la Seguridad de la IA.
+El comunicado ha sido apoyado por Sam Altman, director ejecutivo de OpenAI (creador de ChatGPT), y Demis Hassabis, director ejecutivo de Google DeepMind.
+También fiman otros líderes en el desarrollo de la nueva tecnología como Dario Amodei, de Anthropic, y el doctor Geoffrey Hinton, quien ya había advertido sobre los riesgos de un sistema superinteligente.
+Pero hay otra corriente de expertos que creen que estas advertencias apocalípticas son exageradas.
+Uno de ellos es el profesor Yann LeCunn, de la Universidad de Nueva York, quien es considerado junto a Hinton y Yoshua Bengio, profesor de informática de la Universidad de Montreal, como uno de los "padrinos de la IA" por su trabajo pionero en ese campo.
+Los tres ganaron conjuntamente el premio Turing 2018, que reconoce las contribuciones sobresalientes en ciencias de la computación.
+Entre quienes creen que los temores de que la IA acabe con la humanidad son poco realistas, y una distracción de cuestiones que ya son un problema como el sesgo en los sistemas, se encuentra Arvind Narayanan, informático de la Universidad de Princeton.
+"La IA actual no es lo suficientemente capaz como para que estos riesgos se materialicen", aseguró Narayanan en declaraciones a la BBC en marzo pasado.
+Narayanan agregó que los escenarios catastróficos propios de la ciencia ficción no son realistas y que el problema es que "se ha desviado la atención de los daños a corto plazo de la IA".
+La cobertura mediática de la supuesta amenaza "existencial" de la IA se ha multiplicado desde marzo de 2023, cuando se dio a conocer una carta abierta firmada por varios expertos, entre ellos el jefe de Tesla, Elon Musk, en la que  se instaba a detener el desarrollo de la próxima generación de tecnología de IA.
+En esa carta alos expertos se preguntaban si deberíamos "desarrollar mentes no humanas que con el tiempo podrían superarnos en número, inteligencia, obsolescencia y reemplazo".
+Fuente de la imagen, Getty Images
+La nueva declaración del Centro de la Seguridad del IA es, en cambio, más breve y tiene como objetivo "abrir el debate" comparando la superinteligencia con el riesgo que supone una guerra nuclear.
+Este punto de vista ya se había mencionado en un blog de OpenAI donde se sugería que podría regularse de forma similar a la energía nuclear.
+"Es probable que con el tiempo necesitemos algo parecido a un OIEA [Organismo Internacional de Energía Atómica] para los esfuerzos de superinteligencia", planteaba la empresa responsable del revolucionario sistema ChatGPT.
+Tanto Sam Altman como el director ejecutivo de Google, Sundar Pichai, forman parte de un lobby que ha debatido recientemente junto a líderes mundiales sobre la necesidad de regular la IA.
+Uno de ellos fue el primer ministro británico, Rishi Sunak, quien al ser cuestionado sobre los riesgos de la IA comenzó resaltando sus beneficios para la economía y la sociedad.
+"Han visto que recientemente ha ayudado a caminar a personas paralizadas, ha descubierto nuevos antibióticos, pero tenemos que asegurarnos de que esto se hace de una manera que sea segura", reconoció Sunak.
+"Por eso me reuní la semana pasada con los consejeros delegados de las principales empresas de inteligencia artificial para debatir cuáles son los límites que debemos establecer. ¿Cuál es el tipo de reglamentación que debe establecerse para mantenernos a salvo?".
+Sunak también comentó que ese tema surgió en la cumbre del G7 de las principales naciones industrializadas celebrada a mediados de mayo en Japón, donde se creó un grupo de trabajo sobre IA.
+Recuerda que puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

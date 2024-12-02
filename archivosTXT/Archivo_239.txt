@@ -1,0 +1,99 @@
+IA Generativa: Qué es y tipos de aplicaciones - AuraQuantic
+Sara Gundín
+auraquantic.com
+
+AuraQuantic es una plataforma de automatización de procesos diseñada para reducir costes y aumentar la productividad de su empresa.
+Algunas de las necesidades empresariales o casos de uso que resuelve el software AuraQuantic.
+La IA generativa o Inteligencia Artificial generativa —en inglés, Generative AI, GEN AI— abre un mundo repleto de posibilidades en lo que respecta a la creación de contenido nuevo y original. Esta rama de la IA es capaz de generar texto, código software, imágenes, vídeos, sonido y diseños de productos y estructuras. Todo ello, a partir del uso de algoritmos y modelos de aprendizaje automático, como las Redes Generativas Antagónicas (GANs) o las Transformer, que tienen la capacidad de aprender teniendo en cuenta un amplio conjunto de datos.
+ 
+Una vez entrenados, estos modelos pueden generar contenido nuevo a partir de una entrada inicial o, simplemente, generando muestras aleatorias. Esta capacidad de generar contenido inédito convierte a la IA Generativa en una tecnología poderosa y con multitud de aplicaciones prácticas. No obstante, entraña ciertos desafíos, en tanto en cuanto, el contenido generado puede tener ciertas implicaciones sociales y culturales significativas.
+ 
+Por todo ello, en el presente artículo de nuestra sección de tecnología, haremos un viaje por la historia de la IA Generativa, descubriremos diferentes tipos y ejemplos de aplicaciones que la utilizan, así como los posibles riesgos que puede entrañar su uso.
+ 
+¿Quiere implementar soluciones IA en su empresa para mejorar la atención al cliente, incrementar la productividad y detectar anomalías o incidencias? Haga clic aquí y solicite una demo gratuita de AuraQuantic.
+ 
+ 
+El concepto de Inteligencia Artificial (IA) fue acuñado por primera vez en el documento titulado A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence (1955), redactado por John McCarthy y con la participación de un reconocido grupo de investigadores entre los cuales figuran los nombres de Marvin Lee Minsky, Nathaniel Rochester y Claude Shannon. Dicho texto recogía una propuesta formal para llevar a cabo un estudio sobre la inteligencia artificial, durante el verano de 1956, en el Dartmouth College de Hanover (New Hampshire), bajo la premisa de que “cada aspecto del aprendizaje o cualquier otra característica de la inteligencia, puede ser descrito de manera tan precisa que se pueda simular en una máquina”. Además, se buscaba dar respuesta a “cómo hacer que las máquinas utilicen el lenguaje, formen abstracciones y conceptos, resuelvan problemas reservados para los humanos y se mejoren a sí mismas”.
+ 
+Toda una declaración de intenciones por parte de los autores responsables de esta iniciativa y que terminaría fraguando, poco tiempo después, en la definición aportada por McCarthy sobre IA, entendida como “la ciencia y tecnología de crear máquinas inteligentes, especialmente programas informáticos inteligentes”.
+ 
+Años más tarde, en 1966, Joseph Weizenbaum del MIT AI Laboratory, creó el primer chatbot o bot conversacional que bautizó bajo el nombre de ELIZA. Este programa informático podía simular a un psicoterapeuta, con la finalidad de mantener conversaciones con un paciente.
+ 
+En la década de los 80 y 90, tuvo lugar unos de los hitos más importantes en el desarrollo de la IA generativa, con el surgimiento de los modelos generativos probabilísticos, como las Redes Bayesianas y los Modelos Ocultos de Markov —en inglés, Hidden Markov models, HMMs—. Estos permitían a los sistemas de IA tomar decisiones más complejas y generar resultados más diversos. Sin embargo, la generación de contenido de alta calidad continuó siendo un desafío hasta bien entrados los 2000.
+ 
+En concreto, fue en la década de 2010 cuando la IA generativa experimentó un importante avance con los modelos de aprendizaje profundo, como las Redes Generativas Antagónicas (GAN) y, después, los Autocodificadores Variacionales, —en inglés, Variational Autoencoders, VAE.
+ 
+Las GAN, propuestas por Ian Goodfellow en 2014 y su equipo de investigación, son dos redes neuronales que pueden interactuar entre sí y aprender de los datos, con la finalidad de generar un contenido completamente nuevo. En el proceso, una red neuronal generadora y otra discriminadora trabajan conectadas, de forma que el generador crea muestras sintéticas y el discriminador intenta distinguir entre las muestras generadas y las reales. A medida que estas redes compiten entre sí, el generador mejora su capacidad para crear contenido más realista y convincente.
+ 
+Por otra parte, los VAE son un tipo de redes neuronales que se utilizan en un contexto de aprendizaje no supervisado. El proceso comienza a través de una red neuronal llamada “codificador” que captura datos de entrada, procedentes de imágenes o texto, y los transforma en una representación numérica. Después, se introduce un cierto nivel de incertidumbre en esa representación, para que la otra red neuronal llamada “decodificador” pueda generar otras representaciones inciertas y, a partir de estas, generar datos nuevos y variados que permitan crear, por ejemplo, nuevas imágenes o textos. Finalmente, y tras una fase de entrenamiento, con ejemplos de datos reales, los VAE aprenden a generar versiones únicas y diferentes, de imágenes o textos, pero relacionadas con los datos originales.
+ 
+En 2017, varios investigadores procedentes de Google Brain, Google Research y la Universidad de Toronto, entre ellos, Ashish Vaswani, Noam Shazeer y Niki Parmar, publicaron Attention is All You Need. Un artículo científico que marcó un hito en la historia de la IA, al introducir la arquitectura de red neuronal, denominada Transformer, que revolucionó el campo del Procesamiento del Lenguaje Natural — en inglés, Natural Language Processing, NLP—, y que es la base de los Grandes Modelos de Lenguaje —en inglés, Large Language Models, LLMs— existentes hoy en día.
+ 
+A modo de aclaración, cabe señalar aquí que los modelos de lenguaje de Inteligencia artificial son fruto de la combinación del Procesamiento del Lenguaje Natural (NLP) y la Generación del Lenguaje Natural (NLG). En concreto, el NLP dota a los ordenadores de herramientas que les permiten comprender y procesar el lenguaje natural (aquel que es utilizado por los seres humanos para comunicarse, ya sea escrito o hablado); mientras que, el NLG lo hace para la generación de texto o, incluso, voz utilizando el lenguaje natural. Así, los LLMs se utilizan para comprender y generar lenguaje humano de forma automática, realizando tareas como la traducción, generación, resumen y corrección de texto, y la respuesta a preguntas. Una labor para la que utilizan algoritmos de aprendizaje automático y grandes conjuntos de datos (corpus), con la finalidad de aprender patrones y reglas lingüísticas.
+ 
+La arquitectura de red neuronal Transfomer demostró ser altamente efectiva en una variedad de tareas de NLP, entre las cuales se incluyen la traducción automática, generación de textos, respuestas a preguntas, identificación de identidades, desambiguación de textos, entre otros. Además, a diferencia de las arquitecturas tradicionales basadas en capas recurrentes, este nuevo modelo de Deep Learning o Aprendizaje Profundo se basa en un mecanismo de atención que le permite ponderar diferentes partes de una entrada como, por ejemplo, un texto, en función de su importancia. Además, aprende contexto y, por lo tanto, significado mediante el seguimiento de relaciones en datos secuenciales, como las palabras que forman parte de una oración. BERT (Bidirectional Encoder Representations for Transformers) fue el primer LLM creado en 2018 por Google, basado en redes Transformer. Posteriormente, vendría GPT con sus diferentes versiones y BARD.
+ 
+Por otra parte, el mercado tecnológico actual ofrece una amplia y variada carta de aplicaciones de IA generativas, las cuales veremos a continuación y que agruparemos en diferentes categorías según el contenido.
+ 
+ 
+ 
+ 1. Texto: Dentro de este apartado se encuentran aquellas aplicaciones destinadas a la generación de textos creativos, resúmenes automáticos de textos extensos, corrección de contenido y chatbots que pueden mantener conversaciones con los usuarios.
+ 
+ 
+ 
+ 
+ 
+2. Imágenes: Aplicaciones para la generación y edición automática de imágenes realistas e, incluso, generación de obras de arte originales de cualquier estilo.
+ 
+ 
+ 
+ 
+ 
+3. Código: Estas herramientas de IA generativa se utilizan para agilizar el proceso de desarrollo de software, por medio de la generación automática de nuevo código.
+ 
+ 
+ 
+ 
+ 
+4. Audio: Para la creación de composiciones musicales y mejora de la calidad del audio en las grabaciones.
+ 
+ 
+ 
+ 
+ 
+5. Vídeo: Este tipo de herramientas de IA generativa están destinadas a la generación de vídeos sintéticos —utilizando algoritmos y técnicas de renderizado en computadora— y deepfakes.
+ 
+ 
+ 
+ 
+ 
+6. Diseño: Aplicaciones de IA generativa enfocadas en el diseño de productos, tanto para la fase de generación de ideas, como para la optimización del diseño y su personalización.
+ 
+ 
+ 
+ 
+ 
+El apartado final de este post está dedicado a la identificación de los principales riesgos de la IA generativa. Una cuestión que, hoy en día, genera controversias entre diversos actores y grupos sociales, como la comunidad científica, órganos reguladores y legisladores, empresas, grupos de defensa y activistas, además de usuarios y público en general.
+ 
+Así lo manifiesta la publicación trimestral y de carácter científico Entrepreneurial Business and Economics Review (EBER), subvencionada por la Universidad de Economía de Cracovia, en un artículo titulado “The dark side of generative artificial intelligence: A critical analysis of controversies and risks of ChatGPT” (2023). El texto firmado por un amplio equipo de investigadores de diferentes instituciones académicas identifica y proporciona una comprensión exhaustiva, acerca de los desafíos y oportunidades asociados con el uso de los modelos generativos, entre los cuales figuran:
+ 
+ 
+Ante estas amenazas, algunos países han decidido tomar cartas en el asunto. A finales de 2023, se espera que la UE alcance un acuerdo sobre la forma o estructura que adoptará la Ley de Inteligencia Artificial en el Consejo Europeo, junto a los estados miembros. Así, la primera ley integral sobre IA en el mundo tendrá por objeto garantizar unas condiciones favorables en el desarrollo y aplicación de esta tecnología en diferentes ámbitos. Todo un desafío de cara a conseguir que los sistemas de IA utilizados en la UE sean seguros, transparentes, trazables, no discriminatorios y respetuosos con el medio ambiente.
+ 
+
+ 
+ 
+ 
+8950 SW 74 Ct, Suite 1406. Miami, FL 33156, US.
+[email protected] | +1 857 239 0070
+United Kingdom: +44 (0) 2038 075 573 | Spain: +34 96 295 44 97
+© Copyright 2024 | Todos los derechos reservados
+Aviso legal | Código ético de AURA | Términos y condiciones | Política de privacidad | Política de cookies
+8950 SW 74 Ct, Suite 1406. Miami, FL 33156, US.
+[email protected]
++1 857 239 0070
+United Kingdom:
++44 (0) 2038 075 573
+Spain: +34 96 295 44 97
+© Copyright 2024 | Todos los derechos reservados
+Aviso legal | Código ético de AURA | Términos y condiciones | Política de privacidad | Política de cookies

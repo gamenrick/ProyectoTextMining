@@ -1,0 +1,21 @@
+ChatGPT aprendió a leer y se convierte en el consejero del humano con respuestas en voz alta - Infobae
+Autor desconocido
+infobae.com
+
+1 Dic, 2024
+Por  Isabela Durán San Juan
+OpenAI, compañía de inteligencia artificial, anunció una novedad para todos los usuarios de ChatGPT, su popular chatbot.
+Gracias a una reciente actualización, ChatGPT ha expandido sus capacidades y ahora puede leer mensajes en voz alta. Este avance se ha implementado tanto para usuarios de dispositivos Android como de iOS, y recientemente se ha extendido también a la versión web.
+La propia empresa ha compartido esta noticia a través de una publicación en X, conocida anteriormente como Twitter, donde ha confirmado la disponibilidad de esta nueva característica.
+La función de lectura en voz alta promete mejorar significativamente la accesibilidad y la comodidad de uso de ChatGPT, permitiendo a los usuarios escuchar las respuestas del chatbot en lugar de solo leerlas en pantalla.
+Para acceder a esta característica, los usuarios simplemente deben mantener presionado el mensaje que desean que se lea, momento en el cual se desplegará un menú de opciones que incluye la nueva función de lectura.
+Uno de los aspectos a destacar de esta actualización es su capacidad para admitir hasta 37 idiomas diferentes. Además, ChatGPT puede identificar automáticamente el idioma en el que se ha escrito un mensaje, asegurando que la experiencia de usuario sea tan fluida y natural como sea posible.
+Con la rápida evolución de la inteligencia artificial generativa y su creciente integración en nuestras vidas cotidianas, funciones como la lectura en voz alta no solo enriquecen la experiencia del usuario, sino que también ofrecen una visión de cómo la tecnología continua adaptándose para satisfacer nuestras necesidades y preferencias en constante cambio.
+Todas las ediciones de ChatGPT, incluyendo tanto la versión 3.5 como la 4, ofrecen la posibilidad de guardar conversaciones anteriores para poder retomarlas más adelante. Ahora, OpenAI ha añadido una funcionalidad que permite a los usuarios seleccionar específicamente qué información de las conversaciones desean conservar en la memoria del sistema.
+Es decir, si una persona compartió en una conversación con ChatGPT que era dueño de una panadería en una ciudad específica y que necesitaba una parrilla de contenido para las redes sociales de su negocio, ahora tiene la posibilidad de configurar al bot para que borre de su memoria que, por ejemplo, tiene un empresa.
+Este ajuste no eliminará la conversación en la que el chatbot le brindó ideas sobre la organización de contenido para redes. Solo omitirá que el usuario cuenta con un negocio propio.
+Para eliminar cierta información compartida con ChatGPT durante una conversación, el usuario debe seguir estos pasos:
+Esta funcionalidad está activa actualmente para un grupo limitado de usuarios de las versiones gratuita y Plus de ChatGPT. OpenAI ha indicado que “anunciará próximamente los planes para extender esta característica a más usuarios”.
+OpenAI ha incorporado la opción de chats temporales en ChatGPT 4, su versión de pago. Estos chats, a diferencia de los habituales, no se registrarán en el historial, no ocuparán espacio en la memoria y tampoco serán utilizados para el entrenamiento de sus modelos de inteligencia artificial.
+OpenAI ha lanzado ChatGPT Team, una suscripción dirigida a pequeños equipos que desean autogestionar el uso de su chatbot, ChatGPT-4.
+Esta opción, apta para hasta 149 usuarios, incluye funciones avanzadas para la organización del equipo y permite que ChatGPT interactúe con archivos cargados en la plataforma, además de brindar la posibilidad a los equipos de crear y compartir sus propias aplicaciones GPT personalizadas.

@@ -1,0 +1,50 @@
+Deep Learning y Machine Learning: las diferencias | Salesforce
+Salesforce LATAM
+salesforce.com
+
+Los términos machine learning y deep learning explotaron junto con la inteligencia artificial. Todos ellos hacen parte de la evolución que posibilita que máquinas piensen como seres humanos, entretanto, no son la misma cosa.
+Para entender las diferencias, puedes pensar que uno evoluciona a partir del otro, siendo que machine learning (aprendizaje automático) y deep learning (aprendizaje profundizada) son pilares que sustentan la inteligencia artificial. Sin ellos, la IA no sería el fenómeno transformador que es hoy.
+Además de los tópicos enumerados, también vamos hablar sobre cómo esas tecnologías se relacionan para viabilizar la inteligencia artificial que conocemos hoy e utilizamos en el día a día y en los negocios.
+En este e-book, aprenderás sobre la IA, qué es y cómo está transformando los negocios.
+Machine learning, o aprendizaje automático, es el uso de algoritmos para organizar datos, reconocer patrones y hacer que computadores puedan aprender con esos modelos y generar insights inteligentes sin necesidad de pre-programación.
+Algoritmos son reglas que muestran el paso a paso necesario para la realización de un problema. A través de una secuencia lógica, definida y finita de instrucciones, ellos determinan el camino a seguir para ejecutar una tarea.
+De una manera más general, podemos decir que machine learning es la área de la ciencia de la computación que permite tornar la inteligencia artificial real. El concepto de IA surgió hace mucho tiempo, en 1956, pero en la época aún faltaban las tecnologías capaces de poner la teoría en práctica. Con el aprendizaje automático, computadores pudieron encontrar respuestas sin que fueran específicamente programados para buscarlas.
+Los algoritmos de machine learning aprenden a partir de los datos a ellos sometidos y, de esa manera, las máquinas son entrenadas para aprender a ejecutar diferentes tareas de forma autónoma. Luego, cuando son expuestas a nuevos datos, ellas se adaptan a partir de los cálculos anteriores y los patrones se moldean para ofrecer respuestas confiables. ¿Qué quiere decir, en la práctica? En vez de programar reglas en un computador y esperar el resultado, con machine learning, la máquina aprenderá esas reglas por cuenta propia.
+De la misma forma que la inteligencia artificial no es reciente, machine learning también no es una ciencia nueva. En el inicio, sus aplicaciones eran limitadas por la falta de datos y de tecnologías capaces de procesarlas de forma rápida y eficiente. Hoy, la gran cantidad de dados disponibles y el avance de la computación permiten el desarrollo de algoritmos mucho más complejos y rápidos, que traen un nuevo impulso para machine learning. Es el caso de deep learning.
+Deep learning, o aprendizaje profundo, es la parte del aprendizaje automático que, por medio de algoritmos de alto nivel, imita la red neuronal del cerebro humano.
+Para llegar al nivel de aprendizaje profundo más avanzado, el principio de las redes neurales artificiales fue desarrollado para soportar capas discretas, conexiones y direcciones de propagación de datos. De esa manera, los datos son sometidos a varias capas de procesamiento no lineares que simulan la forma de pensar de las neuronas.
+De forma simplificada, podemos decir que deep learning son esos algoritmos complejos construidos a partir de un conjunto de diversas capas de “neuronas”, alimentados por cantidades inmensas de datos, que son capaces de reconocer imágenes y habla, procesar el lenguaje natural y aprender a realizar tareas extremadamente avanzadas sin interferencia humana. La principal aplicación de los algoritmos de Deep Learning son las tareas de clasificación, en especial, reconocimiento de imágenes.
+Machine Learning
+Deep Learning
+Qué es
+Es la ciencia que hace que computadores realicen acciones sin necesitar ser programados para eso.
+Es un tipo de algoritmo más sofisticado de machine learning, construído a partir del principio de las redes neuronales.
+Cómo funciona
+Los algoritmos pueden ser abastecidos con datos y entonces aprender por cuenta propia para hacer predicciones y orientar decisiones a partir de modelos.
+Diferentemente de los primeros algoritmos existentes, es capaz de soportar y trabajar con big data y funcionar como una mente propia a través de superposición de capas no lineales de procesamiento de datos.
+Cuándo surgió
+Empezó a ser desarrollado en los años 80, como la primera forma de poner en práctica los conceptos de inteligencia artificial.
+Se desarrolló a partir de 2010 con el surgimiento de computadores poderosos y el aumento de los datos accesibles, tornando posible los avances de aprendizaje automático.
+¿Te gustó aprender más sobre machine learning, deep learning e inteligencia artificial? Entonces conozca algunos contenidos más profundos en el tema. Acceda:
+¿Qué es la inteligencia artificial?
+Cuatro maneras en que la inteligencia artificial cambiará prácticamente todo
+Transformación digital en la experiencia del cliente
+ 
+Comprende cómo construir sitios web, sistemas y aplicaciones con poco o sin necesidad de código.
+
+					Somos una plataforma de gestión de relaciones con clientes (CRM) basada en la nube, que ayuda a las empresas a administrar sus operaciones de ventas, marketing, atención al cliente y otras operaciones comerciales en un solo lugar.				
+
+¿Nuevo en Salesforce?
+
+
+¿Nuevo en Salesforce?
+
+
+Enlaces populares
+
+Americas
+Europe, Middle East, and Africa
+Asia Pacific
+
+									© Copyright 2024 Salesforce, Inc. All rights reserved. Various trademarks held by their respective owners. Salesforce, Inc. Salesforce Tower, 415 Mission Street, 3rd Floor, San Francisco, CA 94105, United States
+							

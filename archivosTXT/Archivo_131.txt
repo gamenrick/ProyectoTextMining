@@ -1,0 +1,30 @@
+'Machine learning' en los móviles, una tendencia imparable
+Autor desconocido
+expansion.com
+
+
+Gracias a los algoritmos de machine learningg, los smartphones tendrán la capacidad de adaptar sus servicios teniendo en cuenta la información de una gran cantidad de nuevos datos que reciben, sin que estos tengan que ser programados expresamente.
+
+Los smartphones actuales ya utilizan algoritmos de machine learning en las aplicaciones de reconocimiento de voz, como Siri y Cortana, en textos predictivos, biometría y reconocimiento facial; sin embargo, esto es solo la punta del iceberg, queda un largo camino por recorrer para "explotar" todas las funcionalidades que puede aportar esta tecnología.
+Machine learning es la tecnología clave sobre la que se van a basar las nueva funcionalidades, la personalización y la conectividad con otros dispositivos en el Internet de las Cosas. Esta tendencia, que va a acelerarse durante el año 2017, convertirá a los smartphones en verdaderos asistentes virtuales, que entenderán a sus usuarios como hasta ahora no había sido posible y crearán relaciones más complejas entre hombre y máquina.
+Gracias a los algoritmos de machine learning, los smartphones tendrán la capacidad de adaptar sus servicios teniendo en cuenta la información de una gran cantidad de nuevos datos que reciben, sin que estos tengan que ser programados expresamente. 
+La siguiente gran tendencia que veremos en este terreno es la descentralización de los servicios de machine learning. En vez de conectarse a servicios basados en data centers a los que se consulta a través de las comunicaciones móviles, las capacidades de machine learning van a residir en el propio dispositivo.
+
+Juan José Gisanz, director general MBIT School.
+
+"Los móviles ya utilizan algoritmos de machine learning en las aplicaciones de reconocimiento de voz, como Siri y Cortana"
+Los fabricantes de móviles ya están llegando a acuerdos con fabricantes de GPUs especializados que permitan llevar a cabo los algoritmos de redes neuronales en el propio smartphone. Un ejemplo es el de Google con Movidio Semiconductors, aunque no es el único.
+Al fabricar dispositivos con capacidad interna de machine learning, el ratio de creación de nuevas oportunidades basadas en aplicaciones será exponencial.
+Así, por ejemplo, machine learning es la clave para el reconocimiento de imágenes y caras y podrá utilizarse para reconocimiento, detección y seguimiento de objetos cercanos. Incluso, algunas de las nuevas aplicaciones determinarán nuestro estado de salud, realizando predicciones sobre nuestra salud y nuestra vida. 
+De igual forma, los algoritmos de deep learning conocerán nuestro estado de ánimo, utilizando sensores de presión del dispositivo para monitorizarnos. Un sistema de este tipo es capaz de extraer datos de las interacciones de la persona con los smartphones y las redes sociales, creando aplicaciones de muy diferente índole.
+Para los profesionales del márketing esto representa una gran oportunidad, puesto que, si nuestro teléfono sabe cuándo estamos hambrientos o cansados, se abre un mundo de oportunidades en ofertas y promociones personalizadas. 
+Para nosotros como usuarios, un mejor control de la salud, la posibilidad de tener en la palma de la mano un asistente personal que no necesita estar conectado a la red y el poder obtener servicios y ofertas adaptadas a nosotros también abre una etapa de grandes expectativas.
+Juan José Gisanz, director general MBIT School
+Para comentar o valorar, por favor inicie sesión o regístrese
+Gemelos digitales: escudos frente a los ciberataques
+Las compras 'online' en EEUU durante el Black Friday podrían haber alcanzado su récord
+Granite: el as de IBM en la batalla de los modelos de inteligencia artificial
+Meta no aprovecha la crisis de X y pierde terreno ante el avance de Bluesky
+SoftBank se refuerza en OpenAI con 1.420 millones de inversión
+© 2024 Unidad Editorial Información General, S.L.U.
+Síguenos en

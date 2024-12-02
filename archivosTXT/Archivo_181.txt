@@ -1,0 +1,42 @@
+¡Inevitable no hablar de ChatGPT en el Derecho! | Ámbito Jurídico
+Autor desconocido
+ambitojuridico.com
+
+
+      23 de Marzo de 2023
+  
+Andrés Morales Lara
+Director Ejecutivo y socio de Brigard Urrutia
+Hablando de tecnología, en los últimos meses es imposible no escuchar noticias sobre las aplicaciones de la inteligencia artificial (IA) y los avances de la empresa OpenAI, creadora de ChatGPT en estos temas.
+ChatGPT es un chat conversacional o modelo de lenguaje basado en IA que da respuesta con coherencia y gran raciocinio a cualquier pregunta que se le haga. GPT proviene de las siglas en inglés Generative Pre-training Transformer. Su primera versión fue lanzada en el 2018 con 117 millones de parámetros; la segunda versión, en el 2019, con 1,5 mil millones de parámetros; a finales del 2022 ya tenía 175.000 millones de parámetros y su última versión fue lanzada el 14 de marzo de este año con 100 billones de parámetros.
+Ha tenido gran acogida por ser asequible a cualquier usuario con el propósito de seguir nutriéndose. A solo cinco días de su lanzamiento, ChatGPT consiguió un millón de usuarios, y a la fecha todos los que han interactuado con la herramienta la han probado con un sinfín de temas, como económicos, políticos, artísticos, tecnológicos, de actualidad, salud, legales, etc.
+Lo verdaderamente sorprendente de esta herramienta radica en su capacidad de aprender, analizar, identificar patrones, conectar, correlacionar y sintetizar grandes volúmenes de datos para generar información y respuestas relevantes a problemas con velocidades que un humano jamás podría lograr, además de crear contenido que a simple vista no podría inferirse que fue producido por una máquina. Su potencial es infinito, con futuras versiones y más parámetros de los actuales podría llegar a crear autónomamente conocimiento, resolver problemas que promuevan nuevos descubrimientos en distintas áreas y hasta corregir y desarrollar software.
+Todas estas ventajas que se proyectan a futuro han generado incertidumbres en diversas profesiones, principalmente aquellas que se basan en el manejo y la transformación de conocimiento, como las profesiones administrativas, dado el potencial de esta tecnología para el análisis de problemas y la creación de contenidos. Desde la perspectiva de la profesión del Derecho es un tema que no es nuevo y que se ha discutido años atrás desde el boom del legaltech y la aplicación de la IA en el sector legal.
+Recordemos que en la industria de legaltech existe un sinnúmero de empresas que fueron creadas hace unos años y que usan la base tecnológica de ChatGPT, que es la IA. Por mencionar algunas como KIRA Systems, ROSS, Lex Machina, Luminance, Relativity, Klarity, entre otras, que son usadas para realizar investigaciones, revisar contratos, procesar lenguaje natural, predecir el comportamiento de partes y jueces, analizar textos, e-Discovery y debida diligencia.
+No se puede desconocer que desde la creación de ChatGPT las legaltech del mercado han comenzado a pensar en sus posibles aplicaciones para potenciar los servicios legales, aprovechando las alternativas que se generan al experimentar con el código abierto que permite OpenAI. Por ejemplo, la legaltech Ironclad anunció el lanzamiento de un asistente para modificar contratos utilizando el modelo generativo de ChatGPT; Agiloft creó ConvoAI, una función de chat interactiva para tener conversaciones con contratos; y Rally, la plataforma de automatización legal con sede en Toronto que lanzó un complemento para Word basado en GPT-3, llamado Spellbook, que ayuda a los abogados con la redacción de contratos, sugerencias para negociaciones y resúmenes de términos.
+En el sector legal ya comienzan a sonar noticias como la de la firma de demandantes con sede en Chicago Edelson, que asegura utilizar ChatGPT en sus esfuerzos de marketing para escribir comunicaciones internas, primeros borradores de comunicados de prensa y algunas tareas administrativas sencillas. No yendo muy lejos, el Juzgado Primero del Circuito en Cartagena incluyó en una sentencia de acción de tutela las respuestas generadas con el chatbot para extender los argumentos de la decisión adoptada.
+Lo que seguramente será noticia en el transcurso del año en el sector legal serán las aplicaciones y adaptaciones que las legaltech y firmas líderes del mercado implementarán en sus servicios cuando logren homologar con mayor fuerza la tecnología de ChatGPT. Esto ya comienza a verse con el caso de la startup Harvey, que hace unos meses obtuvo una financiación de cinco millones de dólares de OpenAI Startup Fund y que, además, realizó una alianza con la firma londinense Allen & Overy, donde 3.500 de sus abogados probaron la herramienta con preguntas asociadas al día a día del trabajo para sus clientes. Harvey es un chat especializado en la asistencia de trabajo realizado por abogados que fue creado con la tecnología de OpenAI y que usa natural language processing, machine learning y data analytics.
+La aplicabilidad de ChatGPT y la IA generativa en la profesión del Derecho es algo realmente emocionante, aclarando que este tipo de tecnología, a mi modo de ver, podría ser usada de manera asistencial y como complemento para ampliar las capacidades, habilidades, criterio, buen juicio, conocimiento y experiencia de los abogados, cubriendo actividades operativas, como trabajos rutinarios, repetibles y con bajo nivel de riesgos, para que a fin de cuentas estos puedan concentrarse en lo estratégico y ser más eficientes y precisos en la prestación de los servicios legales. Pueden resaltarse varias aplicaciones de esta tecnología, de la cual los abogados sacarían gran provecho como:
+- Generar variedad de ideas iniciales para inspirar y luego abordar casos legales.
+- Redactar y revisar colaborativamente documentos.
+- Asistir en la redacción de cláusulas y primeras versiones de contratos.
+- Resumir textos extensos.
+- Categorizar documentos.
+- Investigar, sintetizar y analizar datos de forma colaborativa.
+- Transformar el lenguaje legal en uno sencillo para los clientes.
+- Identificar de manera precisa leyes y normativas para la elaboración de conceptos legales.
+- Identificar riesgos, omisiones, fallas y sugerir ediciones en las negociaciones de contratos.
+- Escribir correos proforma.
+- Acelerar el aprendizaje de nuevos temas.
+Pese a todas estas ventajas, ChatGPT aún tiene algunos limitantes, riesgos y temas a considerar para la profesión. Por ejemplo, la privacidad de datos y la posibilidad de filtración de información confidencial de clientes, dado que todos los datos que maneja son almacenados en servidores de OpenAI, que además son revisados por humanos para el reforzamiento del sistema; riesgos de calidad por obtener resultados muy generales y no actualizados, pues se nutre de históricos de internet hasta el 2021; los esfuerzos elevados en recursos humanos y computacionales para usarla en un ambiente seguro en una compañía; posibles violaciones a derechos de autor y, no menos importante, asuntos éticos de su uso.
+Aun cuando ChatGPT se ha robado toda la atención en los últimos meses, existen otras alternativas en el mercado ofreciendo soluciones similares, que tienen el potencial de competir más arraigadamente con esta tecnología en el futuro, por ejemplo: Chatsonic, Jasperchat, YouChat, Replika, Character.AI, ChaiAI, NeevaAI, entre otros.
+A diferencia de ChatGPT, algunas de estas aplicaciones han incluido más funcionalidades como la integración con Google, información actualizada y en tiempo real, generación de imágenes, videos, música, comandos de voz, avatares con personalidades específicas a escogencia y muchas otras opciones.
+Solo queda seguir atento a las nuevas noticias y oportunidades que se van generando en este tema, principalmente por los últimos anuncios de grandes tecnológicos que han entrado a competir, invertir con mayor músculo financiero y a acortar la curva de desarrollo de la inteligencia artificial, como es el caso de Google, que lanza su propio ChatGPT llamado BARD; el “Google Chino Baidu”, que lanza a ERNIE; Meta, que anunció la llegada de LLaMa, o Microsoft, que anunció la integración de ChatGPT con su buscador Bing. Todos estos sin duda abrirán un mundo de posibilidades en la industria del Derecho.
+Ingrese con su cuenta
+Línea nacional: 018000912191
+
+Oficina principal y notificaciones:
+Calle 70 No 7-30, Piso 8, Bogotá; D.C. (Colombia).
+Tel: (601)4255200
+
+2021 Todos los derechos reservados V.491.2

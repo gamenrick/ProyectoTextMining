@@ -1,0 +1,39 @@
+Microsoft Copilot for Security: Protege tu negocio desde hoy - Plain Concepts
+ecanorea
+plainconcepts.com
+
+Microsoft Copilot se ha convertido en una de las herramientas para aumentar la productividad en las empresas más poderosas del momento. Y en un momento en el que la ciberseguridad es una de las grandes preocupaciones de las empresas, también se está convirtiendo en un gran aliado para prevenir y luchar contra los ataques.
+Microsoft Copilot for Security surge como una de estas opciones impulsadas por IA que pueden ayudar a tu empresa a mantener protegidos a empleados y activos confidenciales. Te contamos en qué consiste y cómo ponerlo en marcha.
+Microsoft Copilot for Security es una solución de seguridad apoyada en IA generativa que tiene como objetivo aumentar la eficacia y las capacidades de los usuarios para mejorar los resultados de seguridad a mayor velocidad y escala.
+Ofrece una experiencia de asistencia en lenguaje natural y ayuda a los profesionales de seguridad en escenarios de un extremo a otro, como:
+Además, otra de sus cualidades es que ofrece una experiencia independiente, pero, a la vez, se integra perfectamente con los productos de la cartera de seguridad de Microsoft, como Microsoft Defender XDR, Microsoft Sentinel, Microsoft Intune y otros servicios de terceros.
+La solución aprovecha todas las ventajas de la arquitectura de OpenAI para generar una respuesta a una indicación del usuario mediante el uso de complementos específicos de seguridad (información específica de la empresa, orígenes autoritativos e inteligencia global sobre amenazas).
+
+El modelo de lenguaje básico y las tecnologías propias de Microsoft se unen en un sistema subyacente que ayuda a aumentar la eficacia y las capacidades de los otros sistemas de seguridad.
+Cuando hablamos de Microsoft Defender XDR, Microsoft Sentinel y Microsoft Intune, Copilot se integra sin problemas, dejando que se activen las funciones de indicaciones en el contexto de trabajo dentro de estas soluciones.
+Por su parte, los complementos de Microsoft y los productos de seguridad de terceros son un medio para ampliar e integrar servicios con Copilot for Security, aportando más contexto a partir de registros de eventos, alertas, incidentes y directivas.
+También tiene acceso a inteligencia sobre amenazas y contenido autoritativo a través de complementos. Estos pueden buscar en artículos y perfiles de Inteligencia contra amenazas de MS Defender, informes de amenazas, publicaciones de divulgación de vulnerabilidades, etc.
+Copilot for Security procesa y organiza de forma iterativa los servicios de seguridad para poder generar resultados relevantes para la empresa. Con todo ello, MS Copilot for Security funciona de la siguiente forma:
+Copilot para seguridad es especialmente útil en los siguientes casos de uso:
+La herramienta da contexto para los incidentes y mejora la comunicación en toda la organización gracias a la IA generativa, que permite extraer rápidamente alertas de seguridad complejas en resúmenes concisos y procesables. Esto se traduce en tiempos de respuesta más rápidos y una toma de decisiones simplificada.
+La unión del análisis con la IA hace que se pueda evaluar el posible impacto de los incidentes de seguridad, ofreciendo información sobre los sistemas y datos afectados para priorizar los esfuerzos de respuesta de forma eficaz.
+Esto ayuda a los encargados de dar una respuesta a los incidentes a detener sus seguimientos de ataques a gran escala.
+Se elimina la necesidad de aplicar ingeniería inversa manualmente al malware y permite a los analistas comprender las acciones ejecutadas por los atacantes.
+También facilita analizar scripts complejos de la línea de comandos y traducirlos a un lenguaje natural con explicaciones claras de las acciones. Así se pueden extraer y vincular eficazmente los indicadores encontrados en el script a las respectivas entidades del entorno.
+Copilot ofrece orientación práctica y paso a paso para la respuesta a incidentes, incluidas instrucciones para la evaluación de prioridades, la investigación, la contención y la corrección.
+Gracias a los vínculos profundos pertinentes a las acciones recomendadas, se obtiene una respuesta más rápida.
+Antes de implementar Copilot para seguridad, hay que tener en cuenta una serie de requisitos mínimos o la configuración de un entorno predeterminado.
+Los requisitos mínimos con los que debes contar son:
+La incorporación de este servicio es un proceso que consta de dos pasos:
+Para realizar este paso, se pueden elegir dos opciones:
+Para acceder a este paso, debes ser propietario de Azure o colaborador:
+El equipo de seguridad de Plain Concepts está preparado para ayudarte a implantar Copilot for Security en tu estrategia de seguridad empresarial, cubriendo puntos como la protección de la información, el gobierno de datos unificado, la administración del ciclo de vida inteligente, la administración de riesgos internos, la auditoría, la administración del cumplimiento o la Normativa NIS2. ¡No esperes más y contacta con nuestros expertos y transforma tu forma de trabajar de forma segura!
+Además, si quiere familiarizarte con el uso de otras herramientas de seguridad de Microsoft y Copilot, te dejamos por aquí el webinar “Microsoft Purview: Exprime Copilot con la máxima seguridad”, una oportunidad única para conocer cómo esta poderosa combinación no solo eleva nuestra productividad, sino que también fortalece nuestro compromiso con la seguridad y el cumplimiento normativo.
+
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

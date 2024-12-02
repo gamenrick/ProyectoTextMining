@@ -1,0 +1,131 @@
+La Inteligencia artificial generativa en la comunicación científica: retos y oportunidades
+Carlos Lopezosa
+redalyc.org
+
+Editorial
+La Inteligencia artificial generativa en la comunicación científica: retos y oportunidades
+Generative Artificial Intelligence in Scientific Communication: Challenges and Opportunities
+La Inteligencia artificial generativa en la comunicación científica: retos y oportunidades
+
+Revista de investigación e innovación en ciencias de la salud, vol.  5, núm.  1, pp. 1-5, 2023
+
+Fundación Universitaria María Cano
+
+DOI: https://doi.org/10.46634/riics.211
+
+
+Resumen:
+							                           Se ofrece la visión panorámica sobre la inteligencia artificial generativa en el contexto de la comunicación científica desde dos puntos de vista: el de los investigadores y el de los editores de las revistas académicas. También se describen alguno de los retos y oportunidades más significativos de la aplicación de la IA en la comunicación académica y se concluye con una serie de recomendaciones de buenas prácticas.
+
+
+Palabras clave: Inteligencia artificial, comunicación científica, IA, ChatGPT, uso ético de la IA.
+		                         
+
+Abstract:
+						                           An overview of generative artificial intelligence in the context of scientific communication is offered from two points of view: that of researchers and that of the editors of academic journals. Some of the most significant challenges and opportunities of the application of AI in academic communication are also described and it concludes with a series of good practice recommendations.
+
+
+Keywords: Artificial intelligence, scientific communication, AI, ChatGPT, ethical use of AI.
+                                
+Introducción
+A pocos sorprenderá si decimos que la inteligencia artificial generativa (en adelante IA) se ha generalizado y ha llegado a todo tipo de públicos y de sectores. Hemos pasado de saber muy poco sobre ella a utilizarla en nuestro día a día para infinidad de tareas. 
+No cabe duda de que la IA se está desarrollando rápido y está cambiando nuestras vidas [1]. Su impacto durante 2023 así lo demuestra. Y es que durante este año las IA generativas (principalmente ChatGPT, Midjourney, Dall-e y Stumble Diffusion) han sido capaces de alcanzar a audiencias amplias, provocando el nacimiento de un nuevo escenario que ha impactado a la sociedad a todos los niveles, lo que incluye también a la comunicación científica y a sus principales actores.
+Como sea, podemos afirmar que el nuevo escenario provocado por las IA generativas ha hecho patente la necesidad de considerar los aspectos éticos [2] que ayuden a los investigadores, por un lado, y a las revistas académicas, por otro lado, a utilizar esta tecnología de forma responsable.
+La IA generativa y su efecto en la comunicación científica: el caso de ChatGPT
+ChatGPT es un modelo de lenguaje desarrollado por OpenAI, que utiliza técnicas de procesamiento de lenguaje natural [3] para generar respuestas en tiempo real en forma de textos coherentes [4]. Es una herramienta muy bien definida por sus siglas, GPT: Generative, Pre-trained, Transformer, o, lo que es lo mismo, un instrumento que genera textos, está preentrenado y transforma datos en lenguaje.
+Por lo tanto, la IA conversacional de OpenAI puede utilizarse para una gama indeterminada de acciones de asistencia en los que se necesite un texto como formato de salida. 
+Para poder trabajar con la IA es preciso utilizar promts. Un prompt es el nombre técnico que se le da a las peticiones o instrucciones que se hacen a la IA para conseguir una respuesta específica. En este sentido, existen infinidad de tipos de promtps que se pueden clasificar de la siguiente manera [5]:
+
+
+
+
+
+Prompts reactivos: se encadenan interacciones a partir de cada respuesta.
+
+
+
+Prompts estructurales: se solicita una respuesta articulada en varios puntos, y seguidamente de cada uno de los puntos se solicita ampliación.
+
+
+
+Prompts de rol: se solicita que la IA adopte un rol específico (p. e. “actúa como un experto en...”).
+
+
+
+Prompts con indicación de audiencias: se solicita que la respuesta tenga en cuenta una determinada audiencia (p. e. “para una audiencia de estudiantes de universidad...”).
+
+
+
+Prompts con objetivos: se incluye el objetivo buscado (p. e., “para redactar los puntos principales de una memoria de investigación sobre...”).
+
+
+
+
+Prompts reactivos: se encadenan interacciones a partir de cada respuesta.
+
+Prompts estructurales: se solicita una respuesta articulada en varios puntos, y seguidamente de cada uno de los puntos se solicita ampliación.
+
+Prompts de rol: se solicita que la IA adopte un rol específico (p. e. “actúa como un experto en...”).
+
+Prompts con indicación de audiencias: se solicita que la respuesta tenga en cuenta una determinada audiencia (p. e. “para una audiencia de estudiantes de universidad...”).
+
+Prompts con objetivos: se incluye el objetivo buscado (p. e., “para redactar los puntos principales de una memoria de investigación sobre...”).
+Si bien estas peticiones son de índole práctica y pueden aplicarse desde la interfaz de ChatGPT de manera más o menos funcional, deben entenderse como demostraciones conceptuales sin considerar su practicidad a cualquier escala, o, lo que es lo mismo, teniendo en cuenta que las IA en general, y concretamente ChatGPT en particular, estarán cada vez más conectadas (mediante API u otras formas de integración) a aplicaciones de productividad que pueden hacer viables estos prompts a cualquier escala, practicidad y conectividad.
+Todo ello permite augurar que el auge de la IA generativa ofrecerá grandes retos y oportunidades para la comunicación científica, lo que se traduce en un nuevo escenario de luces y sombras en donde esta tecnología afecta a los investigadores y a las revistas académicas. 
+Hablamos de luces porque ChatGPT puede ayudar al personal investigador a diseñar una investigación, asistir en la toma de datos de cualquier proyecto investigativo y ayudar a estructurar e incluso a redactar partes de los informes, por poner algunos ejemplos. Además, puede dar soporte a los equipos editoriales de revistas académicas, ayudándoles a mejorar diferentes procesos internos como las correcciones normativas sobre los manuscritos recibidos, o incluso a identificar posibles evaluadores de artículos específicos, etc.
+Pero también hablamos de sombras, porque los autores y las revistas académicas tendrán que lidiar con la barrera entre un buen/mal uso de la IA en las investigaciones desarrolladas y posteriormente publicadas, por lo que es preciso preguntarse cómo debería utilizarse este tipo de herramientas dentro de la academia por parte de los investigadores y equipos editoriales.
+El uso de ChatGPT en la comunicación científica: consideraciones finales
+Ante el auge de la IA, el personal investigador y los editores de revistas académicas tienen la posibilidad de adscribirse a la doble posición de marco de excelencia y marco de confianza propuesta por la Comisión Europea [1]. Dicho marco anima, por un lado, a conocer lo mejor posible las posibilidades de la IA y, por otro, a que los profesionales, en este caso los investigadores y editores de revistas académicas, aprendan a utilizarla de la forma más responsable posible.
+Bajando más al terreno, es importante destacar que en 2023 la UNESCO desarrolló una guía sobre ChatGPT muy esclarecedora sobre cuándo usar esta herramienta y cuándo no [6]. Para ello mostraron un diagrama de flujo diseñado por Aleksandr Tiulkanov, abogado de política de datos e IA, que supone un buen punto de partida al que investigadores y editores de revistas deberían adherirse (ver Figura 1).
+
+
+Figura 1.
+¿Cuándo es Seguro utilizar ChatGPT?
+
+Nota. Figura diseñada por Aleksandr Tiulkanov. Rediseñada por Fraidy Alonso Alzate Pamplona. Bajo licencia: Atribución CC BY. Fuente: AI and Data Policy Lawyer. Publicado en enero de 2023. Citado en Sabzalieva y ValenDni, 2023 [6].
+
+
+Como podemos ver, este diagrama impone la necesidad de un uso responsable y transparente de esta IA. Es por ello que ChatGPT debería utilizarse bajo una doble perspectiva, que incluye la ética y el pensamiento crítico [7]. La ética se traduce en que en cada contexto puede tener una implicación específica que hay que atender, además de que siempre debemos ser transparentes con su uso y por tanto como investigadores tendremos que citar y mencionar cómo se usó en el apartado de metodología. El pensamiento crítico nos lleva al mandato categórico de que debemos reflexionar y verificar la coherencia de cada propuesta antes de usarla en trabajos académicos.
+Por otro lado, consideramos importante que el personal investigador y las revistas académicas se adhieran a las prioridades propuestas por Van-dis et al. [8] en relación con el uso responsable de la IA en la comunicación académica, lo que incluye: 
+
+
+
+
+mantener la verificación humana;
+
+
+discutir qué tareas de investigación deben o no ser externalizadas a los modelos de lenguaje de gran tamaño;
+
+
+determinar qué habilidades y características académicas son esenciales para los investigadores;
+
+
+garantizar que los modelos de lenguaje promuevan la equidad en la investigación y eviten los riesgos de aumentar las desigualdades.
+
+
+
+mantener la verificación humana;
+discutir qué tareas de investigación deben o no ser externalizadas a los modelos de lenguaje de gran tamaño;
+determinar qué habilidades y características académicas son esenciales para los investigadores;
+garantizar que los modelos de lenguaje promuevan la equidad en la investigación y eviten los riesgos de aumentar las desigualdades.
+En definitiva, es importante recordar que la IA debe utilizarse con responsabilidad y, por lo tanto, su uso solamente pueden ser un punto de partida y de ningún modo pueden ser un resultado final. En este sentido, el resultado final, en cambio, puede beneficiarse de este punto de partida, pero siempre debe ser un desarrollo genuino del esfuerzo intelectual realizado por el personal investigador, ya que una IA no puede ser considerada autora, y tampoco se le puede pedir rendimiento de cuentas. Por supuesto, será vital tener siempre presente la ética, la transparencia y el pensamiento crítico.
+Referencias
+European Comission. Libro Blanco sobre la inteligencia artificial: un enfoque europeo orientado a la excelencia y la confianza. Luxemburgo: Oficina de Publicaciones de la Unión Europea; 2020.
+Lopezosa C, Codina L. ChatGPT y software CAQDAS para el análisis cualitativo de entrevistas: pasos para combinar la inteligencia artificial de OpenAI con ATLAS.ti, Nvivo y MAXQDA. Barcelona: Universitat Pompeu Fabra. Departament de Comunicació; 2023. Disponible en: https://repositori.upf.edu/handle/10230/55477
+
+Guida, G, Mauri, G. Evaluation of natural language processing systems: Issues and approaches. Proceedings of the IEEE. 1986;74(7):1026-1035. doi: https://doi.org/10.1109/PROC.1986.13580
+
+OpenAI. Introducing ChatGPT [Internet]. 2022. Disponible en: https://openai.com/blog/chatgpt
+
+Lopezosa, C, Codina, L. Inteligencia Artificial y métodos cualitativos de investigación: ChatGPT para revisiones de la literatura y análisis de entrevistas semiestructuras. 2023. Disponible en: http://hdl.handle.net/10230/56505
+
+Sabzalieva, E, Valentini, A. ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido”. UNESCO; 2023. Disponible en: https://unesdoc.unesco.org/ark:/48223/pf0000385146_spa
+
+Codina, L. (2022). Cómo utilizar ChatGPT en el aula con perspectiva ética y pensamiento crítico: una proposición para docentes y educadores. 2022. Disponible en: https://www.lluiscodina.com/chatgpt-educadores/
+
+Van-Dis, E, Bollen, J, Zuidema, W, van-Rooij, R, Bockting-Alo, C. (2023). ChatGPT: five priorities for research. Springer Nature. 2023;614:224-226. doi: https://doi.org/10.1038/d41586-023-00288-7
+
+Notas 
+Notas de autor 
+
+*Correspondencia: Carlos Lopezosa; Email: carlos.lopezosa@upf.edu

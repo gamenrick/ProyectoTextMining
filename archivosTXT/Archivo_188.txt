@@ -1,0 +1,27 @@
+ChatGPT, el chatbot de inteligencia artificial que es furor por su capacidad para conversar de cualquier tema
+Redacción Clarín
+clarin.com
+
+Para disfrutar los contenidos de Clarín es necesario que actives JavaScript en tu navegador.
+Un chatbot entrenado para mantener conversaciones, que puede entender y comprender preguntas, asoma como el más potente conocida hasta el momento. Se llama ChatGPT, está desarrollada por la empresa OpenAI, y fue constituido como un modelo de lenguaje por Inteligencia Artificial.
+De acuerdo a sus características cuenta con más de 175 millones de parámetros, y fue entrenado con grandes cantidades de texto para realizar tareas relacionadas con el lenguaje, desde la traducción hasta la generación de texto.
+ A una inteligencia artificial se la entrena a base de texto, se le hacen preguntas y se le añade información, de manera que este sistema, a base de correcciones a lo largo del tiempo, puede realizar de forma automática la tarea para la que fue diseñada.
+ En el caso de ChatGPT fue desarrollada para mantener conversaciones con cualquier persona. Sus algoritmos deberían ser capaces de entender preguntas con precisión, incluyendo adjetivos y variaciones que añadas en tus frases, y de responder de una manera coherente.
+Lo que más sorprendente de este chat por IA en concreto es que puede brindar unas respuestas muy precisas y completas, incluso de varios párrafos.
+Además, tiene la capacidad de expresarse de manera natural y con información muy exacta, lo que hace muy complicado distinguir que el texto fue generado por una inteligencia artificial y no por un ser humano. 
+Esta IA es tan potente y capaz de generar respuestas completas e informadas que hay quien dice que podría acabar con Google y buscadores similares. Sin embargo, en muchos temas es poco precisa, sobre todo en nombres y algunos conceptos, por lo que todavía no está a la altura de permitirte copiar lo que ha escrito y pegarlo, aunque hace que sientas que ese momento está cada vez más cerca para las IA.
+Además de responder a la pregunta, esta AI tiene un sentido del contexto y reconoce todo lo que habéis estado hablando hasta ahora, por lo que si le haces alguna pregunta relacionada con una respuesta que te ha dado, sabrá identificar si te refieres a ello sin tener que darle toda la explicación.
+Para empezar a tener conversaciones con esta inteligencia artificial, primero, hay que ingresar a su web oficial.
+Al momento de acceder al sistema habrá que crear una cuenta en la web de OpenAI, todo es completamente gratuito. Y una vez iniciada la sesión ya podrás comenzar a utilizar este poderoso chatbot.
+Si bien los ejemplos que aparecen en pantalla están en el idioma inglés, hay que tener en cuenta que la interacción con ChatGPT puede hacerse íntegramente en Español. Por otro lado, se le puede pedir que hable en cualquier otro idioma.
+ A la hora de utilizarlo, lo recomendable para el usuario es que experimente con distintos tipos de peticiones para explorar todas las funciones de esta Inteligencia Artificial. 
+ Si bien no hay restricciones a la hora de la interacción con ChatGPT habrá que tener siempre presente que  todo lo que el usuario escriba quedará registrado, y podrá ser revisado después por los desarrolladores de OpenIA. Por lo tanto, no está de más no incluir información personal ni solicitudes que sean potencialmente peligrosas en caso de caer en manos de un tercero.
+ChatGPT es una de esas herramientas cuyas funciones completas todavía no han sido descubiertas, porque en parte depende del ingenio de las personas que interactúan con ella. Lo más sencillo es pedirle que explique cualquier cosa, evento o concepto, y la IA lo hará a través de los datos que recibió durante su entrenamiento. 
+ Esto también sirve para escribir artículos o resúmenes pudiendo pedirle un número máximo de caracteres o palabras explicando sucesos históricos, personajes famosos, dispositivos tecnológicos.
+ Incluso tiene la capacidad de escribir textos de una manera determinada: puede ser un guionista de YouTube, que lo redacte con un tono determinado (informal o más serio). O incluso que lo haga con el tono puntual de ciertas regiones de Argentina. 
+Dentro de las posibilidades, ChatGPT puede escribir líneas de código, fichas de especificaciones de productos y comparativas. También poemas, chistes o letras de canciones. Incluso, textos como si le hablara a un niño de 5 años. En definitiva, cualquier cosa relacionada con el lenguaje.
+ También puedes pedirle muchas otras cosas, como listas de páginas web o de herramientas, pedirle consejo sobre qué móvil comprar, o temas relacionados con la cultura general, trivials, traducciones, definiciones, explicaciones, y todo lo que se te ocurra. Hay muchos ejemplos, y puedes intentar preguntarle cosas que nadie haya preguntado antes para descubrir nuevas funciones.
+SL
+Newsletter Clarín
+Recibí en tu email todas las noticias, coberturas, historias y análisis de la mano de nuestros periodistas especializados
+Edición impresa

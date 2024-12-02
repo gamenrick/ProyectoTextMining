@@ -1,0 +1,55 @@
+Deep Learning vs. Machine Learning: Diferencias clave
+Autor desconocido
+platzi.com
+
+13240Puntos
+hace un año
+¿Sabías que la inteligencia artificial, en sus inicios, se basó en conceptos tan humanos como el aprendizaje? En las décadas de los 50 y 60, ocurrió una  revolución conocida como el nacimiento del machine learning o aprendizaje automático.
+El machine learning (ML), que permite a las máquinas aprender de la experiencia, se convirtió en la base de la IA más avanzada. No obstante, en la última década, hemos presenciado el surgimiento del deep learning (DP) o aprendizaje profundo.
+Ahora, las máquinas no solo aprenden: también son capaces de procesar información de manera similar a como lo haría un cerebro humano.
+Descubramos cuáles son las similitudes y diferenciasentre el machine learning y el deep learning en este viaje, donde la inteligencia artificial se encuentra con el futuro.
+El aprendizaje automático y el aprendizaje profundo tienen ciertas similitudes, ya que ambos son subcampos de la inteligencia artificial y comparten la misma meta general: permitir que las máquinas aprendan de datos y realicen tareas sin ser programadas explícitamente para cada caso.
+Ambos, machine learning y deep learning, son maestros en el manejo de algoritmos. Estos son como su ABC y su competencia básica, pues les permite descifrar patrones y relaciones en los datos que se les proporciona durante el entrenamiento.
+También ambas tecnologías tienen un enfoque en la automatización, pues su estructura está diseñada para crear modelos que puedan tomar decisiones o ejecutar tareas de manera autónoma una vez que han sido entrenados adecuadamente.
+Los dos tipos de IA se basan en datos para el aprendizaje y la toma de decisiones. Emplean características seleccionadas manualmente o extraídas automáticamente de los datos.
+En el deep learning, las características se aprenden automáticamente a partir de los datos, lo que permite una mayor capacidad de representación.
+El machine learning y el deep learning son tecnologías que se pueden usar en diversos campos como: salud, finanzas, tecnología, procesamiento del lenguaje natural, marketing y manufactura.
+A su vez, estas formas de IA pueden usarse para resolver problemas de clasificación, regresión, reconocimiento de patrones, procesamiento de lenguaje natural, visión por computadora y más.
+En ambas disciplinas, el aprendizaje se produce a partir de datos históricos y la experiencia previa. Cuanta más información se alimente al modelo, más se mejora su rendimiento y capacidad de generalización.
+Mientras que el machine learning emplea algoritmos para analizar datos, aprender de ellos y tomar decisiones o predicciones basadas en eso, el deep learning utiliza redes neuronales artificiales que imitan la función del cerebro humano para aprender.
+Entre más datos existan, mejor se vuelve un sistema de deep learning.
+Concretamente, podemos destacar las siguientes diferencias:
+Radica en la complejidad y la capacidad de aprendizaje automático de características más profundas y complejas de los datos.
+Mientras que el machine learning puede ser suficiente para ciertas tareas, el deep learning brinda un nivel de sofisticación superior y se emplea en problemas más desafiantes, donde el análisis y la comprensión de datos complejos son esenciales.
+El deep learning supera al machine learning en precisión para tareas complejas. Esto gracias a sus redes neuronales profundas que aprenden representaciones más complejas.
+Sin embargo, el deep learning requiere más tiempo de entrenamiento y recursos computacionales que el machine learning tradicional. La elección depende del problema y los recursos disponibles.
+En machine learning, se requiere una estructura de datos organizada con características seleccionadas manualmente.
+En cambio, en deep learning, se pueden usar datos brutos y sin procesar, como imágenes o texto, permitiendo que el modelo aprenda automáticamente representaciones complejas de los datos.
+Además, el deep learning suele necesitar conjuntos de entrenamiento más grandes debido a su capacidad para manejar tareas complejas.
+El machine learning típicamente necesita ser reentrenado con nuevos datos, mientras que el deep learning puede continuar aprendiendo y mejorando a medida que se introducen nuevos datos.
+Además, el deep learning puede manejar datos no estructurados y no etiquetados más eficazmente que el machine learning, lo cual significa que puede aprender de una manera más autónoma.
+Para el ML, la intervención humana es necesaria en algunos pasos para procesar los datos (por ejemplo, seleccionar características para el modelo). En cambio, el DL es capaz de aprender a través de su red neuronal, lo que minimiza la necesidad de este tipo de intervención.
+En el acelerado mundo tecnológico, dos términos han ganado protagonismo en los últimos años: machine learning (aprendizaje automático) y deep learning (aprendizaje profundo).
+Estas poderosas herramientas están redefiniendo la interacción con la tecnología y transformando áreas como robótica, análisis de datos y experiencia del cliente.
+Es una disciplina dentro de la inteligencia artificial que se enfoca en desarrollar algoritmos y modelos que permiten a las máquinas aprender y mejorar su rendimiento en tareas específicas, a partir de la experiencia y sin una programación explícita.
+En lugar de seguir reglas predefinidas, los sistemas de machine learning utilizan datos para identificar patrones y tomar decisiones inteligentes.
+Esta tecnología se aplica en una amplia variedad de áreas, desde el procesamiento de lenguaje natural y el reconocimiento de imágenes, hasta la predicción de resultados financieros y la personalización de recomendaciones en línea.
+Netflix utiliza el ML para analizar el historial de visualización, calificaciones, búsquedas y navegación de sus usuarios.
+Con esta información, personaliza las recomendaciones de películas y series en función de las preferencias individuales de cada usuario. Esto crea una experiencia de usuario personalizada y contribuye al éxito de la plataforma.
+Amazon lo utiliza para predecir preferencias de compra y ofrecer recomendaciones personalizadas a sus clientes.
+También mejora la eficiencia logística mediante la predicción de la demanda de productos y la optimización de rutas de entrega y gestión de almacenes.
+Es una rama avanzada del machine learning que se inspira en la estructura y funcionamiento del cerebro humano para procesar datos y aprender de ellos.
+El aprendizaje profundo emplea redes neuronales artificiales con múltiples capas interconectadas para extraer características complejas de los datos y lograr un alto nivel de abstracción.
+Estas redes profundas permiten la resolución de tareas de nivel superior, como el reconocimiento de imágenes, el procesamiento del lenguaje natural y la toma de decisiones, con un rendimiento superior a otras técnicas de machine learning.
+El DL ha impulsado avances significativos en diversos campos y es una piedra angular en el desarrollo de la inteligencia artificial moderna.
+Siri de Apple y Alexa de Amazon son dos de los asistentes virtuales más populares en el mercado, y ambos se basan en el poder del deep learning para ofrecer una experiencia de usuario excepcional. Esta tecnología revolucionaria permite a estos asistentes comprender y procesar el lenguaje natural de manera más avanzada y precisa.
+El deep learning se implementa en el reconocimiento de voz y el procesamiento del lenguaje natural en ambas plataformas. Cuando un usuario interactúa con Siri o Alexa a través de la voz, sus palabras son convertidas en datos que son enviados a través de redes neuronales profundas.
+Estas redes neuronales son capaces de analizar y extraer patrones complejos del discurso, permitiendo la identificación de palabras clave y la comprensión de la intención detrás de la consulta del usuario.
+Esta capacidad de procesamiento del lenguaje natural se combina con la información contextual y las preferencias del usuario, lo que les permite a Siri y Alexa ofrecer respuestas más precisas y personalizadas.
+Por ejemplo, pueden proporcionar recomendaciones de productos, responder preguntas específicas o realizar tareas solicitadas por el usuario.
+Si quieres ir más en detalle en este fascinante tema, te recomendamos comenzar con nuestro Curso de Introducción a Machine Learning por MindsDB.
+En este curso explorarás desde los fundamentos históricos del machine learning hasta una comprensión detallada de su funcionamiento interno, así como una inmersión en el funcionamiento de las redes neuronales en el contexto del deep learning.
+13240Puntos
+hace un año
+Transformamos la economía de nuestros países entrenando a la próxima generación de profesionales en tecnología.
+De LATAM con para el mundo

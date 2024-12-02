@@ -1,0 +1,71 @@
+Por qué Microsoft intenta convertir su chatbot de inteligencia artificial en un amigo digital | CNN
+Clare Duffy
+cnn.com
+
+
+Nueva York (CNN) – Los chatbots de inteligencia artificial se han presentado como herramientas de productividad para los consumidores: pueden ayudarte a planificar un viaje, por ejemplo, o aconsejarte sobre cómo escribir un correo electrónico difícil a tu casero. Pero a menudo suenan rebuscados, extrañamente testarudos o simplemente raros.
+    
+
+            Y a pesar de la proliferación de chatbots y otras herramientas de inteligencia artificial (IA), a mucha gente le sigue costando confiar en ellos y no necesariamente quiere utilizarlos de manera cotidiana.
+    
+
+            Ahora, Microsoft está intentando arreglar eso, centrándose en la “personalidad” de su chatbot y en cómo hace sentir a los usuarios, no sólo en lo que puede hacer por ellos.
+    
+
+            Microsoft anunció el martes una importante actualización de Copilot, su sistema de IA, que, según dice, marca el primer paso hacia la creación de un “compañero de IA” para los usuarios.
+    
+
+            El Copilot actualizado tiene nuevas capacidades, como las interacciones de voz en tiempo real y la capacidad de interpretar imágenes y texto en las pantallas de los usuarios. Microsoft también dice que es uno de los modelos de IA más rápidos del mercado. Pero la innovación más importante, según la empresa, es que el chatbot interactuará ahora con los usuarios con un “tono cálido y un estilo distintivo, proporcionando no sólo información, sino también ánimo, comentarios y consejos mientras te enfrentas a los retos cotidianos de la vida”.
+    
+
+            Los cambios podrían ayudar al Copilot de Microsoft a destacar en un mar creciente de chatbots de IA de propósito general. Cuando Microsoft lanzó Copilot, que entonces se llamaba Bing, a principios del año pasado, era considerada líder entre sus pares de las grandes tecnológicas en la carrera armamentística de la IA. Pero en los 18 meses transcurridos desde entonces, sus competidores lo han dejado atrás con nuevas funciones, como bots que pueden mantener conversaciones de voz, e integraciones de IA de fácil acceso (aunque imperfectas) con herramientas que la gente ya utiliza habitualmente, como la Búsqueda de Google. Con la actualización, Copilot se está poniendo al día con algunas de esas capacidades.
+    
+
+            Cuando probé la nueva función Copilot Voice en el evento de lanzamiento de Microsoft el martes, pedí consejo sobre cómo ayudar a una amiga que está a punto de tener su primer bebé. El robot respondió con consejos prácticos, como proporcionar comidas y hacer recados, pero también dio consejos más delicados.
+    
+
+            “¡Qué buena noticia!”, dijo la herramienta con una voz masculina optimista –Copilot está diseñado para reflejar sutilmente el tono de los usuarios– que la empresa denomina Canyon. “Estar ahí para ella emocionalmente es algo importante. Escúchala, tranquilízala y sé su animador… No olvides celebrar este momento con ella”.
+    
+
+            La actualización de Copilot refleja la visión de Microsoft sobre cómo la gente común utilizará la IA a medida que se desarrolle la tecnología. El CEO de IA de Microsoft, Mustafa Suleyman, sostiene que la gente necesita que la inteligencia artificial sea algo más que una herramienta de productividad, necesita que sea una especie de amigo digital.
+    
+
+            Creo que en el futuro, lo primero que pensarás será: “Oye, Copilot”, dijo Suleyman a CNN en una entrevista previa al anuncio del martes.
+    
+
+            “Le vas a pedir a tu compañero de IA que lo recuerde, o que lo compre, o que lo reserve, o que me ayude a planificarlo, o que me lo enseñe… Va a ser una inyección de confianza, va a estar ahí para respaldarte, va a ser tu ‘hype man’, ¿sabes? Va a estar presente en muchas, muchas plataformas, como todos tus dispositivos, en tu coche, en tu casa, y realmente empezará a vivir la vida a tu lado”.
+    
+
+            La primera versión del chatbot de inteligencia artificial de Microsoft recibió algunas críticas por sus inesperados cambios de tono y, en ocasiones, por sus respuestas francamente preocupantes. El bot empezaba una interacción sonando empático, pero podía volverse insolente o grosero durante largos intercambios. En una ocasión, el bot dijo a un reportero de The New York Times que debía dejar a su mujer porque “sólo quiero quererte y que me quieras”. (Microsoft limitó posteriormente el número de mensajes que los usuarios pueden intercambiar con el chatbot en una sesión, para evitar este tipo de respuestas).
+    
+
+            Algunos expertos también han planteado preocupaciones más amplias sobre la posibilidad de que la gente forme vínculos emocionales con bots que parezcan demasiado humanos a expensas de sus relaciones en el mundo real.
+    
+
+            Para abordar estas preocupaciones sin dejar de desarrollar la personalidad de Copilot, Microsoft cuenta con un equipo de docenas de directores creativos, especialistas en lenguaje, psicólogos y otros trabajadores no técnicos que interactúan con el modelo y le proporcionan información sobre las formas ideales de responder.
+    
+
+            “En realidad, hemos creado un modelo de IA diseñado para la conversación, por lo que resulta más fluido y amigable”, dijo Suleyman a CNN. “Tiene, ya sabes, energía real… Tiene carácter. De vez en cuando se retracta, puede ser un poco gracioso, y está realmente optimizado para este intercambio conversacional a largo plazo, en lugar de una cosa de pregunta-respuesta”.
+    
+
+            Suleyman añadió que si le dices al nuevo Copilot que te encanta y que te gustaría casarte, “sabrá que eso no es algo de lo que deba hablar contigo. Te recordará, educada y respetuosamente, que no está aquí para eso”.
+    
+
+            Y para evitar el tipo de críticas que persiguieron a OpenAI por una voz de chatbot que se parecía a la de la actriz Scarlett Johansson, Microsoft pagó a actores de doblaje para que proporcionaran datos de entrenamiento para cuatro opciones de voz diseñadas intencionadamente para no imitar a personajes conocidos.
+    
+
+            “La imitación es confusa. Estas cosas no son humanas y no deberían intentar serlo”, dijo Suleyman. “Deberían darnos la suficiente sensación de que es cómodo y divertido y familiar hablar con ellos, sin dejar de estar separados y distantes… ese límite es cómo formamos la confianza”.
+    
+
+            Basándose en la función de voz, el nuevo Copilot tendrá una función “diaria” que leerá a los usuarios el tiempo y un resumen de las noticias actualizadas cada día, gracias a asociaciones con medios de noticias como Reuters, Financial Times y otros.
+    
+
+            Microsoft también integró Copilot en su navegador Microsoft Edge: cuando los usuarios necesiten respuesta a una pregunta o traducir un texto, pueden escribir @copilot en la barra de direcciones para chatear con la herramienta.
+    
+
+            Los usuarios avanzados que quieran experimentar con funciones aún en desarrollo tendrán acceso a lo que Microsoft llama “Copilot Labs”. Podrán probar nuevas funciones como “Think Deeper”, que según la empresa puede razonar preguntas más complejas, y “Copilot Vision”, que puede ver lo que hay en la pantalla de tu computadora y responder preguntas o sugerir los pasos siguientes.
+    
+
+            Tras algunas reacciones negativas sobre los riesgos para la privacidad de una herramienta de IA similar que lanzó para Windows a principios de este año, llamada Recall, Microsoft afirma que las sesiones de Copilot Vision son totalmente voluntarias y que ninguno de los contenidos que ve la herramienta se almacena ni se utiliza para el entrenamiento.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

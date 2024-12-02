@@ -1,0 +1,176 @@
+La inteligencia artificial en mantenimiento: hacia la planta industrial del futuro
+Autor desconocido
+tractian.com
+
+Productos
+Explorar
+Productos
+Monitoreo Online
+Insights y Diagnosticos
+Analisis de Vibraciones
+Activos Monitoreados
+IA para Detectar Fallas
+Supervisor
+Monitoreo de Rendimiento
+Asset Performance Management
+Informes de Energia
+Monitoreo de Corriente
+Monitoreo de procesos
+Eficiencia Energética
+Supervisor
+Gestión de Activos
+Planeación y Programación
+Gestión de Órdenes de Trabajo
+Gestión de Materiales
+Procedimentos Automaticos
+Indicadores Dashboards Mantenimiento
+Aplicación Móvil
+Geolocalización
+Alex Vedan
+Tiempo de lectura: 11min.
+y recibe contenidos gratuitos que impulsen tu mantenimiento
+Comparte
+En la actualidad, la inteligencia artificial (IA) está transformando la industria de manera significativa. 
+Desde la optimización de procesos hasta la automatización de tareas, la IA está permitiendo a las empresas mejorar la eficiencia, reducir los costos y aumentar la calidad de sus productos con inversiones mucho menores que los rendimientos que ofrecen.
+Como muestra, datos recientes evidencian que la IA tiene el potencial de aumentar los márgenes de ganancia en un 38% y contribuir al crecimiento de 16 industrias diferentes en aproximadamente $14 billones de dólares en 2035.
+Es en este contexto de rápido crecimiento que queremos explicarte cómo funcionan los sensores IoT (Internet of Things, o Internet de las Cosas) impulsados por IA de nuestras soluciones. 
+Esto, no sólo por ofrecer una explicación detallada de su funcionamiento, sino sobre todo para demostrar sus aplicaciones en la transformación de las operaciones de mantenimiento. 
+
+Los procesos de producción industrial son tareas arduas y complejas. 
+Arduas porque implican jornadas de trabajo extensas y riesgos a la seguridad de los trabajadores cuando las máquinas se encuentran en mal estado. Aunado a ello, son complejas porque requieren de amplio conocimiento técnico y de un entrenamiento muy específico.
+Uno de los múltiples usos de la inteligencia artificial en mantenimiento es crear sistemas que simplifiquen, optimicen y fortalezcan los procesos de una planta industrial. 
+¿Cómo exactamente? En TRACTIAN desarrollamos una solución que integra hardware y software orientado al monitoreo de activos industriales, impulsado por un sistema de Inteligencia Artificial e Internet of Things. 
+Actualmente, contamos con dos sensores: el primero es Smart Trac, orientado al análisis de vibraciones; el segundo, Energy Trac, se enfoca en el análisis de corriente, potencias y consumo energético.
+Ahora, antes de entrar de lleno al funcionamiento de los sensores, es importante recordar su impacto en la transformación que suponen para la operación de mantenimiento de una planta industrial.
+
+La combinación de hardware y software que actualmente se desarrolla en torno a la mejora continua de las rutinas de mantenimiento en la industria no se puede pasar por alto: prevención y –sobre todo– predicción son el norte hacia el que apunta el futuro del piso de planta. 
+En ese contexto, vale la pena recordar que el mantenimiento preventivo tiene el objetivo de evitar fallas antes de que ocurran. 
+A través del monitoreo de activos, su dinámica consiste en suspender el sistema de manera programada para llevar a cabo actividades de mantenimiento planificadas, como revisiones de maquinaria y equipos, lubricación, inspecciones, sustitución de piezas, entre otras.
+Algunas de las ventajas que ofrece el mantenimiento preventivo son la optimización de recursos, la prevención de accidentes y el incremento en el rendimiento de la operación.
+Por su lado, el mantenimiento prescriptivo se puede entender como la evolución del preventivo. El monitoreo de los activos industriales se realiza en línea, lo que quiere decir que tanto la recolección como el análisis de datos ocurre en tiempo real.
+Esto significa una importante optimización de recursos, pues elimina la necesidad de subcontratar a una empresa o de capacitar a profesionales dedicados a esta actividad.
+Las empresas que adoptan este tipo de análisis para guiar sus acciones de mantenimiento ya lo experimentan como una realidad: el tránsito del análisis predictivo al prescriptivo consiste en que los diferentes tipos de fallas que pueden perjudicar las máquinas de una planta industrial se diagnostiquen antes de que se produzcan.
+El cambio no es solamente semántico; implica un cambio radical en el paradigma actual del mantenimiento. Impulsado por tecnología como IoT e IA, el mantenimiento prescriptivo está detonando el potencial de la industria.
+En lo siguiente, tenemos una explicación integral de las características de los sensores y cómo su funcionamiento favorece la implementación de los preceptos clave del mantenimiento predictivo y, especialmente, del prescriptivo.
+
+Smart Trac tiene la capacidad de generar planes de mantenimiento preventivo y prescriptivo, totalmente accionables para cualquier tipo de planta industrial.
+En cuanto a su funcionamiento, Smart Trac utiliza un acelerómetro interno para medir el incremento de la vibración de la máquina. La señal de vibración se transmite a un controlador dentro del sensor, que procesa los datos y los transmite a través de una conexión inalámbrica a la plataforma de análisis en la nube de TRACTIAN.
+Una vez que nuestra plataforma recibe la información, nuestro algoritmo patentado en Estados Unidos analiza los datos que recopila el sensor. Con base en ellos es capaz de detectar patrones que indican cuando el activo presenta algún problema, así como para crear diagnósticos y planes de acción prescriptivos; es decir, incluso antes de que sucedan.
+
+
+Ahora, ¿cómo logra adelantarse a estos problemas? 
+Este sistema de monitoreo en línea es capaz de medir la vibración triaxial de una máquina hasta 32 Khz, así como producir un espectro de alta resolución y forma de onda completa que se actualiza cada 5 minutos. También, recopila la temperatura superficial hasta 90°C y detecta de manera automática la desviación de tendencia.
+Estas dos informaciones –vitales para el adecuado funcionamiento del activo–  las contrasta con las horas de funcionamiento de la máquina, dato que obtiene a partir del nivel de vibración que presenta el activo monitoreado.
+Así, además de indicar los cambios más sutiles en estos indicadores, la plataforma clasifica la información en una base de datos históricos, que a su vez compara con el de miles de máquinas similares
+Podemos afirmar, entonces, que aporta todas las funcionalidades que combinan el mantenimiento predictivo y prescriptivo: 
+Este proceso, que combina prescripciones y diagnósticos, reduce la complejidad de cualquier operación, sin importar su tamaño. Logra garantizar un mejor rendimiento de los activos y una extensión de su vida útil, optimizando el plan de mantenimiento en su conjunto.
+Por ejemplo,gracias a que nuestro sistema detecta más de 50 fallas distintas en equipos rotativos, el equipo de mantenimiento puede esperar insights que le especifiquen la  al técnico fallas como:
+Además de indicarle las posibles fallas antes de que sucedan, le indica cuáles son las posibles causas del fallo y los puntos que debe verificar. 
+Pantalla del sistema de gestión que muestra diferentes tipos de fallas identificadas en un activo, sus posibles causas, y los puntos que se deben verificar para prevenir posibles fallas. El sistema mejora con cada ciclo, pues gracias al algoritmo de inteligencia artificial y el aprendizaje de máquinas que lo impulsa, nunca deja de aprender de tus máquinas y las de miles de fábricas más.
+Su instalación es en absoluto compleja y la más rápida del mercado. Nuestros sensores son plug & play: conectarlos al activo que desees monitorear no es invasivo ni dañino, y para enviar los datos que recopila a la nube, no necesita más que acceso a una red 3G o 4G. La configuración se realiza a través de un código QR y el registro en la aplicación. 
+En suma, Smart Trac ofrece la posibilidad a cualquier equipo de mantenimiento de realizar intervenciones eficaces y acertadas en los activos que requieren atención, antes de que la falla ocasione paradas inesperadas. 
+
+Energy Trac es capaz de evaluar la calidad de la red energética de una planta y de presentar dicha evaluación en tiempo real. 
+Su principal objetivo es ayudar a las empresas a controlar y optimizar el consumo de energía en sus instalaciones. El sistema utiliza sensores de corriente para medir el consumo de energía en tiempo real en diferentes puntos de la red eléctrica, que después transmite a la plataforma de análisis en la nube de TRACTIAN.
+El análisis energético que realiza el sensor se organiza en tres ejes principales: 
+El primero es sobre la condición de la red eléctrica. El monitoreo de activos en tiempo real genera una imagen fiel sobre el uso que se le da a la energía en la planta. Lo anterior se logra gracias al cálculo automatizado de los indicadores de energía clave. 
+El segundo eje es, precisamente, el de las magnitudes que el sensor permite al personal de la planta mantener bajo control. Energy Trac puede monitorear en tiempo real las magnitudes principales que se miden en cualquier red eléctrica: la corriente y tensión trifásica, la potencia activa y reactiva, y el factor de potencia.
+Por último, el eje del consumo eficiente de energía se concentra en ayudar al equipo de mantenimiento a entender los patrones de consumo energético con claridad. Esto va desde entender el rango en que se encuentra el consumo de energía y la tarifa, así como a través de un cálculo de consumo real que ayuda a aminorar el costo de las facturas eléctricas. 
+En síntesis, el uso de sensores IoT, combinado con una plataforma que recibe, clasifica y analiza datos a través de la inteligencia artificial y el aprendizaje de máquinas, produce un sistema integrado y asertivo que puede robustecer la toma de decisiones. 
+
+Ahora bien, el complemento que incrementa considerablemente el valor de nuestros productos es la Inteligencia Artificial que articula los sensores en una solución integral.
+Uno de los grandes retos que tienen las empresas es qué hacer con la cantidad de datos que producen sus actividades. Desde la manufactura hasta las finanzas y la logística, todas enfrentan de alguna manera esta situación.
+El aprendizaje automático de nuestras soluciones incrementa la asertividad de sus insights (actualmente, ronda el 89%) a medida que crece el número de máquinas bajo el monitoreo del sistema de TRACTIAN. Gracias a ello puede indicar al equipo de mantenimiento el diagnóstico y la prescripción para tratarlo. 
+Aunque es cierto que no somos la única solución del mercado que combina IA e IoT para identificar fallas y crear planes de mantenimiento industrial, el nivel de detalle que nuestros algoritmos son capaces de procesar en visualizaciones sencillas e intuitivas difícilmente se encuentra en nuestros competidores.
+Más aún: hay múltiples softwares en el mercado que pueden decirle a un administrador cuando un activo presenta una anomalía, pero sólo el de TRACTIAN es capaz de informar cuál es la falla y sugerir un plan de acción para atenderla.
+
+Una de las principales preocupaciones de los equipos de mantenimiento al instalar los sensores de TRACTIAN es no poder contar con una primera impresión del estado de salud de la máquina que quieren monitorear. 
+Para ello también contamos con una solución, a la que llamamos Reporte Inicial de Salud, que es un punto de partida para la estandarización del monitoreo que realizaremos con los sensores. 
+Este Reporte ocurre incluso antes de los procesos de aprendizaje continuo del algoritmo, y lo que ofrece es una visión general acerca de si el activo muestra signos de fallo a través de métricas y comparaciones.
+Lo anterior funciona de la siguiente manera: a partir de una comparación estadística de otras máquinas del mismo tipo en la base de datos de TRACTIAN, se crea una métrica de salud para cada uno de estos tipos, a la que denominamos THS (Tractian Health Standards).
+Se trata de un umbral fijo, al igual que la norma ISO 20816. De esta manera, en aproximadamente dos días, se realiza el diagnóstico y se pueden evaluar las partes del Informe. 
+Gracias a los millones de datos que procesamos a diario, podemos determinar cuándo una medición está fuera del estándar de cualquier activo e informar al administrador, incluso durante la etapa de aprendizaje.
+Creamos un ecosistema de monitoreo y prevención que cuida tus máquinas. Integramos en una sola plataforma todas las necesidades de mantenimiento de una planta industrial, sin importar su tamaño o sector.
+
+Estamos al tanto de que hoy existen múltiples soluciones de IA para atender las necesidades de una planta de mantenimiento en México.
+No obstante, nuestra principal ventaja competitiva para las plantas que aún utilizan mantenimiento correctivo está en el incremento de su ROI: nuestra solución es considerablemente más económica que comprar un activo nuevo o refacciones de manera constante, además de que impedimos parones inesperados que afectan la producción. 
+Como botón de muestra, tenemos el caso de Vibra, una compañía dedicada a la distribución de combustible y lubricantes, posicionada en el top of mind en toda Sudamérica. Desde su planta en Duque de Caxias, ubicada en Río de Janeiro, Brasil, fabrican y exportan Lubrax, un lubricante de alta calidad para automóviles y maquinaria. 
+Después de tomar la decisión de probar nuestras soluciones, comenzaron el proyecto de monitoreo en línea de 30 puntos de los activos de mayor criticidad, enfocados en los productos de mayor demanda en la planta. 
+Tras los primeros 6 meses de prueba, su nuevo programa de monitoreo generó mejoras evidentes en la rutina de mantenimiento del equipo. 
+A finales del año pasado, el sistema de TRACTIAN logró más de 720 mil recolecciones de datos en los activos clave de Vibra. Gracias a ello, se identificaron 5 fallas potenciales, generando un retorno 14 veces mayor que la inversión.
+Esperamos que con este breve ejemplo, queden asentadas varias de nuestras ventajas competitivas, tanto para las empresas que ya utilizan IA, como para las que lo están estudiando. 
+Las que ya implementan esta tecnología, o similares, observarán que nuestra solución es capaz de comparar momentos de operación. Es decir, contrasta la operación de una planta consigo misma y con toda nuestra base de datos, por lo que TRACTIAN tiene la capacidad de crecer al mismo ritmo que las necesidades de sus miles de clientes. 
+
+
+Para quienes aún se encuentran analizando su mejor ruta de incursión, el argumento principal está en el retorno de inversión, como lo explicamos hace un momento. 
+Con el sistema de TRACTIAN, estas empresas podrán identificar las fallas desde la fase inicial y olvidarse de las acciones correctivas de emergencia. Nuestras soluciones están diseñadas para una manutención prescriptiva que disminuye costos adicionales, las interrupciones en la producción y los riesgos de seguridad para el equipo de técnicos. 
+La evolución de la industria sucede a un ritmo vertiginoso: es hoy cuando se debe aprovechar esta oportunidad, si queremos ver resultados mañana. 
+De manera transversal a toda su oferta, TRACTIAN es una decisión tomada con inteligencia. Compruébalo por tu cuenta y agenda una demostración.
+Alex Vedan
+Director
+Alex Vedan
+Director
+Especialista en proyectos de producto con énfasis en tecnología de manufactura digital, innovación y gestión. Es Partner y Director de Marketing TRACTIAN.
+¿Qué es OEM y cómo darles mantenimiento?
+¿Qué es OEM?
+
+La gestión de activos es uno de los pilares fundamentales para tener una alta Eficiencia General de los Equipos (OEE) y poder estar en cumplimiento de normas internacionales como la ISO 50000. En este contexto, el mantenimiento OEM (Original Equipment Manufacturer) permite trabajar en cercanía con los fabricantes de los activos para poder gestionarlos de la mejor manera.
+
+En el ámbito industrial, un activo OEM (Original Equipment Manufacturer) hace referencia a cualquier equipo, co
+Chris Aburto
+Bombas Hidráulicas y sus Principales Fallas
+Las bombas hidráulicas son consideradas el corazón de un equipo, ya que proporcionan a la máquina la fuerza necesaria para funcionar según lo previsto.
+
+Este equipo es esencial en los circuitos hidráulicos, siendo accionado directamente por motores eléctricos. La bomba transmite energía a través de un fluido hidráulico (generalmente aceite o agua), y es considerada un equipo rotativo utilizado para convertir energía mecánica en energía hidráulica (caudal) en fluidos presurizados.
+
+El equipo, esp
+Lidvic Suazo
+Indicador de Mantenimiento: MTTR (Mean Time to Repair)
+MTTR - Tiempo Medio para Reparación es uno de los principales indicadores de mantenimiento; se usa para medir la eficiencia del equipo en resolver las paradas no programadas en los activos de la planta.
+
+Su concepto, como indica su nombre, es el tiempo promedio que se tarda en reparar una avería o falla de una máquina y devolverla a condiciones operativas. Es decir, cuanto mayor sea el MTTR, peor será. Por lo tanto, debemos trabajar para mantenerlo bajo.
+
+Órdenes de Trabajo: ¿por qué se retrasan
+Lidvic Suazo
+Volver al inicio
+Planeación y Programación
+Gestión de Órdenes de Trabajo
+Gestión de Materiales
+Procedimentos Automaticos
+Aplicación Móvil
+Geolocalización
+Indicadores Dashboards Mantenimiento
+Visión General
+Insights y Diagnosticos
+Analisis de Vibraciones
+Activos Monitoreados
+Supervisor
+Visión General
+Asset Performance Management
+Informes de Energia
+Monitoreo de procesos
+Monitoreo de Corriente
+Eficiencia Energética
+Supervisor
+Alimenticia y Bebidas
+Automotriz
+Química
+Minería
+Azucareras y Agrícola
+Convence a Tu Jefe
+Calculadora ROI
+Academy
+Releases
+Ver todos los recursos
+Hable con Nosotros
+Centro de Ayuda
+Politicas
+Condiciones de Uso
+Centro de Confianza
+Conoce a TRACTIAN
+Carreras
+Casos de Estudio
+Prensa
+Comunidad
+Tractian Tecnología Industrial S. de R.L. de C.V.
+Córdoba 23, Cuauhtémoc, 06700, Ciudad de México, CDMX

@@ -1,0 +1,60 @@
+Usas Machine Learning en el día a día y no lo sabes [2024]
+Autor desconocido
+keepcoding.io
+
+ +34 916 331 779
+
+		Algunos de nuestros reconocimientos:
+	
+Home » Blog » ¿Cómo se refleja el machine learning en el día a día?
+¿Alguna vez te has parado a pensar como se refleja el machine learning en el día a día? ¿Qué actividades de la vida cotidiana realizamos de manera automática y no nos damos cuenta de cómo esto puede incidir en la manera en la que abordamos la tecnología?
+En este artículo, te contaremos cuáles son algunas de esas actividades para las que utilizamos machine learning en el día a día y que, en ocasiones, nos pasan desapercibidas.
+¿Qué encontrarás en este post?
+Si bien Facebook no es la red social más usada actualmente y el reconocimiento facial ya no nos sorprende como antes, esto en su inicio fue una noticia de talla mundial. Que esta herramienta tuviera la capacidad de etiquetar a diferentes personas de manera automática a partir del reconocimiento de sus rostros era una cosa, hasta ese momento, impensable.
+Lo sorprendente es que no solo se está reconociendo un rostro, sino que se está asociando un nombre a dicho rostro. Si bien el algoritmo no puede entender que lo que reconoce es una persona, sí que es capaz de definir que el objeto que ha encontrado es un rostro y que pertenece a la clase nombrePersona.
+Esta es, pues, una de las maneras en las que se ve reflejado el machine learning en el día a día.
+Otra de las maneras en las que se refleja el machine learning en el día a día es el descubrimiento semanal de Spotify.
+Lo que hay detrás de este descubrimiento es un sistema de recomendación que en machine learning permite hacer sugerencias en función de lo que le gusta a la gente con los mismos gustos que a ti.
+Los algoritmos de machine learning en el día a día para plataformas de streaming, como Netflix o Amazon Prime Video, funcionan igual.
+El machine learning en el día a día funciona también a través de Google Maps para el tráfico.
+Lo que hace esta herramienta es analizar en tiempo real cómo es el tráfico en determinados sectores y, en función de esto, te brinda la ruta más acertada para el trayecto que quieres hacer. Este es un tipo de aprendizaje automático sin necesidad de intervención humana que muestra las rutas más seguras y eficientes dependiendo de las condiciones del tráfico.
+Google Maps tiene en cuenta factores como construcciones en sectores transitados o accidentes, entre otros factores que pueden influir en el flujo vehicular.
+Por supuesto no podían faltar los asistentes personales como Siri o el Asistente de Google y Alexa. Estos te ayudan con tus mensajes o recordatorios en el calendario, entre otra cantidad de funciones de las que van aprendiendo a medida que los usas.
+Este tipo de dispositivos va aprendiendo patrones con base en la información que les das y, a partir de esto, te recomiendan diferentes cosas que pueden ser de tu preferencia.
+El machine learning en el día a día puede implementarse en múltiples esferas. Incluso hay algoritmos de machine learning que son capaces de detectar tumores, entre muchas otras cosas. Si quieres seguir aprendiendo con nosotros, no olvides inscribirte en nuestro Big Data, Inteligencia Artificial & Machine Learning Full Stack Bootcamp, una formación intensiva en la que aprenderás todo lo que necesitas para convertirte en un teso en el sector IT. ¡Anímate y solicita más información!
+Business Intelligence & Big Data Advisor & Coordinadora del Bootcamp en Data Science, Big Data & Machine Learning.
+
+	Posts más leídos
+
+
+
+				Menú de navegación en HTML: Guía paso a paso			
+
+
+
+				¿Qué es un bootcamp y cuáles son sus beneficios?			
+
+
+
+				Los 5 lenguajes de programación más usados en 2024			
+
+Bootcamps
+Bootcamp de Programación desde Cero – Full Stack Jr. 
+Bootcamp Java Full StackBootcamp en Data Science, Big Data & Machine LearningBootcamp CiberseguridadBootcamp DevOps & Cloud Computing
+Bootcamp en Desarrollo de Apps Móviles iOS Full Stack Bootcamp en Desarrollo WebBootcamp Marketing Digital y Análisis de DatosBootcamp en Blockchain y CriptoactivosBootcamp de UX/UI IA Driven
+
+Síguenos
+  
+
+Código de honor | Política de cookies | Política de Privacidad | Aviso legal | Condiciones de Contratación
+Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios, ofrecer marketing personalizado y mejorar nuestros servicios. Tienes más información en nuestra Política de Cookies. Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+¡CONVOCATORIA ABIERTA!
+Big Data, IA & Machine Learning
+Full Stack Bootcamp
+Clases en Directo | Profesores en Activo | Temario 100% actualizado
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias!

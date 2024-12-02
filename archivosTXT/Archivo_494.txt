@@ -1,0 +1,45 @@
+Github Copilot: ¿Desarrolladores en Peligro de extinción? | by Diego J. Chavez Ch. | Medium
+Diego J. Chavez Ch.
+medium.com
+
+Sign up
+Sign in
+Sign up
+Sign in
+Diego J. Chavez Ch.
+Follow
+--
+Share
+En estos días ha existido mucho polémica sobre el tema de sí esta herramienta de AI (Inteligencia Artificial) creada por Microsoft/Github y OpenAI afectará el futuro laboral de los desarrolladores, es por esto que me pareció conveniente como desarrollador dar mi opinión sobre este tema.
+Primero debemos conocer términos claves como lo es OpenAI, GPT-3 y Codex.
+OpenAI es una organización sin fines de lucro centrada en la investigación y desarrollo de proyectos de inteligencia artificial. Sus fundadores son: Elon Musk, Sam Altman, Ilya Sutskever, Greg Brockman, Wojciech Zaremba. Esta organización es la responsable de crear redes neuronales tan relevantes como GPT-3.
+Ahora que es GPT-3 es un modelo de lenguaje, esto significa que su objetivo es predecir qué es lo siguiente que viene en función de los datos previos. Es como una especie de “autocompletado” que tenemos en buscadores como Google, pero claro, a un nivel mucho mayor. Puedes por ejemplo escribir dos o tres frases de un artículo y GPT-3 se encargará de escribir el resto del artículo. También puedes generar conversaciones y las respuestas estarán basadas en el contexto de las preguntas y respuestas anteriores.
+Codex es una versión mejorada de GPT-3 enfocada y alimentada por código de programación de diferentes lenguajes y además es la AI tras la herramienta de Github Copilot.
+Ahora bien ya conociendo OpenAI nos lleva a comprender por qué esta organización tiene mayor relevancia y cuál ha sido su aporte en el lanzamiento de Github Copilot.
+Github Copilot es un servicio capaz de asistir a los desarrolladores escribiendo porciones de código y sugerencias que les ayuden en su día a día.
+Github Copilot no tiene como objetivo reemplazar a los desarrolladores, sino ser un asistente para que puedan trabajar de forma más ágil evitando la carga de algunas tareas repetitivas, es decir, puedes crear una función (con sus parámetros) o un comentario en tu código detalladamente y esta herramienta entenderá que intentas construir, te mostrara una sugerencia de código de acuerdo al contexto de tu comentario o función y tendrás la opción de aceptarla o no.
+Es decir, simplemente será un copiloto, pero como desarrolladores seremos los pilotos de esta herramienta, ya que nosotros podremos determinar si realmente la sugerencia resuelve el problema planteado en el requerimiento o simplemente no es lo que buscamos logrando rechazarlo o de lo contrario optimizarlo para su uso.
+La herramienta se integra directamente a VS Code. Puede ser instalado como una extensión.
+Por ahora tiene soporte a lenguajes como Python, JavaScript, TypeScript, Ruby y Go.
+La herramienta no es perfecta por lo tanto seremos nosotros como desarrolladores los que realizaremos las pruebas respectivas para saber si se ajusta a lo que necesitamos en nuestro software.
+Si estás trabajando en un lenguaje o framework nuevo, esta herramienta te puede ayudar a optimizar el tiempo de revisar en la web o en la documentación sobre algo en particular, ayudándonos a centrarnos en continuar aprendiendo con código funcional.
+Esta herramienta se alimenta del código a nivel general que se encuentra en proyectos principalmente de Github y en la web en general, plataformas usadas por los diferentes usuarios cuyo código se fundamenten nuestro contexto.
+Actualmente se encuentra disponible como Preview. Se espera que más adelante se lance una versión comercial de Github Copilot, aunque, de momento, no hay una fecha definida.
+CONCLUSIÓN
+No considero que esta herramienta ponga en peligro nuestro trabajo como desarrolladores, estamos en un proceso de cambio, de mejora continua, como ha existido en todo los tiempos y a eso nos dedicamos en este rubro de la tecnología.
+Será una herramienta de gran ayuda para optimizar el tiempo de respuesta y mejorar nuestra propia productividad en la construcción de algún proyecto en curso, mejorando de cierto modo el tiempo de googlear sobre cómo solucionar algún tipo de error que podamos llegar a tener o como conocer la sintaxis de algún lenguaje o framework nuevo que vayamos a implementar.
+Considero que la toma de decisiones siempre estará presente y estará en manos de un desarrollador (un ser humano).
+Si te gusto el contenido déjame saber tu opinión con tu comentario.
+--
+--
+Fullstack Developer | Software Engineer
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams

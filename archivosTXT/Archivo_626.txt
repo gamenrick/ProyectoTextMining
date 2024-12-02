@@ -1,0 +1,35 @@
+Cultura de IA Responsable en tu Empresa | Plain Concepts
+ecanorea
+plainconcepts.com
+
+La inteligencia artificial se ha convertido en la gran revolución tecnológica de la última década y ya se ha convertido en un elemento presente en nuestra vida diaria, muchas veces sin que seamos conscientes de ello.
+Sus innumerables aplicaciones para automatizar procesos y mejorar la productividad de las empresas ha conseguido que su adopción se haya hecho de forma muy rápida. Sin embargo, al ser una tecnología en constante evolución, puede generar algunos recelos a la hora de crear una cultura alrededor de la IA. Por ello, su implementación requiere un cambio de mentalidad en la compañía y empleados, así como un compromiso con una IA responsable que aseguren su correcto uso y alineación con los valores de cada empresa. Analizamos en qué consiste la IA responsable y cómo poder crear una cultura adecuada alrededor de ella.
+Los recientes avances en la IA generativa han abierto un abanico de oportunidades y también está suponiendo un gran reto para las empresas y sus líderes.
+Esta nueva revolución ha puesto a las empresas en una carrera por obtener el valor de la IA rápidamente, pero también la presión pública para administrar de manera efectiva los riesgos éticos, de privacidad y de seguridad de esta tecnología.
+Unas empresas han reaccionado bloqueando algunas herramientas de IA generativa para sus empleados, algunos gobiernos prohibiendo su uso en administraciones públicas, lo que ha supuesto el detonante para regular esta tecnología en instituciones como la Unión Europea.
+Aunque pueda sonar algo alarmante, la buena noticia es que la revolución de la IA está solo en sus inicios y las empresas se encuentran en el momento idóneo para hacer de la IA responsable una capacidad poderosa en sus políticas de empresa. Sin embargo, muchas veces se subestima la inversión y esfuerzo necesarios para poner una estrategia de este tipo en marcha.
+BGC ha realizado una encuesta global a ejecutivos para entender cuál es el grado de preocupación por este tema y muestra que, en promedio, la madurez de la IA responsable mejoró marginalmente de 2022 a 2023. Además, la proporción de empresas que son líderes en IA responsable ha pasado del 16% al 29%, datos bastante esperanzadores que muestran la importancia de poner foco en esta cuestión.
+El término de IA responsable se refiere a la creación y utilización de sistemas de IA que se desarrollan y utilizan de forma ética y justa con el objetivo de minimizar los riesgos asociados a su uso, así como una inteligencia artificial que sea transparente, centrada en las personas y segura.
+Las empresas deben comprometerse a crear sistemas de inteligencia artificial orientados al beneficio de todos, y para ello hay varios principios sobre los que se sustenta la IA responsable.
+Los seis principios de la IA responsable son la base para construir una tecnología que se beneficiosa para todos y no discrimine o perjudique a los humanos. Estos son:
+Según McKinsey & Co, la IA está preparada para transformar roles y aumentar el rendimiento en funciones como ventas y marketing, operaciones con clientes y desarrollo de software. En el proceso, podría desbloquear billones de dólares por una suma de más de 4,4 billones de dólares estadounidenses al año.
+Dado que la mayor parte de los trabajos implica o implicará IA, los trabajadores deben comprender sus beneficios y verla como un compañero de equipo que les ayude a ahorrar tiempo, dinero y les ayude a hacer brillar aún más su talento.
+Algunas de las ventajas que implica son:
+Eliminar los sesgos es uno de los principales retos para la IA responsable, por ello es tan importante aunar los esfuerzos en este sentido.
+Si no se pone especial cuidado a la hora de crear algoritmos, los modelos pueden llegar a un terreno peligroso, especialmente si se dan los datos erróneos, lo que nos puede llevar a una IA poco justa o inclusiva. Los modelos de IA responden a lo aprendido, por lo que la tecnología en sí no es la culpable, sino el juntos de datos con los que la entrenemos. Dar prioridad a la igualdad de género y justicia social es crucial a la hora de diseñar un modelo de Machine Learning que huya de los sesgos y se base en los principios de Responsable AI que mencionábamos más arriba.
+Algunas de las estrategias que se pueden utilizar para abordar esta problemática son:
+
+Para poder crear una hoja de ruta que tenga en cuenta todo lo anterior, lo más importante es la planificación y la comunicación entre todas las partes de la organización:
+La IA generativa ha conseguido democratizar esta tecnología al ponerla al alcance de todos, no solo en manos de expertos en tecnología. Sin embargo, este acceso masivo aumenta los desafíos de la IA, como desarrollo y uso no autorizados para equipos que no tienen experiencia en este campo.
+La IA responsable debe integrarse en toda la estructura de la organización, pero mejorar la conciencia y las medidas de IA responsable requiere cambios en las operaciones y la cultura. Por ello, la elección más indicada es confiar en un socio tecnológico que tenga presente la importancia de este tipo de enfoque empresarial.
+La IA responsable facilita una innovación más rápida y minimiza el riesgo, por ello, las empresas que se suban a la próxima ola de regulación siguiendo prácticas comerciales responsables van a ser capaces de satisfacer a legisladores, accionistas y a clientes con productos y servicios a la vanguardia y seguros.
+En Plain Concepts hemos sido reconocidos como el Partner del Año de Microsoft en IA Responsable gracias a nuestro enfoque en la educación y concienciación sobre los aspectos éticos y el uso responsable de IA se basa en dos pilares fundamentales: la formación interna y la comunicación con nuestros clientes.
+Internamente, brindamos capacitación regular a nuestros empleados sobre los aspectos éticos de la IA, promoviendo un entendimiento profundo de los desafíos y las mejores prácticas en este ámbito. Con los clientes, nos enfocamos en la educación y el asesoramiento, proporcionándoles información clara y precisa sobre los aspectos éticos y el uso responsable, guiándolos en la toma de decisiones éticas en sus proyectos.
+Ponemos a tu disposición diferentes herramientas para poder entender mejor y saber cómo responden los diferentes algoritmos desarrollados. Nos adaptamos a los nuevos cambios legislativos y a tus necesidades para emprender un camino juntos hacia la eficacia y la responsabilidad. Si quieres saber cómo, no dudes en ponerte en contacto con nosotros y nuestros expertos podrán asesorarte.
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

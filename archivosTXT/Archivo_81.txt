@@ -1,0 +1,46 @@
+Inteligencia artificial vs machine learning vs Deep learning | by Michell Fabian Garcia Mendez | Datapath | Medium
+Michell Fabian Garcia Mendez
+medium.com
+
+Sign up
+Sign in
+Sign up
+Sign in
+Michell Fabian Garcia Mendez
+Follow
+Datapath
+--
+Share
+Índice
+Introducción
+¿Qué define realmente a la inteligencia artificial? ¿Es lo mismo que machine learning? Y ¿cómo se relaciona con el deep learning? En un mundo cada vez más impulsado por la tecnología, estas preguntas no sólo son pertinentes, sino que también son cruciales para comprender el alcance y el potencial de la inteligencia artificial (IA) y sus subconjuntos. En este proyecto, exploramos las diferencias y similitudes entre la inteligencia artificial, el machine learning y el deep learning, desentrañando sus complejidades y examinando cómo están moldeando nuestro presente y futuro tecnológico. ¿Será que estamos realmente acercándonos a la creación de sistemas inteligentes que rivalicen con la mente humana?
+Si bien hay diversas ramificaciones dentro de cada campo, podemos definirlos de manera general de la siguiente manera:
+IA (Inteligencia Artificial): se refiere a máquinas capaces de emular el pensamiento humano.
+ML (Machine Learning): una categoría dentro de la IA donde las máquinas son instruidas por humanos para identificar patrones en datos y realizar predicciones.
+DL (Deep Learning): una subsección del ML en la que las máquinas tienen la capacidad de razonar y generar sus propias conclusiones, aprendiendo de manera autónoma.
+La Inteligencia Artificial (IA) implica que un sistema informático pueda sacar conclusiones a partir de datos, creando nuevos algoritmos en el proceso. Aunque la cultura popular a menudo imagina IA como en películas como Terminator, la realidad actual es que todavía estamos lejos de ese nivel de sofisticación. Sin embargo, gracias al avance de los chatbots, que pueden mantener conversaciones más naturales, estamos superando algunas limitaciones. Aún así, estos sistemas dependen de comentarios previos y no pueden pensar por sí mismos. La IA es un término amplio que engloba muchas ideas, por lo que es importante entender sus aplicaciones actuales en lugar de especular sobre escenarios distópicos.
+El machine learning es un campo dentro de la inteligencia artificial que se enfoca en desarrollar sistemas que pueden mejorar su rendimiento en tareas específicas a medida que interactúan con datos. En lugar de ser programados de manera tradicional, estos sistemas utilizan algoritmos y técnicas estadísticas para reconocer patrones en los datos y tomar decisiones basadas en estos patrones. En esencia, el machine learning implica enseñar a las computadoras a aprender de la información disponible y utilizar ese conocimiento para realizar tareas de manera más efectiva y precisa. Es una herramienta cada vez más importante en una amplia gama de campos, desde la medicina hasta la agricultura, ya que permite a las máquinas adaptarse y mejorar continuamente con la experiencia.
+El Deep Learning es una rama avanzada del aprendizaje automático que se inspira en cómo funciona el cerebro humano. Utiliza redes neuronales artificiales profundas para aprender y realizar tareas complejas. A diferencia de otros métodos, donde a menudo se requiere la extracción manual de características, el Deep Learning permite que los modelos aprendan automáticamente a partir de los datos. Esto significa que pueden comprender y procesar información sin intervención humana directa. El Deep Learning ha demostrado ser especialmente eficaz en áreas como el reconocimiento de imágenes y el procesamiento del lenguaje natural. Ha impulsado avances significativos en la inteligencia artificial y está siendo utilizado en una variedad de campos, desde la medicina hasta la ingeniería.
+Aspecto práctico
+Para este punto, usaremos https://rytr.me . Es una plataforma de redacción asistida por inteligencia artificial que ayuda a generar contenido de calidad de forma rápida y eficiente :
+Una vez ya te registres te saldrá este pequeño recuadro en la parte izquierda donde tú tendrás que completar los espacios en blanco según a lo que tu necesites.
+Una vez que ya elegiste el tema que te interesa y las palabras claves que quieres que tenga le darás a Ryte para mi -> y de esta manera Ryte te creará un documento con todo el contenido que anteriormente elegiste que tuviera.
+A continuación un cuadro comparativo de la inteligencia artificial (IA), el machine learning (ML) y el deep learning (DL) en términos de sus características principales:
+En resumen, la IA es el campo general que abarca la creación de sistemas inteligentes, mientras que el ML es una técnica específica dentro de la IA que se centra en el aprendizaje a partir de datos. El DL, por su parte, es una técnica más avanzada de ML que utiliza redes neuronales profundas para aprender de manera automática y representar datos de forma jerárquica.
+Conclusion
+En conclusión, la inteligencia artificial, el machine learning y el deep learning representan diferentes niveles de sofisticación en la capacidad de las computadoras para aprender y realizar tareas de manera autónoma. Mientras que la inteligencia artificial es el campo general que abarca la creación de sistemas inteligentes, el machine learning se enfoca en el aprendizaje a partir de datos y el deep learning utiliza redes neuronales profundas para aprender y representar datos de manera automática y jerárquica. Estas tecnologías están transformando una amplia variedad de industrias y aplicaciones, desde el reconocimiento de voz hasta la conducción autónoma, y prometen un futuro emocionante en el que las máquinas pueden realizar cada vez más tareas de manera inteligente y eficiente.
+Referencias Bibliográficas
+https://blogs.uoc.edu/informatica/machine-learning-vs-deep-learning-diferencias/
+--
+--
+Empieza a darle curso a tu carrera. Adquiere nuevas habilidades y dale visibilidad a tu trabajo, desarrolla tu portafolio de proyectos y obtén una certificación remota oficial. ¡Somos Datapath, aceleramos el talento en Data & Cloud, Analytics e Inteligencia Artificial en LATAM!
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams

@@ -1,0 +1,28 @@
+La IA generativa y sus efectos en la desinformación | Red internacional de periodistas
+Autor desconocido
+ijnet.org
+
+Un proyecto de 
+Un proyecto de 
+Desde que ChatGPT hizo su aparición en noviembre de 2022, la inteligencia artificial generativa (IA) ha dominado la atención del público. Esta tecnología de rápida evolución ya está afectando a sectores como la educación, los viajes y la administración pública. Y los medios de comunicación no serán una excepción.
+La IA generativa altera la manera en que se elaboran y consumen contenidos, lo que plantea nuevos desafíos en la lucha contra la desinformación. En una reciente clase magistral del proyecto Desarmar la desinformación del ICFJ, Aimee Rinehart, directora de producto de la estrategia de IA de AP, compartió sus ideas al respecto.
+Rinehart señaló tres formas en que los periodistas pueden determinar si una imagen puede haber sido generada con IA.
+Rinehart también compartió el método SIFT de fact-checking: detenerse, investigar la fuente, buscar coberturas del supuesto hecho, rastrear afirmaciones, citas y medios hasta su contexto original. El método fue desarrollado por Mike Caulfield, investigador científico del Center for an Informed Public de la Universidad de Washington.
+"Estamos entrando en una era de nuevas tecnologías, pero es importante volver a lo básico para identificar la fuente del contenido", dijo.
+Este año, las principales plataformas sociales dieron marcha atrás en sus esfuerzos por combatir la desinformación. Como resultado, en el futuro podría haber menos supervisión de los contenidos en línea, lo que podría aumentar la vulnerabilidad del público a la desinformación.
+En Estados Unidos, los líderes republicanos también pretenden frenar el gasto federal destinado a investigar la información falsa en línea, lo que afectará nuestra comprensión del impacto público de la desinformación.
+"Este congelamiento de fondos destinados a la investigación de la desinformación hará probablemente que sepamos menos sobre las elecciones de 2024 y que no entendamos dónde se producirán los daños, si es que se producen", dijo Rinehart.
+Aun así, no es una conclusión inevitable que la IA generativa vaya a intensificar el consumo de desinformación. Un estudio reciente reveló que una mayor cantidad de contenidos falsos generados por IA no significa necesariamente que la gente los consuma más.
+"Si la gente quiere contenidos problemáticos, los encuentra. No es que con la IA se vayan a ver inundados de desinformación y no tengan otra forma de acceder a contenidos válidos", dijo Rinehart.
+Los avances en tecnología de IA están mejorando la calidad de los contenidos falsos, añadiendo detalles cada vez más realistas.
+"DALL-E3 y probablemente ChatGPT4 y otros avances van a adivinar cada vez mejor lo que quisiste decir", dijo Rinehart.
+Tanto los investigadores como los desarrolladores de software han demostrado que actualizar y mejorar la IA generativa es asequible y factible. Un estudio de WIRED mostró que los desarrolladores podían manipular el software para generar contenido antirruso por sólo US$400. Un científico de datos de Nueva Zelanda fue capaz de crear un chatbot de derechas por menos de US$300.
+"Es probable que otras personas utilicen esto en su propio beneficio, ya sea porque se presentan a unas elecciones o porque dirigen un negocio y tienen mucho que ganar cambiando la narrativa", observó Rinehart.
+Algunas empresas son pioneras en el rastreo de imágenes generadas por IA, aunque hasta la fecha han tenido un éxito desigual. Las marcas de agua, por ejemplo, pueden eludirse o manipularse fácilmente. OpenAI, por su parte, está desarrollando una herramienta de aprendizaje automático para identificar imágenes creadas por DALL-E, que se espera que tenga una precisión del 99%.
+La IA generativa jugará un papel cuando muchos países celebren elecciones en 2024. En Estados Unidos, ya se está utilizando en anuncios electorales, audio, videos e imágenes.
+El equipo de campaña del candidato presidencial republicano, Ron DeSantis, generó imágenes falsas del expresidente Donald Trump y el exasesor médico jefe de la Casa Blanca, Anthony Fauci, abrazándose. En otro anuncio, un grupo del Comité de Acción Política (PAC) de DeSantis utilizó IA para generar la voz de Trump en un video que atacaba a la gobernadora republicana de Iowa, Kim Reynolds.
+En países en los que se hablan muchos idiomas, la IA generativa puede ayudar a las campañas políticas a llegar a públicos a los que de otro modo no podrían llegar. En la India, por ejemplo, se empleó la tecnología en una canción viral humorística sobre el actual primer ministro, Narendra Modi, en varios idiomas diferentes.
+"ChatGPT está en el radar de la gente. Creo que si eres fact-checker ya has visto las ramificaciones, especialmente en Estados Unidos", dijo Rinehart. "Y probablemente ya sepas que tu trabajo va a ser más difícil en los próximos dos o tres años. Si alguna vez hubo un momento para compartir recursos, tácticas y técnicas, ahora es el momento".
+Desarmar la desinformación es un programa dirigido por el Centro Internacional para Periodistas (ICFJ) con financiación de la Fundación Scripps Howard, organización afiliada al Fondo Scripps Howard, que apoya los esfuerzos benéficos de The E.W. Scripps Company. El proyecto, de tres años de duración, capacitará a periodistas y estudiantes de periodismo para luchar contra la desinformación.
+Foto de Mojahid Mottakin en Unsplash.
+Emma Manring is currently a Program Assistant for ICFJ. She supports several programs in Latin America and is fluent in Spanish. 

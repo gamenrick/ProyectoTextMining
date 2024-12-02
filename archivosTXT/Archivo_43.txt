@@ -1,0 +1,18 @@
+¿Qué Es Deep Learning Y Cómo Ayuda A Tu Negocio?
+Autor desconocido
+codster.io
+
+Deep learning, en español “aprendizaje profundo”, se ha convertido en una importante práctica de inteligencia artificial con creciente penetración en el mundo empresarial.
+Actualmente, compañías de la talla de Google la usan, y se estima, según estudio de Report Linker, que su mercado global al cierre de 2020 era de 4,4 mil millones de dólares. Se espera además que llegue a 44,3 mil millones de dólares en 2027. Evidencia de lo determinante que puede ser en el éxito de los negocios.
+En palabras de Geoffrey Hinton, uno de los principales investigadores en esta área, el aprendizaje profundo es “un nuevo tipo de inteligencia artificial en que logras que la máquina aprenda de su propia experiencia”. 
+La idea es que los ordenadores reproduzcan la forma en que aprende el cerebro humano: reforzando las conexiones entre sus miles de millones de neuronas.
+En la práctica, se usan poderosas computadoras, conjuntos de datos masivos, redes neuronales artificiales entrenadas y algoritmos para que las máquinas aprendan por sí mismas y adquieran la capacidad para desarrollar tareas complejas, difíciles de realizar mediante la programación tradicional.
+Al tratar el asunto de qué es deep learning, no debes confundirla con machine learning.
+Una de las principales diferencias entre estas tecnologías, es que en el enfoque machine la computadora necesita ser guiada durante el aprendizaje, pues sus patrones de comportamiento los genera solo mediante la práctica y la repetición. En deep learning, en cambio, la máquina aprende por sí misma. Se puede decir que este último va un paso más allá que el machine learning.
+La tecnología conocida como machine learning comenzó en la década de los cincuenta y fue Arthur L. Samuel, pionero en informática, quien acuñó el concepto en 1952. Ya a mediados de los ochenta empezó a posicionarse como una práctica realmente importante en el campo de la inteligencia artificial.
+Específicamente, Geoffrey Hinton demostró junto a otros investigadores que podían programar máquinas para mejorar el reconocimiento de formas y la predicción de palabras. Ya en 2012, luego de varios avances en el área, desarrolló una red de 650.000 “neuronas”, entrenada con 1,2 millones de imágenes, que redujo en casi un 50% la tasa de error en reconocimiento de objetos. Había nacido el deep learning.
+Desde entonces, el desarrollo del aprendizaje profundo ha ido acelerando, impulsado por otras tecnologías de vanguardia como el Big Data.
+Esta tecnología tiene una amplia aplicación, que va desde la configuración de traductores inteligentes y desarrollo de lenguaje natural para asistentes virtuales, hasta tratamiento avanzado de imágenes, automatización de procesos y análisis predictivo de datos.
+Entre las muchas aplicaciones específicas de la tecnología, puedes identificar las preferencias de clientes, automatizar el marketing personalizado, detectar fraudes, análisis de imágenes médicas en poco tiempo y con alta precisión, creación de sistemas de identificación/IP y acciones de ciberseguridad en general.
+Al final, dichas posibilidades pueden impulsar la transformación digital de tu negocio. De hecho, esta tecnología enfocada en las empresas logra la combinación de estrategia y operaciones con foco en la innovación y data analytics, lo que se traduce en un aumento de la productividad y en una cadena de valor más óptima.
+En Codster, somos expertos en inteligencia artificial, machine learning y deep learning. Podemos ayudar a tu empresa a implementar aplicaciones innovadoras basadas en estas tecnologías, garantizando un producto de alta calidad y completamente alineado con las necesidades del negocio y de sus clientes.

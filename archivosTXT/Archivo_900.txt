@@ -1,0 +1,35 @@
+Todo lo que debes saber sobre el deep learning  - Telefónica
+Juanma Rojas
+telefonica.com
+
+Telefonica.com
+ El deep learning es un concepto que cada vez adquiere mayor relevancia en las estrategias digitales gracias a las posibilidades que otorga.
+05/07/2022
+Se trata de un campo de la inteligencia artificial (IA) en el que algoritmos imitan la manera en que el cerebro humano procesa datos.  
+Esto ocurre gracias a redes neuronales artificiales que buscan emular la manera en que el cerebro humano opera, para identificar patrones y generar predicciones a partir de grandes volúmenes de datos. Todo, sin la necesidad de supervisión, por lo que se trata de un tipo de machine learning, pero mucho más avanzado que el tradicional. 
+Dado el potencial de esta tecnología para extraer información de valor -por ejemplo, para identificar oportunidades de negocio o mejorar procesos-, diversas industrias están invirtiendo en desarrollos relacionados con el deep learning. 
+Se estima que este mercado pasará de USD$ 6.850 millones en 2020 a USD$ 179.960 millones en 2030, dando cuenta de la importancia que tiene para las estrategias empresariales. 
+Como vimos anteriormente, el deep learning busca imitar el funcionamiento del cerebro humano, utilizando estructuras lógicas que se asemejan al sistema nervioso, con un sistema de “neuronas artificiales” capaz de percibir diferentes características de los objetos analizados. 
+Para procesar la data, estas redes neuronales se organizan en capas que integran múltiples unidades de procesamiento interconectadas, las cuales trabajan simultáneamente, emulando la forma en que el cerebro procesa la información.  
+Estas capas están organizadas de la siguiente manera: 
+Mediante continuo entrenamiento, la red neuronal artificial irá mejorando el desempeño de sus predicciones al comparar las respuestas con los resultados esperados.  
+Estas redes neuronales artificiales representan algoritmos capaces de reconocer patrones y distinguir, por ejemplo, imágenes o sonidos específicos en cosa de segundos. 
+Y aunque inicialmente su capacidad predictiva será muy limitada, tras muchas repeticiones el algoritmo será capaz de replicar con exactitud el resultado conocido en función de los datos utilizados, adquiriendo mayor autonomía y precisión. 
+Habiendo aclarado qué es deep learning y cómo funciona, veamos algunos de sus principales usos en la actualidad son: 
+Dadas las aplicaciones que tiene, el deep learning se posiciona como una de las tecnologías de mayor impacto para el entorno empresarial, generando beneficios como: 
+El deep learning está marcando la pauta en la transformación digital de las organizaciones, impactando en áreas como flujos de trabajo, servicio al cliente y optimización de procesos.  
+Dar el salto hacia esta tecnología es determinante para potenciar la competitividad y, con ello, fortalecer el posicionamiento de las empresas en un mercado cada vez más digitalizado. 
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

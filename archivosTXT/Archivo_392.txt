@@ -1,0 +1,20 @@
+¿Cómo democratizar la IA generativa en la industria móvil? Expertos responden en Wired Summit 2024 - UnoTV
+Georgina Becerril
+unotv.com
+
+Nuevos avances en inteligencia artificial (IA) generativa aparecen todos los días, mientras que asistentes, chatbots y aplicaciones se multiplican. Sin embargo, cómo democratizar esta tecnología en la industria de telefonía móvil, una pregunta que respondieron especialistas en Wired Summit 2024.
+Un ejemplo de democratización es lo que ha emprendido OPPO, que se han planteado introducir herramientas en todas sus series, ya sean de gama alta o media.
+Karla O’Farril, PR Manager de OPPO México, compartió que la compañía china pretende equipar a alrededor de 50 millones de dispositivos móviles con características impulsadas por IA generativa para finales de este año. Una tecnología que se centra en la creación de contenido original a partir de datos existentes.
+“OPPO lleva más de 10 años invirtiendo en inteligencia artificial. A principios de este año sacó su primer teléfono con IA, el OPPO Find X7, y en junio nos comprometimos a llevar esta tecnología al mayor número de personas posibles”, dijo O’Farril durante la mesa “Innovando y democratizando la inteligencia artificial móvil para todos”, que formó parte de Wired Summit 2024, que tuvo lugar este miércoles en el WTC de la CDMX.
+O’Farril añadió que gran parte de la IA generativa que se está integrando en los dispositivos de OPPO es en función del usuario.
+“Lo dividimos en dos, en productividad efectiva y en creatividad”, dijo Karla O’Farril.
+Karla O'Farril, PR Manager de OPPO México, explicó algunas herramientas de IA generativa que implementó la compañía china en sus dispositivos en Wired Summit 2024. pic.twitter.com/NwDW4cJeaG
+En la parte de productividad, la PR Manager de OPPO México también destacó la función AI LinkBoost, una tecnología de optimización de red que ayuda a mantener una conexión estable y fluida, incluso en situaciones complejas.
+“El teléfono está equipado con antenas 360 y vas a tener señal donde te encuentres. Lo que hace el LinkBoost es buscar con inteligencia artificial qué antena tomar para que tengas señal”.
+Karla O’Farril aseguró que algunas de estas herramientas de IA generativa suelen implementarse en celulares de gama alta, pero compartió la necesidad de democratizar la tecnología.
+“Queremos llevar la IA a través de dispositivos móviles que sean accesibles, que no tengas que comprar un teléfono insignia”.
+OPPO toma esta decisión en un escenario donde el gasto promedio por smartphone en el país es de 4 mil 543 pesos, mientras que la frecuencia de reemplazo es de 25.4 meses, según Competitive Intelligence Unit (CIU), una firma de investigación de mercados con alcance global.
+Por su parte, Ricardo Anaya, PR Manager de Qualcomm en Latinoamérica, compartió su apuesta de llevar la IA en Snapdragon. “Estamos haciéndolo accesible a todos, desde la gama más baja de Snapdragon, que es la serie 4, tenemos capacidad de procesamiento”.
+Anaya destacó que para que esto sea posible se necesita una IA híbrida, es decir, utilizar tanto las capacidades de procesamiento en el dispositivo (localmente) como las de procesamiento en la nube (remotamente).
+“Nosotros lo que queremos en Qualmcomm es que la inteligencia artificial sea híbrida. Es más segura, responsable y sustentable porque gasta menos energía”, recalcó en Wired Summit 2024.
+Cabe destacar que este líder en el desarrollo de chips para dispositivos móviles colabora con OPPO, una empresa que en México registró durante 2023 el mayor incremento de participación de mercado al pasar de 2.1% a 3.4%, de acuerdo con datos de CIU.

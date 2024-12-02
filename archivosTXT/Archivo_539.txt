@@ -1,0 +1,35 @@
+El nuevo antibiótico descubierto con inteligencia artificial capaz de matar a una superbacteria mortal - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, McMaster University
+Con la ayuda de inteligencia artificial (IA), un grupo de científicos descubrió un nuevo antibiótico que puede matar una especie mortal de superbacteria.
+La IA permitió reducir una lista de miles de compuestos químicos hasta quedar con unos cuantos que fueron analizados en el laboratorio.
+El resultado fue un potente antibiótico experimental llamado abaucina, que deberá ser sometido a nuevas pruebas antes de ser usado como tratamiento.
+Los investigadores de Canadá y Estados Unidos afirman que la IA tiene el poder de acelerar enormemente el descubrimiento de nuevos fármacos.
+Es el último ejemplo de cómo esta herramienta pueden ser una fuerza revolucionaria en la ciencia y la medicina.
+Los antibióticos matan a las bacterias. Sin embargo, durante décadas han hecho falta nuevos y las bacterias se han vuelto cada vez más difíciles de tratar, debido a que desarrollan resistencia a los atibióticos que ya tenemos.
+Se estima que más de un millón de personas al año mueren a causa de infecciones provocadas por agentes que resisten el tratamiento con antibióticos.
+Los investigadores se centraron en una de las especies de bacterias más problemáticas: la Acinetobacter baumannii, que puede infectar heridas y causar neumonía.
+Aunque no sea frecuente oír hablar de ella, se trata de una de las tres superbacterias que la Organización Mundial de la Salud identifica como una amenaza "crítica".
+A menudo es capaz de ignorar múltiples antibióticos y causar problemas en hospitales y residencias de ancianos, donde puede sobrevivir en superficies y equipos médicos.
+El doctor Jonathan Stokes, investigador de la Universidad McMaster en Canadá, describe a esta superbacteria como el "enemigo público número uno", ya que es "realmente común" encontrar casos en los que es "resistente a casi todos los antibióticos".
+Fuente de la imagen, McMaster University 
+Para encontrar el nuevo antibiótico, los investigadores primero entrenaron a la IA. Tomaron miles de medicamentos de los que se conocía la estructura química precisa y los probaron manualmente en la Acinetobacter baumannii, para identificar cuál podía ralentizar o matar a la superbacteria.
+Esta información se introdujo en la IA para que aprendiera las características químicas de los medicamentos que podían atacar a la bacteria.
+Luego, la IA arrojó una lista de 6.680 compuestos cuya eficacia se desconocía. Los resultados, publicados en la revista científica Nature Chemical Biology, mostraron que la herramienta tardó una hora y media en producir una lista corta.
+Los investigadores probaron 240 en el laboratorio y encontraron nueve antibióticos potenciales. Uno de ellos fue el potente antibiótico abaucina.
+Los experimentos de laboratorio mostraron que puede tratar heridas infectadas en ratones y matar muestras de A. baumannii en pacientes.
+"Aquí es cuando comienza el trabajo", dijo Stokes.
+El siguiente paso es perfeccionar el fármaco en el laboratorio y luego realizar ensayos clínicos. 
+Stokes advierte que para que los primeros antibióticos descubiertos con la ayuda de IA puedan ser recetados quizás habrá que esperar hasta 2030.
+Curiosamente, este antibiótico experimental no tuvo efecto sobre otras especies de bacterias y solo funciona en con la A. baumannii.
+Muchos antibióticos matan las bacterias indiscriminadamente. Los investigadores creen que la precisión de la abaucina dificultará la aparición de resistencia a los medicamentos y podría provocar menos efectos secundarios.
+Fuente de la imagen, Getty Images
+En principio, la IA podría detectar decenas de millones de compuestos potenciales, lo cual no puede lograrse manualmente.
+"La IA aumenta la tasa y, en un mundo perfecto, reduce el costo de descubrir estas nuevas clases de antibióticos que necesitamos desesperadamente", señaló Stokes.
+Los investigadores probaron el uso de IA en el descubrimiento de antibióticos con la bacteria E. coli en 2020, pero ahora planean centrarse en otros agentes infecciosos: Staphylococcus aureus y Pseudomonas aeruginosa.
+"Este hallazgo respalda aún más la premisa de que la IA puede acelerar y expandir significativamente nuestra búsqueda de nuevos antibióticos", dijo el profesor James Collins, del Instituto de Tecnología de Massachusetts.
+"Estoy emocionado de que este trabajo nos ayude a demostrar que podemos usar la IA para combatir patógenos problemáticos como la A. baumannii", agregó.
+Recuerda que puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

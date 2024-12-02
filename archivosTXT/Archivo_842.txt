@@ -1,0 +1,49 @@
+Inteligencia artificial generativa en la atención a la salud men | Psiquiatria.com
+Autor desconocido
+psiquiatria.com
+
+Síguenos en nuestras redes sociales:
+Esta página web utiliza cookies para facilitar su navegación y realizar estudios y estadísticas de navegación. Puede deshabilitarlas en su navegador, pudiendo en tal caso limitarse la navegación y servicios del sitio web. Si no las deshabilita y continúa navegando, está consintiendo la utilización de las cookies de este sitio. Para más información consulte nuestra sección de Avisos Legales e información de cookies. Al pulsar "acepto" reconoce haber leído y estar de acuerdo con nuestra última modificación en las condiciones legales.
+Toda la información incluida en la Página Web está referida a productos del mercado español y, por tanto, dirigida a profesionales sanitarios legalmente facultados para prescribir o dispensar medicamentos con ejercicio profesional. La información técnica de los fármacos se facilita a título meramente informativo, siendo responsabilidad de los profesionales facultados prescribir medicamentos y decidir, en cada caso concreto, el tratamiento más adecuado a las necesidades del paciente.
+Autor/autores: 
+
+Torous y C. Blease
+
+
+Se está debatiendo intensamente el potencial de la inteligencia artificial (IA) en la atención sanitaria, dada la fácil accesibilidad de programas como ChatGPT.
+Si bien generalmente se reconoce que esta tecnología nunca sustituirá a los profesionales clínicos, debemos ser conscientes de los cambios inminentes en torno a la IA que respaldan:
+a) el trabajo rutinario de oficina, como la facturación,
+PUBLICIDAD
+b) la documentación clínica,
+c) la educación médica, y
+d) el seguimiento sistemático de los síntomas. Es probable que estos cambios se produzcan con rapidez.
+En el verano de 2023, el mayor proveedor de historiales médicos electrónicos de EE. UU. , Epic Systems, anunció que se asociaba con OpenAI para integrar la tecnología ChatGPT1. El profundo impacto que estos cambios tendrán en el contexto y prestación de la atención de salud mental merece atención, pero a menudo se pasa por alto la cuestión más fundamental de los cambios en la naturaleza de la atención de salud mental en términos de mejorar la prevención, diagnóstico y tratamientos.
+La investigación en muestras no clínicas sugiere que la IA puede aumentar los programas de apoyo basados en texto, pero las evaluaciones se han centrado en la empatía percibida más que en los resultados clínicos.
+Aunque lo primero es un avance importante, es solo el primer paso para avanzar de la viabilidad a la aceptabilidad y de la eficacia a la efectividad. Un siglo de libros de autoayuda accesibles, más de 60 años de chatbots de salud mental (Eliza se creó en 1959), casi 30 años de internet en el hogar con acceso gratuito a terapia cognitivo-conductual y salas de chat online, más de una década de aplicaciones de salud mental basadas en teléfonos inteligentes y programas de apoyo de mensajes de texto, y la reciente expansión de la telesalud basada en videos, ponen de relieve en conjunto que el acceso a los recursos no es una panacea para la prevención.
+El verdadero objetivo de los programas preventivos de IA no debería ser replicar trabajos anteriores, sino desarrollar nuevos modelos capaces de proporcionar un apoyo personalizado, adaptado al entorno y a la cultura, y escalable que funcione de manera efectiva para los usuarios de todos los países y regiones. 
+Los programas informáticos de diagnóstico existen desde hace décadas y no han transformado la asistencia. Muchos estudios realizados hasta la fecha sugieren que los nuevos modelos de IA pueden diagnosticar enfermedades mentales en el contexto de preguntas de exámenes estandarizadas o ejemplos de casos sencillos.
+Esta es una investigación importante, y existe evidencia de mejora con los nuevos modelos, pero el enfoque contradice la realidad clínica de cómo se realiza o utiliza el diagnóstico en la atención clínica. 
+El futuro del diagnóstico en el siglo XXI puede ser más inclusivo, basarse en diversas fuentes de información y estar orientado a los resultados.
+El verdadero objetivo de los programas de IA será integrar información procedente de exámenes clínicos, autoinformes de los pacientes, fenotipado digital, genética, neuroimagen y juicio clínico en nuevas categorías diagnósticas que puedan reflejar mejor la naturaleza subyacente de la enfermedad mental y ofrecer valor práctico para orientar tratamientos y curas eficaces.
+Para acceder al texto completo consulte las características de suscripción de la fuente original:https://www.wpanet.org/
+PUBLICIDAD
+
+ 
+
+
+
+
+
+ 
+
+Palabras clave: inteligencia artificial, salud mental, prevención
+ 
+Url corta de esta página: http://psiqu.com/2-73773
+
+¡Novedad en libros!
+La visión actual del suicidio, científicamente fundamentada, es que, aunque ...
+
+
+
+Precio: 60€
+La información proporcionada en el sitio web no remplaza si no que complementa la relación entre el profesional de salud y su paciente o visitante y en caso de duda debe consultar con su profesional de salud de referencia.

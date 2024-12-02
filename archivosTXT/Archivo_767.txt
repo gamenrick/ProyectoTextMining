@@ -1,0 +1,72 @@
+Mitos y realidades de la inteligencia artificial en la industria de la seguridad electrónica
+Israel Austria, ingeniero de soluciones de Milestone Systems para América Latina.
+tecnoseguro.com
+
+Desde Milestone Systems el ingeniero de soluciones para América Latina, Israel Austria, ofrece su visión acerca del estado de avance de la IA en el mundo de la seguridad electrónica. ¿Qué podemos hacer hoy en día con esta tecnología y qué nos tardaremos en alcanzar?
+Hoy en día es muy común escuchar el término inteligencia artificial (IA), ¿pero sabemos realmente qué significa?
+Es fácil pensar que toda tecnología etiquetada como “smart’ es inteligente, pero esto no es así de forma necesaria. Un ejemplo recurrente en la industria son las analíticas inteligentes, la mayoría de las cuales, a pesar de tener esta denominación, son simplemente algoritmos predefinidos que dependen de alguien para que los modifique, actualice y mejore; en otras palabras, no necesariamente aprenden algo nuevo con el paso del tiempo.
+En su forma más básica, la IA alude a la capacidad de la máquina para aprender por sí misma, esto es diferente al aprendizaje automático —machine learning— referido a la forma en que se está aplicando la IA a la evaluación de datos, tanto en un nivel superficial como en uno profundo.
+También tenemos las analíticas, un concepto que abarca todos los resultados que se le presentan al usuario, pero que no necesariamente están relacionados con la IA.
+ 
+Por tradición el análisis de video se ha basado en reglas decretadas por un programador humano que establece parámetros fijos para cada situación que el sistema debe reconocer. En comparación, la tecnología de análisis de contenido basada en IA puede aprender sobre los objetos de forma directa en el video, de sus relaciones entre sí y su comportamiento.
+Esto hace posible identificar los objetos de manera ‘inteligente’ y clasificar las situaciones. El sistema podrá comprender si lo que ‘observa’ es un comportamiento normal o anormal y alertar al operador sobre actividades inusuales, lo que llevará al desarrollo de sistemas predictivos en el futuro.
+La inteligencia artificial y el aprendizaje automático se aplican a dispositivos y equipos para ejecutar funciones que el ser humano no podría; por ejemplo, sentarse y mirar todas imágenes de las cámaras simultáneamente.
+Nuestra atención no funciona de esa manera, pero las máquinas son en extremo buenas y detalladas en esto. Aprovechar los datos y videos de los dispositivos es la base para combinar la inteligencia de la máquina con el juicio humano.
+En otras palabras, la inteligencia artificial es la evolución del análisis de video, pero en lugar de crear algoritmos sobre lo que estamos viendo, está construyendo sistemas que en realidad aprenden lo que está sucediendo sobre la marcha. De forma inherente, la calidad seguirá mejorando con el tiempo y eso ayudará a impulsar una adopción más amplia con mejor calidad. 
+En el pasado, debido a las limitaciones de la capacidad de procesamiento del hardware, el aprendizaje automático solo podía implementar un aprendizaje superficial de conjuntos de datos muy grandes.
+Con los recientes y significativos avances en el poder de las unidades de procesamiento gráfico (GPU), ahora es posible utilizar un enfoque de aprendizaje profundo en el que se puedan ver datos en muchos más niveles o dimensiones, de ahí la palabra “profundo”.
+
+Milestone, por ejemplo, se ha trasladado a una nueva plataforma de cómputo de GPU que recodifica el software con un nuevo tipo de codificación llamada paralelización.
+La paralelización de software es una técnica de codificación para dividir un solo problema en cientos de problemas más pequeños. El software puede ejecutar esos 100 o 1000 procesos en 1000 núcleos de procesamiento, en lugar de esperar a que un núcleo procese los datos 1000 veces. 
+Con la paralelización, hay un gran avance en la rapidez con la que podemos resolver un problema. Y cuanto más rápido podamos resolver un problema, con más profundidad se pueden procesar los conjuntos de datos.
+Históricamente el gran desafío de la IA ha sido la potencia, pues se necesita una gran cantidad de cómputo para procesar todos estos datos. Sin embargo, con NVIDIA, el proceso de computación ya no es un problema.
+Ahora el reto para la arquitectura e infraestructura general de estos proyectos pasa por cómo asegurarlos. Es una gran cantidad de datos y, si son valiosos para nosotros, es probable también que lo sean para otras personas, ¿cómo podemos mantener el control sobre eso? Ese es probablemente el agujero más grande que vemos en la mayoría de las implementaciones: la falta de atención hacia los elementos de ciberseguridad.
+Aún estamos en la infancia de la inteligencia artificial, pasará bastante tiempo antes de que la IA tenga el potencial de reemplazar las capacidades de un equipo humano. El escenario más probable es que la inteligencia artificial se aproveche para procesar muchos más datos en mucho menos tiempo, lo que permitirá a los usuarios finales tomar mejores decisiones con mayor rapidez.
+Siempre necesitaremos a las personas, solo queremos darles mejores datos para la toma de decisiones, gente que haga un análisis de los datos proporcionados; el video sin duda será una herramienta crucial en este proceso que asegurará el acceso visual en tiempo real, convirtiendo los datos en información visual.
+Combinar la inteligencia de la máquina con el juicio humano es un requisito previo para aprovechar al máximo los datos generados por los entornos IoT. Y no caben dudas de que el video será la base para que las personas confiemos en estos datos en el futuro.
+En la actualidad, existen pocas soluciones que verdaderamente implementen la inteligencia artificial en la industria de la seguridad.
+Muchas soluciones están ‘entrenadas para IA’, lo que significa que en el laboratorio sus algoritmos se entrenan utilizando capacidades de IA. Pero, una vez que se desarrolla este algoritmo, se implementa como solo un dispositivo inteligente y no se produce más aprendizaje. Estos algoritmos sólo mejorarán cuando se actualicen para incluir un aprendizaje mejorado.
+¿Le interesa más información sobre algún producto mencionado en esta nota?
+ Escríbanos
+Le pondremos en contacto con un experto representante de marca quien lo ayudará.
+¿Le interesa más información sobre algún producto mencionado en esta nota?
+ Escríbanos
+Le pondremos en contacto con un experto representante de marca quien lo ayudará.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Obtén acceso a contenido Premium. Todo lo que necesitas para destacarte en el sector a través de artículos especializados, lecciones en video y el apoyo de nuestros ingenieros.
+VER SUSCRIPCIONES PRO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TECNOSeguro es la publicación on-line líder en audiencia para las industrias de las tecnologías de la seguridad de habla hispana. Una completa guía con información clave para profesionales de seguridad y TI, integradores, instaladores, consultores y distribuidores.
+ 
+Redes Sociales:
+Manténgase actualizado con las últimas tendencias y tecnologías de la industria de la seguridad. Regístrese gratuitamente para recibir nuestros boletines en su bandeja de email.
+Regístrese Gratis
+Registrarse

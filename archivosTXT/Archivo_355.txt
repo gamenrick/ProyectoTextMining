@@ -1,0 +1,59 @@
+Top 5 de Apps que usan IA Generativa | Medium
+David Regalado
+medium.com
+
+Sign up
+Sign in
+Sign up
+Sign in
+David Regalado
+Follow
+--
+Share
+Ante de zambullirnos, leamos lo siguiente:
+Hoy damos por sentado que mucha gente sabe leer y escribir. Algún día, espero, será igual de común que las personas sepan cómo escribir código, específicamente para IA.
+Hace varios cientos de años, la sociedad no consideraba que la alfabetización fuera una habilidad necesaria. Un pequeño número de personas aprendió a leer y escribir, y todos los demás les encargaron leer y escribir. La alfabetización tardó siglos en extenderse, y ahora la sociedad es mucho más rica gracias a ella.
+Las palabras permiten una comunicación profunda de persona a persona. El código es la forma más profunda de comunicación entre humanos y máquinas. A medida que las máquinas se vuelven más centrales en la vida diaria, esa comunicación se vuelve cada vez más importante.
+— Andrew Ng, Fundador de DeepLearning.AI, Fundador & CEO de Landing AI, Socio General en AI Fund, Presidente y Co-Fundador of Coursera y Profesor Adjunto en el Departamento de Ciencias de la Computación de la Universidad de Stanford.
+Una forma de comunicación entre humanos y máquinas que ha ganado popularidad en los últimos meses es la IA generativa. Crear un modelo de este tipo requiere un esfuerzo computacional considerable. Sin embargo, hacer uso de él es tan simple como buscar cosas en Google. Y al igual que buscar en Google es una habilidad subestimada, crear contenido usando IA generativa tiene sus cosas.
+Pero, ¿qué es la IA Generativa?
+La IA generativa se refiere a una categoría de algoritmos de inteligencia artificial (IA) que generan nuevos resultados en función de los datos con los que han sido entrenados. A diferencia de los sistemas de IA tradicionales que están diseñados para reconocer patrones y hacer predicciones, la IA generativa crea contenido nuevo en forma de imágenes, texto (incluido el código de programación), audio y más.
+Las siglas GPT significan Generative Pre-training Transformer, lo que quiere decir que está basado en los llamados transformers el cual es un tipo de arquitectura de deep learning que ha demostrado ser eficaz en el procesamiento del lenguaje natural.
+La IA generativa tiene una amplia gama de aplicaciones, que incluyen:
+Fascinante, ¿no?
+1. Se te presenta un aviso donde indicas lo que deseas obtener.
+… Y eso es todo.
+Obviamente, hubo un trabajo considerable de ciencia e ingeniería detrás de escena. Las personas involucradas trabajaron durante años para brindarte un producto listo para usar. Hoy seguramente andan pasando el rato en sus casas lujosas bebiendo vino o, mejor aún, un Pisco Sour.
+Aquí aprendí al ver a otros hacer sus indicaciones. Lo que destaco es el uso de la relación de aspecto, 16K y HDR.
+Esta es una lista de las aplicaciones más populares que utilizan IA generativa:
+ChatGPT de Open AI es un chatbot de inteligencia artificial en línea creado por OpenAI en diciembre de 2022. Puedes hacerle una pregunta y la responderá.
+Piensa en Pedro Responde, nada más que este no es un truco!
+Visita ChatGPT
+La aplicación Lensa de Prisma Labs utiliza inteligencia artificial para transformar tus selfies en retratos personalizados, permitiendo a los usuarios ser quienes ellos elijan ser.
+Un emperador, un caballero, una estrella de rock, un superhéroe… Lensa tiene diferentes estilos que puedes aplicar a tus fotos.
+Visita Lensa
+DALL·E 2 de Open AI es un nuevo sistema de IA que puede crear imágenes y arte realistas a partir de una descripción en lenguaje natural.
+Visita DALLE 2
+Copy.ai es un redactor publicitario impulsado por IA que genera textos de alta calidad para tu negocio. La plataforma tiene muchas herramientas diferentes disponibles para todo tipo de necesidades de redacción. Esto cubre todo, desde artículos de blog de formato largo hasta herramientas de reformulación de tonos, generadores de textos de ventas y más.
+Visita Copy.ai
+Midjourney es un generador de arte basado en IA que ha sido creado para explorar nuevos medios de pensamiento. Midjourney tiene un bot interactivo en su servidor Discord, que procesa lo que tú describes usando texto.
+Visita Midjourney
+Sin duda, la IA generativa llegó para quedarse. Algunos expertos dicen que podría reemplazar a varios profesionales como redactores, artistas, diseñadores y — empieza a temblar — programadores. Personalmente, creo que en lugar de reemplazar, la IA generativa está ahí para ayudar a estas personas a impulsar su productividad. Te digo por qué:
+La cosa es que, te guste o le temas, aprender a usar la IA generativa de manera efectiva se convertirá en una habilidad comercializable. Esas no son mis palabras, permítanme citarlas correctamente:
+“Aprender a usar la IA Generativa de manera efectiva se convertirá en una habilidad comercializable”.
+- Andreessen Horowitz (a16z), una firma de capital de riesgo en Silicon Valley, California, que respalda a emprendedores audaces que construyen el futuro a través de la tecnología.
+¿Es este quizás el nacimiento del “ingeniero de prompts”?
+Si presionas 50 veces el botón de 👏 algo grandioso sucederá.
+--
+--
+Founder @Data Engineering Latam community, the largest and coolest data community in Latin America ;) Passionate about all things data! beacons.ai/davidregalado
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams

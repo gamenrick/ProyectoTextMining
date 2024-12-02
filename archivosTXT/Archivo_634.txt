@@ -1,0 +1,40 @@
+Inteligencia Artificial en la cadena de suministro - Plain Concepts
+jblanco
+plainconcepts.com
+
+Según analistas consultados por Reuters, el mercado de nuevas tecnologías para cadenas de suministro podría tener un valor anual de más de 20.000 millones de dólares en el próximo lustro. De acuerdo con un estudio de Gartner, para 2026 más del 80 % de las aplicaciones comerciales de gestión de cadena de suministro ofrecerán IA y ciencia de datos. Estos pronósticos demuestran la importancia de la inteligencia artificial en la cadena de suministro para mejorar la productividad laboral o los servicios que las compañías ofrecen a los usuarios.
+Para la consultora McKinsey, la implementación exitosa de IA en la cadena de suministro ha permitido a los ‘early adopters’ «mejorar los costes logísticos en un 15 %, los niveles de inventario en un 35 % y los niveles de servicio en un 65 % en comparación con competidores más lentos». Con estas cifras y las anteriores, ¿cómo integrar la cadena de suministro con inteligencia artificial?
+Entre las razones para introducir IA en la cadena de suministro, se encuentran:
+
+La IA ya es un clásico contemporáneo en la decision making o toma de decisiones: las empresas y administraciones públicas son cada vez más conscientes de la importancia del análisis de las grandes cantidades de datos que generan. Gracias a ello se obtienen ‘insights’ con los que reorientar el negocio.
+Teniendo en cuenta esto, ¿cómo crear una cadena de suministro impulsada por IA?
+Los gemelos digitales reproducen a menor coste una cadena de suministro para comprobar cómo encajan todas sus piezas: almacenes, inventario, flujos de trabajo…
+De un vistazo y en un escenario modificable con facilidad para nuevas pruebas, la reproducción digital de una cadena de suministro alimentada con inteligencia artificial muestra:
+
+También, al igual que el gemelo digital de un edificio en construcción vaticina el comportamiento del edificio real ante catástrofes naturales o climáticas, la misma filosofía se puede aplicar a las partes de la cadena de suministro: ¿Cuánto resisten esas estanterías? ¿Dónde hay que instalar máquinas de aire frío o caliente para el bienestar de los empleados?
+El modelado digital también sirve como tecnología para mejorar la sostenibilidad de las empresas; por ejemplo, para optimizar las rutas de transporte, lo que supone un menor gasto de combustible y con ello menos emisiones de carbono. Volveremos a hablar de la optimización del transporte más adelante.
+Estos gemelos digitales identifican tareas repetitivas que se roboticen en los almacenes o fábricas. Pero no es el único ejemplo de automatización de la cadena de suministro.
+Los chatbots son también una muestra de la integración de la inteligencia artificial en la cadena de suministro para automatizar procesos. Se pueden usar en funciones de atención al cliente como resolver dudas y realizar reservas o compras.
+Asimismo, la inteligencia artificial sirve para automatizar tareas administrativas de la cadena, como la recopilación y tratamiento de facturas, albaranes, documentación…
+Los robots de la cadena de trabajo con sistemas de visión artificial identifican errores o necesidades, los subsanan y alertan al equipo humano para ello. En este sentido, la inteligencia artificial también puede usarse para programar o ejecutar tareas de mantenimiento.
+Saber qué necesitan los clientes, el eslabón final de la cadena de suministro, también mejora la organización de esta. Y para ello, lo mejor es contar con datos.
+Los datos recopilados por la propia compañía, pero también los externos (estadísticos, macroeconómicos, tendencias de los consumidores…), ayudan a tomar decisiones que mejoran la cadena de suministro.
+Los modelos de IA traen consigo componentes predictivos con los que las planificaciones se adaptan a las diferentes situaciones que surjan, tanto en la propia cadena de suministro como ante las novedades de los mercados mundiales: alteraciones de la demanda, fluctuaciones en los precios, cambio de proveedores…
+Así, el cariz predictivo de la IA permite en las planificaciones:
+El sistema va aprendiendo de estos cambios y mejorando con el tiempo.
+La introducción de IA permite modelos con una descripción más rica para resolver los problemas logísticos. Si se añaden fases de experimentación y simulación, su validación es más cercana a la realidad.
+Otro ejemplo de inteligencia artificial en la cadena de suministro está relacionado con carreteras, volumen de los camiones, peso de los paquetes… De nuevo, la analítica y el Big Data, combinados con la inteligencia artificial, ayudan a reducir costes en los portes de materiales y productos. Y, como hemos visto antes, mejoran el medioambiente y los indicadores de sostenibilidad de la empresa.
+El SKU o Stock-keeping unit (unidad de mantenimiento de existencias) es el código de un producto a la venta, que lo identifica dentro del inventario. Gestionados con Big Data y machine learning, pueden servir para:
+
+¿Qué pasa si un proveedor se retrasa en la entrega de una pieza o de un componente? Que la cadena de suministro se para. De nuevo, la inteligencia artificial, combinada con la analítica, responde con rapidez a estos imprevistos, se anticipa a ellos o predice qué sucedería si ocurriesen. Por ejemplo, construyendo gemelos digitales más afinados para estas tareas de predicción y diagnóstico.
+¿Quieres saber más sobre cómo implantar la IA en tu cadena de suministro?
+En Plain Concepts tenemos gran experiencia en la ejecución de proyectos de inteligencia artificial, que adaptamos para cada situación gracias a nuestro equipo multidisciplinar de IA, machine learning y deep learning. Ponte en contacto con nuestro equipo; juntos encontraremos el producto que más se adapta a tu empresa.
+
+ 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

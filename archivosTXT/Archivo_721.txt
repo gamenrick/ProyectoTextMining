@@ -1,0 +1,35 @@
+Explorando la evolución de ChatGPT: De GPT-3 a GPT-4 - Telefónica
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ Los primeros modelos de GPT se destacaron por su capacidad para generar textos coherentes a partir de un conjunto de palabras, marcando un avance significativo en el procesamiento del lenguaje natural (NLP). GPT-2, lanzado en 2019, incrementó esta capacidad, mejorando la comprensión contextual y el nivel de sofisticación en la generación de texto.
+Ana Siles Seguir          
+Jefatura Comunicación GGCC Dirección de Mkt, Planificación y Provisión Comercial
+15/10/2024
+Desarrollado por OpenAI en 2018, ChatGPT, basado en la arquitectura “Generative Pre-trained Transformer “, ha experimentado una evolución impresionante. Comenzó como un modelo de lenguaje y ha evolucionado en una herramienta revolucionaria en términos de funcionalidad, precisión y versatilidad.
+La verdadera revolución llegó en 2020 con Chat GPT3, que con sus 175 mil millones de parámetros ofreció una asombrosa capacidad para generar texto indistinguible de los humanos. Además, expandió sus aplicaciones en el mundo de la imagen y el video convirtiéndose en una herramienta multifuncional de interacción conversacional adaptada a diversas necesidades.
+En 2024, la llegada de Chat GPT4.0 establece nuevos estándares en el campo de la inteligencia artificial.
+Diferencias entre ChatGPT-3.5 y ChatGPT-4.0: Un Salto Cualitativo en Inteligencia Artificial
+Gráfico creado por Chat GPT comparando el rendimiento de GPT 4 vs GPT3
+El siguiente gráfico, creado por ChatGPT, compara el rendimiento de GPT-4 frente a GPT-3.5 en una serie de exámenes estandarizados utilizados en la educación y certificación profesional.
+Los ingenieros e investigadores de OpenAI han documentado estos resultados en su informe técnico.
+ChatGPT-4.0 ha demostrado un rendimiento superior en varios exámenes en comparación con ChatGPT-3.5. A continuación, se detallan los resultados más destacados:
+Según esta evaluación ChatGPT-4.0 supera a su predecesor.
+La mejora más significativa es en Verbal GRE, donde el salto al percentil 99 sugiere que el modelo puede comprender y generar texto con un nivel de sofisticación casi humano.
+El mayor desafío, por otro lado, en el LSAT, es en tareas que requieren un alto nivel de razonamiento lógico y crítico.
+En resumen, ChatGPT-4.0 ha demostrado un progreso notable en su capacidad para manejar una variedad de tareas complejas. Esto abre nuevas posibilidades, y cuando combinemos la computación cuántica con el Chat GPT viviremos en un mundo que no podemos ni imaginar.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

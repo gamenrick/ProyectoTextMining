@@ -1,0 +1,47 @@
+Redes neuronales y aprendizaje profundo: diferencia entre campos de la inteligencia artificial - AWS
+Autor desconocido
+amazon.com
+
+El aprendizaje profundo es el campo de la inteligencia artificial (IA) que enseña a las computadoras a procesar datos de una manera que se inspira en el cerebro humano. Los modelos de aprendizaje profundo pueden reconocer patrones de datos, como imágenes, textos, sonidos complejos, a fin de generar información y predicciones precisas. Una red neuronal es la tecnología subyacente en el aprendizaje profundo. Consiste en nodos o neuronas interconectados en una estructura en capas. Los nodos procesan los datos en un sistema coordinado y adaptativo. Estos intercambian comentarios sobre los resultados generados, aprenden de los errores y mejoran continuamente. Por lo tanto, las redes neuronales artificiales son el núcleo de un sistema de aprendizaje profundo.
+Más información sobre las redes neuronales »
+Más información sobre el aprendizaje profundo »
+Los términos aprendizaje profundo y redes neuronales se usan indistintamente porque todos los sistemas de aprendizaje profundo están hechos de redes neuronales. Sin embargo, los detalles técnicos pueden variar. Existen varios tipos diferentes de tecnología de redes neuronales y es posible que no todos se utilicen en sistemas de aprendizaje profundo.
+Para esta comparación, el término red neuronal se refiere a una red neuronal prealimentada. Las redes neuronales prealimentadas procesan los datos en una dirección, desde el nodo de entrada hasta el nodo de salida. Estas redes también se denominan redes neuronales simples.
+A continuación, se presentan algunas diferencias clave entre las redes neuronales prealimentadas y los sistemas de aprendizaje profundo.
+En una red neuronal simple, todos los nodos de una capa están conectados a todos los nodos de la capa siguiente. Solo hay una capa oculta.
+Por el contrario, los sistemas de aprendizaje profundo tienen varias capas ocultas que los hacen profundos.
+Hay dos tipos principales de sistemas de aprendizaje profundo con arquitecturas diferentes: redes neuronales convolucionales (CNN) y redes neuronales recurrentes (RNN).
+Las CNN tienen tres grupos de capas:
+Puede utilizar la arquitectura CNN cuando procese imágenes y vídeos, ya que esta puede administrar entradas de diferente dimensión y tamaño. 
+La arquitectura de una RNN se puede visualizar como una serie de unidades recurrentes.
+Cada unidad está conectada a la unidad anterior, formando un ciclo dirigido. En cada paso de tiempo, la unidad recurrente toma la entrada actual y la combina con el estado oculto anterior. La unidad produce una salida y actualiza el estado oculto para el siguiente paso de tiempo. Este proceso se repite para cada entrada de la secuencia, lo que permite a la red capturar dependencias y patrones a lo largo del tiempo.
+Las RNN se destacan en funciones del lenguaje natural, como el modelado del lenguaje, el reconocimiento de voz y el análisis de sentimiento.
+
+Cada red neuronal tiene parámetros, incluidos los pesos y sesgos asociados a cada conexión entre las neuronas. La cantidad de parámetros en una red neuronal simple es relativamente baja en comparación con los sistemas de aprendizaje profundo. Por lo tanto, las redes neuronales simples son menos complejas y computacionalmente menos exigentes.
+Por el contrario, los algoritmos de aprendizaje profundo son más complicados que las redes neuronales simples, ya que involucran más capas de nodos. Por ejemplo, pueden olvidar o retener información de forma selectiva, lo que los hace útiles para las dependencias de datos a largo plazo. Algunas redes de aprendizaje profundo también utilizan codificadores automáticos. Los codificadores automáticos tienen una capa de neuronas decodificadoras que detectan anomalías, comprimen datos y ayudan con el modelado generativo. Como resultado, la mayoría de las redes neuronales profundas tienen una cantidad mucho mayor de parámetros y son computacionalmente muy exigentes.
+Gracias a la menor cantidad de capas y conexiones, puede entrenar una red neuronal simple con mayor rapidez. Sin embargo, su simplicidad también limita la medida en que puede enseñarles. No pueden realizar análisis complejos.
+Los sistemas de aprendizaje profundo tienen una capacidad mucho mayor para aprender patrones y habilidades complejos. Debido a que utilizan muchas capas ocultas diferentes, puede crear sistemas complejos y entrenarlos para que se desempeñen bien en tareas complejas. Dicho esto, necesitará más recursos y conjuntos de datos más grandes para lograrlo.
+Las redes neuronales prealimentadas funcionan bien cuando resuelven problemas básicos como identificar patrones simples o clasificar información. Sin embargo, tendrán dificultades con tareas más complejas.
+Por otro lado, los algoritmos de aprendizaje profundo pueden procesar y analizar grandes volúmenes de datos debido a varias capas ocultas de abstracción. Pueden realizar tareas complejas como el procesamiento de lenguaje natural (NLP) y el reconocimiento de voz.
+A menudo se utilizan redes neuronales simples para tareas de machine learning (ML) debido a su bajo costo de desarrollo y a las demandas computacionales accesibles. Las organizaciones pueden desarrollar internamente aplicaciones que utilicen redes neuronales simples. Son más factibles para proyectos más pequeños porque tienen requisitos computacionales limitados. Si una empresa necesita visualizar datos o reconocer patrones, las redes neuronales proporcionan una forma rentable de crear estas funciones. 
+Por otro lado, los sistemas de aprendizaje profundo tienen una amplia gama de usos prácticos. Su capacidad para aprender de los datos, extraer patrones y desarrollar características permite que ofrezcan un rendimiento de última generación. Por ejemplo, puede usar modelos de aprendizaje profundo en el procesamiento de lenguaje natural (NLP), la conducción autónoma y el reconocimiento de voz. 
+Sin embargo, se necesitan amplios recursos y financiación para entrenar y desarrollar por sí mismo un sistema de aprendizaje profundo. En cambio, las organizaciones prefieren utilizar sistemas de aprendizaje profundo previamente entrenados como un servicio totalmente administrado que pueden personalizar para sus aplicaciones.
+Sistemas de aprendizaje profundo
+Redes neuronales simples
+Arquitectura
+Consta de varias capas ocultas organizadas para convolución o recurrencia.
+Las redes neuronales constan de una capa de entrada, una capa oculta y una capa de salida. Imitan la estructura del cerebro humano.
+Complejidad
+Según su función, una red de aprendizaje profundo puede ser muy complicada y tener estructuras como la memoria a largo y corto plazo (LSTM) y los codificadores automáticos.
+Las redes neutrales son menos complicadas, ya que solo tienen unas pocas capas.
+Rendimiento
+Un algoritmo de aprendizaje profundo puede resolver problemas complejos en grandes volúmenes de datos.
+Las redes neuronales funcionan bien a la hora de resolver problemas sencillos.
+Formación técnica
+Entrenar un algoritmo de aprendizaje profundo requiere muchos recursos y dinero.
+La simplicidad de una red neuronal significa que su entrenamiento cuesta menos.
+Amazon Web Services (AWS) cuenta con varias ofertas de aprendizaje profundo que aprovechan el potencial de la computación en la nube. Esto ayuda a que escale sus aplicaciones de aprendizaje profundo a un costo menor y optimice su velocidad. Para obtener más información, consulte Aprendizaje profundo en AWS.
+A continuación, se muestran algunos ejemplos de servicios de AWS que puede utilizar para administrar por completo aplicaciones de aprendizaje profundo específicas:
+Cree una cuenta hoy mismo para empezar a utilizar el aprendizaje profundo, la IA y el ML en AWS.
+Descubra cómo comenzar a utilizar el aprendizaje profundo en AWS 
+Descubra cómo empezar a usar redes neuronales con AWS

@@ -1,0 +1,50 @@
+Galaxy AI: qué es, qué opciones ofrece y a qué móviles de Samsung llegará primero su nueva inteligencia artificial
+Autor desconocido
+xataka.com
+
+Yúbal Fernández
+Vamos a explicarte qué es exactamente Galaxy AI, el sistema de inteligencia artificial con el que Samsung mejora las posibilidades de sus teléfonos de gama alta. No se trata de una IA con funciones concretas, sino de una base de inteligencia artificial en la que se basarán varias opciones.
+Vamos a empezar explicándote qué es Galaxy AI, y también mencionaremos cuáles son las principales opciones que harán uso de esta nueva inteligencia artificial. Para terminar, te diremos los primeros móviles que van a recibirla además de los Galaxy S24.
+Galaxy AI es la apuesta presentada por Samsung para entrar en el campo de la inteligencia artificial, y ha sido presentada en el Unpacked 2024 junto a los Galaxy S24. Se trata de una IA que se integra nativamente en el teléfono, siendo la que impulsa varias de las nuevas opciones que traen los dispositivos.
+Durante todo el 2023 vivimos una auténtica revolución de la inteligencia artificial, con sistemas de chat como ChatGPT,  Copilot y Bard, o de generación de imágenes como DALL-E o Midjourney. También hay dispositivos específicos para llevar la IA contigo, como Rabbit R1, el Humane AI Pin o el Rewind Pendant.
+Sin embargo, esto que hemos mencionado o son sistemas de IA que requieren alguna web o aplicación específicas para funcionar, como mucho integrándose en otras aplicaciones o servicios, o dispositivos independientes que tienes que llevar además de tu móvil.
+La aproximación de Samsung es diferente, su propuesta es la de integrar la IA en el propio teléfono para alimentar distintas opciones, y que así esta IA sirva para casos de uso más reales y diarios. Por lo tanto, Galaxy AI se integrará con varias opciones, que han sido las grandes novedades de los nuevos teléfonos del fabricante.
+Vamos, que Galaxy AI no es una aplicación ni una función de inteligencia artificial concreta, sino de una tecnología que se usa para varios fines y funciones internas de los teléfonos.
+La primera de las opciones que ofrece Galaxy AI en los nuevos teléfonos de Samsung es Rodea para buscar, desarrollada junto a Google. Simplemente, podrás buscar cualquier elemento o imagen que aparezca en la pantalla de tu móvil. Por ejemplo, si estás viendo un TikTok o una foto en una red social o vídeo en Internet, podrás invocar la función, seleccionar en la pantalla el elemento que quieras buscar, y te aparecerán los resultados de búsqueda de ese elemento. También podrás incluir un texto para hacer preguntas referidas al elemento seleccionado.
+Otra de las opciones es la traducción en tiempo real de las llamadas de voz. Si llamas a alguna persona que hable un idioma distinto, cada vez que uno de vosotros hable la IA le traducirá lo que le has dicho y se lo dirá a la otra persona. Así, podrás comunicarte por teléfono con cualquiera, aunque no hable tu mismo idioma. La otra persona no necesitará tener un Samsung para que esta tecnología funcione, y podrás elegir ajustes como si quieres oír a la otra persona o solo la traducción.
+Otra opción es la de ofrecer un intérprete para conversar con otras personas con quienes estás físicamente. Se trata de un Modo intérprete en el que el móvil se queda escuchando, y traducirá lo que una persona diga en la pantalla. Tú hablas en español, y el móvil traduce al idioma de la otra persona, y viceversa. Esto también podrá usarse escribiendo.
+Y por último, también habla un traductor con IA integrado en el teclado de los teléfonos Samsung. Así, cuando estés escribiendo algo con el teclado, lo podrás traducir en tiempo real a otro idioma, e incluso te ofrecerá sugerencias gramaticales o de estilo de texto para mejorar lo que has dicho.
+Todo esto vendrá integrado en la interfaz de la aplicación que estés usando. También podrá analizar el texto que te han enviado por aplicaciones como WhatsApp, y te traducirá lo que te hayan escrito para que lo puedas entender. Esto es posible gracias a la colaboración de Samsung con empresa de mensajería como WhatsApp, que le permiten al teclado realizar estas acciones.
+Galaxy AI también tiene otras opciones como la de analizar el texto escrito a mano con el S-Pen en la aplicación de notas, y permite transcribirlo o darle formato, con sugerencias y resúmenes. También podrás generar fondos de pantalla con inteligencia artificial.
+La app de grabadora también puede transcribir de voz a texto gracias a la IA, distinguiendo entre distintos hablantes o haciéndote un resumen, y el navegador usa Galaxy IA para traducir webs o poder hacer resúmenes de artículos. Y por último, la aplicación de Galería tiene un editor generativo para añadir elementos por IA en una foto, o para realizar ediciones.
+Galaxy AI empezará a llegar poco a poco a distintos modelos de teléfono de Samsung. Los primeros en tenerlo van a ser los Galaxy S24, el Galaxy S24+ y el Galaxy S24 Ultra, que lo tendrán desde el lanzamiento. Pero después, irá llegando a otros durante los próximos meses.
+Los siguientes móviles Samsung que recibirán Galaxy AI junto a la capa de personalización One UI 6.1 son los siguientes, tal y como nos dicen en Xataka Android:
+La actualización irá llegando a estos dispositivos durante la primera mitad del 2024, aunque todavía no se han especificado ni fechas concretas ni si lo hará con todas las funciones que ofrece Galaxy AI. También es de esperar que lleguen a otros dispositivos, aunque todavía ni se ha confirmado ni se ha especificado a cuáles.
+Samsung ha dicho que lo que llegarán serán "muchas de las funciones", y en el evento hizo mucho énfasis en las capacidades del procesador Exynos 2400 para IA. Por lo tanto, puede que alguna de las opciones sean exclusivas de la familia S24 y las posteriores que vayan llegando.
+En Xataka Basics | Alternativas ChatGPT: 17 chatbots de inteligencia artificial con los que hablar, hacerles preguntas y pedirles lo que quieras
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

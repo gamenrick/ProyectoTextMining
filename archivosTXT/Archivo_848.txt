@@ -1,0 +1,39 @@
+Inteligencia artificial para tratar la salud mental | UOC
+Autor desconocido
+uoc.edu
+
+Aimentia permite a los profesionales disponer de una tecnología de reconocimiento rápido de casos en crisis, con la personalización del diagnóstico y el seguimiento de terapias a pacientes con problemas de salud mental (foto: Fernando @cferdophotography / unsplash.com)
+
+Una de cada cuatro personas sufrirá algún trastorno mental a lo largo de la vida, según varios informes elaborados por la OMS. De hecho, en España esta problemática es la segunda causa de baja laboral. Con el fin de contribuir a su diagnóstico precoz y de ofrecer una atención personalizada a los pacientes, la start-up Aimentia impulsó una plataforma con inteligencia artificial (IA) para identificar a personas que padezcan algún problema de salud mental y se encuentren en una posible situación de riesgo, para hacerles un seguimiento efectivo. Para afrontar los retos que plantea este ámbito de la salud, este proyecto emprendedor ha conseguido reunir 500.000 euros de financiadores privados, una cifra que podría ampliarse hasta los 800.000.
+
+	Los trastornos mentales se están convirtiendo, en palabras de Edgar Jorba, CEO y cofundador de Aimentia —que está cursando el máster de Executive MBA de la Universitat Oberta de Catalunya (UOC)—, en una "epidemia silenciosa mundial, que debe abordarse con innovación y con el desarrollo de nuevas tecnologías". La OMS estima que, hasta el año 2030, el coste acumulativo del tratamiento de la salud mental desde 2010 representará unos 16 billones de dólares. 
+
+	Frente a este reto, Aimentia tiene en funcionamiento una plataforma operativa no solo en España, sino también en Argentina, México y Chile, y ya cuenta con más de 31.000 usuarios registrados, entre pacientes y profesionales, en más de 120 escuelas. "La salud mental sigue considerándose, lamentablemente, un estigma", señala Edgar Jorba. "Por eso —añade—, queremos democratizar el acceso a este modelo de atención, basado en la investigación y en herramientas clínicas inteligentes que van mucho más allá de una simple videollamada".
+
+	Diseñada con una estructura flexible y con un lenguaje de programación propio que integra fuentes dispares de datos y crea soluciones a medida, de forma ágil y rápida, Aimentia Health es un espacio en la nube que facilita herramientas y servicios de emergencia en salud mental para todo tipo de usuarios, tanto pacientes —adultos, niños, adolescentes— como profesionales —especialistas, representantes de escuelas y otros trabajadores—. 
+
+	La plataforma permite a los profesionales disponer de una tecnología de reconocimiento rápido de casos en crisis, con la personalización del diagnóstico y el seguimiento de terapias a pacientes con ansiedad, depresión, fobias, trastornos bipolares o tendencias suicidas. "Las futuras aplicaciones de Aimentia Health estarán relacionadas también con los abusos de sustancias y los trastornos alimentarios", añade Jorba.
+
+	Una de las características diferenciales de Aimentia Health tiene que ver con el sistema de entrevistas, que deriva a los pacientes a terapia, según la start-up, "hasta un 80 % más rápido que otros métodos". Como apunta su CEO, sus soluciones digitales "se basan en datos clínicos para dotar de rigor todos sus procedimientos".
+
+	Además de estar enfocada a los profesionales de la salud mental y a centros de atención primaria, Aimentia también proporciona sus servicios a escuelas y a empresas. En el caso de las escuelas, las soluciones de la start-up van orientadas a jóvenes de 12 a 18 años, "para tratar la franja de edad en la que se registran mayores índices de conductas autolesivas, uno de los indicadores de alerta de posibles ideas o intentos de suicidio", señala Jorba.
+
+	En el mundo de la empresa, la plataforma está empezando a ayudar a organizaciones en la detección precoz de trabajadores con estrés, depresión o ansiedad. En la actualidad, la compañía realiza un análisis gratuito, previo al asesoramiento para promover un ambiente positivo, prevenir riesgos y brindar a los trabajadores el apoyo necesario.
+
+	Aimentia ha cerrado una ronda de financiación privada de 500.000 euros, para llegar a más territorios e incrementar el número de patologías de salud mental abordadas. Además, para llevar a cabo su expansión, la start-up ha contado con el apoyo de la UOC, de la Agencia para la Competitividad de la Empresa (ACCIÓ) de la Generalitat de Cataluña y del Centro para la Integración de la Medicina y las Tecnologías Innovadoras (CIMTI). Además, ha sido la ganadora del programa UNICEF Lab.
+
+	En el año 2020, este proyecto emprendedor ganó el premio Ramon Molinas Foundation al impacto social, así como el premio del público del programa anual de apoyo al emprendimiento de la UOC, el SpinUOC, impulsado a través de la plataforma Hubbik. Ambos premios están dotados con 2.000 euros cada uno.
+
+Este proyecto con el apoyo de la UOC favorece el Objetivo de Desarrollo Sostenible, 3, salud y bienestar.
+
+	 
+
+UOC R&I 
+
+La investigación e innovación (I+i) de la UOC contribuye a solucionar los retos a los que se enfrentan las sociedades globales del siglo XXI mediante el estudio de la interacción de la tecnología y las ciencias humanas y sociales, con un foco específico en la sociedad red, el aprendizaje en línea y la salud digital.
+
+Los más de 500 investigadores e investigadoras y los 51 grupos de investigación se articulan en torno a los siete estudios de la UOC, un programa de investigación en aprendizaje en línea (e-learning research) y dos centros de investigación: el Internet Interdisciplinary Institute (IN3) y el eHealth Center (eHC).
+
+La universidad impulsa, también, la innovación en el aprendizaje digital a través del eLearning Innovation Center (eLinC), y la transferencia de conocimiento y el emprendimiento de la comunidad UOC con la plataforma Hubbik.
+
+Los objetivos de la Agenda 2030 para el Desarrollo Sostenible de las Naciones Unidas y el conocimiento abierto son ejes estratégicos de la docencia, la investigación y la innovación de la UOC. Más información: research.uoc.edu.

@@ -1,0 +1,40 @@
+ChatGPT VS Google Bard: Ventajas y desventajas de una contra la otra
+Gustavo Pineda
+another.co
+
+ 
+En another sabemos que actualmente existe una feroz competencia entre grandes empresas por crear la mayor y más sofisticada inteligencia artificial que pueda revolucionar su uso con la humanidad. 
+ 
+Anteriormente analizamos si la existencia de una inteligencia artificial podría reemplazar a la humanidad, y también platicamos con expertas sobre la verificación de información contra la proliferación de “deepfake”, es decir, una imagen, video o audio generado por IA para imitar la apariencia y el sonido de una persona. 
+La realidad es que el uso de IA no está del todo en el “banquillo de los acusados” y en tela de juicio, porque es mucho más común de lo que pensamos, desde un chatbot que es utilizado en distintas industrias como la atención al cliente, sanidad, finanzas, comercio electrónico, medios de comunicación y entretenimiento.  
+ 
+LEE MÁS: 6 herramientas de IA que toda marca debe conocer
+ 
+En esta ocasión, nos dimos a la tarea de conocer un poco más de Google Bard o simplemente Bard, el chatbot inteligencia del gigante de la tecnología que en muchas ocasiones ha sido enfrentado contra el popular ChatGPT. 
+ 
+Google Bard es un chatbot de modelo de lenguaje grande (LLM) desarrollado por Google AI. Está entrenado en un conjunto masivo de datos de texto y código, y puede generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder tus preguntas de manera informativa. Bard aún está en desarrollo, pero ya ha aprendido a realizar muchos tipos de tareas, incluyendo:
+ 
+Google Bard se puede utilizar para una variedad de propósitos, que incluyen:
+ 
+PODRÍA INTERESARTE: AI, avatares y filtros: ¿cómo tu marca puede aprovechar estas tecnologías?
+ 
+Bard fue presentado en febrero de este año como un desarrollo en fase experimental y está disponible desde el pasado 10 de mayo para varios países, incluyendo México. Ojo, para el resto del mundo sigue en lista de espera sin fecha concreta. 
+Después de usar Bard, nos dimos cuenta de que tiene un acceso gradual y lo primero que le preguntamos es: “¿Cuántos idiomas utilizas?”. Y esto respondió: 
+“Estoy entrenado con un amplio conjunto de datos de texto y código, y puedo generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder tus preguntas de manera informativa. Puedo traducir entre 133 idiomas, incluyendo inglés, francés, español, alemán, italiano, portugués, ruso, chino, japonés y coreano. También puedo traducir entre muchos dialectos diferentes del mismo idioma, como el inglés americano, inglés británico, inglés australiano, inglés indio e inglés jamaiquino. Sin embargo, todavía estoy en desarrollo y mi capacidad para traducir idiomas no es perfecta. A veces puedo cometer errores, especialmente al traducir entre idiomas muy diferentes entre sí. También estoy aprendiendo nuevos idiomas todo el tiempo. Si estás interesado en un idioma que actualmente no admito, por favor avísame y haré todo lo posible por aprenderlo”, respondió la inteligencia artificial. 
+Al insistir, nos dimos cuenta de que Bard sólo se puede usar en tres idiomas: inglés estadounidense, japonés y coreano. 
+Tras varios días de utilizarlo, notamos las siguientes ventajas y desventajas contra uno de sus principales rivales: ChatGPT. 
+ 
+Ventajas: 
+ChatGPT es un potente modelo de lenguaje que puede generar texto, traducir idiomas, escribir diferentes tipos de contenido creativo y responder tus preguntas de manera informativa. También es muy bueno generando contenido creativo y atractivo, lo cual puede ser útil para agencias de publicidad que necesitan crear materiales de marketing llamativos. También es muy fácil de usar, por lo que se puede integrar rápidamente en los flujos de trabajo de comunicación existentes.
+ 
+Desventajas: 
+A veces puede ser impreciso, lo cual puede generar problemas para agencias de comunicación que necesitan generar contenido preciso e imparcial. Tampoco es tan bueno entendiendo el lenguaje humano como otros modelos de lenguaje, lo cual puede generar problemas al generar texto que suene natural.
+ 
+Ventajas: 
+Google Bard es un modelo de lenguaje más nuevo que ChatGPT, pero ya está demostrando mucho potencial. Es muy bueno entendiendo el lenguaje humano, pero en ciertos idiomas, lo que lo hace mejor para generar texto que suene natural. Una de sus grandes ventajas es que es bueno accediendo y procesando información en tiempo real y actualizado, cuando ChatGPT en la versión gratuita sólo tiene conocimientos hasta 2021, por lo tanto, Bard puede ser útil para agencias de publicidad que necesitan mantenerse actualizadas. 
+ 
+Desventajas: 
+No está tan ampliamente disponible como ChatGPT, es decir, todavía está en desarrollo, por lo que puede no ser tan confiable como otros modelos de lenguaje.
+En el panorama actual de las IA, es importante considerar que ninguna solución es perfecta y que los avances tecnológicos continúan en curso. Es probable que veamos mejoras y actualizaciones en Google Bard y ChatGPT, lo que podría influir en la elección de una IA como la favorita para las agencias de comunicación. 
+Además, la capacidad de adaptación y el aprendizaje continuo de estas IAs permiten anticipar mejoras significativas en su precisión y rendimiento en el futuro. A medida que la tecnología evoluciona, es crucial evaluar regularmente las opciones disponibles y considerar cómo pueden adaptarse a las necesidades cambiantes de las agencias.
+2023 Another Company. Todos los Derechos Reservados.

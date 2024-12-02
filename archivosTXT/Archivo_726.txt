@@ -1,0 +1,37 @@
+GSMA lanza una hoja de ruta de IA responsable para el sector telco - Telefónica
+Noelia Artigas
+telefonica.com
+
+Telefonica.com
+ ●	La herramienta está diseñada para ayudar a las organizaciones de telecomunicaciones a adoptar y medir enfoques responsables y éticos de la IA, ya que la industria busca acceder a una oportunidad de mercado estimada en 680.000 millones de dólares. 
+17/09/2024
+GSMA lanza hoy la primera hoja de ruta de la Inteligencia Artificial Responsable (RAI) para todo el sector, con el fin de proporcionar a los operadores de telecomunicaciones las herramientas y la orientación necesarias para probar y evaluar el uso responsable de la tecnología.
+McKinsey estima que la oportunidad global derivada del uso ampliado de la IA en el sector de las telecomunicaciones asciende a 680.000 millones de dólares en los próximos 15-20 años. La GSMA está uniendo a la industria en el uso ético y responsable de la tecnología, es la primera vez que todo un sector se ha comprometido a un enfoque común de la IA.
+Su desarrollo sigue los compromisos establecidos de muchos operadores de redes móviles (ORM) para garantizar que la exploración e integración de la IA en su trabajo se ha hecho y se hace de forma ética y responsable.
+Tras una amplia consulta al sector, la GSMA ha adoptado estos planteamientos y los ha combinado con las normativas, recomendaciones y estándares mundiales existentes de organizaciones internacionales como la OCDE y la recomendación de la UNESCO sobre la ética de la IA para crear una hoja de ruta que permita a todo el sector alinearse en el uso de la RAI.
+Esta iniciativa ha sido promovida por Axiata, Deutsche Telekom, Orange, Telefónica y Telstra. Diecinueve ORM ya se han comprometido a utilizar la hoja de ruta como forma de rastrear, mantener y mejorar su uso responsable de la IA. En las notas a los editores figuran todos los detalles de los ORM que ya la utilizan.
+La hoja de ruta de madurez de la RAI se sustenta en cinco dimensiones básicas: la visión, los valores y los objetivos estratégicos de una organización; su modelo operativo y cómo mantener la gobernanza de la IA en todas las operaciones; los controles técnicos alineados con los requisitos normativos; la colaboración con ecosistemas de terceros; así como la gestión del cambio corporativo y las estrategias de comunicación.
+Para cada una de estas dimensiones, la hoja de ruta guiará a las organizaciones a tomar las medidas adecuadas para utilizar la IA de forma responsable en relación con su nivel de madurez.
+También se basa en principios de buenas prácticas bien establecidos, como la equidad, la intervención humana y la supervisión, la privacidad y la seguridad, la protección y la solidez, la transparencia, la responsabilidad y el impacto medioambiental.
+Al aportar mayor claridad y un enfoque común sobre el uso responsable de la IA, la hoja de ruta del sector de la GSMA dará a los operadores de redes móviles la confianza necesaria para comprometerse con su adopción sabiendo que lo están haciendo de formas establecidas, consensuadas y éticas y, por lo tanto, liberando más rápidamente todo el valor de la tecnología.
+Mats Granryd, Director General de la GSMA, ha declarado: “El potencial transformador de la IA es evidente desde hace tiempo, pero su integración en nuestro trabajo y nuestras vidas debe hacerse de forma responsable y transparente para que sea realmente eficaz y sostenible. Esta hoja de ruta permitirá ahora a más ORM adoptar la IA sabiendo que, al igual que todo el sector, lo hacen de forma responsable y ética».
+“La IA responsable es la forma correcta de explorar y aprovechar las numerosas oportunidades que ofrece la tecnología, y el sector de las telecomunicaciones se enorgullece de ser el primero en comprometerse con este enfoque; esperamos que otros sigan nuestro ejemplo”.
+José María Álvarez-Pallete López, Presidente de la Junta Directiva de la GSMA y Presidente ejecutivo de Telefónica, ha declarado: “La velocidad con la que la IA se ha convertido en una parte central de las operaciones tecnológicas y de telecomunicaciones demuestra su poder y su indudable valor, pero también los riesgos que debemos considerar como industria y la necesidad de incluir la ética en el corazón de la IA para evitar su desarrollo incontrolado. Es fundamental que todos garanticemos la aplicación de directrices responsables para el uso de la IA, y es estupendo ver que el sector de las telecomunicaciones lidera esta iniciativa con la nueva hoja de ruta de la GSMA”.
+*** Notas:
+Los campeones de la hoja de ruta de la IA responsable de la GSMA son Axiata, Deutsche Telekom, Orange, Telefónica y Telstra.
+La lista completa de los 19 ORM que ya han suscrito su uso es: Axiata, BT, Deutsche Telekom, Du UEA, E&, Globe, KPN, MTN, Orange, Singtel, stc, Telefónica, Telenor, Telia, Telstra, Turkcell, TIM, True y Vodafone.
+McKinsey Global Institute ha estimado que el impacto total de la IA para los ORM podría oscilar entre 450.000 y 680.000 millones de dólares, con un punto medio de 565.000 millones. Según los escenarios actuales, se espera que el sector aproveche plenamente este potencial en los próximos 15 a 20 años aproximadamente. Este valor se obtuvo a partir de los 100 casos de uso más importantes que un operador de telefonía móvil podría poner en práctica.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

@@ -1,0 +1,47 @@
+La inteligencia artificial se mete en política: así puede persuadirte
+Jesús Espinosa
+newtral.es
+
+
+Interesa
+Investigadores de la Universidad de Stanford y del Instituto de Inteligencia Artificial Centrada en el ser humano han comprobado que algunos mensajes políticos generados por IA son al menos “tan persuasivos” como los mensajes generados por humanos
+La inteligencia artificial (IA) ha venido para revolucionar las reglas de juego en muchos aspectos y también en la política. Es más, ya está influyendo en cómo se lanzan determinados mensajes. 
+Uno de los primeros ejemplos en los que la inteligencia artificial ha jugado un papel importante en comunicación política ha sido el de  Estados Unidos, cuando el Partido Republicano respondió al deseo del presidente Joe Biden de volver a presentarse a las elecciones con un vídeo realizado por una IA, como reconocieron ellos mismos. El título es Vencer a Biden.
+Este vídeo fue creado con inteligencia artificial generativa. Es como una rama dentro de la IA que se encarga de generar contenido original, pero a raíz de datos existentes, en este caso imágenes.
+“Esta tecnología utiliza algoritmos y redes neuronales avanzadas para aprender de textos e imágenes, y luego generar contenido nuevo y único”, escribe Marcelo Granieri, profesor de la OBS Business School. 
+
+
+Ibiza aprobará una ley para limitar la entrada de vehículos a la isla
+
+
+Ibiza aprobará una ley para limitar la entrada de vehículos a la isla
+Precisamente, esta inteligencia artificial generativa es la que golpea de lleno en el mundo de la narrativa política, del discurso político, por su capacidad para persuadir. 
+De hecho, bajo esta idea de que la IA es capaz de convencer, varios investigadores de la Universidad de Stanford y del Instituto de Inteligencia Artificial Centrada en el ser humano quisieron comprobar hasta dónde llega su capacidad para persuadir en diferentes temas de actualidad, como impuestos o derechos sociales y laborales. 
+Estos investigadores, en un estudio publicado en febrero de 2023, le pidieron a una inteligencia artificial muy similar al famoso ChatGPT que elaborara mensajes persuasivos sobre varios temas controvertidos, y después le pidieron lo mismo a varias personas reales.
+
+
+Por qué no estamos cerca de poder detectar todos los ‘deepfakes’, y quizá nunca lo estemos
+
+
+Por qué no estamos cerca de poder detectar todos los ‘deepfakes’, y quizá nunca lo estemos
+Los autores del estudio trabajaron con varios textos de política, algunos escritos por una inteligencia artificial y otros por un ser humano. Un ejemplo de esos textos fue este fragmento sobre la prohibición del uso de armas escrito por la inteligencia artificial: “Es hora de tomar medidas. Es hora de prohibir las armas de asalto. No tienen cabida en nuestra sociedad y su mera presencia solo sirve para crear una cultura de miedo e inseguridad. Tenemos el poder de hacer que nuestras comunidades sean más seguras, y es nuestro deber hacer lo que sea mejor para el bienestar colectivo”, dice el texto.
+Una vez tuvieron los textos con temas de política disponibles, los investigadores hicieron que miles de personas los leyeran pero repartidos al azar –es decir, podía tocarles el creado por inteligencia artificial o no- y les pidieron a los participantes que dieran su opinión sobre los temas antes y después de leerlos. 
+El objetivo era medir cuánto de persuasivos habían sido los mensajes escritos por IA para los lectores y evaluar también por qué. Los resultados fueron contundentes. Los mensajes generados por inteligencia artificial fueron, al menos, “tan persuasivos como los mensajes generados por humanos en todos los temas”, concluyeron los autores. 
+En temas como la prohibición de fumar o el control de armas los participantes se volvieron «significativamente más partidarios» de las políticas que proponían los textos escritos por inteligencia artificial que de las sugeridas por humanos.
+Para terminar, el equipo de investigadores le pidió también a los participantes que describieran las cualidades de los textos que habían leído. En ese sentido, a la IA se la percibió como más consistente, más objetiva y más lógica, además de que usaba un lenguaje menos enfadado.
+
+OBS BUSINESS SCHOOL
+
+UNIVERSIDAD DE STANFORD
+
+INSTITUTO DE INTELIGENCIA ARTIFICIAL CENTRADA EN EL SER HUMANO
+
+
+
+He leído y acepto la Política de privacidad
+ *
+
+ 
+
+
+Δ

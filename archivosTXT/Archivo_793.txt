@@ -1,0 +1,31 @@
+Entrándole a la IA: ¿Cuáles serían los primeros pasos para aprovecharla? – El Financiero
+Autor desconocido
+com.mx
+
+“La inteligencia artificial no es ni buena ni mala, es una herramienta, es una tecnología para que la usemos”.
+Oren Etzioni
+Agradezco la colaboración e ideas de Diana Servín y Santiago Hernández.
+En las últimas columnas hemos hablado de inteligencia artificial (IA), ya que no se trata simplemente de un tema de ‘moda’. Al contrario, es, de hecho, una nueva revolución al estilo de la Revolución Industrial que inició en el siglo XIX.
+La IA llegó para quedarse, y quien se resista a este cambio, se volverá obsoleto.
+Pero, ¿cómo aprovecharla? Aunque esto puede parecer una tarea compleja, siguiendo los pasos adecuados puedes comenzar a explorarla y a utilizar sus capacidades de manera eficaz. Este es un enfoque básico para que puedas iniciarte en su uso:
+1. Entender los fundamentos
+• Aprender conceptos básicos. Familiarízate con los conceptos clave de la IA, como aprendizaje automático (machine learning), redes neuronales, procesamiento de lenguaje natural (NLP) y visión por computadora. Hay numerosos cursos y tutoriales que pueden ayudarte a comprender estos términos.
+2. Identificar problemas o necesidades
+• Detección de casos de uso. Piensa en cómo la IA puede ayudar en tu ámbito profesional o personal. Por ejemplo, mejorar la eficiencia operativa, analizar grandes volúmenes de datos o automatizar tareas repetitivas. Identificar problemas específicos que la IA pueda resolver es crucial para su implementación efectiva.
+3. Adquirir herramientas y plataformas
+• Seleccionar herramientas. Existen muchas herramientas y plataformas que facilitan el uso de la IA, como TensorFlow, PyTorch, IBM Watson y servicios de IA en la nube como Azure AI y Gemini, la IA de Google. Escoger una plataforma depende de tus necesidades específicas, de tus recursos disponibles y del nivel de habilidad técnica que requieres.
+4. Recolectar y preparar datos
+• Importancia de los datos. La IA depende de datos de calidad para aprender y hacer predicciones, recordemos el viejo adagio: “garbage in, garbage out”. Recolecta datos relevantes y asegúrate de que estén bien organizados, etiquetados y limpios. Los datos pueden provenir de tus sistemas internos, bases de datos públicas o ser adquiridos de terceros.
+5. Desarrollar y entrenar modelos
+• Construcción de modelos. Empieza con modelos básicos y luego avanza a otros más complejos a medida que vayas adquiriendo experiencia, habilidad y confianza. Hay modelos preentrenados que puedes usar como punto de partida y adaptar a tus necesidades específicas mediante técnicas de transferencia de aprendizaje.
+6. Evaluación y optimización
+• Evaluar el rendimiento. Evalúa los modelos utilizando métricas adecuadas para tu caso de uso, como precisión, recall, F1-score, entre otros. Identifica áreas de mejora y ajusta los modelos en consecuencia. Este es un proceso iterativo que puede involucrar ajustes de hiperparámetros, incorporación de más datos o incluso cambios en la arquitectura del modelo.
+7. Implementación y mantenimiento
+• Despliegue del modelo. Una vez que estés satisfecho con el rendimiento del modelo, puedes implementarlo en tu entorno operativo. Esto puede implicar su integración en aplicaciones existentes o la creación de nuevas soluciones. Además, planifica bien el mantenimiento y la actualización del modelo (esto es muy importante), ya que el rendimiento puede degradarse con el tiempo si no se adapta a nuevos datos o cambios en el entorno.
+8. Aprendizaje continuo
+• Mantenerse actualizado. La IA es un campo en constante evolución. Participa en comunidades, foros y cursos para mantenerte al día con las últimas tendencias y desarrollos. Esto te permitirá mejorar continuamente tus habilidades y la eficacia de las soluciones de IA que implementes.
+Estos pasos te proporcionarán una base sólida para comenzar a utilizar la IA. A medida que adquieras experiencia, podrás explorar técnicas más avanzadas y aplicaciones especializadas que se adapten mejor a tus objetivos.
+Y hay que lanzarse pues, como dicen algunos filósofos, quien no actúa, no se equívoca, pero tampoco aprende, y se aprende (hay que reconocerlo) equivocándose y corrigiendo. No te quedes ‘afuera’, éntrale a la IA.
+Finalmente, afirma un experto, nadie sabe actualmente cuál es el verdadero potencial de estas herramientas tan poderosas, pero no será una herramienta útil si no la sabes usar, si tienes miedo o crees que es un arma destructora; hay que estar del lado del conocimiento y comprender cómo usar adecuadamente estas herramientas. El mundo está en constante cambio, y el que sepa adaptarse mejor a estas herramientas, estará a la vanguardia para la toma de decisiones en su organización.
+Las expresiones aquí vertidas son responsabilidad de quien firma esta columna de opinión y no necesariamente reflejan la postura editorial de El Financiero.
+© Copyright, Grupo Multimedia Lauman, SAPI de CV

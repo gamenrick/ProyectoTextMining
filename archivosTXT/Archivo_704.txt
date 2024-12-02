@@ -1,0 +1,29 @@
+He probado Copilot, el asistente de Microsoft basado en IA: ayuda a asistir a reuniones y resumir correos, pero es mejor tratarlo como un becario
+Autor desconocido
+businessinsider.es
+
+ Newsletters
+Justin Sullivan via Getty Images
+Beatrice Nolan,
+Facebook
+Whatsapp
+Twitter
+Linkedin
+Telegram
+Copiar url
+Enlace copiado
+Microsoft lanzó oficialmente su Copilot para Office 365 a los usuarios a principios de este mes.
+Esta herramienta de productividad basada en IA puede resumir documentos, escribir correos electrónicos y asistir a reuniones por ti. Está diseñada para ser desplegada en cualquier empresa y enlaza con las aplicaciones de Microsoft, como Word, Excel, PowerPoint, Outlook y Teams.
+Hasta ahora, ha demostrado ser popular, así que fui a las oficinas de Microsoft en el Reino Unido para probar la herramienta por mí misma.
+En primer lugar, Copilot es sorprendentemente fácil de usar. La herramienta adopta el estilo informal de un chatbot, por lo que es muy intuitiva y accesible incluso para los trabajadores que no son expertos en tecnología.
+Los trabajadores pueden pedirle al bot que resuma documentos largos o los convierta en PowerPoints u hojas de cálculo con unos pocos clics. También puede responder a correos electrónicos y escanear la bandeja de entrada, seleccionando los mensajes más importantes y redactando las respuestas.
+Copilot puede leer largas cadenas de correos electrónicos o chats de Teams y resumir los puntos principales.
+Los trabajadores pueden incluso enviar al bot a las reuniones por ellos. Cuando se activa en una llamada de Teams, Copilot puede grabar reuniones, proporcionar una transcripción y separar los temas tratados en clips llamados "capítulos".
+La herramienta podría cambiar las reglas del juego para los trabajadores ocupados y cargados de correo electrónico, y ayudarles a ponerse al día rápidamente.
+Todavía no ofrece mucha personalización, pero Microsoft está trabajando en ello. La empresa planea lanzar una función llamada "Suena como yo", que permitirá a Copilot imitar la voz y el tono del usuario en correos electrónicos y mensajes.
+La herramienta está basada en GPT de OpenAI y utiliza DALL-E 3 para generar imágenes. La función de chatbot es similar a la del chat de Bing, que suele cometer errores.
+Copilot tiene evidentes ventajas de ahorro de tiempo, pero no está exento de riesgos.
+La forma más segura de utilizar la IA es tratarla como a un becario nuevo e inexperto. Microsoft afirma que la herramienta está pensada para ayudar a los trabajadores a llegar más rápido a un primer borrador y anima a los usuarios a editar y comprobar el trabajo final.
+Aunque Microsoft ha tomado medidas para intentar combatir las alucinaciones de la IA, como añadir referencias a pie de página en las respuestas del bot que enlazan con la fuente de información, la tecnología no es perfecta. Microsoft anima a las empresas a formar a sus trabajadores para que no traten a la IA como una herramienta de búsqueda infalible.
+Conoce cómo trabajamos en BusinessInsider.
+Etiquetas: Trending, Inteligencia artificial, Microsoft, Trabajo

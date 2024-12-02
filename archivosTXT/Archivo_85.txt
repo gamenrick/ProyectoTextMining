@@ -1,0 +1,31 @@
+Deep learning - Qué es, historia, tipos y usos
+Autor desconocido
+definicion.de
+
+El deep learning forma parte del machine learning, un área de la inteligencia artificial.
+El deep learning es una modalidad de machine learning basada en la creación de algoritmos que le permiten a un sistema aprender mediante redes neuronales artificiales. Se sustenta en la utilización de múltiples capas de procesamiento para favorecer el reconocimiento de patrones.
+Antes de continuar, resulta imprescindible analizar varios conceptos. Se llama machine learning o aprendizaje automático a un área de la inteligencia artificial centrada en el desarrollo de técnicas para que las computadoras puedan aprender de sus experiencias.
+La inteligencia artificial se construye con algoritmos: instrucciones finitas y ordenadas para la realización de un cálculo o el procesamiento de un dato. Retomando la idea de deep learning o aprendizaje profundo, los algoritmos apuntan a entrenar al sistema para que lleve a cabo ciertas tareas de un modo similar al de las personas, aprendiendo de los errores y avanzando en un proceso de mejora continua.
+Con dicho objetivo, el deep learning recurre a las redes neuronales: grupos de nodos (módulos de programas informáticos) que se encuentran interconectados, enviando y recibiendo señales para procesar la información. Así, no se le suministra al sistema ecuaciones predefinidas para la organización de los datos, sino que se realiza una configuración de los parámetros básicos y se instruye la computadora para que aprenda a reconocer patrones.
+
+
+La historia del deep learning está asociada a la creación de las redes neuronales artificiales. Walter Pitts y Warren McCulloch fueron quienes, en la década de 1940, dieron a conocer un estudio acerca de cómo el cerebro humano genera patrones de gran complejidad a través de la interconexión de neuronas. Estos científicos establecieron una comparación entre las células cerebrales y la lógica booleana, creando un modelo informático donde la unidad de procesamiento se basa en algoritmos para imitar el comportamiento neuronal.
+Partiendo de la investigación de Pitts y McCulloch, se desarrollaron diversos enfoques de abordaje de las redes neuronales: mientras que una tendencia apuntó a los procesos de la biología, otra se orientó a aplicar estos preceptos al desarrollo de la inteligencia artificial.
+El perceptrón -una neurona artificial ideada por Frank Rosenblatt en los ´50-, la retropropagación (backpropagation) propuesta por Paul Werbos en los ´70 y el entrenamiento de algoritmos que postuló Yann LeCun en los ´80 contribuyeron al avance de las redes neuronales.
+El deep learning, en este contexto, se potenció sobre todo en el siglo XXI, cuando se incrementó la potencia de cómputo y crecieron los datos disponibles (apareciendo la noción de big data). Un protagonista de esta expansión fue Geoffrey Hinton, responsable de arquitecturas y algortimos como las máquinas Boltzmann (Boltzmann machines) y las redes neuronales convolucionales.
+Ya a partir de 2010, el deep learning se enriqueció con las llamadas redes neuronales profundas que multiplicaron las aplicaciones. Se optimizó, de este modo, el procesamiento de lenguaje natural, la visión por computadora y el reconocimiento de patrones para identificar imágenes, por ejemplo.
+Los optimizadores hacen posible la actualización de los valores de los parámetros que se emplean en el deep learning.
+
+
+El deep learning, como ya indicamos, alude a un aprendizaje automático profundo. Ese aprendizaje que puede realizar una red neuronal (que, al final y al cabo, es un software) requiere de entrenamiento.
+Para entrenar a un sistema, se le indica que procese grandes conjuntos de datos, tanto etiquetados como sin etiquetar. La red neuronal, de este manera, va adquiriendo precisión a partir de los ejemplos que procesa.
+En el aprendizaje no supervisado, el modelo se adapta según las observaciones. La red neuronal descubre patrones subyacentes partiendo de datos sin etiquetar, actuando por lo tanto sin supervisión directa.
+En el aprendizaje supervisado, en cambio, los propios científicos aportan anticipadamente la respuesta correcta cuando introducen los datos. Lo que hace la red neuronal en este caso es sumar conocimientos antes de empezar a predecir resultados examinando datos que no había proceso anteriormente.
+La noción de aprendizaje por refuerzo, en tanto, consiste en el entrenamiento del programa para que, a partir de una metodología similar a la de la prueba y error que hacen las personas, tome decisiones en pos de los resultados correctos.
+Mediante la explotación de redes neuronales ya entrenadas, el deep learning puede aprovechar la transferencia de aprendizaje.
+
+
+El deep learning es un campo que se encuentra en pleno desarrollo. No obstante, este recurso ya se emplea en numerosos procesos y técnicas.
+
+
+Copyright © 2008-2024 - Definicion.de Queda prohibida la reproducción total o parcial de los contenidos de esta web Quiénes somos - Privacidad - Contacto -  Arriba ↑

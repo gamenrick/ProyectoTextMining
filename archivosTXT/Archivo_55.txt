@@ -1,0 +1,81 @@
+Deep Learning & Machine Learning: diferencias, ventajas e inconvenientes
+Autor desconocido
+fromdoppler.com
+
+Email Marketing
+Notificaciones Push
+Conversaciones
+Whatsapp
+Email Transaccional
+Automation Marketing
+SMS Marketing
+Formularios
+Inteligencia Artificial
+Landing Pages
+Doppler Academy
+
+                                                    Capacítate gratis y online en Marketing Digital con Cursos certificados y videos cortos, ¡y mucho más!                                                
+Blog
+
+                                                    Descubre contenido actualizado y novedoso sobre Marketing Digital e impulsa tu negocio.                                                
+EMMS
+
+                                                    Regístrate gratis en el mayor evento de Latam y España, para inspirarte y enterarte de las últimas tendencias en Marketing Digital e E-commerce.                                                
+Recursos
+
+                                                    Descarga materiales exclusivos y gratuitos para aprender a potenciar tu negocio.                                                
+Email Marketing
+Notificaciones Push
+Conversaciones
+Whatsapp
+Email Transaccional
+Automation Marketing
+SMS Marketing
+Formularios
+Inteligencia Artificial
+Landing Pages
+Doppler Academy
+Blog
+EMMS
+Recursos
+Actualizado el 26 de Octubre de 2017
+•Tiempo de lectura: 5 minutos.
+Digital Marketing Manager en Global Business School Barcelona Digital. Marketing & eCommerce Specialist. Diplomada en Planeamiento Estratégico.
+Escribió 1 post
+
+5 recomendaciones
+Aumenta tus ventas con Doppler
+¿Sabías que con el Email Marketing llegas a más clientes, integras tus mensajes con redes sociales y mides su impacto en minutos?
+Conviértete en autor invitado
+¿Quieres ser parte del grupo de autores que escriben para el blog de Doppler? ¡No esperes más! Envíanos tu artículo.
+
+En plena era digital el desarrollo de la Inteligencia Artificial (IA) es un hecho, y estos avances están revolucionando la tecnología actual.
+El Big Data ha entrado con fuerza en el sector empresarial y los programas de IA permiten trabajar con grandes cantidades de datos e información. Los negocios digitales necesitan de estas nuevas herramientas que mejoren y faciliten el trabajo de manera automática.
+En este contexto, la IA tiene mucho que decir ¿imaginas que las máquinas comenzarán a aprender por sí solas nuevas tareas? Esto ya es posible gracias a tecnologías como el Machine Learning y el Deep Learning.
+No te pierdas este artículo, donde descubrirás las ventajas e inconvenientes de estos dos aprendizajes automáticos y las claves para diferenciarse.
+Es una tecnología que se basa en aprender de manera automática mediante algoritmos que recogen datos, los analizan y luego dan respuesta a los usuarios sobre la información que quieren recibir.
+Este aprendizaje surge con la necesidad de recoger la cantidad de datos que se producen, y al mismo tiempo, sugerir opciones de mejora detectando patrones de comportamiento.
+En España, un 70% de los consumidores ya compra a través de Internet, por lo que es imprescindible desarrollar una estrategia de Marketing efectiva, como el Digital Customer Experience, mediante la recopilación de datos y comportamientos de los usuarios.
+Sería inviable tener una persona o un equipo que controle y vigile el comportamiento de todos los usuarios que pasan por una Web, ya que son infinitas combinaciones entre número de visitas, horario, etc. Por este motivo, surgen estas herramientas de IA capaces de recoger y ordenar todos los datos de forma automática y autoprogramable.
+Este tipo de sistemas es muy útil y su uso supone una ventaja competitiva; pudiendo conocer los comportamientos de los clientes, detectar fraudes, fallos en la estrategia, predecir el tráfico web y localizar clientes potenciales.
+El principal inconveniente del Machine Learning es que hay que guiar al programa en todas las fases del sistema para que sepa identificar cada categoría automáticamente, por lo tanto, esta modalidad necesita de un aprendizaje supervisado. Es decir, hay que reforzar el trabajo de la máquina con el humano para que éste le proporcione la semántica necesaria para que la misma trabaje, lo aplique en un futuro a los algoritmos y sea capaz de ejecutarlos posteriormente sin intervención de la mano del hombre.
+En el día a día hay muchas aplicaciones que utilizan este sistema, estas son algunas de ellas:
+El Deep Learning o aprendizaje en profundidad, es una técnica mejorada donde los sistemas alcanzan niveles de aprendizaje en un grado aún más detallado. Es el siguiente paso del aprendizaje automático ya que éste no es supervisado.
+Estos avances están acercándose cada vez más a la perspectiva del sistema nervioso humano, llegando casi a hablar de “neuronas artificiales”. El modelo Deep Learning trata de imitarlo mediante un proceso cognitivo artificial.
+Este sistema está diseñado con capas o unidades neuronales que son algoritmos que tratan de imitar el funcionamiento del cerebro humano. Cada capa ofrece unos resultados en forma de ponderación. Esta es modificada y combina el resultado con otra, y así sucesivamente con el resto de capas hasta reducir al máximo posible el margen de error, aumentando así las conclusiones.
+Además, el aprendizaje en profundidad comienza a integrar funciones psicológicas propiamente humanas como la memoria, el razonamiento, la atención, la motivación y las emociones.
+Sus aplicaciones son cada vez más demandadas por el mundo empresarial, algunos campos en los que se ha desarrollado el Deep Learning son:
+Hoy en día muchas estrategias de Marketing dependen de estos mecanismos que realizan funciones como leer Páginas Web, contestar preguntas en un chat, recomendar Sitios Web, películas o libros, entre otros. Y todas estas tareas se gestionan mediante la adquisición de datos y un análisis e interpretación posterior de los mismos.
+La Inteligencia Artificial avanza cada día más e interviene en muchos aspectos de la cadena de productividad dentro de cualquier negocio. No integrar este tipo de tecnologías en la estrategia empresarial, especialmente en las digitales, puede hacer que los negocios queden obsoletos respecto al mercado cada día más tecnológico.
+¿Conocías estos usos de la IA? ¿Qué otros has escuchado? ¿Te gustaría comenzar a utilizarla en tu negocio?
+Resuelve Captcha*
+ 
+
+
+Súmate a nuestro programa de formación en Email Marketing y Marketing Online y capacítate junto a los máximos referentes del sector a nivel mundial.
+Gracias por suscribirte =) 
+Doppler te informa que los datos de carácter personal que nos proporciones al rellenar el presente formulario serán tratados por Doppler LLC como responsable de esta web.
+Finalidad: Dar de alta esta suscripción para que puedas descargar el material solicitado y enviarte promociones de productos o servicios propios o de nuestros aliados.
+Legitimación: Consentimiento del interesado.
+Destinatarios: Tus datos serán guardados por Doppler y Digital Ocean como empresa de hosting.
+Información adicional: En la Política de Privacidad de Doppler encontrarás información adicional sobre la recopilación y el uso de su información personal por parte de Doppler, incluida información sobre acceso, conservación, rectificación, eliminación, seguridad, transferencias transfronterizas y otros temas.

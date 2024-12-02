@@ -1,0 +1,24 @@
+Copilot en Microsoft 365: Descubre cómo reforzar la seguridad en tu nube  | Technology
+Autor desconocido
+cleveritgroup.com
+
+Hoy la seguridad en la nube se ha convertido en una prioridad absoluta para las empresas de todos los sectores e industrias. Con la creciente adopción de soluciones basadas en la nube, como el ecosistema 365 de nuestro partner Microsoft, es fundamental contar con herramientas robustas que protejan la información confidencial y garanticen el cumplimiento de las regulaciones. 
+En este contexto, la integración de Microsoft Copilot en el ecosistema Microsoft 365 emerge como una poderosa aliada para robustecer la seguridad en la nube. Si aún no conoces esta herramienta, te cuento un poco más. 
+Copilot es un asistente impulsado por inteligencia artificial con un formato conversacional que te ayudará con lo que necesites, desde redactar textos o buscar información hasta crear imágenes con un buen prompt para ello. 
+En el contexto de Microsoft 365, Copilot permite optimizar la productividad de los equipos e impulsar toda su creatividad, todo mientras protege los datos e información sensible de cada usuario. A continuación, te explico algunas ventajas de seguridad que ofrece este asistente en el ecosistema 365. 
+‍
+Uno de los pilares fundamentales de la seguridad en la nube es la protección integral de los datos. Copilot, en sinergia con Microsoft Information Protection (MIP), automatiza la clasificación y protección de documentos y correos electrónicos, aplicando etiquetas de sensibilidad que previenen la fuga de información sensible y el acceso no autorizado. 
+‍
+Las empresas que operan en entornos altamente regulados, como el sector salud o financiero, deben cumplir con estrictos estándares de seguridad de datos. Microsoft 365, y por ende Copilot, se diseñan bajo los más altos estándares de seguridad y cumplimiento, garantizando que la gestión de datos se realice de forma segura y conforme a las normativas vigentes. 
+‍
+En un mundo donde las credenciales están constantemente bajo amenaza, la autenticación multifactor (MFA) se convierte en una barrera fundamental contra accesos no autorizados. Copilot integra este sistema, exigiendo múltiples métodos de verificación como contraseñas, códigos de dispositivos móviles o biometría, antes de permitir el acceso a las aplicaciones de Microsoft 365. 
+‍
+‍
+‍
+El panorama de amenazas en la nube está en constante evolución, con actores maliciosos desarrollando ataques cada vez más sofisticados. Microsoft Copilot se integra con Microsoft Defender para Office 365, ofreciendo protección avanzada contra phishing, malware, ransomware y ataques dirigidos, salvaguardando los datos confidenciales manejados por Copilot. 
+‍
+Para las empresas que requieren un control preciso sobre la accesibilidad de la información, Copilot ofrece funcionalidades de gobernanza de datos y acceso basado en roles. Esto permite establecer políticas granulares que definen quién tiene acceso a qué información dentro de Copilot y las aplicaciones de Microsoft 365, garantizando que solo el personal autorizado pueda acceder a datos sensibles o críticos. 
+‍
+Copilot para Microsoft 365 llega a revolucionar la forma en que los usuarios trabajan y se levanta como un guardián esencial de la seguridad en la nube. Al integrar sólidas funciones de seguridad como las que detallé a lo largo de este artículo, Copilot empodera a las empresas para proteger su información más valiosa y navegar con confianza en el entorno de la nube. 
+ 
+‍

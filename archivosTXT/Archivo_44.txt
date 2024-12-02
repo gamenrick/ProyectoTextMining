@@ -1,0 +1,51 @@
+Deep Learning o Aprendizaje profundo : ¿qué es?
+Daniel
+datascientest.com
+
+En los últimos años, un nuevo léxico relacionado con la aparición de la inteligencia artificial en nuestra sociedad ha inundado los artículos científicos, y a veces es difícil entender de qué se trata. Cuando hablamos de inteligencia artificial, muy a menudo nos referimos a tecnologías asociadas como el aprendizaje automático o el aprendizaje profundo. Dos términos muy utilizados con aplicaciones cada vez mayores, pero no siempre bien definidos.  Para empezar, veamos estas tres definiciones esenciales :
+El Machine learning es un conjunto de técnicas que dan a las máquinas la capacidad de aprender, a diferencia de la programación, que consiste en la ejecución de reglas predeterminadas.
+Hay dos tipos principales de aprendizaje en el aprendizaje automático. Aprendizaje supervisado y no supervisado.
+En el aprendizaje supervisado, el algoritmo se guía por un conocimiento previo de cuáles deben ser los valores de salida del modelo. En consecuencia, el modelo ajusta sus parámetros para reducir la diferencia entre los resultados obtenidos y los esperados. Así, el margen de error se reduce a medida que el modelo se entrena para poder aplicarlo a nuevos casos.
+En cambio, el aprendizaje no supervisado no utiliza datos etiquetados. Por lo tanto, es imposible que el algoritmo calcule una puntuación de éxito con certeza. Su objetivo es, por tanto, deducir los clusters presentes en nuestros datos. Tomemos el ejemplo de un conjunto de datos de flores, queremos agruparlas en clases. Aquí no conocemos la especie de la planta, pero queremos intentar agruparlas, por ejemplo, si las formas de las flores son similares, entonces están relacionadas con la misma planta correspondiente. Hay dos áreas principales de modelos en el aprendizaje no supervisado para encontrar agrupaciones :
+El Deep learning es una de las principales tecnologías del aprendizaje automático. Con el Deep Learning, hablamos de algoritmos que son capaces de imitar las acciones del cerebro humano mediante redes neuronales artificiales.  Las redes se componen de docenas o incluso cientos de «capas» de neuronas, cada una de las cuales recibe e interpreta información de la capa anterior. 
+Cada neurona artificial, representada en la imagen anterior por un círculo, puede verse como un modelo lineal. Al interconectar las neuronas en una capa, transformamos nuestra red neuronal en un modelo no lineal muy complejo.
+Para ilustrar el concepto, tomemos un problema de clasificación entre perro y gato a partir de imágenes. Durante el entrenamiento, el algoritmo ajustará los pesos de las neuronas para reducir la diferencia entre los resultados obtenidos y los esperados. El modelo podrá aprender a detectar triángulos en una imagen, ya que los gatos tienen las orejas mucho más triangulares que los perros.
+Los modelos de aprendizaje profundo tienden a funcionar bien con grandes cantidades de datos, mientras que los modelos de aprendizaje automático más tradicionales dejan de mejorar después de un punto de saturación
+A lo largo de los años, con la aparición del big data y de componentes informáticos cada vez más potentes, los algoritmos de aprendizaje profundo que requieren mucha potencia y datos han superado a la mayoría de los demás métodos. Parecen estar preparadas para resolver muchos problemas: reconocer caras, ganar a jugadores de go o de póquer, permitir la conducción de coches autónomos o buscar células cancerígenas.
+Casi todos los sectores se ven afectados por la IA. El aprendizaje automático y el aprendizaje profundo juegan un gran papel. 
+Ya sea usted un profesional de la medicina o un abogado, es posible que un día un modelo altamente autónomo le asista o incluso le sustituya.
+En el sector de la salud , ya existen aplicaciones para diagnosticar automáticamente a un paciente.
+La industria del automóvil también se ve sacudida por la llegada de la conducción asistida.
+
+También es gracias al deep learning que el modelo Alpha Go de Google consiguió vencer a los mejores campeones de Go en 2016. El propio motor de búsqueda del gigante estadounidense se basa cada vez más en el aprendizaje profundo y no en reglas escritas.
+Hoy en día, el aprendizaje profundo es incluso capaz de «crear» cuadros por sí mismo. Esto se llama Transferencia de Estilo. Si está interesado en este tema, pronto estará disponible en nuestro blog un artículo enteramente dedicado a él.
+A continuación, le presentaremos las redes neuronales con un nuevo enfoque, ¡esperamos que le guste!
+Es evidente que el sector del comercio electrónico genera grandes cantidades de datos. Las empresas, los comerciantes y los minoristas son conscientes de que las soluciones de Big Data para gestionar sus operaciones harán que su negocio sea más valioso. A pesar de todas estas soluciones innovadoras, el Big Data puede ser una bendición o una maldición, dependiendo de cómo se utilice y aplique.
+La revolución de la inteligencia artificial pretende facilitar la gestión de esta enorme cantidad de datos, utilizando tecnologías inteligentes como el aprendizaje profundo. Es esencial porque proporciona elementos para un mejor análisis de los datos.
+En un caso práctico, el análisis de la IA facilita que una tienda online ofrezca productos interesantes a sus clientes, destaque sus preferencias y les dé una atención personalizada. El aprendizaje profundo automatiza lo que se conoce como análisis predictivo. Con el análisis predictivo, los clientes pueden recibir sugerencias a la hora de realizar una compra.
+El aprendizaje profundo define un estilo cuando se trata de comercio electrónico. No se trata de crear sitios en línea que atraigan a grandes proporciones de compradores. El objetivo es enviar mensajes claros e individualizados a cada uno de ellos.
+El Big Data se somete a un análisis en profundidad a través del aprendizaje profundo, lo que conduce a un proceso de compra más fácil para los clientes. Los algoritmos de aprendizaje profundo ayudan a la empresa a obtener una mejor experiencia y a hacer un seguimiento de quienes han visitado su sitio.
+El aprendizaje profundo viene a facilitar la expansión del comercio electrónico. Las ventas online están siendo impulsadas por tendencias tecnológicas como los chatbots.
+En cierto modo, el aprendizaje profundo está redefiniendo el comercio en línea y todavía está en sus inicios. Por lo tanto, quienes lo adopten tendrán más ventajas.
+Antes de abordar el funcionamiento preciso de las redes neuronales, hemos pensado que sería interesante establecer un paralelismo con las neuronas biológicas (Que no cunda el pánico, a continuación habrá un artículo dedicado a las redes neuronales utilizadas en el Deep Learning).
+El sistema nervioso está compuesto por miles de millones de células : es una red de neuronas biológicas. En efecto, las neuronas no son independientes unas de otras, sino que establecen vínculos entre ellas y forman redes más o menos complejas.
+ La neurona biológica se compone de tres partes principales :
+En cuanto a las sinapsis, actúan como enlaces y pesos entre las neuronas y, por tanto, permiten que éstas se comuniquen entre sí.
+En Resumen :
+Las neuronas biológicas tienen un centro de control (llamado célula somática) que resume la información recogida por las dendritas. El centro de control devuelve entonces un potencial de acción según las siguientes reglas :
+Hagamos una sencilla comparación de los principales pasos del algoritmo del perceptrón con los bloques de construcción de las neuronas biológicas. Esta elección del algoritmo se justifica porque es lo más parecido al funcionamiento de las neuronas biológicas :
+El vocabulario específico de este algoritmo es el siguiente :
+f se denomina función de activación.
+Para la mayoría de las funciones de activación, el perceptrón consiste en encontrar el hiperplano de separación (definido por w) entre nuestras dos clases :
+El algoritmo simple del Perceptrón ya no se utiliza en la práctica, ya que otros algoritmos, como la Support Vector Machine, son mucho más eficaces. Además, las neuronas biológicas no se utilizan individualmente, sino que suelen estar vinculadas a otras neuronas.
+El interés por el algoritmo del perceptrón proviene de una técnica demostrada en 1989 por George Cybenko que consiste en enlazar y apilar capas de perceptrón para proporcionar una mayor complejidad. Un algoritmo de este tipo se llama Perceptrón Multicapa, a menudo abreviado como MLP.
+En la figura anterior, el modelo consiste en clasificar (en 10 clases) imágenes de figuras manuscritas. Los cuadrados verdes son las entradas de nuestro modelo, los perceptrones están representados por círculos grises y los enlaces están representados por las flechas.
+En general, la última capa de nuestro modelo se utiliza para dar forma al resultado deseado. Aquí, como tenemos un problema de clasificación, queremos predecir la probabilidad de cada clase (número 0, número 1…). Por eso la última capa tiene 10 neuronas, ya que hay 10 clases, y una función de activación «softmax» para devolver una probabilidad.
+Es mucho más libre para las otras capas de nuestro modelo, es especialmente importante que las funciones de activación de los perceptrones sean no lineales para hacer el modelo más complejo. En la práctica, las funciones de activación tanh o ReLU son las más utilizadas.
+Al igual que en LEGO, corresponde al científico de datos elegir la arquitectura de su modelo.
+Hay algunas arquitecturas que rinden más que otras, pero no hay ninguna regla matemática real detrás de ellas. Es la experiencia la que prima sobre la elección de las estructuras del modelo.
+fuentes :
+Article 1 : Introducción al deep learning y a las redes neuronales
+Article 2 : Convolutional neural network
+Article 3 : Funcionamiento de las redes neuronales
+Article 4 : Transfer learning 

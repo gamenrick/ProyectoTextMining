@@ -1,0 +1,28 @@
+Desventajas de generar contenido para SEO con ChatGPT | FuturVía
+Autor desconocido
+futurvia.es
+
+La IA está de moda (como muchas otras tantas cosas que nos bombardean hoy en día de forma incansable) y generar contenido para SEO con ChatGPT tiene ciertas ventajas, pero también presenta varias desventajas que debes tener en cuenta:
+Aunque ChatGPT es impresionante en términos de generación de texto, no garantiza siempre la coherencia, la precisión ni la calidad del contenido. Puede generar información incorrecta o confusa, lo que podría afectar negativamente la credibilidad de tu sitio web. Ten en cuenta que se alimenta de otras webs y de información en la red para generarte el contenido y este no siempre es cierto.
+En el día de hoy del lanzamiento de este artículo la capacidad de ChatGPT para mantenerse actualizado solo llega hasta septiembre de 2021. Por lo tanto, podría generar contenido desactualizado en un entorno en el que las tendencias y la información están en constante evolución. Esto se aplica a leyes, moda, últimos lanzamientos de productos, nuevas tecnologías…
+Generar contenido automáticamente con ChatGPT puede llevar a la creación de contenido que no cumple con las directrices de los motores de búsqueda, lo que podría conllevar una penalización en los rankings o en la desindexación del contenido. A día de hoy Google ya penaliza contenido generado por IA de cualquier tipo y con el tiempo evolucionará para penalizar todo aquel contenido generado mediante IA.
+
+El contenido generado por ChatGPT suele carecer de la autenticidad y personalidad que son esenciales para establecer una conexión genuina con tu audiencia. Esto podría dificultar la creación de una identidad sólida para tu sitio web.
+En áreas altamente especializadas o técnicas, ChatGPT podría tener dificultades para generar contenido preciso y detallado. La falta de comprensión profunda en ciertos temas podría ser evidente en el contenido generado por la máquina y una descontextualización de la temática tratada.
+El contenido generado por ChatGPT probablemente necesitará una revisión y edición sustancial para asegurarse de que cumpla con los estándares de calidad y se ajuste a tus objetivos. Otra cosa es que se utilice como base para generar tu propio contenido personal y te funcione a modo de guía.
+
+Si el contenido generado por IA es utilizado por múltiples sitios web sin modificaciones significativas, podría considerarse como contenido duplicado por los motores de búsqueda, lo que seguro te va a afectar negativamente el posicionamiento en los resultados de búsqueda. Para ti puede ser original, pero será muy probable que sea una copia.
+Este tipo de generación de contenidos genera dificultades para seguir una estructura coherente en el contenido creado, lo que podría afectar la legibilidad y la comprensión por parte de los usuarios. No deja de ser un “robot” el que genera el contenido y, en la actualidad, si bien los resultados son increíbles, le falta mucho de cara a una redacción “humana”.
+En general, aunque ChatGPT puede ser una herramienta útil para la generación de contenido, es importante ser consciente de estas desventajas y utilizarlo de manera inteligente, complementándolo con la supervisión humana, la edición y la revisión para garantizar la calidad y la autenticidad del contenido que produces.
+Úsalo en momentos que no tengas inspiración, pero siempre a modo de guion y generando contenidos propios o al menos con un toque personal que definan tu negocio o actividad.
+Vamos a tratar de desarrollar esta última parte en nuestro próximo artículo.
+¿Te podemos ayudar?
+Buenos dias, tengo una web de formación y he contratado este ultimo año un becario para que me mantuviera la web el cual por lo visto ha estado utilizando Chat GPT para la creación de contenido que por cierto muchos de ellos posicionan muy bien, después de leer un poco vuestro articulo me he quedado con algo de incertidumbre, entre otras cosas porque un amigo que trabaja en el extrajeron en una empresa como la vuestra me ha avisado de los peligros o desventajas de generar contenido para SEO con ChatGPT... ¿debo borrar todo?
+Muchas gracias de antemano
+Isabel
+Buenas tardes Isabel, NO debe borrar todo, en todo caso debería editarlo y personalizarlo lo mas posible. El problema es el copia pega o casi copia pega porque no se genera ningún contenido genuino y Google lo termina identificando (recordémos que Google tiene su propia IA).
+Lo que a los buscadores como Google no les interesa es que se les engañe y asi es precisamente lo que hacemos, engañarle, de ahi las desventajas de generar contenido para SEO con ChatGPT
+Pero si ya esta hecho lo que deberían de hacer es retocar esos textos y tratar de ser mas original la próxima vez.
+En respuesta a Buenos dias, tengo una web… por Isabel Manzano
+FuturVía es un ISP que lleva desde 1996 ofreciendo servicios de desarrollo web (diseño web y tienda online), alojamiento, posicionamiento SEO, mantenimiento web… Más de 25 años apostando por el crecimiento de nuestros clientes. Empresa FuturVía
+Copyright © 1996-2024 · Future Garden Communication, S.A. · Todos los derechos reservados.

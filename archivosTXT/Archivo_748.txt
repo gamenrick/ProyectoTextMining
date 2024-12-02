@@ -1,0 +1,60 @@
+Qué es el ‘deep learning’ | Newtral
+Maria Campins
+newtral.es
+
+
+Interesa
+En la inteligencia artificial, el deep learning, usa redes neuronales artificiales para simular el funcionamiento del cerebro humano. Qué es y cómo funciona.
+
+¿Te has preguntado alguna vez por qué cuando buscas en Google, sueles encontrar la respuesta? ¿Cómo crea Youtube los subtítulos en cualquier vídeo? ¿O cómo nos entienden los altavoces inteligentes como Siri o Alexa? Estas tareas y muchas más que hacemos en nuestro día a día se consiguen gracias al deep learning (DL). Esta técnica de inteligencia artificial tiene un impacto creciente en nuestras vidas y un potencial en el futuro. Por ejemplo, los coches autónomos están empezando a ser una realidad gracias al deep learning. ¿Quiéres saber cómo funciona?
+El deep learning o aprendizaje profundo es una técnica de inteligencia artificial que utiliza redes neuronales profundas para aprender automáticamente a partir de datos. Una red neuronal es un modelo matemático inspirado en el funcionamiento del cerebro humano, que consta de un conjunto de ‘neuronas’ interconectadas que procesan y transmiten señales entre sí. 
+En una red neuronal profunda, las señales pasan por varias capas de neuronas, cada una de las cuales puede aprender a detectar patrones y características más complejas, a partir de lo detectado en las capas anteriores. El deep learning se ha utilizado con éxito en una amplia gama de aplicaciones, como el reconocimiento de voz y de imágenes, la traducción automática y el análisis de sentimientos en textos. Es una herramienta poderosa para la automatización de tareas y la toma de decisiones en una amplia variedad de campos.
+Aunque están íntimamente relacionados, estos tres conceptos no son sinónimos.    Hablamos de inteligencia artificial (IA) para referirnos a cualquier sistema que emula las capacidades de aprendizaje, resolución de problemas y toma de decisión de la mente humana. Esto incluye ámbitos como la percepción visual, el reconocimiento del habla o la traducción de idiomas entre otros. 
+
+
+Australia aprueba una ley que prohíbe el uso de redes sociales a menores de 16 años
+
+
+Australia aprueba una ley que prohíbe el uso de redes sociales a menores de 16 años
+El machine learning (ML) es un subcampo de la inteligencia artificial en el que las máquinas aprenden y mejoran sus habilidades sin ser explícitamente programadas. Esto se logra a través de la exposición de la máquina a un conjunto de datos (de hecho hablamos de “entrenar” la máquina). A partir de esos datos, puede extraer patrones y relaciones que luego puede utilizar para realizar tareas específicas. Un sistema de machine learning siempre es una IA, pero, en el sentido contrario, puede haber inteligencias artificiales cuyo comportamiento ha sido programado por un humano y por tanto no serían sistemas de machine learning.
+El deep learning, por último, es una técnica de machine learning que utiliza redes neuronales artificiales profundas (deep neural networks, DNNs) para aprender a partir de datos. En el machine learning tradicional, se suele requerir que el humano diseñe y seleccione manualmente las características que se usarán como entrada para el modelo, es decir, el humano le indica a la máquina en qué debe fijarse mientras aprende. En el deep learning, por otro lado, se utilizan conjuntos de datos mucho más grandes y se confía en la red neuronal para aprender por sí misma qué características son importantes y cómo deben procesarse. Por tanto, el aprendizaje es mucho más automático en el caso del deep learning, lo que aporta grandes ventajas para resolver problemas complejos.
+En resumen, existe una relación jerárquica entre los tres conceptos. Inteligencia artificial es el concepto más amplio y engloba a los otros dos. Deep learning es un subtipo de técnicas de machine learning que se ha convertido en una de las técnicas dominantes en la actualidad para el desarrollo de los sistemas de inteligencia artificial más avanzados.
+
+
+Por qué no estamos cerca de poder detectar todos los ‘deepfakes’, y quizá nunca lo estemos
+
+
+Por qué no estamos cerca de poder detectar todos los ‘deepfakes’, y quizá nunca lo estemos
+Filippo Bistaffa, investigador en el instituto de inteligencia artificial del CSIC (Consejo Superior de Investigaciones Científicas), explica que aunque las redes neuronales artificiales hayan tenido mucho éxito en los últimos años, es un concepto que se empezó a estudiar ya en los años 40. En 1943 Warren McCulloch y Walter Pitts crearon un sistema que aplicaba redes neuronales. Durante las siguientes décadas se hicieron avances y en 2012, Google creó un algoritmo capaz de reconocer fotos de gatos.
+De esta manera, el reconocimiento de imágenes fué uno de los primeros campos en los cuales el deep learning tuvo éxito. Cómo explica Bistaffa, podemos imaginar que nuestro objetivo es reconocer de forma automática imágenes de gatos. En lugar de programar manualmente un algoritmo que identifique las características de un gato (tiene cuatro patas, orejas, color del pelo, etc), un modelo basado en deep learning aprende automáticamente estas características a partir de millones de imágenes de gatos que se proporcionan para entrenar el modelo. 
+La evolución de estas técnicas, sin embargo, ha ido más allá de la simple identificación de objetos. Los nuevos modelos neuronales de empresas como Google (IMAGEN) u OpenAI (DALL-E2) son capaces de generar sus propias creaciones a partir de una descripción de texto.
+Las máquinas consiguen procesar nuestro lenguaje, como el español o el inglés, gracias al procesamiento del lenguaje natural o natural language processing (NLP) en inglés. Es un campo de la informática que se centra en permitir que las máquinas comprendan y procesen el lenguaje humano de manera efectiva. 
+Gracias a la utilización del deep learning, en los últimos años se ha producido un salto diferencial en el campo del NLP. La propuesta de una nueva arquitectura de red neuronal, llamada Transformer, y el desarrollo de grandes modelos del lenguaje pre-entrenados como BERT por las grandes Big Tech, ha supuesto una revolución en la manera en que trabajamos con la voz y el texto. La mejora en los sistemas de transcripción o los traductores que usamos en nuestro día a día, vienen de la mano de estas tecnologías. Gracias a estas nueva familia de redes neuronales, podemos entrenar a una máquina para detectar misoginia, enseñarle a responder preguntas sobre un tema determinado como un experto o a escribir historias. 
+Es lo que hace ChatGPT, una inteligencia artificial de OpenAI que utiliza el procesamiento del lenguaje natural para mantener conversaciones, dando respuestas acertadas y completas, llegando a escribir igual o mejor que un humano. Si vuelves a la parte dónde te hemos explicado qué es el deep learning, ¿puedes diferenciar si lo ha escrito un periodista o una máquina? En realidad, lo ha escrito ChatGPT, creando un texto original y correcto.
+El desarrollo de las inteligencias artificiales generativas como ChatGPT suponen un peligro para la creación de fake news, ya que pueden escribir en segundos textos con datos o información falsa y bajo demanda, que son imposibles de diferenciar de los de un humano. Sin embargo, estas tecnologías tienen un lado más amable, pudiendo utilizarse también para ayudarnos a combatir el problema de la desinformación. 
+En Newtral hemos creado nuestras propias soluciones de deep learning para luchar contra la desinformación. La capacidad de estas nuevas redes neuronales para procesar el audio nos ha permitido automatizar buena parte del proceso de verificación. Nuestro editor de vídeo utiliza deep learning para transcribir automáticamente el audio y detectar información verificable en las entrevistas a políticos. Gracias a esta automatización la detección de frases en un vídeo que antes llevaba 30 minutos ahora puede hacerse en menos de 2 segundos. 
+El equipo de Newtral, formado por periodistas y desarrolladores, junto con ABC Australia ha desarrollado también una solución propia para monitorizar Twitter, llamada ClaimHunter. Esta IA sigue las cuentas de los políticos más relevantes del arco parlamentario y detecta automáticamente qué mensajes son potencialmente verificables. Se ha construido como un bot de la aplicación de mensajería Slack, de manera que, cuando detecta tweets verificables, los envía a un canal de Slack donde los verificadores de Newtral empiezan el trabajo de validación. Newtral ha compartido esta tecnología con otros 5 fact-checkers y el objetivo es seguir trabajando para automatizar de manera completa el proceso de verificación. 
+
+Deep learning and the future of Artificial Intelligence, Altexsoft 
+
+Digital Guide, IONOS
+
+DALL-E, OpenAI
+
+ Procesamiento del lenguaje natural, Instituto de ingeniería del conocimiento 
+
+ Qué es el deep learning, TIBCO
+
+ ChatGPT, OpenAI
+
+Attention is all you need, Google
+Excelente articulo para facilitar una conceptualizacion básica y comprensiva para ir creando una cultura informada sobre el tema.
+
+
+He leído y acepto la Política de privacidad
+ *
+
+ 
+
+
+Δ

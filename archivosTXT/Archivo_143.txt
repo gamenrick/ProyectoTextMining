@@ -1,0 +1,48 @@
+Siete estupendos usos que puedes darle a Meta AI en WhatsApp (y por qué este asistente se diferencia de cualquier otro)
+Autor desconocido
+xataka.com
+
+Javier Marquez
+Los chatbots avanzados de inteligencia artificial (IA) han llegado para quedarse. Oh, sí. Vaya que sí. En noviembre de 2022 contábamos únicamente con ChatGPT, pero un año y ocho meses después este tipo de aplicaciones están apareciendo en nuestras herramientas de uso diario. Así como Microsoft ha colocado Copilot en su navegador Edge y sistema operativo Windows, Meta ha comenzado a integrar Meta AI en WhatsApp, Instagram y Facebook.
+Como veremos más adelante, el asistente de IA de Meta está llegando a una veintena de países, por lo que resulta interesante descubrir algunas formas para sacarle el máximo provecho. Cabe señalar que esta herramienta todavía no tiene feca de aterrizaje en la Unión Europea. Esto último se debe principalmente a la presión regulatoria que el bloque comunitario está ejerciendo sobre las grandes tecnológicas que han sido denominadas ‘gatekeepers’.
+Si bien Meta AI se está integrando en el ecosistema de aplicaciones de la firma liderada por Mark Zuckerberg, en este artículo nos centraremos casi exclusivamente en sus capacidades en WhatsApp. Meta AI nos brinda la posibilidad de tener un chatbot de IA integrado completamente en la aplicación de mensajería instantánea más utilizada, lo que puede cambiar en cierta forma la manera en la que nos comunicamos. Veamos algunos ejemplos.
+La mayoría de las personas utilizamos WhatsApp a diario, aunque no siempre encontramos la forma de decir lo que queremos decir. Los asistentes de AI pueden convertirse en nuestros mejores aliados en estos casos. Supongamos que necesitamos recordarle a alguien que mañana a las 10 de la mañana se celebrará una reunión. De primeras, podríamos escribirle “Recuerda que tenemos una reunión mañana a las 10”, pero queremos mejorar el tono.
+Dado que no todos los hispanohablantes nos expresamos de la misma manera, también podemos utilizar Meta AI para adaptar el mensaje.
+No siempre tenemos tiempo para leer artículos o documentos extensos. Esto se vuelve más complejo cuando estamos intentando entrar en un terreno que no es nuestra especialidad. Meta AI puede ayudarnos. En este caso podemos utilizar distintos prompts para pedirle que haga resúmenes o resalte los puntos más importantes de un enlace que le pasemos. Aquí es preciso señalar que, al igual que otras IA, Meta AI puede arrojar resultados imprecisos.
+Como señalamos hace unos días, Meta AI está impulsado por Llama 3.1, el nuevo modelo de IA de Meta que destaca por su capacidad para abordar problemas matemáticos. Podremos pedirle desde que resuelva unas ecuaciones hasta que nos ayude a dividir la cuenta de la cena entre amigos.
+Meta AI no está limitado únicamente al texto. El asistente también nos permite crear imágenes directamente desde la ventana de chat. Aquí puedes dar rienda suelta a tu creatividad para optimizar el prompt.  Cabe señalar que el modelo no permite generar ciertos tipos de imágenes por cuestiones de seguridad.
+Una de las características más interesantes de los modelos de IA es su capacidad para traducir textos. Simplemente debes pegar el texto en el idioma original y pedirle a Meta AI que lo traduzca. Dado que las traducciones literales no siempre son una buena idea, también puedes indicar en el prompt que sea más explicativo o incluso que te de diferentes versiones traducidas del texto para que puedas escoger la más adecuada.
+
+Si bien para encontrar respuestas podemos utilizar otros chatbots de IA como ChatGPT, Copilot o Gemini, Meta AI también es capaz de ofrecer información sobre un amplio abanico de temas. Puedes preguntarle sobre historia, ciencia, tecnología, arte, literatura, y más. Aunque es preciso recordar que este modelo, al igual que otros, puede reproducir sesgos, así como brindar datos erróneos.  
+Si en algo se diferencia Meta AI del resto de los chatbots que están disponibles en la actualidad es en su integración nativa en WhatsApp. Desde cualquier ventana de chat puedes mencionar a @MetaAI para que haga su aporte a la conversación. Aquí podremos realizar todas las tareas mencionadas anteriormente. Así que puede ayudarnos a elaborar un itinerario de viaje hasta crear imágenes o simplemente buscar respuestas sin sentido.
+Meta AI se está desplegando en una variedad de territorios. Además de estar disponible en Estados Unidos y Canadá, también está llegando a Argentina, Chile, Colombia, Ecuador, México, Perú y Camerún. Si te encuentras en uno de los países admitidos, esta herramienta debería aparecer en WhatsApp en cualquier momento. No obstante, puedes acelerar el proceso asegurándote de tener la aplicación actualizada.
+En la Unión Europea, como señalábamos, no está disponible. Sin embargo, puedes recurrir a un truco que explicamos en Xataka Basics para probar el asistente anticipadamente. De momento, no hay una fecha anunciada para su llegada al territorio comunitario.
+En Xataka | Según la AI Act los nuevos Llama 3.1 de Meta son un "riesgo sistémico". El problema son los TFLOPs
+Los mejores comentarios:
+Ver 7 comentarios
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

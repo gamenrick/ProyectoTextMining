@@ -1,0 +1,351 @@
+Seguridad de IA generativa: garantizar una implementación segura de Microsoft Copilot
+Autor desconocido
+varonis.com
+
+
+                    DSPM
+                  
+
+                    Mejore su postura de seguridad de datos automáticamente.
+                  
+
+                    Seguridad de IA
+                  
+
+                    Copilotos de IA seguros y LLM.
+                  
+
+                    Descubrimiento y clasificación de datos
+                  
+
+                    Descubra, clasifique y etiquete con precisión datos confidenciales.
+                  
+
+                    DLP en la nube
+                  
+
+                    Supervise la actividad de datos en la nube y evite la filtración.
+                  
+
+                    Automatización de políticas
+                  
+
+                    Aplique privilegios mínimos, etiquetas y configuraciones seguras.
+                  
+
+                    UEBA
+                  
+
+                    Detecte actividad anormal de APT y amenazas internas.
+                  
+
+                    MDDR
+                  
+
+                    Detección y respuesta de datos 24x7x365 con un SLA.
+                  
+
+                    SSPM
+                  
+
+                    Solucione errores de configuración críticos de SaaS y riesgos de aplicaciones de terceros.
+                  
+
+                    Gestión de cumplimiento
+                  
+
+                    Automatizar los marcos y regulaciones de cumplimiento.
+                  
+
+                    Seguridad del Email
+                  
+
+                    Bloquee los buzones de correo confidenciales y detenga la filtración.
+                  
+
+                    Seguridad de identidad
+                  
+
+                    Detecta ataques a AD, Entra ID y Okta.
+                  
+
+                    Athena IA
+                  
+
+                    Analista AI SOC y búsqueda en lenguaje natural.
+                  
+
+              Véalo en acción
+            
+
+              Descubra por qué miles de clientes confían en Varonis para obtener resultados automatizados.
+            
+
+              Aprende más
+            
+
+            Paquetes de protección
+          
+
+                    Microsoft 365 y Entra ID
+                  
+
+                    Protección de datos avanzada para su nube de Microsoft.
+                  
+
+                    Recursos compartidos de archivos de Windows y NAS
+                  
+
+                    Proteja los recursos compartidos de archivos locales, híbridos y en la nube.
+                  
+
+                    SaaS
+                  
+
+                    Proteja los datos de misión crítica en aplicaciones SaaS.
+                  
+
+                    IaaS
+                  
+
+                    Proteja los datos en AWS y Azure.
+                  
+
+                    Bases de datos
+                  
+
+                    Descubra, clasifique y proteja cualquier base de datos.
+                  
+
+            Cobertura líder en la industria
+          
+
+                    Microsoft 365
+                  
+
+                    Microsoft Copilot
+                  
+
+                    Windows File Shares
+                  
+
+                    Active Directory
+                  
+
+                    Google Workspace
+                  
+
+                    Salesforce
+                  
+
+                    Box
+                  
+
+                    AWS
+                  
+
+                    Azure
+                  
+
+                    Estudios de caso
+                  
+
+                    Cómo las principales empresas del mundo protegen sus datos.
+                  
+
+                    Arquitectura nativa de la nube
+                  
+
+                    Los beneficios de nuestra plataforma nativa de la nube.
+                  
+
+                    MDDR
+                  
+
+                    Investigamos las alertas para que usted no tenga que hacerlo.
+                  
+
+                    Calcula tu retorno de la inversión
+                  
+
+                    Estudio de impacto económico total de Forrester.
+                  
+
+                    Reconocimiento de la industria
+                  
+
+                    Socios del líder en seguridad de datos.
+                  
+
+              Un líder en seguridad de datos
+            
+
+              "Varonis es la mejor opción para las organizaciones que priorizan la visibilidad profunda de los datos, las capacidades de clasificación y la corrección automatizada del acceso a los datos."
+            
+
+              Clasificado #1 por los clientes.
+            
+
+              Varonis ocupa el puesto número 1 en general en tres mercados de Gartner Peer Insights.
+            
+
+            Acerca de Varonis
+          
+
+                    Acerca de Varonis
+                  
+
+                    Carreras
+                  
+
+                    Relaciones con inversionistas
+                  
+
+                    Sector público
+                  
+
+                    Centro de confianza
+                  
+
+                    Sala de redacción
+                  
+
+                    Contáctenos
+                  
+
+                    Marca
+                  
+
+            Socios
+          
+
+                    Programa de socios
+                  
+
+                    Localizador de socios
+                  
+
+                    Portal de socios
+                  
+
+                    Compre en AWS marketplace
+                  
+
+                    Compre en Azure marketplace
+                  
+
+                    Blog
+                  
+
+                    Aprenda de los expertos en ciberseguridad.
+                  
+
+                    Apoyo
+                  
+
+                    Obtenga soporte técnico.
+                  
+
+                    Estado del cibercrimen
+                  
+
+                    Podcast de vídeo que cubre las últimas novedades cibernéticas.
+                  
+
+                    Datos de velocidad
+                  
+
+                    Conversaciones rápidas con líderes de seguridad.
+                  
+
+                    Seminarios web
+                  
+
+                    Seminarios web educativos de CPE.
+                  
+
+                    Eventos
+                  
+
+                    Conozca al equipo de Varonis en persona.
+                  
+
+                Comunidad
+              
+
+                Documentación del producto, foros de preguntas y respuestas, base de conocimientos y más.
+              
+
+                Formación sobre productos
+              
+
+                Capacitación bajo demanda y videos instructivos para Varonis DSP.
+              
+
+            Laboratorios de amenazas Varonis
+          
+
+                  Sitios fantasma: robo de datos de comunidades de Salesforce desactivadas
+                
+
+                  Defendiendo su entorno de nube contra amenazas estilo LAPSUS$
+                
+
+                  Abuso de comunidades de Salesforce mal configuradas para reconocimiento y robo de datos
+                
+Contents
+Microsoft Copilot ha sido calificada como una de las herramientas de productividad más potentes del planeta.
+Copilot es un asistente de IA que se encuentra dentro de cada una de las aplicaciones de Microsoft 365: Word, Excel, PowerPoint, Teams, Outlook, etc. El sueño de Microsoft es eliminar la ingrata tarea del trabajo diario y permitirles a los humanos concentrarse en ser creativos para resolver problemas.
+Lo que convierte a Copilot en algo diferente a ChatGPT y otras herramientas de IA es que tiene acceso a todo lo que alguna vez haya hecho en Microsoft 365. Copilot puede buscar y compilar datos al instante en sus documentos, presentaciones, correo electrónico, calendario, notas y contactos.
+Y aquí es donde surge el problema para los equipos de seguridad de la información. Copilot puede acceder a todos los datos confidenciales a los que puede acceder un usuario, lo que a menudo es demasiado. En promedio, el 10 % de los datos M365 de una empresa están disponibles para todos los empleados.
+Copilot también puede generar rápidamente nuevos datos confidenciales que se deben proteger. Antes de la revolución de la IA, la capacidad de los humanos de crear y compartir datos superaba con creces la capacidad de protegerlos. Basta con mirar las tendencias en las brechas de datos. La IA generativa echa más leña al fuego.
+Hay mucho que analizar en lo que respecta a la IA generativa en su conjunto: envenenamiento del modelo, alucinación, deepfakes, etc. En esta publicación, sin embargo, me centraré específicamente en la seguridad de los datos y en cómo su equipo puede garantizar una implementación segura de Copilot.
+Los casos de uso de la IA generativa con un paquete de colaboración como M365 son infinitos. Es fácil ver por qué tantos equipos de TI y de seguridad solicitan obtener acceso anticipado y preparar sus planes de implementación. Los aumentos en la productividad serán enormes.
+Por ejemplo, puede abrir un documento de Word en blanco y pedirle a Copilot que redacte una propuesta para un cliente basada en un conjunto de datos de destino, lo que puede incluir páginas de OneNote, presentaciones de PowerPoint y otros documentos de Office. En cuestión de segundos, tiene una propuesta hecha y derecha.
+
+Estos son algunos ejemplos más que Microsoft dio durante su evento de lanzamiento:
+Este es un resumen sencillo de cómo se procesa una indicación de Copilot:
+Fuente: https://learn.microsoft.com/en-us/deployoffice/privacy/microsoft-365-copilot 
+Con herramientas de colaboración, siempre existe una tensión extrema entre la productividad y la seguridad.
+Esto se puso de manifiesto durante el coronavirus, cuando los equipos de TI implementaban rápidamente Microsoft Teams sin antes entender a fondo cómo funcionaba el modelo de seguridad subyacente o cuál era el estado de los permisos, los grupos y las políticas de enlace de M365 de su organización. 
+Lo que Microsoft maneja por usted:
+Lo que necesita manejar: 
+Veamos las malas noticias una por una.
+Otorgar acceso a Copilot solo a lo que un usuario puede acceder sería una excelente idea si las empresas pudieran aplicar fácilmente una política de privilegios mínimos de acceso en Microsoft 365. 
+Microsoft afirma en su documentación de seguridad de datos de Copilot:
+Sin embargo, sabemos por experiencia que la mayoría de las organizaciones están muy lejos de poder aplicar una política de privilegios mínimos de acceso. Solo eche un vistazo a algunas de las estadísticas del Informe sobre el estado de riesgos de permisos en la nube de Microsoft.
+
+Esta imagen coincide con lo que Varonis observa cuando hacemos miles de evaluaciones de riesgos sobre los datos para empresas que utilizan Microsoft 365 cada año. En nuestro reporte, La gran exposición de SaaS, descubrimos que el tenant promedio de M365 tiene:
+¿Por qué sucede esto? Los permisos de Microsoft 365 son extremadamente complejos. Solo piense en todas las formas en que un usuario puede obtener acceso a los datos:
+Para empeorar las cosas, los permisos están principalmente en manos de los usuarios finales, no de los equipos de TI o de seguridad. 
+Microsoft depende en gran medida de las etiquetas basadas en la confidencialidad para aplicar políticas de DLP, aplicar cifrado y evitar las fugas de datos. En la práctica, sin embargo, conseguir que las etiquetas funcionen es difícil, en especial si se confía en los humanos para aplicarlas.
+Microsoft pinta un panorama optimista del etiquetado y el bloqueo al considerarlos la mejor red de seguridad para sus datos. La realidad nos muestra un escenario más sombrío. A medida que los humanos crean datos, el etiquetado con frecuencia se retrasa o se vuelve obsoleto.
+El bloqueo o cifrado de datos puede agregar fricción a los flujos de trabajo, y las tecnologías de etiquetado se limitan a tipos de archivos específicos. Cuantas más etiquetas tenga una organización, más confusa puede ser para los usuarios. Esto es especialmente intenso para las organizaciones más grandes.
+Es seguro que la eficacia de la protección de datos basada en etiquetas se degradará cuando tengamos una IA que genere órdenes de magnitud más datos que requieran etiquetas precisas y de actualización automática.
+¿Mis etiquetas están bien?
+Varonis puede validar y mejorar el etiquetado basado en la confidencialidad de Microsoft de una organización al escanear, descubrir y reparar:
+La IA puede hacer que los humanos sean perezosos. El contenido generado por LLM como GPT4 no es solo bueno, es genial. En muchos casos, la velocidad y la calidad superan con creces lo que un humano puede hacer. En consecuencia, las personas comienzan a confiar ciegas en la IA para crear respuestas seguras y precisas.  
+Ya hemos visto escenarios del mundo real en los que Copilot redacta una propuesta para un cliente e incluye datos confidenciales que pertenecen a un cliente completamente diferente. El usuario toca “enviar” después de darle un vistazo rápido (o sin siquiera hacer eso), y ahora tiene en sus manos un escenario de violación de privacidad o brecha de datos.
+Resulta fundamental tener una idea de la postura de seguridad de los datos antes de la implementación de Copilot. Es probable que Copilot esté disponible a principios del próximo año, por lo que ahora es un buen momento para implementar los controles de seguridad.
+Varonis protege a miles de clientes de Microsoft 365 con nuestra plataforma de seguridad de datos, que proporciona una vista en tiempo real del riesgo y la capacidad de aplicar automáticamente una política de privilegios mínimos de acceso. 
+Podemos ayudarlo a abordar los mayores riesgos de seguridad con Copilot prácticamente sin esfuerzo manual. Con Varonis para Microsoft 365, puede:
+La mejor manera de empezar es con una evaluación de riesgo gratuita. Se configura en cuestión de minutos y, en un día o dos, tendrá una vista en tiempo real del riesgo de los datos confidenciales.
+A continuación,a le presentamos tres maneras de avanzar en la reducción del riesgo de datos en su empresa:
+Programe una demostración con nosotros Vea a Varonis en acción en una sesión personalizada según las necesidades específicas de seguridad de datos de su organización. Estaremos encantados de responder a todas sus preguntas.
+Revise un ejemplo de nuestra evaluación de riesgo sobre los datos (DRA) Conozca los riesgos que podrían estar presentes en su entorno. La DRA de Varonis es completamente gratuita y ofrece un camino claro hacia la remediación automatizada.
+Síganos en LinkedIn, YouTube, and X (Twitter) Obtenga información detallada sobre la seguridad de datos, incluyendo la administración de la postura de seguridad de datos (DSPM), la detección de amenazas, la seguridad de la IA y mucho más.
+
+        Varonis tackles hundreds of use cases, making it the ultimate platform to stop data breaches and ensure compliance.
+      
+
+					Plataforma
+				
+
+					Cobertura
+				
+
+					Recursos
+				
+
+					Compañía
+				

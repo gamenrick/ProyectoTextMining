@@ -1,0 +1,61 @@
+Origen del Deep Learning y redes neuronales: semejanzas
+Autor desconocido
+keepcoding.io
+
+ +34 916 331 779
+
+		Algunos de nuestros reconocimientos:
+	
+Home » Blog » Origen del Deep Learning y el renacimiento de las redes neuronales
+¿Sabes cuál es el origen del deep learning y qué tiene que ver con las redes neuronales?
+En 2006, los científicos empezaron a acuñar el termino deep learning para referirse a redes neuronales con múltiples capas. En este artículo, profundizamos en este origen.
+¿Qué encontrarás en este post?
+Si alguna vez has estudiado historia del arte habrás visto un periodo denominado renacimiento, la transición entre la Edad Media y la Edad Moderna. El oscurantismo había llegado a su fin y con él las nuevas luces del conocimiento volvían a poner en el centro de atención a aquella época que tan olvidada estaba: la época clásica.
+De igual modo, en el ámbito tecnológico, el oscurantismo en el que se tenía a las redes neuronales acabó y el origen del deep learning produjo un subidón en aquel tema casi tabú del que nadie quería, se atrevía o podía hablar. Un nuevo hombre de Vitruvio se había creado y con él vinieron los grandes avances de una ciencia olvidada por la comunidad científica.
+Debido al modo en el que eran vistas las redes neuronales en ese momento, el origen del deep learning marcó un hito en ese renacimiento. El motivo por el que estaban mal vistas era la poca efectividad que habían tenido los trabajos hechos con ese enfoque hasta el momento.
+¿Qué hicieron los científicos de la época? Pues no las llamaron redes neuronales, sino deep learning, una variación de las mismas. Claro que hubo detractores que argumentaban que esto no eran más que redes neuronales y que el origen del deep learning era una mentira para vender nuevamente la idea de las neural networks, pero se contraargumentó al asegurar que en el DL se trataban aspectos que no abarcaban las redes neuronales.
+Así se dio el origen del deep learning y el renacimiento de una (casi) nueva ciencia de datos llamada redes neuronales.
+Desde el origen del deep learning han aparecido bastantes nuevos avances:
+Se pueden usar para resolver problemas de:
+Un autoencoder o codificador automático es un tipo específico de redes neuronales de aprendizaje no supervisado en donde la entrada es igual a la salida. Los autoencoders comprimen la entrada en un código de menor dimensión y, luego, reconstruyen la salida a partir de esta representación. 
+Le metemos los datos de entrada al algoritmo, ingresamos, pues, la matriz, y el autoencoder hace pasar esos datos por menos neuronas (si, por ejemplo, tienes 4 neuronas, las hace pasar por 2). Acto seguido, compara la salida con la entrada. 
+Si se inserta una sola capa y ponemos la función de activación lineal como función de activación, lo que obtenemos es un PCA. ¿Y qué hace el PCA? Una reducción de dimensionalidad lineal.
+Una gran ventaja de los autoencoders es que no tienen por qué ser lineales, les puedes meter más capas y puedes conseguir cosas mucho mejores que con las PCA. Es decir, el autoencoder es una especie de PCA, pero mucho mejor, porque admite relaciones no lineales.
+Hace no tantos años, el traductor de Google sufrió un giro brutal. Hasta hace poco más de una década, se utilizaban los modelos de Markov, tanto para reconocimiento por voz como para traductores automáticos. En ese entonces decidieron cambiar los traductores de Markov por el deep learning y el fenómeno de los traductores automáticos explotó y marcó el inicio de una nueva era en este campo.
+El origen del deep learning sigue teniendo avances significativos en cada uno de sus campos de aplicación, junto a otras disciplinas, como el machine learning y el Big Data. Si quieres conocer en profundidad estos campos, no olvides que tenemos disponible para ti el Big Data, Inteligencia Artificial & Machine Learning Full Stack Bootcamp, una formación intensiva en la que aprenderás muchísimo y adquirirás todos los conocimientos necesarios para incursionar en el mercado laboral. ¡Solicita información y atrévete a cambiar tu vida!
+Business Intelligence & Big Data Advisor & Coordinadora del Bootcamp en Data Science, Big Data & Machine Learning.
+
+	Posts más leídos
+
+
+
+				Los 5 lenguajes de programación más usados en 2024			
+
+
+
+				¿Qué es un bootcamp y cuáles son sus beneficios?			
+
+
+
+				Menú de navegación en HTML: Guía paso a paso			
+
+Bootcamps
+Bootcamp de Programación desde Cero – Full Stack Jr. 
+Bootcamp Java Full StackBootcamp en Data Science, Big Data & Machine LearningBootcamp CiberseguridadBootcamp DevOps & Cloud Computing
+Bootcamp en Desarrollo de Apps Móviles iOS Full Stack Bootcamp en Desarrollo WebBootcamp Marketing Digital y Análisis de DatosBootcamp en Blockchain y CriptoactivosBootcamp de UX/UI IA Driven
+
+Síguenos
+  
+
+Código de honor | Política de cookies | Política de Privacidad | Aviso legal | Condiciones de Contratación
+Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios, ofrecer marketing personalizado y mejorar nuestros servicios. Tienes más información en nuestra Política de Cookies. Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+¡CONVOCATORIA ABIERTA!
+Big Data, IA & Machine Learning
+Full Stack Bootcamp
+Clases en Directo | Profesores en Activo | Temario 100% actualizado
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias!

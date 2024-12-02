@@ -1,0 +1,49 @@
+DALL-E: qué es, cómo funciona y cómo puedes utilizar esta inteligencia artificial para crear imágenes
+Autor desconocido
+xataka.com
+
+Yúbal Fernández
+Vamos a explicarte qué es DALL-E y cómo funciona esta inteligencia artificial capaz de generar imágenes a partir de texto. Se trata de una de las IA que comenzaron esta revolución de generar imágenes, junto a otras como Stable Diffusion y MidJourney.
+Vamos a intentar que nuestra explicación sea simplificada, de forma que no necesites tener conocimientos técnicos ni entender tecnicismos para hacerte a la idea de cómo funciona. Y cuando terminemos, también te diremos cómo puedes probar DALL-E y usarla por tu cuenta para generar imágenes.
+DALL-E es un sistema de inteligencia artificial creado por OpenAI, los mismos creadores de ChatGPT. En este caso, se trata de una IA que genera imágenes a partir de texto, de forma que solo le tienes que describir lo que quieres que dibuje, y generará la imagen de la nada.
+Esta inteligencia artificial está basada en un modelo de lenguaje entrenado con millones de parámetros. Esto quiere decir que es capaz de entender lo que le estás pidiendo con lenguaje natural, ya que ha sido entrenada para distinguir las fórmulas que utilizamos al expresarnos y querer pedir o preguntar algo.
+Además de esto, DALL-E ha sido entrenada también mediante una gigantesca biblioteca de obras de arte y fotografías. Gracias a esto, cuando le pides que dibuje a una celebridad, DALL-E sabrá a quién te refieres, y dibujará el aspecto que tiene esta persona realizando una acción que también sabrá interpretar y dibujar.
+Además de esto, este sistema de inteligencia artificial es también capaz de combinar conceptos, estilos y atributos para una imagen. Vamos, que si te explayas explicándole que quieres ver determinada cosa, especificando detalles o incluso estilo artístico, la IA intentará combinarlo todo en la imagen.
+DALL-E es un modelo que sigue en constante evolución. Su primera versión fue presentada en 2021, y en 2022 OpenAI presentó DALL-E 2, que después fue seguida por la actual DALL-E 3, que es la que está integrada en Microsoft Copilot, la IA de Microsoft, pero también puedes usar en ChatGPT Plus si pagas su suscripción.
+FALL-E utiliza lo que se llama un modelo de difusión, que son esos sistemas de inteligencia artificial capaces de crear imágenes de la nada. En este proceso de creación, aprende de las estructuras latentes de los datos para entrenarse para eliminar el ruido gaussiano de imágenes borrosas, que son esas pequeñas distorsiones que pueden generarse en este tipo de IAs.
+Su proceso de creación es el mismo que otras IA similares, y se puede resumir en tres pasos. Primero, codifica y entiende el texto que le has escrito en el prompt o petición. De esta manera intenta saber a qué te refieres, e intenta distinguir los diferentes rasgos, características y estilos que has pedido que dibuje.
+Luego, DALL-E crea información de imagen a partir de esta petición, y finalmente utiliza un decodificador que pinta la imagen partiendo de ese texto. En definitiva, primero entiende lo que le pides, luego piensa qué elementos va a tener dependiendo de tu petición, y finalmente realiza el dibujo.
+Cada vez que le pides que dibuje algo el resultado cambia, ya que lo procesa de nuevo desde cero. Por lo tanto, puedes ir haciéndole una petición hasta que finalmente te dibuja lo que quieres ver.
+Aunque DALL-E es una herramienta de pago, puedes usar DALL-E 3 gratis en Microsoft Copilot. Para eso,  puedes entrar en Bing.com y pulsar en la opción Copilot que te aparecerá en las pestañas de arriba del todo, o entrar directamente a la web de copilot.microsoft.com.
+Ahora, lo que tienes que hacer es pedirle a Copilot que cree una imagen, incluyendo el prompt con las instrucciones. Tienes que usar un lenguaje natural, diciéndole algo como crea una imagen en la que aparezca..., pero también puedes añadir comandos descriptivos en el prompt, pidiendo que sea más realista, o con estilos concretos.
+Y ya está, una vez escribas el comando, en pocos segundos tendrás el resultado de forma totalmente gratuita. Esta imagen ya estará generada por DALL-E 3, y el resultado siempre va a depender de como sea tu descripción.
+Por último, lo que debes saber es que DALL-E es una tecnología en constante evolución, y que todo lo que te ofrece ahora podría cambiar y mejorar en cuestión de meses. 
+En Xataka Basics | GPT-4o: 4 funciones de ChatGPT que ahora son de pago y que serán gratis
+Los mejores comentarios:
+Ver 1 comentarios
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

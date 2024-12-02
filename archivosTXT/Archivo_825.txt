@@ -1,0 +1,21 @@
+IA generativa en AWS – IA generativa, LLM y modelos básicos – AWS
+Autor desconocido
+amazon.com
+
+Las organizaciones de todos los tamaños y tipos están aprovechando los modelos de lenguaje de gran tamaño (LLM) y los modelos fundacionales (FM) para crear aplicaciones de IA generativas que ofrecen nuevas experiencias a los clientes y empleados. Al contar con seguridad y privacidad de calidad empresarial, acceso a modelos fundacionales líderes del sector y aplicaciones basadas en IA generativa, AWS permite crear y escalar fácilmente la IA generativa, personaliza en función de sus datos, casos de uso y clientes.
+Innove más rápido con nuevas capacidades, una selección de FM líderes del sector y una infraestructura que supera los límites para ofrecer el máximo rendimiento y, al mismo tiempo, reducir los costes.
+Personalice este asistente con tecnología de IA generativa para las necesidades de su empresa
+Cree y escale fácilmente aplicaciones con LLM, FM y herramientas de IA generativa
+Cree, entrene e implemente sus propios modelos de FM a escala
+La forma más rápida y sencilla de crear aplicaciones empresariales
+Entrene y ejecute la inferencia a escala con una infraestructura diseñada específicamente con IA
+Cree una base de datos en AWS para lograr el éxito de la IA
+Reimagine las experiencias de los clientes, aumente la productividad, fomente la información e impulse la innovación.
+Optimice el autoservicio al cliente y reduzca los costes operativos mediante la automatización de las consultas de servicio al cliente
+Analice los comentarios no estructurados de los clientes para identificar temas clave, detectar opiniones y descubrir tendencias emergentes
+Encuentre fácilmente información precisa, obtenga respuestas y resuma y cree contenido a través de una interfaz conversacional
+Acelere el desarrollo de aplicaciones con sugerencias de código basadas en los comentarios y código del desarrollador
+Aproveche el poder de la IA generativa para obtener información más detallada sobre la audiencia, contenido dinámico e interacciones personalizadas
+Automatice las tareas, permita que su plantilla genere más ideas, complete el trabajo más rápido y se concentre en tareas de mayor valor
+El rápido crecimiento de la IA generativa trae consigo nuevas innovaciones prometedoras y, al mismo tiempo, plantea nuevos desafíos. En AWS nos comprometemos a desarrollar la IA de manera responsable, adoptando un enfoque centrado en las personas que priorice la educación, la ciencia y nuestros clientes, para integrar la IA responsable en todo el ciclo de vida de la IA con herramientas como barreras de protección para Amazon Bedrock, Amazon SageMaker Clarify y muchas más.
+Háganoslo saber para que podamos mejorar la calidad del contenido de nuestras páginas.

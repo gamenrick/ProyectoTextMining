@@ -1,0 +1,61 @@
+Sensor de visión artificial con IA de Keyence - Serie IV3
+Autor desconocido
+bitmakers.com
+
+Aquí hi posarem la nostra màgia
+A diferencia de los modelos convencionales, el Sensor de visión con IA incorporada Serie IV3 determina automáticamente las condiciones de imagen y de detección con su IA específicamente diseñada para la comprobación de presencia y diferencia. La instalación y la operación son sencillas: basta con determinar la pieza a enfocar y registrar mínimo una imagen OK y una NG. No se requieren conocimientos especializados ni mucho tiempo y esfuerzo para la configuración. El diseño todo en uno incluye un lente e iluminación, lo que elimina la necesidad de tener que seleccionar estos dispositivos lo que permite la obtención inmediata de resultados de detección sin efectos adversos de la luz ambiental. El cabezal ultracompacto soporta un amplio rango de distancias de instalación de 50 a 2000 mm (1.97 in a 78.74 in), y el campo de visión máximo de 1822 × 1364 mm (71.73 in × 53.70 in) permite realizar detecciones desde ángulos extremadamente amplios, lo que posibilita una gran variedad de aplicaciones.
+La IA genera la imagen de detección óptima sin sobreexposición ni negros opacos.
+Todos los ajustes –incluyendo la intensidad de la iluminación, el método de flash y el tiempo de exposición– son configurados automáticamente por la IA. Las condiciones de imagen ideales se pueden conseguir para cualquier entorno o condiciones de destino para garantizar una detección estable.
+Basta con registrar los productos OK y NG para configurar automáticamente los ajustes óptimos para la detección de presencia basada en la IA.
+La IA incorporada detecta incluso pequeñas diferencias para configurar automáticamente los ajustes óptimos de detección. Como la detección se basa en las características del objetivo, se puede garantizar la estabilidad sin efectos adversos de la luz ambiental, las variaciones individuales del producto o las condiciones de la superficie.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Usamos cookies en este sitio para mejorar la experiencia del usuario, con fines analíticos y publicidad personalizada. Puedes obtener más información visitando nuestra Política de Cookies y la Política de Privacidad.
+Puedes aceptar todas las cookies pulsando el botón "Aceptar", rechazarlas pulsando al botón "Rechazar" o seleccionar por categorías o rechazar su uso accediendo pulsando el botón ajustes".
+
+Nombre de usuario o correo-e * 
+
+
+
+
+Contraseña * 
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ Recordarme
+
+
+
+¿Has perdido tu contraseña?
+
+  ¿Todavía no tienes usuario? Regístrate ahora.									
+
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Las cookies analíticas se utilizan para comprender cómo los visitantes interactúan con el sitio web. Estas cookies ayudan a proporcionar información sobre métricas, el número de visitantes, la tasa de rebote, la fuente de tráfico, etc.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias! 
+Más información sobre nuestra política de cookies

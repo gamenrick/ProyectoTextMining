@@ -1,0 +1,162 @@
+¿Acabará la inteligencia artificial con la enseñanza y el aprendizaje de idiomas?
+Autor desconocido
+com.mx
+
+Lectura 6:00 min
+¿Tiene sentido aprender lenguas si nuestro móvil puede “hablar” y “entender” cualquier idioma?  Foto: Shutterstock.
+Pascual Pérez-Paredes / The Conversation
+domingo 23 de junio de 2024 - 10:00
+En 2024 la empresa de inteligencia artificial Open AI presentó GPT4-o, un nuevo modelo de lenguaje de gran tamaño (Large Language Model en inglés) capaz de “razonar” e interactuar con texto, imagen y audio.
+En uno de los vídeos distribuidos tras el lanzamiento, dos personas utilizan un móvil para pedirle a GPT4-o que les escuche y traduzca del inglés al español y del español al inglés de forma que ambos interlocutores puedan comunicarse usando lo que la lingüística aplicada denomina su L1, esto es, sus respectivas lenguas maternas.
+En otro vídeo, dos personas mantienen una conversación con GPT4-o en el que la aplicación es capaz de cambiar el tono de voz y adaptarse a las peticiones de los interlocutores sobre el cariz del diálogo.
+Para los que crecimos con un póster de C-3PO en nuestro dormitorio, el droide de La guerra de las galaxias capaz de entender y hablar millones de lenguajes, lo visto en ambos vídeos podría parecer insignificante. Sin embargo, no lo es.
+La facilidad con la que los interlocutores utilizan sus propios dispositivos personales comunicándose de forma natural supone un antes y un después en la forma en la que interactuaremos con la tecnología. Cogemos el móvil, hablamos en nuestro idioma (L1) y podemos entendernos con otra persona que no lo habla y cuyo idioma no hablamos.
+Dos preguntas surgen inmediatamente: ¿Tiene sentido aprender lenguas si nuestro móvil puede “hablar” y “entender” cualquier idioma? ¿Cuál es el papel de la enseñanza de idiomas en este contexto?
+Dos escenarios han acaparado el debate sobre el uso de la IA en el aprendizaje de lenguas: el primero es un escenario catastrofista que ve en la IA una amenaza que acabará eventualmente con el aprendizaje de idiomas tal y como lo conocemos hoy en día; el segundo ve en la IA una oportunidad para promover una alfabetización digital que fomente el espíritu crítico de los aprendices a la hora de evaluar sus usos.
+Los escenarios catastrofistas atribuyen a la tecnología un poder absoluto sobre el comportamiento humano y la organización social. En estos escenarios la tecnología hace innecesario el aprendizaje de idiomas, relegando esta actividad a especialistas y estudiosos como sucede en la serie de novelas de Isaac Asimov Foundation, donde todo el conocimiento humano, incluyendo los diversos lenguajes hablados por los seres humanos en diferentes galaxias, es custodiado por una especie de fundación universitaria.
+Ya en la década de los sesenta del siglo pasado, el aprendizaje de idiomas asistido por ordenador quedó determinado por las teorías conductistas que promovían la enseñanza programada, los ejercicios de repetición y el papel del refuerzo. En este aspecto un ordenador es incansable, ya que es capaz de corregir al aprendiz una y mil veces. En este paradigma, el elemento prescindible sería el profesor de lenguas y su sustituto el ordenador.
+Otros escenarios plantean un futuro donde la IA forma parte del aprendizaje y el uso de lenguas extranjeras. En ellos, la IA se integra en nuestros ordenadores y dispositivos móviles ayudándonos a escribir correos electrónicos, a extraer y resumir información de forma más rápida, a obtener listados léxicos especializados, a obtener consejos sobre determinados usos léxicos o gramaticales o, entre otras funciones, a mejorar textos siguiendo nuestras indicaciones.
+Todo esto motivará la aparición de una serie de nuevos retos. En primer lugar, el aprendizaje de lenguas hasta ahora se ha definido por un conjunto de prácticas reguladas por instituciones oficiales tales como autoridades educativas, escuelas o universidades. El aprendizaje formal ve con recelo el uso de la IA generativa, ya que cuestiona el modelo vigente mediante el cual el aprendiz debe producir textos orales o escritos que son evaluados por el docente.
+En segundo lugar, el aprendizaje informal de idiomas está en auge. La IA contribuirá a que este tipo de aprendizaje aumente en el futuro. El acceso libre a millones de recursos en abierto y a aplicaciones móviles como DUOLINGO rivalizan con el aprendizaje formal desde la pandemia de la covid-19. Según datos de DUOLINGO, el español es el segundo idioma más aprendido en el mundo con un 17 % de los usuarios de la app. Estos aprendizajes, es importante recordarlo, no tienen lugar en el aula.
+Por último, no sabemos aún cómo la IA cambiará nuestra relación con las prácticas lectoras y de escritura, aunque no sería temerario afirmar que la IA contribuirá a la aparición de una nueva ecología de prácticas docentes y discentes que traerá cambios tan importantes como los que supuso la aparición de internet el siglo pasado. En este nuevo escenario, la capacidad crítica de los aprendices para evaluar los productos de la IA generativa jugará un papel clave en el uso adecuado de la misma.
+Aunque no es descartable que en un futuro lejano la tecnología elimine las barreras lingüísticas entre humanos, el aprendizaje de idiomas continuará siendo una actividad central en la educación formal en las siguientes décadas.
+En contextos profesionales, el conocimiento y el uso de diversas lenguas continuará siendo una competencia clave en culturas empresariales y sociales superdiversas. Además, la lingüística aplicada ha demostrado que aprender lenguas aumenta nuestras capacidades analíticas gracias a la capacidad para extraer reglas y patrones de uso y a nuestras habilidades cognitivas innatas para la abstracción y la generalización. Hay algo que sí podemos afirmar con certeza: usada de forma crítica, la IA generativa presentará innumerables oportunidades para profundizar en el aprendizaje y el uso de idiomas tanto dentro como fuera del aula. 
+ 
+
+Pascual Pérez-Paredes, Catedrático de Universidad en lingüística aplicada y lingüística inglesa, Universidad de Murcia
+Este artículo fue publicado originalmente en The Conversation. Lea el original.
+Únete infórmate descubre
+
+
+
+                Por Redacción El Economista
+
+
+01/12/2024 - 10:00
+
+
+
+
+                Por Redacción El Economista
+
+
+01/12/2024 - 9:11
+
+
+
+
+                Por Redacción El Economista
+
+
+01/12/2024 - 6:00
+
+
+
+
+                Por AFP
+
+
+30/11/2024 - 19:32
+
+
+
+
+                Por Redacción El Economista
+
+
+30/11/2024 - 15:00
+
+
+
+
+                Por AFP
+
+
+30/11/2024 - 14:00
+
+
+
+
+                Por Rodrigo Riquelme
+
+
+30/11/2024 - 13:00
+
+
+
+
+                Por AFP
+
+
+28/11/2024 - 20:41
+
+
+
+
+                Por Rodrigo Riquelme
+
+
+28/11/2024 - 13:17
+
+
+
+
+                Por Francisco J. Pérez Latre / The Conversation
+
+
+28/11/2024 - 13:13
+
+
+
+
+                Por Europa Press
+
+
+28/11/2024 - 10:59
+
+
+
+
+                Por Rodrigo Riquelme
+
+
+27/11/2024 - 16:47
+
+
+
+
+                Por Rodrigo Riquelme
+
+
+27/11/2024 - 13:51
+
+
+
+
+                Por AFP
+
+
+26/11/2024 - 6:22
+
+
+
+
+                Por AFP
+
+
+26/11/2024 - 6:12
+
+
+
+
+                Por Redacción El Economista
+
+
+25/11/2024 - 19:59
+
+Una empresa de Nacer Global
+Suscríbete a nuestros Newsletter.
+Al suscribirte, aceptas nuestras políticas de privacidad.
+Síguenos
+Copyright © 1988-2015 Periódico Especializado en Economía y Finanzas, S.A. de C.V. All Rights Reserved. Derechos Reservados. Número de reserva al Título en Derechos de Autor 04-2010-062510353600-203. Al visitar esta página, usted está de acuerdo con los términos del servicio
+Síguenos

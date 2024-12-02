@@ -1,0 +1,41 @@
+BBVA, preparado para la inteligencia artificial generativa
+BBVA
+bbva.com
+
+Cerrar panel
+BBVA.com
+Pulsar Enter
+Búsqueda Predictiva
+Cerrar panel
+Cerrar panel
+Cerrar panel
+BBVA.com
+EnglishEspañol
+Cerrar panel
+Innovación
+BBVA está sentando las bases para afrontar el gran reto que supone la aplicación de la inteligencia artificial (IA) generativa en los servicios financieros. Durante las jornadas internas DataFest, el banco relató cómo ya está desarrollando grandes proyectos con proveedores externos y, en paralelo, ha seleccionado diversos casos de uso que se empezarán a desplegar a lo largo de 2024.
+Innovación
+Tras años a la vanguardia en proyectos e investigación basada en inteligencia artificial (IA), BBVA da un paso decidido en el uso de la IA generativa en sus principales mercados. Por un lado, ha priorizado alrededor de 100 proyectos que se desarrollarán con distintas herramientas de esta nueva tecnología. Y, por otro, ha firmado un acuerdo estratégico con OpenAI, el creador de ChatGPT, para empezar a desplegar esta herramienta entre sus empleados. El objetivo es explorar, de forma segura y responsable, la IA generativa para acelerar procesos, mejorar la productividad y fomentar la innovación gracias a las nuevas capacidades para la creación de texto, imágenes o tratar información, entre sus múltiples funcionalidades.
+Jon Ander Beracoechea, responsable global de la disciplina Advanced Analytics de BBVA, y Curro Maturana, responsable Global de GenAI en el banco, han avanzado alguno de estos proyectos durante la tercera edición de DataFest, el evento interno celebrado en México, Perú y España durante tres días con el que BBVA busca generar sinergias entre sus científicos de datos. Este año el festival se ha extendido también a ingenieros y especialistas, ampliando así la audiencia del evento a sus casi 5.000 profesionales del dato repartidos por todo el mundo.
+Ambos han coincidido en señalar que vivimos un “momento de crecimiento exponencial de la tecnología”. En una charla desde México, Maturana ha señalado que es “la tecnología más global que hemos visto hasta ahora, por lo que todos los países podemos trabajar a la vez en muchos proyectos; pretendemos tener una ideación deslocalizada y una ejecución coordinada”.
+Curro Maturana, durante su charla en México. /BBVA
+Innovación
+BBVA da un paso firme hacia el futuro con la expansión de la oferta formativa a la plantilla introduciendo nuevos cursos sobre inteligencia artificial generativa. En el marco del acuerdo firmado con OpenAI, la entidad financiera busca que sus empleados, desde científicos de datos hasta cualquier miembro del equipo, apliquen los últimos avances en IA, ‘machine learning’ y analítica avanzada en el desarrollo de productos financieros innovadores. Campus BBVA ha formado a través de Data University a más de 50.000 empleados en 6 años, de los cuales cerca de 5.000 han completado cursos especializados en la Data University. Además, BBVA fortalece su ecosistema educativo mediante alianzas con prestigiosas instituciones como la Universidad de Navarra, Telefónica y Coursera.
+El banco está poniendo en marcha proyectos basados en IA generativa que está desarrollando en colaboración con proveedores externos; y para 2024, BBVA prevé tener en marcha diversos casos. De esta forma, se prepara para hacer frente al uso de estas tecnologías que prevé que tendrán un impacto más inmediato de lo esperado en los procesos de la organización, haciéndolos más eficientes, pero también en los roles y funciones de los empleados. Cualquier iniciativa que se explore seguirá los máximos estándares de seguridad jurídica, tecnológica y regulatoria del banco.
+“Todas las proyecciones han resultado ser insuficientes”, apuntó Jon Ander Beracoechea, en el DataFest celebrado en Madrid. “Cuando pensábamos que los desarrollos llegarían de manera progresiva en las próximas décadas, la tecnología generativa ha acelerado enormemente todo el proceso”. Además, Beracoechea animó a los desarrolladores de BBVA a que no solo busquen casos de uso a los que se pueda aplicar hoy este tipo de inteligencia artificial, sino también a que traten de imaginar cómo podría revolucionar las funciones y procesos del futuro. “Estamos en mitad de una revolución única en la década”, recordó. “No os limitéis a pensar en las funciones del banco como son hoy, sino también en cómo podrían llegar a ser”.
+Precisamente, para alentar la curiosidad de sus profesionales y detectar talento interno, BBVA ha convocado un DataRally. Esta competición interna gamificada plantea una serie de retos relacionados con el mundo de las finanzas, la atención al cliente y la gestión de riesgos, que los empleados deberán resolver con estas tecnologías.
+Jon Ander Beracoechea, en la clausura del DataFest. /BBVA
+Esta nueva edición del DataFest contó además con varios invitados de excepción y referentes en el mundo de la IA. En México, Omar Sanseviero, ingeniero jefe de Machine Learning en Hugging Face, explicó cómo desarrollar y llevar a producción algoritmos de aprendizaje automático de forma abierta y colaborativa. Hugging Face es una startup que ha creado una plataforma para el desarrollo ‘open source’ de inteligencia artificial y ha recibido el apoyo financiero de gigantes tecnológicos como Google, Amazon, Nvidia o IBM. Actualmente, la empresa está valorada en 4.500 millones de dólares y es uno de los principales jugadores en el campo del desarrollo de IA.
+Innovación
+El ‘machine learning’ tiene cada vez más aplicaciones empresariales que benefician a consumidores y ciudadanos, como ayudarles a gestionar su salud financiera, agilizar sus trámites digitales y hacer más fluida su experiencia ‘online’ en múltiples plataformas. De este auge ha surgido la directriz básica de la explicabilidad: es decir, la IA no es misteriosa ni mágica, ni debe parecerlo. Para los algoritmos más complejos, los científicos de datos desarrollan herramientas que ayudan a comprender cómo toman sus decisiones.
+En España, el ponente invitado fue Carlos Santana, uno de los principales divulgadores sobre inteligencia artificial en español, especialmente a través de su canal de YouTube dot CSV donde concentra a más de 800.000 suscriptores. Santana compartió sus reflexiones sobre cómo los últimos desarrollos de la inteligencia artificial y el ‘deep learning’ podrían transformar la sociedad en el futuro cercano.
+En Perú, Christian Ramírez, de AWS Chile, y Simón Córdova, de AWS Perú, hablaron de cómo se lleva a cabo una migración masiva de datos a la nube y profundizaron en los servicios ‘low code / no code’ de la compañía, que ofrecen a sus clientes aplicaciones que no necesitan programación y les permiten así acelerar la toma de decisiones de negocio.
+Las actividades del DataFest se completaron con talleres técnicos y reconocimientos al desarrollo profesional dentro de BBVA. Como cada año, el evento ha recibido una gran acogida y en algún momento de las jornadas se congregaron más de 900 oyentes simultáneos, entre asistencia presencial y conexiones en remoto.
+Sigue leyendo sobre
+
+Échale un vistazo
+Newsletter
+Resultados BBVA
+Aprendemos Juntos
+Reporte Vulnerabilidades
+© Banco Bilbao Vizcaya Argentaria, S.A. 2024

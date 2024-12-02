@@ -1,0 +1,40 @@
+Cómo OpenAI utiliza Slack para conectar con sus clientes y desarrollar ChatGPT | Slack
+Slack
+slack.com
+
+“Slack es fundamental para la forma de colaborar de nuestra empresa, ya que aumenta la velocidad, y es esencial para trabajar con nuestros clientes. Usamos Slack a diario”.
+OpenAI es una empresa de investigación y desarrollo de inteligencia artificial que ha revolucionado la manera en la que entendemos la IA. Son los creadores de ChatGPT, el popular chatbot de IA capaz de formular contenido y responder a tus preguntas a modo de conversación, entre otras muchas cosas. 
+Desde su lanzamiento en noviembre de 2022, ChatGPT rápidamente alcanzó el éxito en todo el mundo, con millones de usuarios que lo utilizan cada día para trabajar de manera más eficiente.
+Durante todo este proceso de afluencia de clientes y desarrollo de su empresa, OpenAI ha confiado en Slack para satisfacer sus necesidades de colaboración. Slack se ha convertido en la plataforma de productividad inteligente para OpenAI; un lugar donde comunicarse con sus clientes de forma segura, agilizar los proyectos y desarrollar su objetivo de conseguir que los seres humanos se beneficien de la inteligencia artificial.
+Gracias a Slack Connect, OpenAI puede trasladar las conversaciones con sus clientes de bandejas de entrada saturadas a canales interactivos. La empresa ya cuenta con más de 170 canales de Slack Connect y ha enviado más de cinco millones de mensajes desde que comenzó a usar Slack en 2018.
+Colaborar en los canales permite a OpenAI encontrar soluciones más rápidas y precisas para las necesidades de los clientes. 
+“Slack Connect es un elemento esencial de nuestro servicio al cliente”, dice Anna Tifft, gestora de cuentas en OpenAI. “Lo que más me gusta de trabajar en Slack es que ya no tengo que actuar de intermediaria. Cuando un cliente tiene alguna duda que está fuera de mi ámbito, o si considero que alguien puede responder mejor que yo, puedo incorporar fácilmente a cualquiera de mis compañeros”.
+OpenAI está considerando utilizar otros productos de Salesforce junto con Slack para mejorar su servicio al cliente. Los equipos de OpenAI cuentan con la información completa de todos sus clientes en el mismo sitio en el que trabajan, ya que integran datos de Service Cloud y Sales Cloud en Slack. 
+“Trabajar con Salesforce y poder disponer de todos los datos de mis clientes en un mismo sitio es increíble”, dice Tifft. “Me paso el día cambiando de una conversación a otra mientras trabajo en los proyectos de mis clientes. Tener que gestionar cada cosa en una aplicación diferente sería insostenible. Por eso es crucial que pueda gestionar la mayor parte de las necesidades de mis clientes en un mismo entorno gracias a Salesforce”.
+
+A medida que OpenAI crece, es importante para ellos mantener a su equipo fuerte y unido. Y como tienen empleados que trabajan en diferentes zonas horarias, también es fundamental encontrar formas asíncronas de colaborar.
+“Slack nos ayuda a sentirnos conectados con todos los miembros de la organización”, explica Boris Power, ingeniero de Investigación Principal. “No quiero agobiar al equipo con demasiadas reuniones, así que utilizamos Slack para todo lo que se pueda hacer de manera asíncrona. Slack también permite incorporar diferentes personas a las conversaciones de manera fluida. Es muy fácil añadir personas a los hilos o canales para que aporten información adicional”.
+El equipo de OpenAI utiliza las juntas de Slack para agilizar la colaboración y reducir las reuniones. Las juntas son una manera de comunicarse por audio o vídeo en los canales o mensajes directos de Slack. Cualquier miembro de un canal puede incorporarse o salir de la junta cuando quiera. También pueden compartir sus pantallas para añadir más elementos visuales a la conversación. 
+Los emojis son otra forma que tiene el equipo de OpenAI de comunicarse en Slack. Permiten a los miembros expresarse sin necesidad de empezar un hilo nuevo. Los emojis se pueden utilizar para indicar que se ha leído un mensaje, que un proyecto está en curso, o simplemente para felicitar a los compañeros por su buen trabajo. 
+“Me encanta reaccionar con emojis. Tenemos un montón de emojis personalizados en nuestra empresa. Son muy divertidos. Son una manera sencilla de añadir algo de alegría al día a día”, dice Simón Posada Fishman, ingeniero de soluciones en OpenAI. 
+OpenAI también utiliza los emojis para dar o no el visto bueno a sus modelos. Por ejemplo, se puede añadir un Slackbot a un canal y pedir a los equipos internos o clientes que utilicen los emojis de “pulgar hacia arriba” o “pulgar hacia abajo” para expresar su opinión. Esto ayuda a mejorar el modelo en base a las reacciones recibidas.
+Además de recopilar comentarios a gran escala, el equipo de OpenAI utiliza la plataforma de Slack para encontrar formas creativas de automatizar el trabajo. “Me parece muy divertido crear cosas en Slack”, dice Posada Fishman. “Muchas funciones vienen listas para usar, y ha sido mucho más fácil de lo que esperaba”. El equipo lo considera una herramienta muy eficaz para la innovación y la productividad. “Poder aprovechar una interfaz de chat donde ya se encuentran todos los compañeros, junto con las capacidades programáticas, de automatización y de inteligencia en el mismo lugar en el que trabajamos es muy emocionante”.
+Otra de las razones por las que el equipo de OpenAI confía en Slack para trabajar son sus funciones de seguridad. OpenAI usa Enterprise Grid de Slack por sus funciones de retención de mensajes y control administrativo. Enterprise Grid cuenta con las funciones de seguridad más eficaces de Slack, como el cifrado de datos, el inicio de sesión único basado en SAML y la gestión granular de aplicaciones.
+A medida que la colaboración entre OpenAI, Salesforce y Slack avance, el objetivo principal será desarrollar soluciones e integraciones innovadoras. “Creo que hay muchas maneras en las que OpenAI y Slack pueden colaborar para crear nuevas integraciones en el futuro”, dice Power. “Mejorar los flujos de trabajo y las interconexiones de nuestras organizaciones es fundamental para fomentar la productividad. Esta integración tendrá un impacto significativo en todos los sectores que utilizan Slack”. 
+“En OpenAI, utilizamos Slack cada día. Es fundamental para nuestra forma de trabajar”, afirma Brad Lightcap, director de operaciones de OpenAI. “Podría decirse que nuestra empresa funciona mediante Slack. La idea de unir esta capacidad y el poder que tienen nuestros modelos para ayudarnos a mejorar la forma en que colaboramos, a buscar información más fácilmente y a entender mejor las cosas... es realmente increíble”. Combinar las posibilidades del gran modelo lingüístico de OpenAI con Slack y Salesforce podría mejorar drásticamente la automatización y la eficiencia en el lugar de trabajo. 
+Tecnología
+Pequeñas empresas
+TI, Comercio, Servicios
+Solaris fomenta la creatividad en un sector estrictamente regulado gracias a Slack
+Slack es la herramienta que utilizamos para resolver problemas juntos
+Personio hace de la incorporación un proceso fluido, estimulante y divertido con Slack
+Con Slack, Wayfair se siente como en casa
+Solaris fomenta la creatividad en un sector estrictamente regulado gracias a Slack
+Slack es la herramienta que utilizamos para resolver problemas juntos
+Personio hace de la incorporación un proceso fluido, estimulante y divertido con Slack
+Con Slack, Wayfair se siente como en casa
+Cambiar de región
+Al seleccionar otra región, se cambiarán también el idioma y el contenido de slack.com.
+América
+Europa
+Asia-Pacífico

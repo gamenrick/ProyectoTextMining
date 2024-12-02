@@ -1,0 +1,39 @@
+¿Qué es la IA generativa?
+Manuela Rodriguez
+shutterstock.com
+
+Suscríbete a un plan de 10 imágenes por mes y obtén un 50 % de descuento en tu primer mes. Ahorra un 50 % ahora.
+La IA generativa está cambiando la naturaleza del trabajo creativo. Ahora, cualquiera puede escribir un texto descriptivo, hacer clic en un botón y, en cuestión de segundos, la IA genera una nueva imagen basada en el texto.
+Hoy en día, la inteligencia artificial puede crear una gran cantidad y variedad de contenido nuevo. De hecho, ChatGPT ya se encuentra revolucionando el mundo académico, el marketing y más mediante la redacción de textos de una calidad decente. Por su parte, los generadores de imágenes basados ​​en IA, como la nueva herramienta generadora de imágenes de IA de Shutterstock o DALL-E 2 de OpenAI, están creando imágenes a partir de indicaciones de texto.
+Hay un gran revuelo en las redes sociales y la gente se pregunta cómo puede utilizar la IA en su propio trabajo.
+Curiosamente, muchos clientes de Shutterstock ya se han interesado en la IA generativa. De hecho, el 45% de los clientes de Shutterstock ya ha utilizado la IA generativa y el 66% quiere aprender más al respecto. Esto sugiere que el trabajo creativo ya está experimentando una transformación.
+El contenido creativo generado por la IA está causando una explosión de nuevas experiencias. Es más, creemos que servirá para inspirar a pensadores creativos a probar cosas nuevas. Asimismo, la IA generativa también puede mejorar los procesos y acortar los plazos.
+Aún así, si bien podemos comprender bien lo que puede hacer la IA generativa, es posible que te preguntes cómo funciona realmente. Hablamos con Chris Loy, Director de Servicios de IA de Shutterstock, para comprender mejor la ingeniería y las capacidades de la IA generativa.
+¿Quieres echar un vistazo detrás del telón de la última y mejor tecnología actual? Entonces, sigue leyendo.
+La IA generativa es una rama del aprendizaje automático centrada en la creación de modelos de IA que aprenden de contenido preexistente, como imágenes, archivos de vídeo, texto y audio. En última instancia, estos modelos crean contenido bajo demanda nuevo y nunca antes visto.
+Como se mencionó anteriormente, existen muchos tipos diferentes de modelos generativos, como texto a video o texto a 3D. En este artículo, nos centraremos en la IA de texto a imagen.
+Desde la perspectiva de la experiencia del usuario, la IA generativa de texto a imagen consiste en lo siguiente: si tienes una idea, ingresas el texto que la describa en la herramienta generadora de imágenes de IA de Shutterstock. En unos segundos, verás cuatro imágenes que visualizan lo que escribiste.
+No sólo es fácil de usar, sino que comenzar es simple y sencillo. De hecho, puedes intentar generar imágenes ahora mismo.
+Es sencillo trabajar con el nuevo generador de imágenes de IA de Shutterstock y ofrece imágenes de calidad a los usuarios finales. “Estamos ofreciendo un conjunto completo de herramientas para la generación de contenido (a nuestros clientes)”, dice Loy. “(Estas herramientas) se basan en gran medida en nuestros productos intuitivos y fáciles de usar, nuestras capacidades creativas de punta a punta y, lo más importante, nuestra biblioteca de contenido en stock con licencia”.
+“No es necesario escribir un texto muy complicado para obtener buenos resultados”, explica Loy al describir el uso de la herramienta. Modelos confiables, datos sólidos y una interfaz simple conducen al final a imágenes de calidad.
+Para producir este tipo de imágenes, nos hemos asociado con OpenAI. Son los creadores de DALL-E 2, que impulsa la IA generativa de Shutterstock, y son líderes en la generación de imágenes a partir de descripciones en lenguaje natural.
+El generador de imágenes de IA, que es el núcleo de esta asociación, se crea utilizando millones de imágenes diversas y obtenidas de forma responsable. Como parte de nuestro compromiso con la IA responsable, compensamos a los contribuyentes conocidos de la IA por los ingresos por licencias asociadas con imágenes generadas por IA en nuestra plataforma.
+Puedes ingresar una sola palabra para comenzar a generar. . . ¡O sé tan específico/a como quieras! Selecciona estilos tales como el digital, fotográfico o 3D para indicarle a la IA qué tipo de imagen deseas que genere. El uso de este selector de estilos permite a los usuarios clasificar rápida y fácilmente las ideas que les gustan y las que no les gustan, llevándolas a sus resultados ideales más rápidamente.
+A medida que edites y refines tu texto, verás cambios en los resultados de tu imagen. Una vez que encuentres uno con el que quieras trabajar, puedes guardarlo en una colección o comprarlo.
+Ahora mismo, puedes generar casi cualquier imagen que puedas imaginar. Piensa en lo que te gustaría crear, escribe tu texto en el generador de imágenes de IA y ve qué resultados te esperan. Comienza a escribir tus propias indicaciones o visita la herramienta directamente para explorar su selector de estilos.
+Más allá de las capacidades actuales, esta tecnología seguirá en auge en el futuro.
+“No hay límite cuando se trata del posible crecimiento de esta tecnología”, dice Loy. “Hoy lanzamos la posibilidad de escribir un mensaje de texto y recibir una imagen cuadrada de resolución media. Pronto será mucho más”.
+Se espera que las capacidades de edición inteligente, imágenes de mayor resolución, diversas relaciones de aspecto y la producción de imágenes no estáticas sean parte de la evolución de la IA generativa.
+“A medida que esta tecnología se desarrolle a largo plazo, Shutterstock encontrará cómo llevar esas capacidades a nuestros clientes de manera que les permitan crear con confianza, garantizando al mismo tiempo que los artistas y contribuyentes reciban una compensación justa”.
+Es emocionante saber hacia dónde llegará probablemente esta tecnología en el futuro cercano, pero es aún más emocionante comenzar a usarla ahora mismo. Si estás listo/a para producir nuevas imágenes utilizando el generador de imágenes con inteligencia artificial de Shutterstock, puedes crear hoy a la velocidad de tu imaginación.
+Descarga nuestro ebook gratis Cómo utilizar la IA generativa para el trabajo real: Una guía práctica para creativos y especialistas en marketing. Te brindamos los últimos consejos y trucos que te ayudarán a aprender los conceptos básicos de la IA.
+También aprenderás cómo una variedad de roles, desde gerentes de proyectos hasta diseñadores, pueden usar la IA para complementar el trabajo y acelerar los procesos.
+Texto original de Bridget Johnston
+Obtén la licencia de la imagen de portada de Login y Login.
+Sumérjase en las tendencias creativas basadas en datos de Shutterstock.
+¿Qué sucede cuando una empresa que necesita metadatos para sus modelos de IA une fuerzas con un líder mundial en contenido creativo?
+cómo Shutterstock está ayudando a incursionar en modelos éticos de IA generativa para creadores.
+Explora 10 buenas prácticas y ejemplos de moodboard de moda para visualizar tu estilo y darle vida.
+Entrevistamos a uno de los expertos de Shutterstock en legalidades de licencias para obtener más información.
+Por favor verifica tu correo electrónico para confrmar tu suscripción.
+© 2013-2022 Shutterstock Inc.

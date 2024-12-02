@@ -1,0 +1,57 @@
+Deep Learning: qué es, impacto y aplicación en e-learning - EvolMind
+Ana Medina
+evolmind.com
+
+Antes de hablar sobre qué es Deep Learning y del peso o trascendencia que tiene en la educación, conviene aclarar algunos conceptos previos. Porque si no eres un gran entendido en estos temas, es normal que te resulte confuso distinguir todo lo que hay detrás de la inteligencia artificial, como el Machine Learning, el Deep Learning y las redes neuronales. 
+Para empezar, tienes que saber que la inteligencia artificial abarca muchas técnicas y métodos que permiten a las máquinas realizar tareas ‘inteligentes’. 
+Dentro de su dominio, en una rama más específica, está el Machine Learning o Aprendizaje Automático, que se encarga de desarrollar los algoritmos que necesitan las máquinas para aprender de los datos. Y esto se consigue con diferentes técnicas, como el aprendizaje supervisado (enseñando con ejemplos), el aprendizaje no supervisado (encontrando patrones sin ayuda) y el aprendizaje por refuerzo (según recompensas y castigos).
+Uno de los avances más importantes en el ámbito del Machine Learning es un tipo de algoritmo con una arquitectura en capas: el Deep Learning o Aprendizaje Profundo. Este logra procesar datos de manera mucho más compleja y precisa por medio de unas redes neuronales artificiales profundas, inspiradas en la estructura y función de las redes neuronales biológicas. 
+Con el esquema más claro, ya podemos hablar sobre Deep Learning.
+Como adelantamos, el Deep Learning es una tecnología de aprendizaje automático que capacita a las computadoras para aprender a partir de datos mediante redes neuronales (similares a las de nuestro cerebro).
+Hace poco, lanzamos un artículo sobre herramientas de generación de imágenes con IA, en el que explicábamos cómo la IA puede transformar una simple descripción de texto o prompt en una foto o ilustración a la carta. 
+Si no has tenido la oportunidad de leerlo, estas IA, cuando se les formula una petición, tiran de su conocimiento (adquirido de una gran cantidad de datos) para representar lo solicitado con cierta precisión.
+Pues bien, el proceso de ‘transformar’, en este caso texto a imágenes, es posible gracias al Deep Learning. 
+Piensa ahora en un ordenador lleno de herramientas, donde cada una tiene la misión de aprender y crear. Una para traducir palabras en imágenes, otra para interpretar voces, y muchísimas más. Podríamos decir, quedándonos sumamente cortos, que esas ‘herramientas’ que operan por debajo son lo que conocemos por redes neuronales profundas. 
+El Deep Learning involucra el uso de estas redes, que son como capas o neuronas que trabajan conjuntamente para asimilar y decodificar datos complejos y abstractos.
+Tanto el Machine Learning como el Deep Learning son subcampos de la IA, pero difieren en la complejidad de los algoritmos y en la capacidad de trabajar con datos más o menos complejos.
+Por un lado, Machine Learning es adecuado cuando los datos son más simples y sus características se pueden definir o identificar con facilidad.
+El Deep Learning, por su parte, se usa para datos muy complejos, en los que una red neuronal profunda aprende automáticamente a reconocer sus características (como la detección de rostros en las imágenes).
+Entender el funcionamiento del Aprendizaje Profundo en el reconocimiento de objetos tiene su aquel. 
+En esta ocasión, en lugar de emplear ejemplos de Aprendizaje Profundo concretos, vamos a basarnos en una analogía más familiar para explicar en qué momento entra en acción esta tecnología. (Más adelante, presentamos ejemplos de Deep Learning reales).
+Pongamos por caso que tratamos de enseñar a un niño a reconocer la fruta:
+Entrada de datos:
+Lo primero que hacemos es llenar la mesa de frutas distintas. 
+Al principio, le exhibimos imágenes de plátanos y le decimos ‘¡Esto es un plátano, es amarillo y tiene forma alargada!’ A su vez, hacemos lo mismo con melocotones, manzanas y otras variedades. 
+Con esta tarea, le estamos dando ejemplos ‘etiquetados’ de frutas para que aprenda a identificarlas. 
+Procesamiento de datos y respuesta:
+Conforme le presentamos más frutas, el niño empieza a apreciar sus singularidades (color, textura, tamaño) y los parecidos y diferencias entre unas y otras. 
+¿Y qué sucedería si le mostráramos una fruta que nunca antes hubiese visto? Como consecuencia del adoctrinamiento y comprensión interna forjada, el niño podría hacer una suposición sobre qué tipo de fruta es, incluso siendo una extraña. 
+El Machine Learning es el proceso de aprendizaje que lleva a cabo el niño para reconocer las frutas a medida que va viendo ejemplos etiquetados (imágenes de frutas con su correspondiente etiqueta). A medida que el niño ve más ejemplos, consigue identificar sus características distintivas.
+El Deep Learning es la técnica que utiliza el niño para procesar los datos y extraer las características relevantes. Las redes neuronales profundas son las encargadas de extraer las características de las imágenes de frutas que se utilizan posteriormente para identificar de cuál se trata.
+Las respuestas a los usuarios de Siri o Alexa, la detección de enfermedades mediante resonancias magnéticas, la predicción de fenómenos climáticos, el control del tráfico, la detección de fraudes… Todas estas aplicaciones del Deep Learning demuestran cómo su implementación contribuye, como poco, a mejorar nuestras vidas.
+Es evidente que el Deep Learning es crucial en tecnología, medicina, transporte, finanzas, agricultura y muchos otros campos. Y, por supuesto, también en la educación. 
+El Aprendizaje Profundo puede usarse para adaptar los cursos a las particularidades de cada estudiante. Es decir, configurar el contenido y la metodología de enseñanza en función de sus necesidades, habilidades y ritmos.
+Por ejemplo, entregar material adicional o más desafiante, o muy básico, dependiendo del alumno.
+En lo que respecta a la generación de los contenidos, pueden crearse numerosos recursos multiformato y audiovisuales, como resúmenes, vídeos, audios, presentaciones y más.
+Por otra parte, además de tu plataforma elearning, existen alternativas externas de Deep Learning que pueden complementar la evaluación y el seguimiento de alumnos.
+Sin ir más lejos, una IA para crear cuestionarios y evaluar es capaz de ayudarte a personalizar la experiencia de aprendizaje, dar feedback a los alumnos y recopilar datos sobre su rendimiento. Y todo de forma exprés. Por tanto, no solo ganas margen de tiempo para actuar rápidamente en caso de detectar dificultades con el aprendizaje, sino también para enfocarte en otras actividades más significativas.
+El rol y las funciones del profesor online hace tiempo que vienen evolucionando y enfocándose más en ser mentores, guías y facilitadores del aprendizaje. Aunque todavía queda trabajo.
+Como profesor en línea, podrás implementar el Deep Learning en el aula virtual una vez hayas entendido qué es y por qué la tecnología consigue complementar y enriquecer tu labor. 
+A día de hoy hay multitud de herramientas de IA con las que mejorar la evaluación y la interacción, dar retroalimentación, detectar problemas de aprendizaje y crear contenidos de calidad. 
+Si lo estimas, estudia la plataforma y su capacidad para integrar la tecnología Deep Learning, extrae datos con los que consigas estudiar el rendimiento y progreso de los alumnos y, con esa información, trata de diseñar el aprendizaje.
+En el ámbito de la educación en línea, el Deep Learning ha encontrado aplicaciones fascinantes. 
+Un ejemplo es Duolingo, una plataforma para aprender idiomas que customiza los cursos de acuerdo a los requerimientos formativos de los usuarios. 
+A grandes rasgos, lo que hace es brindar una experiencia de aprendizaje más personalizada, ajustando el contenido y la dificultad de los ejercicios mientras van avanzando. 
+En realidad, esto es posible porque evalúa y recaba datos de los usuarios, como el tiempo que pasan en las lecciones, las respuestas correctas y fallidas, y el progreso en general, para adaptar los cursos al alumno con efectividad.
+Otra institución que ha abrazado el Deep Learning es la Carnegie Mellon University. 
+En concreto, usan modelos de Aprendizaje Profundo para analizar las calificaciones, las respuestas a las preguntas y la participación en los foros. Luego, con esos datos, establecen sistemas de recomendación de contenido individualizado por alumno.
+Comparte si crees que puede gustarle a alguien ¡Gracias! 😊
+¡Ey!, esto también puede interesarte...
+Descubre cuáles son las ventajas del e-learning para empresas y por qué implementarlo es beneficioso para ti y tus trabajadores o clientes.
+Descubre por qué el m-learning es el compañero de estudio perfecto para tus alumnos. ¡Permite que aprendan cuando y donde quieran!
+
+						El sistema más sencillo con todo lo que necesitas					
++34 876 64 19 10
+© EvolMind S.L. 2024  | Calle Bari nº 31, 50197 Zaragoza, España | Aviso legal | Política de Privacidad | Política de Cookies | Términos de uso
+🍪 Hacemos uso de cookies: para mejorar la experiencia de usuario en nuestra web, así como medir su audiencia y estadísticas de uso. Si consientes en su utilización, nos permites procesar los datos de comportamiento e identificadores únicos.
+¿Ya tienes una cuenta demo? Accede desde aquí

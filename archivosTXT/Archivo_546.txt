@@ -1,0 +1,60 @@
+Por qué la creatividad es el campo de batalla definitivo entre la inteligencia artificial y la humana - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+Recientemente, la Oficina de Patentes Europea rechazó la solicitud para resgistrar un contenedor de comida. No se debió a que la invención no era novedosa ni útil, fue porque había sido creada por inteligencia artificial (IA). 
+Según la ley, los inventores deben ser gente real. Pero esta no es la primera invención que tiene detrás la IA. Hay máquinas que han producido innovaciones en distintos campos, desde artículos científicos y libros, hasta nuevos materiales y música.
+Dicho esto, la creatividad es claramente uno de los rasgos humanos más extraordinarios. 
+Sin ella no habría poesía, ni internet, ni exploración espacial. Pero ¿podría la IA alguna vez igualarnos o, inclusive, sobrepasarnos? Miremos lo que se ha investigado al respecto.
+Desde una perspectiva teórica, la creatividad y la innovación son procesos de búsqueda y combinación. Empezamos con un trozo de conocimiento y lo conectamos con otro trozo para crear algo nuevo y útil. 
+En principio, esto también es algo que puede ser hecho por máquinas. De hecho, son excelentes almacenando, procesando y haciendo conexiones entre datos.  
+Fuente de la imagen, Getty Images
+Las maquinas producen innovaciones usando métodos generativos. Pero ¿cómo ocurre eso exactamente? 
+Hay diferentes estrategias, pero lo que es tecnología de punta se llama "red generativa antagónica". 
+Por ejemplo, piensa en una máquina que debe crear un retrato nuevo de una persona. Las redes generativas antagónicas abordan esa tarea creativa con la combinación de dos tareas secundarias.
+La primera parte es el generador, que produce nuevas imágenes a partir de una distribución aleatoria de píxeles. La segunda parte es el discriminador, que le dice al generador qué tanto se aproximó a producir un retrato que parezca auténtico.
+¿Cómo hace el discriminador para saber cómo se ven los humanos? Pues bien, se le alimenta con muchos ejemplos de retratos de personas reales antes de empezar la tarea. 
+En base a la información del discriminador, el generador mejora su algoritmo y sugiere un nuevo retrato. 
+Este proceso se repite una y otra vez hasta que el discriminador decide que el retrato se aproxima a los ejemplos que tiene en su memoria. Este proceso da como resultado un retrato que se parece muchísimo a un humano real.
+Fuente de la imagen, Getty Images
+Pero, aunque las máquinas puedan innovar en base adatos, eso no quiere decir que vayan a hacer sombra a la creatividad humana en breve.
+La innovación es un proceso de resolución de problemas. Esto es, para que una innovación exista, hay que combinar los problemas con las soluciones. 
+Los humanos pueden ir en cualquiera de las direcciones: pueden empezar con un problema y resolverlo, o pueden partir de una solución y tratar de buscar nuevos problemas en torno a esta.
+Un ejemplo de este último tipo de innovación es el Post-it (el papelito rectangular para escribir notas con adhesivo en una de las esquinas). 
+Un ingeniero desarrolló un pegamento que no era muy fuerte y lo dejó en su escritorio. Y un colega se dio cuenta de que esa era precisamente la solución que evitaría que se cayeran las notas que añadía a su partitura durante sus ensayos corales.
+Al utilizar datos y código para formular problemas explícitos, la inteligencia artificial también puede ofrecer soluciones. 
+Sin embargo, identificar un problema es más difícil para las máquinas, ya que estos no suelen estar incluidos en los datos a partir de los cuales innovan las máquinas. 
+Es más, la innovación suele estar basada en las necesidades que ni siquiera sabíamos que teníamos. 
+Pensemos en el walkman. Aun cuando ningún consumidor manifestó el deseo de escuchar música mientras caminaba, esta innovación fue un gran éxito. 
+Así como es difícil formular ese tipo de necesidades latentes, también es improbable que entren a formar parte de los archivos de datos que las máquinas necesitan para inventar.
+Fuente de la imagen, Getty Images
+Los humanos y las máquinas se nutren de distintas materias primas para innovar.
+Mientras las personas se basan en toda una vida de experiencias para generar ideas, las máquinas se limitan a hacerlo usando los datos con las que las alimentamos.
+Estas últimas puede, pues, generar innumerables innovaciones, versiones nuevas en base a datos que van recibiendo. 
+Pero es poco probable que los inventos revolucionarios vengan de las máquinas, pues estos suelen crearse generalmente al relacionar campos distintos y desconectados. Un ejemplo de ello es el snowboard, que combina el mundo del surf con el esquí.
+Además, no se trata solo de la novedad, ser creativo implica también crear algo útil.
+En ese sentido, aunque las máquinas sean claramente capaces de generar algo novedoso, eso no quiere decir que vaya a ser práctico.
+Es el usuario el que va a considerar que algo es útil o no, y ese es un juicio que difícilmente van a poder hacer las máquinas. Las personas, en cambio, podemos empatizar con otras y entender mejor sus necesidades.
+Finalmente, las ideas generadas por la IA podrían no ser tan atractivas para los consumidores, simplemente porque han sido creadas por una máquina. 
+Los humanos podrían descartarlas porque sienten que son menos auténticas, incluso porque las consideran amenazantes, o, simplemente, porque prefieren las ideas de su propia especie, un efecto que ha sido observado en otros campos antes. 
+Fuente de la imagen, Getty Images
+Por ahora, muchos aspectos de la creatividad siguen siendo terreno fuera de competencia para las máquinas y la IA. 
+Pero aunque las máquinas no puedan reemplazar a los humanos en el campo creativo, son de gran ayuda para complementar la creatividad humana. 
+Por ejemplo, podemos hacer nuevas preguntas o identificar nuevos problemas para resolverlos en combinación con el aprendizaje de las máquinas.
+Además, nuestro análisis está basado en el hecho de que las máquinas innovan principalmente en base a una colección limitada de datos. La IA podría volverse mucho más creativa si pudiera combinar grandes cantidades de datos que de otra manera están desconectados.
+Las máquinas también podrían aumentar su creatividad cuando amplíen su inteligencia y esta se parezca más a la de los humanos y a aquello que llamamos "cultura general". 
+Y puede que no falte tanto para eso. De acuerdo a algunos expertos, existe un 50% de probabilidades de que las máquinas alcancen el nivel de inteligencia de los humanos en 50 años. 
+*Este artículo fue escrito por Tim Schweisfurth, profesor asociado de Teconología y Manejo de Innovación de la Universidad del Sur de Dinamarca y René Chester Goduscheit, profesor de Tecnología y Estudios de Innovación de la Universidad Aarhus, Dinamarca. 
+Puedes leer el artículo original en The Conversation aquí.
+Ahora puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 1
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 2
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 3
+Contenido no disponible
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

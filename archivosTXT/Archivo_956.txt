@@ -1,0 +1,34 @@
+¿Qué son las redes neuronales? Aplicaciones, tipos y ejemplos
+BBVA
+bbva.com
+
+Cerrar panel
+BBVA.com
+Pulsar Enter
+Búsqueda Predictiva
+Cerrar panel
+Cerrar panel
+Cerrar panel
+BBVA.com
+EnglishEspañol
+Cerrar panel
+Innovación
+Las redes neuronales están transformando la tecnología: el procesamiento del lenguaje natural, el reconocimiento de voz y la visión artificial son solo algunas de las aplicaciones de un sector que sumará 1.020 millones de dólares en 2030. Esta tecnología, concebida hace décadas para emular al cerebro humano, está viviendo una explosión en los últimos años.
+Innovación
+TensorFlow es una biblioteca 'open source' para aprendizaje automático creada por Google, una de las más usadas a nivel mundial para ayudar a entrenar redes neuronales. Empresas como BBVA la emplean en el desarrollo de sus capacidades de IA y para ofrecer funcionalidades novedosas a sus clientes.
+Detrás del motor de búsqueda de Google y de ChatGPT, hay redes neuronales. Esta tecnología está en auge en los últimos años y seguirá ganando popularidad: prueba de ello es que el mercado de las redes neuronales crecerá un 21,4% entre 2023 y 2030 hasta alcanzar los 1.020 millones de dólares (939 millones de euros), según 'Artificial Neural Network Market' de SNS Insider. Desde su origen en la década de los 40, las aplicaciones de las redes neuronales, una tecnología que enseña a los ordenadores a procesar datos de forma similar al cerebro humano, se han multiplicado.
+Las redes neuronales fueron propuestas por primera vez por Warren McCullough y Walter Pitts en 1944. Sin embargo, no fue hasta los años 80 que el psicólogo inglés Geoffrey Hinton les dio un impulso clave con sus investigaciones en 'deep learning' o aprendizaje profundo, una rama de la inteligencia artificial que permite a las máquinas aprender a partir de nodos que emulan neuronas. La red sería el cerebro.
+En esencia, las redes neuronales profundas se entrenan utilizando grandes cantidades de datos de los que extraen patrones para hacer predicciones: las múltiples capas de nodos trabajan para buscar datos y entregar un resultado en forma de predicción.  A diferencia del 'machine learning' (aprendizaje automático), donde los datos se procesan para hacer predicciones, en el 'deep learning' (aprendizaje profundo) se elimina ese procesamiento. Es decir, las redes neuronales aprenden por sí solas a identificar patrones de la información de partida.
+Big Data
+En España, las empresas que usan 'big data' crecieron hasta alcanzar el 13,9% en 2023,un incremento de 2,8 puntos respecto al año anterior. Gigantes como Netflix, Amazon, Starbucks, Spotify y Etsy son casos de éxito en la explotación de datos que pueden inspirar a otras compañías para adoptar un enfoque 'data driven'.
+El desarrollo de las redes neuronales ha permitido a los ordenadores aprender a tomar decisiones sin la intervención de una persona, lo que abre un gran abanico de aplicaciones. Ya en los años 80, Hinton trabajaba en algunas de ellas, como el reconocimiento de voz o la visión artificial. Con los avances computacionales de los últimos años y la explosión de los datos, las redes neuronales han experimentado un auge y tienen multitud de aplicaciones.
+Desde su invención, se han ido diseñando distintos tipos de redes neuronales. Las más comunes por uso son las redes neuronales convolucionales y las redes neuronales recurrentes, como señalan desde IBM.
+Ya podemos mantener conversaciones distendidas con máquinas que reconocen nuestra cara y nuestra voz. Las redes neuronales, una tecnología para imitar el cerebro humano ideada hace décadas, están colándose en casi todos los rincones digitales.
+Sigue leyendo sobre
+
+Échale un vistazo
+Newsletter
+Resultados BBVA
+Aprendemos Juntos
+Reporte Vulnerabilidades
+© Banco Bilbao Vizcaya Argentaria, S.A. 2024

@@ -1,0 +1,43 @@
+QuÃ© es la Inteligencia Artificial | Plan de RecuperaciÃ³n, TransformaciÃ³n y Resiliencia Gobierno de EspaÃ±a.
+Autor desconocido
+gob.es
+
+La Inteligencia Artificial (IA), al igual que la humana, es un concepto complejo de definir. AÃºn no existe una definiciÃ³n formal y universalmente aceptada.
+La ComisiÃ³n Europea la define como sistemas de software (y posiblemente tambiÃ©n de hardware) diseÃ±ados por humanos que, ante un objetivo complejo, actÃºan en la dimensiÃ³n fÃ­sica o digital:
+Los sistemas de IA pueden usar reglas simbÃ³licas o aprender un modelo numÃ©rico. TambiÃ©n pueden adaptar su comportamiento al analizar cÃ³mo el medio ambiente se ve afectado por sus acciones previas.
+Dicho de otro modo:
+La inteligencia artificial (IA) es un campo de la informÃ¡tica que se enfoca en crear sistemas que puedan realizar tareas que normalmente requieren inteligencia humana, como el aprendizaje, el razonamiento y la percepciÃ³n.
+Estos sistemas pueden percibir su entorno, razonar sobre el conocimiento, procesar la informaciÃ³n derivada de los datos y tomar decisiones para lograr un objetivo dado.
+El tÃ©rmino "inteligencia artificial" (artificial intelillence) fue acuÃ±ado por John McCarthy en 1956 durante la Conferencia de Dartmouth, un evento histÃ³rico que reuniÃ³ a algunos de los mejores cientÃ­ficos de la Ã©poca para discutir la posibilidad de crear una mÃ¡quina que pudiera pensar como un ser humano. Sin embargo, los conceptos e ideas que estaban detrÃ¡s de la inteligencia artificial se remontan a mucho antes.
+Ya en la dÃ©cada de 1940, los matemÃ¡ticos Norbert Wiener y John von Neumann, estaban trabajando en la teorÃ­a de los sistemas y la computaciÃ³n que sentaron las bases para la I.A. que posteriormente McCarthy definirÃ­a como "la ciencia y la ingenierÃ­a de hacer mÃ¡quinas inteligentes, especialmente programas de computadora inteligentes".
+Otra influencia y fuente de inspiraciÃ³n para esta tecnologÃ­a se encuentra en la ciencia ficciÃ³n. Los robots y las mÃ¡quinas inteligentes aparecieron por primera vez en la literatura y el cine en la dÃ©cada de 1920, y estos conceptos se han convertido en elementos bÃ¡sicos de la cultura popular.
+Algunas tecnologÃ­as con inteligencia existen desde hace mÃ¡s de 50 aÃ±os, pero los avances en la potencia informÃ¡tica, la disponibilidad de enormes cantidades de datos y los nuevos algoritmos han permitido que se den grandes avances en este campo en los Ãºltimos aÃ±os.
+En la actualidad, la inteligencia artificial se ha convertido en una de las tecnologÃ­as mÃ¡s disruptivas y que mÃ¡s atenciÃ³n despierta. El ritmo al que se suceden los modelos, cada vez mÃ¡s potentes, se estÃ¡ acelerando y tanto las posibilidades como los potenciales peligros de su uso estÃ¡n generando debate tanto entre la comunidad cientÃ­fica como en las instancias polÃ­ticas.
+Las Inteligencias artificiales utilizan algoritmos y modelos matemÃ¡ticos para procesar grandes cantidades de datos y tomar decisiones basadas en patrones y reglas establecidas a travÃ©s del aprendizaje automÃ¡tico, que es la capacidad de una mÃ¡quina para aprender de forma autÃ³noma a partir de datos sin ser programada especÃ­ficamente para hacerlo. De esta manera la IA puede mejorar su precisiÃ³n y eficiencia con el tiempo.
+SegÃºn la definiciÃ³n de Inteligencia Artificial de la ComisiÃ³n Europea existen dos tipo de IA:
+No es la Ãºnica clasificaciÃ³n posible de los tipos de Inteligencia Artificial que existe. En su libro "Inteligencia Artificial: Un Enfoque Moderno", Stuart J. Russell y Peter Norvig establecen cuatro tipos de inteligencia artificial:
+Otra forma posible de diferenciar a las inteligencias artificiales, segÃºn su potencia, es la siguiente:
+En nuestro dÃ­a a dÃ­a usamos la Inteligencia Artificial en multitud de aplicaciones y servicios. Algunas veces sin siquiera ser conscientes de ello.
+
+Algunos ejemplos:
+El potencial de la IA para transformar casi todos los aspectos de nuestras vidas y de la economÃ­a aÃºn estÃ¡ por descubrir pero algunos ejemplos de tecnologÃ­as que ya estÃ¡n en marcha o que pronto podrÃ­an estar a nuestro alcance son los siguientes.
+Aunque la inteligencia artificial tiene el potencial de transformar la forma en que interactuamos con el mundo, tambiÃ©n presenta una serie de retos y preocupaciones:
+Para mitigar el impacto negativo de la inteligencia artificial, es importante tomar medidas para garantizar que la tecnologÃ­a se utilice de manera responsable y Ã©tica. Entre otras:
+Un prompt es una instrucciÃ³n o una solicitud dada a la IA para que realice una tarea o proporcione informaciÃ³n.
+Los prompts pueden ser simples o complejos, y pueden ser utilizados en una variedad de aplicaciones de la IA, desde chatbots hasta sistemas de recomendaciÃ³n. Pero, Â¿CÃ³mo se les puede sacar el mejor partido?:
+El pasado mes de marzo de 2023 el Observatorio Nacional de TecnologÃ­a y Sociedad (ONTSI), Ã³rgano consultivo adscrito al Ministerio de Asuntos EconÃ³micos y TransformaciÃ³n Digital a travÃ©s de la SecretarÃ­a de Estado de DigitalizaciÃ³n e Inteligencia Artificial y perteneciente a la entidad Red.es, publicaba la Ãºltima versiÃ³n de su informe "Uso de inteligencia artificial y big data en empresas espaÃ±olas".
+SegÃºn el informe, el 11,8% de las empresas espaÃ±olas con mÃ¡s de diez trabajadores ya ha adoptado el uso de la IA, cuatro puntos mÃ¡s que en 2021. Pero, Â¿Para quÃ© la usan?:
+Por sectores de actividad, las empresas cuya actividad se centra en la informaciÃ³n y las comunicaciones (41,9%) y las dedicadas al sector TIC (41,3%) son las que aglutinan la mayor parte del uso de la IA en el sector empresarial.
+Con datos correspondientes al aÃ±o 2021, el informe sitÃºa a EspaÃ±a en la decimocuarta posiciÃ³n europea en la integraciÃ³n de IA.
+El enorme potencial de la IA para transformar nuestras vidas desde el punto de vista tecnolÃ³gico, econÃ³mico, ambiental y social es indiscutible.
+Por este motivo, el impulso a la Inteligencia Artificial constituye uno de los elementos principales de la Agenda EspaÃ±a Digital 2026, como un elemento clave de carÃ¡cter transversal para transformar el modelo productivo e impulsar el crecimiento de la economÃ­a espaÃ±ola en los prÃ³ximos aÃ±os.
+Esta Estrategia Nacional de Inteligencia Artificial responde a un compromiso compartido entre todos los socios europeos para que la UE se sitÃºe como lÃ­der en esta nueva tecnologÃ­a.
+El objetivo es orientar los planes sectoriales, estatales y estrategias regionales en esta materia, en lÃ­nea con las polÃ­ticas desarrolladas por la UE, e impulsar la transformaciÃ³n de los diferentes sectores econÃ³micos mediante la cooperaciÃ³n pÃºblico-privada.
+Se espera que dicha cooperaciÃ³n logre llegar a movilizar una inversiÃ³n aproximada de 3.300 millones de euros en el periodo 2021-2023 entre los fondos europeos procedentes del Plan de RecuperaciÃ³n, TransformaciÃ³n y Resiliencia y la iniciativa privada.
+Newsletter
+Anterior
+Siguiente
+
+
+
+

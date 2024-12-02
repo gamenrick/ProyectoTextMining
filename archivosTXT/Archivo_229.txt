@@ -1,0 +1,77 @@
+Gemini Live: La IA que sustituirá a Google Assistant en Android
+Natalia Castro Diez
+orange.es
+
+
+
+        Consejos y trucos      
+
+Publicado por Natalia Castro Diez
+septiembre 17, 2024
+Comparte
+
+
+Si eres usuario de Android y sueñas con tener un asistente de voz mucho más natural, con poder hablar con él como si fuera una persona, tenemos una muy buena noticia para ti: Gemini Live vuelve a ser gratis.
+Esta modalidad de la IA de Google mejorada, nos presenta una inteligencia artificial conversacional que pretende emular la forma en la que los seres humanos mantenemos una conversación. Tanto que, la propia Google ya define a Gemini Live como “un amigo en el bolsillo”.
+
+
+Y es que, hasta ahora, podías disponer de Gemini Live en tu móvil Android pagando una suscripción mensual de unos 21,99 euros. Pero, de un día para otro, todo ha cambiado. 
+Tanto que la compañía aprovechó su Made by Google, un evento normalmente dedicado a lanzamientos de hardware o dispositivos, para presentar su nueva y mejorada inteligencia artificial.
+
+
+
+
+“Gemini Live convierte tu dispositivo móvil en un poderoso asistente de IA”, gritaron a los cuatro vientos los responsables de Google en su evento. Y es que, están tan convencidos de que los usuarios amarán Gemini Live, que parece haber comenzado la cuenta atrás para despedirnos del asistente personal de Android: Google Assistant. 
+Te explicamos qué es y cómo activar Gemini Live en Android y una serie de trucos y funcionalidades para sacarle el máximo partido a esta novedad para nuestros móviles. 
+
+
+
+
+Gemini Live es “una experiencia de conversación para dispositivos móviles que te permite tener conversaciones, de manera fluida, con Gemini” y que ya está disponible para Android; eso sí, solo en inglés.
+Gracias a su mejorada inteligencia artificial conversacional, no se trata de un chatbot, al que le haces una pregunta, tienes que esperar a que conteste y, luego, puedes replicar.
+La IA Gemini Live hace posible que hables con tu móvil casi como si lo hicieras con un amigo; es decir, lanzando preguntas, interrumpiendo sus argumentos y siendo capaz de reaccionar a nuestras palabras y reconducir el diálogo.
+
+
+
+
+Pero pongamos un ejemplo para entenderlo mejor: 
+Has cogido tu móvil y le has que te explique paso por paso una receta para la cena de esta noche. De repente, descubres que no tienes uno de los ingredientes principales. 
+No pasa nada, porque puedes avisar a la IA del problema, frenar su respuesta y pedirle que reformule la receta con lo que sí tienes en la nevera.
+“Es como tener un aliado en el bolsillo con quien puedes hablar sobre nuevas ideas o practicar para una conversación importante”, resalta la compañía.
+
+Aviso importante: Eso sí, por cuestiones de seguridad, Gemini Live viene con una restricción de edad para su uso. Concretamente, antes de terminar su instalación en tu dispositivo Android, te pedirá que verifiques que eres mayor de 18 años. 
+Por ello y por el momento, los miembros de la Generación Alfa y los más jóvenes de la Gen Z.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Para terminar, hemos acudido a la versión de Gemini de escritorio para ordenador, y le hemos pedido que nos explique cómo sacar el máximo partido a Gemini Live. 
+De hecho, hemos usado este prompt: “Hemos instalado Gemini Live en nuestro móvil Android. Dame 10 trucos para sacar el máximo partido a esta inteligencia artificial de Google y marcar la diferencia”. 
+Esta es su respuesta:
+“¡Excelente pregunta! Gemini Live es una herramienta muy poderosa que puede mejorar significativamente tu experiencia con tu dispositivo Android. Aquí te dejo 10 trucos para sacarle el máximo provecho:
+1. Haz preguntas abiertas y detalladas: En lugar de hacer preguntas simples con respuestas cortas, formula preguntas más elaboradas y específicas. Por ejemplo, en vez de:»¿Qué es un agujero negro?», usa: «¿Cómo se forma un agujero negro y qué pasaría si cayeras en uno?».
+2. Pídele que te escriba diferentes tipos de textos: Puede ayudarte a crear todo tipo de contenidos escritos. Puedes solicitar que redacte un correo electrónico formal, un poema, una historia corta, código de programación o, incluso, un guion para un video de TikTok.
+3. Utiliza comandos de voz: Aprovecha la función de reconocimiento de voz para interactuar con Gemini Live de forma más natural. Puedes hacer preguntas, dar instrucciones y pedirle que realice tareas simplemente hablando.
+4. Pídele que te traduzca textos: Gemini Live es capaz de traducir textos de un idioma a otro de forma rápida y precisa. Puedes utilizar esta función para traducir conversaciones, documentos, páginas web, etc.
+5. Pídele que te resuma textos: Si tienes un artículo largo o un documento que necesitas leer, pídele a Gemini Live que te lo resuma. Te proporcionará una versión más corta y concisa del texto original.
+6. Pídele que te ayude a aprender cosas nuevas: Puede ser tu tutor personal. Puedes pedirle que te explique conceptos complejos, que te enseñe un nuevo idioma o que te ayude a prepararte para un examen.
+7. Personaliza tus respuestas: Puedes personalizar las respuestas ajustando el tono, el estilo y el nivel de formalidad. Por ejemplo, puedes pedirle que te hable como si fueras un niño, como si fueras un experto en la materia o como si fueras un amigo.
+8. Utiliza Gemini Live para la creatividad: Déjate llevar por tu imaginación y pídele que te ayude a generar ideas creativas. Puedes pedirle que te invente una historia, que te diseñe un logotipo o que te ayude a encontrar un nombre para tu proyecto.
+9. Integra Gemini Live con otras aplicaciones: Puede trabajar en conjunto con otras aplicaciones de tu teléfono para ofrecerte una experiencia más completa. Por ejemplo, puedes pedirle que te ayude a encontrar restaurantes cerca de ti, que te reserve un hotel o que te compre un producto en línea.
+10. Explora las posibilidades: Gemini Live es una herramienta muy versátil, así que no tengas miedo de experimentar y probar cosas nuevas. Cuanto más la uses, más descubrirás todo lo que puede hacer por ti”.
+
+
+Nuestra compañía
+Enlaces rápidos
+Información legal
+Medios

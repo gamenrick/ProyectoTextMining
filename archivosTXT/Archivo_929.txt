@@ -1,0 +1,21 @@
+ » Desarrollan una tecnología basada en IA para detectar bebés con riesgo de retraso en el desarrolloFundació Bosch i Gimpera 
+Autor desconocido
+ub.edu
+
+El retraso en el desarrollo neurocognitivo afecta a alrededor del 20% de los bebés y niños. Se trata de trastornos que pueden dificultar el aprendizaje y, en algunos casos, conducir a discapacidades crónicas, pero sus síntomas no suelen aparecer hasta la edad preescolar. Un proyecto de la Universidad de Barcelona (UB) ha recibido una ayuda Producte del programa Industria del Conocimiento de la Generalidad de Cataluña de 150.000 euros para desarrollar un dispositivo que utiliza algoritmos de inteligencia artificial (IA) aplicados a electroencefalogramas (EEG) para predecir el riesgo de sufrir este retraso, permitiendo así iniciar la intervención antes de que aparezcan los primeros signos del problema.
+«Nuestra solución podría ahorrar a una cantidad importante de niños la aparición de los síntomas y su posterior fracaso escolar, así como el sufrimiento de las familias y la carga económica que suponen las necesidades educativas especiales», explica el Dr. Carlos Escera, catedrático de Neurociencia Cognitiva de la Facultad de Psicología e investigador del Instituto de Neurociencias de la UB y del Instituto de Investigación San Juan de Dios, que lidera el proyecto.
+Una técnica rápida, indolora y no invasiva
+La innovadora solución, que ya recibió una ayuda Llavor del mismo programa de la Generalidad de Cataluña, se basa en la grabación del electroencefalograma del bebé en respuesta a un sonido del habla, una técnica rápida, indolora y no invasiva. Durante los últimos años, los investigadores han identificado una respuesta cerebral como biomarcador de riesgo de retraso en desarrollo neurocognitivo a partir del estudio de los bebés nacidos pequeños por su edad gestacional, que tienen un alto riesgo de sufrir estos problemas.
+Este biomarcador cerebral, grabado en el electroencefalograma, se interpreta mediante un algoritmo de IA que se ha desarrollado con una base de datos que incluye más de 600 registros de bebés en diversas etapas (0, 6, 12 y 21 meses), así como otros datos como los resultados de pruebas neuropsicológicas e información genética, con el objetivo de mejorar la precisión predictiva de la tecnología.
+De esta forma, el algoritmo es capaz de indicar cuál será el riesgo de retraso en el desarrollo neurocognitivo del bebé a los 21 meses de edad. “Los primeros años de vida son cruciales en el proceso de aprendizaje de los bebés. Así, predecir el riesgo del retraso en el neurodesarrollo al nacer y aplicar una intervención profiláctica precoz puede reducir drásticamente la prevalencia de este problema que habitualmente se detecta incidentalmente”, explica el investigador.
+El nuevo proyecto, con número de expediente 600401, permitirá concluir la implementación del algoritmo diseñado para predecir los resultados neuropsicológicos y la integración en un prototipo inicial para empezar los ensayos preclínicos de la tecnología. Estas ayudas del programa Industria del Conocimiento de la Generalitat están destinadas a la obtención de prototipos ya la valorización y transferencia de los resultados de investigación generada por equipos de investigación de Cataluña.
+Mantente al día de las últimas novedades 
+Suscríbete a la newsletter y recibe noticias, oportunidades de financiación y tecnologías de la UB, y mucho más
+Fundació Bosch i Gimpera
+C/ Baldiri Reixac, 2, 08028 Barcelona
++34 93 403 99 00
+fbg@fbg.ub.edu
+
+Aquesta pàgina web ha estat possible gràcies al cofinançament del Fons Europeu de Desenvolupament Regional (FEDER) i al suport del Departament de Recerca i Universitats de la Generalitat de Catalunya.
+Utilitzem cookies de tercers amb finalitats tècniques i analítiques. Si continua navegant vol dir que accepta la nostra política de cookies. Més informació,plugin cookies
+política de cookies. 

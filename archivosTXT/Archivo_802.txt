@@ -1,0 +1,38 @@
+Esta aplicación gratuita de Google es mejor que Keep: permite analizar libros enteros y crear versiones en audio
+Autor desconocido
+elespanol.com
+
+
+
+                                                            Notebook LM
+                                                
+El Androide Libre
+
+Pese a que Google nació como un buscador no tardó mucho en crear otras aplicaciones de productividad, como Google Docs o, posteriormente, Google Keep. Esta última es ahora también la encargada de gestionar la lista de la compra después de varios cambios internos en la manera en la que el asistente de voz procesa este uso. Son servicios muy usados en España dado que son gratuitos.
+Es cierto que no tienen la potencia, ni lo pretenden, de suites ofimáticas como Microsoft Office, pero para lo que necesitan muchos usuarios es más que suficiente. En el caso de que querer algo más potente que Keep para gestionar notas, Google ha lanzado un proyecto llamado Notebook LM que integra una inteligencia artificial que eleva su usabilidad a niveles nunca vistos. Lleva con nosotros unos meses pero aún es una gran desconocida.
+
+Google
+El Androide Libre
+
+Por el momento es un servicio web, gratuito, pero no cuenta con una aplicación para móviles, aunque se puede usar desde un navegador desde el smartphone. Solo hay que ir a su página web y conectarnos con nuestra cuenta de Google como haríamos en cualquier otro servicio de la empresa.
+
+
+                                                            Interfaz de Notebook LM
+                                                
+El Androide Libre
+
+Cuando entremos se nos pedirá que creemos un cuaderno, que será una suerte de carpeta en la que apuntar todas las notas relacionadas con un tema. Esta primera separación por temas hace que la organización sea mucho más sencilla. Además, es posible crear notas de forma manual, escribiendo, o usando una IA.
+Esto último es lo que se hace cuando subimos un documento de texto, o un libro, o un manual, para poder realizar preguntas sobre el mismo. Si subimos un libro podemos pedir un resumen, un índice e incluso hacer consultas. Tarda unos instantes en procesador, pero una vez hecho no hay mayor dilatación entre la pregunta y la respuesta. Además, podremos consultar la zona del texto o vídeo en la que sacó la iformación con enlaces que se integran en la propia respuesta.
+
+
+                                                            Preguntando dudas sobre un documento
+                                                
+El Androide Libre
+
+En el ejemplo que hemos usado hemos supuesto que queremos abrir una cuenta de inversión, así que hemos subido los documentos del bando para poder consultarlos de forma resumida, hacer preguntas o buscar parámetros extraños. También podemos hacer lo mismo con un vídeo de YouTube, extrayendo el texto.
+Otra de las funciones más llamativas es la que permite convertir un documento en un archivo de audio. Por ahora sólo está disponible en inglés, pero crea una conversación entre dos personas, a modo de pódcast, con la información del documento o del vídeo en cuestión. La calidad es impresionante, y la única limitación actual es el idioma.
+El widget más importante de Google va a cambiar y permitir personalización avanzada
+Gmail cambia con la inclusión de minivideollamadas que se usan dentro del chat de la app
+Busca en Google Maps como un experto: los trucos que no conoces para establecer categorías y filtros personales
+Así se puede cambiar el funcionamiento de la multitarea en cualquier smartphone de Samsung
+© 2024 EL LEÓN LIBRE PUBLICACIONES, S.L.

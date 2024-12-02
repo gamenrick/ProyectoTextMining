@@ -1,0 +1,64 @@
+¿Cuáles son los alcances de los smartphones con IA Generativa?
+Autor desconocido
+com.mx
+
+Print Project México
+Las últimas noticias de la impresión digital y la tecnología en México
+Por Hugo Simg Atilano, Director Adjunto para América Latina en MediaTek
+La Inteligencia Artificial Generativa es un nuevo tipo de algoritmo de aprendizaje automático que puede generar contenido original a partir de inventarios de bases de datos. A grandes rasgos, se logra tener IA Generativa a través de modelos de lenguaje amplio (LLM) que crean contenido nuevo tomando un mensaje como entrada y generando nuevos resultados.
+Un smartphone con IA Generativa utiliza modelos de gran escala de IA previamente entrenados para lograr la generación de diversos tipos de contenido y en general debe cumplir con los siguientes criterios:
+Para lograr todo ello, se requieren especificaciones mínimas de hardware que no cualquier dispositivo tiene. Hablamos de gran capacidad de procesamiento de cómputo (un procesador poderoso para IA o neuronal), amplia y veloz capacidad de almacenamiento de memoria RAM, lograr un consumo de energía reducido u óptimo para un dispositivo accionado por baterías, así como las herramientas (software y hardware) necesarias para la implementación y el desarrollo de aplicaciones que hagan uso de la IA Generativa.
+Por todo ello, MediaTek está acelerando el proceso de IA Generativa en smartphones mediante la optimización. Un ejemplo de ello es lograr que en 12 GB de memoria pueda integrarse el sistema operativo, almacenamiento suficiente de aplicaciones y reducir mediante tecnologías de compresión en HW el 60% de un LLM de 7 billones de parámetros para que pueda ocupar 2.8 GB de espacio, en lugar de los 7 GB que ocuparía el LLM. Además, utiliza tecnologías de decodificación rápida como Speculative decoding, Medusa y Early exit para acelerar 100% la velocidad de funcionamiento del LLM.
+MediaTek cuenta con la tecnología necesaria para utilizar diversos ecosistemas de IA Generativa para smartphones como Gemini de Google, LLaMa de Meta, Yi de 0.1AI Yi y Tongyi de Tongyi Quianwen, entre otras.
+Algunas aplicaciones que podremos ver en un futuro cercano gracias al uso de IA Generativa en los smartphones con MediaTek son:
+El mercado de smartphones apunta hacia una mayor oferta de dispositivos con mayor capacidad de IA Generativa con LLMs más precisos y tareas más amplias en la gama alta y para la masificación (gamas de precio más asequible) mediante la optimización de LLMs de menor número de parámetros para tareas específicas.
+Actualmente, MediaTek está mejorando la conectividad 5G con IA, que permite una rápida recuperación de la señal 5G en zonas de nula cobertura o con señal muy débil. Durante el uso de transporte en movimiento veloz, la IA permite sostener una conexión estable y mejorada de más de 20% en las descargas.
+La IA también está presente en los smartphones con chipsets MediaTek en el uso mejorado de Wi-Fi 7, que permite una conexión más rápida y confiable, analizando las frecuencias con menos interferencias y transmitiendo en los mejores canales que se pueden usar a lo largo de todas las bandas de Wi-Fi con
+mayor cobertura y menor latencia.
+Gracias a la IA, también veremos que las ventas de smartphones 5G continuará creciendo, ya que los usuarios están viendo las ventajas de contar con una red rápida, confiable, robusta y siempre disponible.
+La IA llegó para quedarse en los teléfonos inteligentes y en la vida diaria de los usuarios, quienes cada vez encuentran más funciones en sus dispositivos, mismas que les permiten trabajar, educarse y divertirse de mejores formas y prácticamente en cualquier lugar.
+En MediaTek estamos listos para el futuro. Seguiremos innovando y aportando en la evolución del mercado de smartphones para ofrecer las características técnicas más avanzadas de comunicación, multimedia e IA Generativa que les permitan a los usuarios obtener el máximo provecho en su vida diaria, ya sea en el trabajo, el estudio, la diversión y, por supuesto, la comunicación mediante teléfonos inteligentes.
+Para más noticias de tecnología y negocios,  Síguenos en Twitter @PrintProjectmx
+30 noviembre, 2024
+26 noviembre, 2024
+25 noviembre, 202425 noviembre, 2024
+Comunicóloga egresada de la FCPyS-UNAM y UAM-Xochimilco. Me gusta reportear, entrevistar gente, conocer lugares, visitar museos, ir al cine, escuchar música, tomar fotos, probar nuevos platillos y divertirme.
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+Comentario *
+Nombre * 
+Correo electrónico * 
+Web 
+ 
+
+La IA Generativa está transformando nuestro mundo por completo y a una velocidad sin precedentes, y el trabajo profesional no es la excepción.
+4 julio, 20244 julio, 2024
+26 marzo, 2024
+21 febrero, 2024
+5 febrero, 20245 febrero, 2024
+14 octubre, 202114 octubre, 2021
+3 septiembre, 20195 junio, 2020
+23 agosto, 20196 agosto, 2020
+14 diciembre, 202214 diciembre, 2022
+3 noviembre, 20228 noviembre, 2022
+26 agosto, 2021
+12 julio, 2021
+1 marzo, 20211 marzo, 2021
+12 febrero, 2021
+9 julio, 20196 agosto, 2020
+16 agosto, 20192 marzo, 2021
+31 diciembre, 20182 enero, 2019
+18 febrero, 2018
+
+buenas tardes, con quién puedo adquirir este software en México?
+
+¿Imprime en vinil adhesivo o alguna película plástica adhesiva?
+
+es malísima!, exactamente lo opuesto a los productos anteriores que había lanzado CANON, es lentísima (minutos o incluso decenas de…
+
+Quiero cotización de la impresora ronald RT-640M multifuncional de sublimacion
+30 mayo, 201831 mayo, 2018
+4 octubre, 20171 junio, 2018
+Print project es un medio perteneciente a Morfosmedia Comunicaciones.
+Para temas editoriales:
+contacto@printproject.com.mx
+hvidal@printproject.com.mx

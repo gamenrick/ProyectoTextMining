@@ -1,0 +1,80 @@
+Qué es el Deep Learning y ejemplos del Aprendizaje Profundo en 2023
+RdR
+revistaderobots.com
+
+El Aprendizaje Automático o Deep Learning en inglés, está basado en la aplicación de tecnología que empresas como por ejemplo Google utiliza en muchos de sus productos. Esta tecnología comenzó a darse a conocer en los medios de comunicación cuando la empresa Google lanzó el programa AlphaGo, quien venció al campeón mundial de Go (Lee Sedol).
+No obstante la historia del Deep Learning es mucho más compleja y por ello os vamos a mostrar numerosos ejemplos e incluso un vídeo tutorial.
+
+El Aprendizaje Automático en una de las claves de las Redes Neuronales que se utilizan en la Inteligencia Artificial. Cada día se les exige a las máquinas que aprendan por sí solas, en vista de que no podemos permitirnos pre-programar reglas para luchar con las múltiples combinaciones de datos de entrada y situaciones del mundo real.
+Por esta razón, se requiere que las máquinas estén capacitadas para autoprogramarse, es decir, necesitamos que estas aprendan de su propia experiencia. En este caso el Machine Learning es la disciplina que se encargará de este reto y gracias a estas herramientas los gigantes de internet se encuentran en el mundo del aprendizaje automático, en donde se ofrecen servicios en la nube para la construcción de aplicaciones que aprenden de los datos que se incluyen.
+Por esta razón, se requiere que las máquinas estén capacitadas para autoprogramarse, es decir, necesitamos que estas aprendan de su propia experiencia. En este caso el Machine Learning es la disciplina que se encargará de este reto y gracias a estas herramientas los gigantes de internet se encuentran en el mundo del aprendizaje automático, en donde se ofrecen servicios en la nube para la construcción de aplicaciones que aprenden de los datos que se incluyen.
+Un ejemplo es nuestro aprendizaje desde niños, si nos fijamos en este punto, lograríamos entender los algoritmos de aprendizaje. En los sistemas artificiales se utilizan una serie de técnicas de aprendizaje automático las cuales se engloban en el aprendizaje por refuerzo.
+De la misma forma que en los niños, en esos sistemas se premian buenas conductas, las cuales tienden a aumentar su ocurrencia, mientras que las malas conductas suelen ser castigadas y por ende a desaparecer.
+A este enfoque se le llama aprendizaje supervisado, ya que requiere de intervención humana quienes indican que está mal y que está bien (proporcionan el refuerzo). En otras aplicaciones de la computación cognitiva, aparte del refuerzo de los humanos, al sistema se le proporciona semántica necesaria para que los algoritmos aprendan.
+Actualmente, las limitaciones o restricciones de entrenamiento de los algoritmos son las que limitan su eficacia, ya que necesitan grupos de datos de entrenamiento, para que los algoritmos aprendan de manera efectiva. A continuación incluimos un vídeo tutorial por deseas aprender y profundizar en la tecnología del Deep Learning.
+Es posible que el aprendizaje automático en el futuro pase a ser un
+aprendizaje no supervisado. Ya que se ha notado que los algoritmos han sido
+capaces de aprender sin intervención de un humano, porque ellos mismos con los
+datos ingeridos sacan las conclusiones acerca de la semántica. 
+Compañías como Loop AI Labs se están centrando en enfocar el aprendizaje automático
+no supervisado. Donde su plataforma cognitiva es capaz de procesar millones de
+documentos no estructurados y de manera autónoma construye representaciones
+estructuradas. 
+El Deep Learning ofrece muchas ventajas gracias a su potente utilidad en diversos tipos de aplicaciones en el mundo real: 
+Son muchos los beneficios que ofrece a las empresas y se debe principalmente a que se obtienen altas tasas de éxito por medio del entrenamiento no supervisado. Las innumerables aplicaciones del Aprendizaje profundo lo veremos más adelante, aunque podemos adelantar que se utilizan desde en la detección de la salud de los ecosistemas en la lucha contra el cambio climático, el sector de las finanzas, en la Industria 4.0 o la Automatización Industrial. 
+En el Deep Learning se utilizan en estructuras lógicas que son similares
+a la organización del sistema nervioso de los mamíferos, posee neuronas
+artificiales o capas de unidades de proceso, las cuales detectan
+características determinadas existentes en los objetos que percibe. 
+Una de las áreas donde el Deep Learning proporciona mejoras considerablemente, es la visión artificial en comparación con algoritmos tradicionales. 
+Se considera que el aprendizaje automático se acerca de un modo más íntimo a la manera del funcionamiento del sistema nervioso humano, ya que por ejemplo en el encéfalo humano existe una microarquitectura compleja, donde se han descubierto áreas y núcleos cuyas redes neuronales se especializan para realizar tareas en específico. 
+En la
+computación cognitiva se han integrado procesos psicológicos humanos tales como
+el lenguaje y el aprendizaje, incluyendo funciones como la memoria semántica,
+atención, razonamiento, emoción, motivación; de manera que los sistemas
+artificiales se acercan cada vez más al nivel humano de inteligencia y hasta
+niveles superiores.
+Estas
+características de arquitectura del sistema nervioso humano son emuladas por
+los modelos de computación de Deep Learning, permitiendo así que dentro de este
+sistema global existan redes de unidades de proceso que detectan
+características ocultas en los datos. 
+En los años 70 y 80 el progreso de la tecnología, y más concretamente en materia de hardware y software, dieron comienzo los avances que llevaron consigo gran popularidad de aplicaciones informáticas. Las personas e instituciones se apoyaban en máquinas con las que efectuaban cálculos automáticos que fuesen más rápidos, sencillos y exactos, logrando simplificar los procesos rutinarios.
+No obstante la Inteligencia Artificial llegó a crearse unos años antes. Desde los años 50 y hasta hace unos pocos años, era el laboratorio de investigación y ciencia ficción, donde la practica total de un sistema con inteligencia parecida a la humana solo han aparecido en películas del futuro. Pero esta perspectiva ha cambiado de manera radical en los últimos años.
+El impulso tecnológico con el llamado Big Data y la necesidad de transformación digital por parte de algunas empresas han revolucionado el entorno, ya que se han convertido en sectores deseosos de grandes cantidades de datos, en donde por primera vez en la historia de la IA existe una enorme demanda de sistemas con inteligencia avanzada, similar a la de los seres humanos, capaces de procesar dichos datos.
+Estamos en un momento histórico, no solo porque las
+organizaciones desean incorporar algo nuevo, sino porque ahora han tomado
+conciencia de una tecnología capacitada para procesar todos los datos que ellos
+disponen para proporcionar la inteligencia necesaria.
+Un ejemplo muy simple del Deep Learning es de qué manera
+identifica un gato. El sistema comienza diferenciando entre las zonas claras y
+oscuras de una imagen, de esta empieza a procesar los datos.
+Seguidamente el primer nivel envía esa información al
+segundo nivel, en donde combina los bordes originando formas simples, tales
+como una línea diagonal o un ángulo recto. Luego pasa al tercer nivel en donde
+reconoce objetos más complejos como un óvalo o rectángulo.
+En el siguiente nivel, estas formas se combinan y se proceden
+a formar colas, patas o barbas, y de manera sucesiva el proceso continúa hasta
+que el sistema identifica el animal.
+Se trata de una herramienta que se requiere para comenzar con aprendizaje
+autónomo y supervisado. Esta herramienta dará a conocer los conceptos básicos
+del Deep Learning en Python, siendo este un lenguaje de programación conocido y
+accesible.
+Podrás aprender sobre el lenguaje supervisado y no supervisado, la
+relación entre el modelado estadístico y el aprendizaje automático, logrando
+comparar cada uno de ellos. También se podrán observar y explorar algoritmos,
+incluyendo la regresión, la clasificación. La agrupación en clústeres, la
+reducción dimensional, la división de tren/prueba, el error cuántico y bosques
+aleatorios.
+Estos términos a veces son utilizados como sinónimos, pero no son lo mismo; el Deep Learning es un tipo particular del Machine Learning, pero existen técnicas del Machine Learning que no se aplican en el Deep Learning.
+El Deep Learning, lleva a cabo el proceso de Machine Learning, utiliza red neuronal artificial y está compuesta por un número de niveles jerárquicos, en donde en el nivel inicial la red aprende algo simple y lo envía al siguiente nivel, este segundo nivel toma la información sencilla combinándola con información más compleja y se lo pasa al tercer nivel y así continuamente.
+El Machine Learning, se trata de un tipo de técnicas de IA en donde los ordenadores sin ser programados aprenden a hacer algo. Estas máquinas se pueden entrenar de distintas maneras, por ejemplo, se le muestra al programa gran cantidad de imágenes de distintos animales etiquetados con su nombre correspondiente. Sin que se haya programado este sistema debe aprender combinaciones de características visuales que aparecen juntas (forma de cuerpo, caras, etc.).
+Cada vez son más las empresas que utilizan el aprendizaje automático para sus aplicaciones, ya que con estas pueden realizar diversas predicciones, incluidas las empresas de robótica. A continuación vamos a enumerar  los usos más frecuentes:
+Revista de Robots te recomienda:
+ 
+ 
+ 
+ 
+ 
+
+				Esta Web utiliza Cookies para mejorar tu experiencia. Si las aceptas, asumimos que estás de acuerdo con ellas. 				OK Leer Más 

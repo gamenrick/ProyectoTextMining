@@ -1,0 +1,51 @@
+Evitar que crezcan las brechas digitales, un reto en la instrumentación de nuevas tecnologías
+Autor desconocido
+iteso.mx
+
+Invitado por el IEEE, Sudhir Dixit, miembro senior de Fundación Internet Básico, dijo que ante la inminente llegada de la 5G, la prioridad debe ser lograr la conectividad de más personas.
+
+Montserrat Muñoz
+
+	México y Latinoamérica pueden aprovechar el auge de las redes de quinta generación (5G) para promover el desarrollo, ya que esta tecnología permitirá agilizar los procesos de la internet y desencadenar un sinnúmero de posibilidades para aplicaciones en temas de movilidad y salud, entre otros. 
+
+	"La internet es una herramienta para crecer. Se ha determinado que, si aumentas la penetración de la internet en diez por ciento en un país, el Producto Interno Bruto (PIB) puede incrementar hasta un tres por ciento, ya que se favorece que más personas jueguen un papel en la economía. La internet permite a las personas generar más ingresos, tener acceso a más información y abonar al crecimiento de la economía, que a su vez tiene un impacto positivo en el PIB del país", afirma Sudhir Dixit, miembro senior de Fundación Internet Básico. 
+
+	Lo anterior lo comentó durante su ponencia "Software defined networking, network function virtualization and cloud computing for 5G and beyond systems", organizada por el capítulo de Comunicaciones de la sección Guadalajara del Instituto de Ingenieros en Electricidad y Electrónica (IEEE, por sus siglas en inglés) y convocada por la Maestría en Diseño Electrónico y la Especialidad en Diseño de Sistemas en Chip del ITESO.  
+
+	A pesar del gran potencial, el conferenciante advirtió que es posible que la implementación de esta tecnología haga más grande la brecha digital, que ya tiene aisladas a más de cuatro mil millones de personas en todo el mundo.  
+
+	Por ello, Dixit consideró que el reto más importante para la próxima generación será lograr conectar a más personas y no priorizar la velocidad.
+
+	"Necesitamos trabajar de manera más agresiva en cómo hacer tecnologías más baratas, más disponibles y más sencillas de usar, para que una persona común que no tiene una educación tan extensa pueda conectarse a la red", dijo. 
+
+	"Cada país o región tiene sus propios desafíos. Europa, por ejemplo, tiene sus zonas subdesarrolladas. Para ellos resulta prioritario conectar a quienes no están conectados y proveer de conectividad más asequible". 
+
+	La industria tecnológica ya está pensando dos pasos adelante. Aunque apenas comenzará la implementación comercial del 5G, en países como China y Finlandia ya se está explorando e invirtiendo en el desarrollo de tecnologías aún más eficientes. Las redes de sexta generación (6G) proveerán de una conectividad ubicua que revolucionará la manera en que interactuamos entre nosotros y con la tecnología.  
+
+	A decir del Dixit, la apuesta del futuro debe ir de la mano de la virtualización y el desarrollo de software, más que del hardware.
+
+Ingenieros preparados para el futuro
+
+	La baja latencia de la 5G y el gran ancho de banda permitirá una interacción prácticamente en tiempo real en la comunicación machine to machine (M2M) que resultará en un nuevo panorama para el llamado Internet de las Cosas (IoT, por sus siglas en inglés). 
+
+	En este contexto, Sudhir Dixit afirma que los futuros ingenieros necesitan estar al tanto de las innovaciones en la industria de Tecnologías de la Información (TIC), en temas como la virtualización y diseño, y gestión de redes definidas por software (SDN, por sus siglas en inglés).  
+
+	"Para los estudiantes es muy importante conocer las tendencias de la industria, a fin de que puedan estar mejor equipados para su desempeño profesional", consideró el experto. 
+
+	Dixit señaló que los futuros ingenieros deben instruirse en inteligencia artificial y machine learning, especialmente en cuestiones de privacidad y seguridad de la información. Otros profesionales también se pueden sumar a la oportunidad que brindan las nuevas tecnologías, desde el aspecto legal y regulatorio, que en general ha quedado muy rezagado en relación con el avance de la tecnología, agregó. 
+
+	 
+
+	 
+
+	 
+ Noticia
+Facebook
+Twitter
+Instagram
+Youtube
+Tiktok
+Linked-in
+Instituto Tecnológico y de Estudios Superiores de Occidente
+Periférico Sur Manuel Gómez Morín # 8585 C.P. 45604 Tlaquepaque Jalisco, México
+  See in google maps

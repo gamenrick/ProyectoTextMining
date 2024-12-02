@@ -1,0 +1,59 @@
+¿Por qué el Deep Learning ha superado al Machine Learning?
+Eva Rodriguez Alvarez
+iebschool.com
+
+¿Qué quieres aprender?
+Si quieres saber por qué el Deep Learning va a revolucionar la inteligencia artificial o quieres conocer cómo aprovechar al máximo esta tecnología, no puedes perderte este post. Descubre cuáles son las claves de las diferencias entre el Deep Learning y el Machine Learning, y qué innovaciones han permitido que sea el término tecnológico de moda. No te pierdas los detalles del Deep Learning vs Machine Learning.
+También te puede interesar: Master en Big Data
+Índice de contenidos
+Hoy os enseñamos los dos sistemas de Inteligencia Artificial , Deep Learning vs Machine Learning, que están revolucionando la tecnología actual y que consiguen que los ordenadores se acerquen cada vez más al funcionamiento del cerebro humano e incluso, en ciertos aspectos, superarlo. 
+El Machine Learning sería el presente (o casi pasado) y el Deep Learning el futuro de la Inteligencia Artificial.
+Ambos sistemas de Inteligencia Artificial trabajan con grandes cantidades de datos e información (Big Data) pero se separan de los sistemas más sencillos al ser capaces de aprender por sí mismos y corregir errores (Machine Learning) y la más innovadora (Deep Learning) por ser capaz de tomar decisiones a partir de los datos por sí misma. En realidad, se podría decir que el sistema Deep Learning es una vertiente más compleja y perfeccionada del Machine Learning.
+La clave para diferenciarlos, además de la perfección técnica, es justamente la intervención humana: Con Machine Learning supervisamos todos los procesos y enseñamos al ordenador a aprender distintos datos y clasificarlos.
+En cambio, Deep Learning aprende por sí mismo con cada dato nuevo que recibe, lo mismo toma un dato o categoría erróneo una vez, sin embargo, aprende de ese error y emplea otro dato para acercarse al resultado correcto cada vez de forma más rápida y fiable.  
+Cómo aplicar Inteligencia Artificial en la empresa
+En castellano se le denomina aprendizaje automático porque este sistema de IA surgió por la necesidad de dar a un ordenador algoritmos que trabajasen con reglas y mecanismos que encontrasen respuestas entre una gran cantidad de datos y al mismo tiempo ser capaces de predecir datos o incluso sugerir opciones. 
+Es decir, para ser más claros, trabaja con patrones. Si buscamos un coche en concreto irá examinando distintas categorías: color, marca, caballos y cilindrada, dimensiones… Y descartará todos los datos incorrectos para ofrecer el dato pertinente. Lo negativo del Machine Learning es que hay que guiar al sistema en cada fase para que con la práctica sepa identificarlo automáticamente. 
+Como hemos comentado, el sistema Deep Learning está mucho más sofisticado y trabaja prácticamente de forma autónoma, solo necesita una etapa de intervención humana: la programación. Tras esa fase, como explica su traducción al castellano “aprendizaje profundo”, sobrepasa ampliamente las posibilidades tecnológicas de su antecesor e intenta imitar el funcionamiento del cerebro, trabajando por capas o unidades neuronales. Cada capa neuronal del sistema procesa la información y arroja un resultado en forma de ponderación. 
+En este caso, si ofreciéramos una ingesta cantidad de imágenes de coches a un ordenador y buscásemos un modelo en concreto detallando las características principales el Deep Learning procesaría los resultados y ponderaría con un porcentaje la posibilidad de que sea o no el modelo buscado.
+ Cada vez que el sistema realiza una búsqueda aprende por sí mismo y en la siguiente ya tendrá claro qué dato tiene que buscar antes y cuál no para conseguir mejorar los resultados. Es fundamental cómo trabaja con los errores, porque cada vez que definimos que se ha equivocado incorpora un nuevo dato a la red neuronal que no volverá a repetir en una búsqueda similar.
+Ya que sabes algo más sobre el Deep Learning vs Machine Learning, te vamos a contar las innovaciones que trae el Deep Learning, no te lo pierdas:
+Las multinacionales tecnológicas más importantes ya utilizan el Deep Learning para resolver problemas del mundo actual y conseguir que los ordenadores actúen y piensen como humanos. Como de costumbre, Google ha sido el pionero en la materia. Procura imitar el funcionamiento cerebral con su proyecto de Google Brain con el que ha revolucionado el reconocimiento de voz e imagen. Mismamente, hace unos años, el equipo de Andrew NG necesitó 16.000 ordenadores para reconocer un gato en concreto entre los más de 10 millones de videos de Youtube. Gracias al I+D en Deep Learning ahora se necesitan muchísimos ordenadores menos. 
+Un ejemplo que conocemos todos es el reconocimiento fotográfico que utiliza Facebook para conseguir etiquetar las distintas caras que aparece en una foto y al mismo tiempo para identificar la localización de una imagen. En un trabajo similar ha trabajado el Brain Team de Google con un proyecto denominado «Show and Tell» que utiliza el sistema de reconocimiento TensorFlow que dispone de un motor que con una precisión del 93,9%  muestra en un pequeño texto lo que ocurre en la imagen, es decir no solo a quién pertenece una cara, sino lo que ocurre en una foto, el lugar, el ambiente…
+Twitter, que no iba a ser menos, ha preferido potenciar el Deep Learning para mejorar la calidad de imagen de sus videos en streaming. Las redes de neuronas permiten comprimir más el video.
+Prometen facilitar la rutina diaria deduciendo con una simple foto cuantas calorías puede tener un plato o incluso que los coches puedan conducir de forma autónoma reconociendo patrones de conducción en la que quizá sea la idea más ambiciosa relacionada con la IA. En el deporte ya nos permiten reconocer de forma sencilla si existe en una jugada fuera de juego o quién ha cruzado la meta primero en los 100 metros lisos. 
+Pero todo tiene un proceso y en los inicios siempre hay muchos bugs y fallos. Pero para que se puedan utilizar de verdad todas estas ideas necesitan el más profundo perfeccionamiento. No sirve el 99% si ese 1% puede provocar daños en los humanos. Esperamos que hayas podido comprobar las diferencias del Deep Learning vs Machine Learning.
+Si tú también quieres conocer e innovar el mundo empresarial a través de la tecnología y utilizando el Big Data, no te pierdas el Master en Data Science, con el que serás capaz de utilizar algoritmos de IA, a través de Machine Learning para anticipar y predecir el futuro. 
+Aprende a utilizar todas las herramientas que la Ciencia de Datos, el Big Data y el Business Intelligence
+Programas relacionados
+Programas populares
+Eva Rodriguez Alvarez	                	                    	                    	                    	                    https://www.mantelacuadros.com
+
+Actualmente soy Ecommerce & Digital Marketing Manager en Dosde Publishing. Soy Licenciada en Periodismo, Master en RRPP y Comunicación, y Postgraduada en Marketing Digital. Especialista en Social Media y Comunicación...						Leer más
+
+Cómo aplicar Inteligencia Artificial en la empresa
+Suscríbete y recibe cada semana nuevos cursos y recursos gratuitos.
+
+He leído y acepto los términos
+                                del servicio y la política de privacidad.
+
+Lo siento, debes estar conectado para publicar un comentario.
+
+ info@iebschool.com
+
+(+34) 919 058 055 - Madrid 
+                        (+34) 931 833 199 - Barcelona 
+                        (+59) 8 2711 6748 - Montevideo 
+                        (+52) 55 1163 8927 - Ciudad de México
+SOBRE NOSOTROS
+OFERTA FORMATIVA
+¿HABLAMOS?
+
+Aviso Legal |
+                                    Política de cookies |
+                                     Política de privacidad
+
+©2024 IEBS Biztech School. Todos los derechos reservados.
+
+He leído y acepto los términos del servicio y la política de privacidad.
+                        

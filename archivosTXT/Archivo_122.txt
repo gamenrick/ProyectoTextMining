@@ -1,0 +1,39 @@
+Deep Learning: clasificando imágenes con redes neuronales - LIS Data Solutions
+desarrollosidn
+lisdatasolutions.com
+
+ El Machine Learning o aprendizaje automático 
+Tabla de contenidos
+El Machine Learning o aprendizaje automático posibilita la identificación de patrones en los datos basándose en algoritmos que clasifican cada factor según su grado de influencia aprendiendo y mejorando el proceso continuamente.
+En un post anterior ya se introdujeron términos como la Inteligencia Artificial, Machine Learning o Deep Learning. En el día a día, estos conceptos se cruzan en nuestro camino tan frecuentemente que nos acaba resultando confuso distinguir entre unos y otros. Pues bien, Frank Chen nos da una buena visión general de cómo poder distinguirlos:
+«Artificial intelligence is a set of algorithms and intelligence to try to mimic human intelligence. Machine learning is one of them, and deep learning is one of those machine learning techniques.» 
+La inteligencia artificial es un conjunto de algoritmos e inteligencia que intentan simular la inteligencia humana. El Machine Learning es uno de esos algoritmos, y el Deep Learning es una de las técnicas de Machine Learning.
+Explicado de forma sencilla, el Machine Learning o aprendizaje máquina alimenta de datos al ordenador y usa técnicas estadísticas para ayudarle a “aprender” cómo mejorar progresivamente en una tarea, sin ser específicamente programado para ello, eliminando la necesidad de millones de líneas de código.
+El Machine Learning puede dividirse en dos tipos de aprendizaje: supervisado y no supervisado. Mientras que el primero de ellos emplea sets de datos etiquetados, el segundo usa sets de datos no etiquetados.
+El Deep Learning, o aprendizaje profundo, es una rama del Machine Learning que introduce datos de entrada, inputs, a través de una arquitectura de red neuronal artificial, las cuales se inspiran en las biológicas. Esta red neuronal artificial contiene un número de capas ocultas que procesan los datos, permitiendo así a la máquina “profundizar” en su aprendizaje haciendo conexiones y ponderando los inputs para obtener cada vez mejores resultados
+  
+Figura 1. Estructura básica de una red neuronal
+Una red neuronal no es más que un puñado de neuronas conectadas entre sí. Se basan en una idea sencilla: dados unos parámetros hay una forma de combinarlos para predecir un cierto resultado. Pero ¿cuál es la combinación adecuada? Aquí es donde entra el término de entrenamiento, que consiste en ir probando distintas combinaciones semialeatorias de los parámetros hasta conseguir que el error de predicción se minimice, y así conseguir mejores predicciones.
+Normalmente, el entrenamiento de la red se realiza sobre el 75-80% del total de datos, llamado set de train, mientras que el 20-25% restante se usa como set de test.
+Este proceso evita que el entrenamiento de la red se sobreajuste a un conjunto único de datos, realizando la validación sobre unos datos “nuevos” para la red, y evaluando así la capacidad de generalización del modelo.
+El proceso de aprendizaje de una red neuronal se evalúa mediante curvas de aprendizaje (Learning curves), las cuales normalmente muestran la evolución del error de predicción frente al tiempo. De esta forma, cuanto mejor sea el modelo, menor será el error, por lo que en la curva de aprendizaje se espera observar una minimización del error.
+Cuando se entrena un modelo de Machine o Deep Learning, el estado del modelo puede evaluarse en cada etapa intermedia. Cuando se evalúa sobre el set de train obtenemos una idea de cómo de bien está aprendiendo nuestro modelo, mientras que si se evalúa sobre el set de test, obtendremos una idea de cómo de bien el modelo es capaz de generalizar.
+Sabremos que un modelo está bien ajustado cuando las curvas de error de train y test llegan a un punto de estabilidad y con una separación pequeña entre ellas.
+  
+Figura 2. Curvas de aprendizajes de los conjuntos de train y test en función de la complejidad del modelo.
+Las redes neuronales son muy útiles para, a partir de un dato de entrada, hacer una clasificación o regresión a partir de un modelo entrenado. Esta misma idea se puede aplicar a una imagen, para obtener, por ejemplo, qué representa la imagen (clasificación) o detectar un objeto que forme parte de ella (segmentación, detección, identificación, etc). Para ello se recurre a las redes neuronales convolucionales (CNN), las cuales han supuesto una revolución en el sector del reconocimiento de imágenes, ya que, a diferencia de las redes neuronales convencionales y otros algoritmos de clasificación de imágenes, usan un procesamiento relativamente pequeño.
+La red es entrenada a partir de imágenes utilizando solo píxeles y etiquetas como entradas. Aprenden usando filtros y aplicándolos a las imágenes. El algoritmo toma un cuadrado pequeño (o ‘ventana’) y comienza a aplicarlo sobre la imagen. Cada filtro permite que la CNN identifique ciertos patrones en la imagen. La CNN busca partes de la imagen donde un filtro coincida con el contenido de la imagen.
+En este caso las CNN toman como entrada tensores de forma, que incluyen alto y ancho de la imagen, en pixeles, y el numero de canales de color (1, si la imagen es en blanco y negro, o 3, si es en color RGB. Como salida se obtendría la clase o la probabilidad de que la imagen pertenezca a una clase particular (Fig 3)
+  
+Figura 3. Estructura de una red neuronal convolucional para la clasificación de una imagen.
+  
+Keras es una biblioteca de Redes Neuronales de código abierto escrita en Python. Además del soporte para las redes neuronales estándar, ofrece soporte para las Redes Neuronales Convolucionales y para las Redes Neuronales Recurrentes. Además contiene varias implementaciones de los bloques constructivos de las redes neuronales: capas convolucionales y de pooling, funciones de activación, optimizadores, etc.
+Como partners de KNIME, en Lis Solutions apostamos por este software para desarrollos de Deep Learning y entrenar modelos de redes neuronales para clasificacion de imágenes. 
+KNIME pone a disposición del cliente extensiones de Python y Keras, permitiendo construir arquiterturas y modelos Deep Learning de una forma sencilla e intuitiva, permitiendo además documentar los diferentes nodos que se emplean.
+  
+Thinking humanly
+Thinking rationally
+Acting humanly
+Acting rationally
+
+    ¡Cuéntanos tu proyecto!  

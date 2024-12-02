@@ -1,0 +1,38 @@
+Las mejores IA para el investigador moderno
+Melissa Guerra Jáuregui
+tec.mx
+
+No todo es ChatGPT, hoy en día existen más IA dedicadas al área de la investigación científica. Te presentamos cinco de ellas para facilitar tu labor como investigador. 
+ 
+
+No todo es ChatGPT, hoy en día existen más IA dedicadas al área de la investigación científica. Te presentamos cinco de ellas para facilitar tu labor como investigador. 
+La inteligencia artificial (IA) no solo ha revolucionado la ciberseguridad, el Internet de las cosas, las compras en línea, la optimización de productos y procesos, y la toma de decisiones de grandes empresas, sino que también ha revitalizado el campo educativo y de investigación.
+La investigación tiende a ser abrumadora y, hasta cierto punto, tediosa, esto debido a la gran cantidad de tiempo que se le invierte a los procesos involucrados. Pero no todo son malas noticias, ya que gracias a la IA se han desarrollado herramientas que pueden acelerar dichos procesos, resultando en ahorro de tiempo y optimización de recursos.
+A continuación, te presentamos un breve resumen de cinco IA especializadas en investigación:
+Esta herramienta utiliza inteligencia artificial y machine learning para agilizar el proceso de revisión sistemática. Cuenta con diversas modalidades en donde puedes crear, colaborar o traducir revisiones, así como una opción para visualizar todas las revisiones públicas.
+Dentro de la revisión sistemática se pueden crear etiquetas, agregar filtros, usar los criterios de exclusión/inclusión determinados o crear propios, añadir notas, entre otros. Una vez que se haya terminado con este proceso (ya sea individual o colaborativo), Rayyan brinda la opción (compute ratings) de asignarle un rating a cada artículo, con base en los filtros y criterios empleados, mostrando a su vez las opciones que quedaron indecisas.
+Por tanto, entre más decisiones se tomen (criterios, filtros, pestañas), más acertados serán los ratings de cada artículo, con el fin de que el revisor sepa si incluir un artículo o no.
+Rayyan cuenta con un chatbot con IA integrado para solucionar dudas sobre el funcionamiento de la misma aplicación o cualquier otra pregunta que se necesite resolver.
+A grandes rasgos, esta herramienta tiene las siguientes funciones generales:
+Funciones específicas:
+Es un motor de búsqueda impulsado con IA para encontrar información en los artículos de investigación. En otras palabras, es como un Google para investigadores.
+Las funciones más importantes de esta herramienta se enlistan a continuación:
+Funciones específicas:
+Cabe mencionar que algunas de las funciones de esta aplicación aún están en proceso de refinamiento, por lo que los usuarios pueden brindar retroalimentación para mejorar el sitio.
+Esta inteligencia artificial se considera no como un motor de búsqueda, sino como un motor de descubrimiento. Es como un Spotify, pero para artículos de investigación. En líneas generales, Research Rabbit es una plataforma de investigación para descubrir y visualizar literatura y académicos; se pueden crear alertas para artículos recién publicados, compartir colecciones, entre muchas otras funciones generales, tales como:
+Funciones específicas:
+Es importante mencionar que esta herramienta tiene una base de datos muy extensa, la cual contiene más de 100 millones de artículos académicos, cubriendo más del 90 % de los materiales de las bases de datos más comunes, tales como Scopus, Web of Science, etc. Además, cuenta con materiales que no se encuentran en dichas plataformas.
+Es una plataforma para encontrar, comprender y aprender sobre cualquier publicación, ya que, gracias a la IA, SciSpace es capaz de explicar y responder preguntas sobre trabajos de investigación, así como descubrir publicaciones relacionadas con el documento de origen.
+SciSpace permite que investigadores, editores e instituciones colaboren y trabajen eficientemente, automatizando tareas repetitivas, así como mostrando información rápidamente. Esta plataforma cuenta con metadatos de más de 200 millones de artículos, así como con más de 50 millones de archivos PDF de acceso abierto (Open Access).
+Funciones generales:
+Funciones específicas:
+A pesar de tener su propia nota en el Observatorio, (la cual puedes leer aquí), Scite sigue actualizándose para ofrecer la mejor experiencia al realizar revisiones sistemáticas, por lo que se hará una mención breve de estas nuevas actualizaciones.
+No cabe duda de que las aplicaciones de inteligencias artificial (IA) están aquí para quedarse. Cada día se crean y mejoran herramientas para que los investigadores, profesores y estudiantes modernicen y enriquezcan sus procesos de investigación.
+Sin embargo, hay que recordar que estas aplicaciones de IA para la innovación educativa deben ser empleadas como herramientas, y no como una sustitución definitiva de los procesos cognitivos, ni del pensamiento crítico o del razonamiento lógico humano.
+
+Este artículo del Observatorio del Instituto para el Futuro de la Educación puede ser compartido bajo los términos de la licencia CC BY-NC-SA 4.0 
+Recibe en tu bandeja de entrada una dosis semanal de la actualidad educativa.
+
+						Observatorio | Instituto para el Futuro de la Educación | Tecnológico de Monterrey | Av. Eugenio Garza Sada 2501 Sur Col. Tecnológico C.P. 
+						64849 | Monterrey, Nuevo León, México. 2022 | Contáctanos: observatorio@itesm.mx
+						

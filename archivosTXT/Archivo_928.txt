@@ -1,0 +1,18 @@
+Sistema de IA puede aprender de forma similar a los bebés – DW – 11/07/2022
+Autor desconocido
+dw.com
+
+Un sistema llamado Plato replica la llamada física intuitiva que incluso los bebés más pequeños comprenden. El estudio podría tener implicaciones importantes en la investigación de la IA y la cognición humana.
+Un equipo de ingenieros ha logrado crear un sistema de inteligencia artificial (IA) capaz de aprender normas de la llamada "física intuitiva" de una forma similar a como lo haría un bebé, trabajo que podría tener implicaciones tanto para los avances de la IA como para la investigación de la cognición humana, según publica este lunes (11.07.2022) la revista Nature.
+La física intuitiva se entiende como un conjunto de reglas de sentido común sobre el funcionamiento del mundo y de sus objetos. Bajo esta idea, los investigadores presentan a Plato, un sistema de aprendizaje profundo que puede aprender esta física y que está inspirado en la investigación sobre cómo los bebés adquieren conocimiento.
+Incluso los niños más pequeños conocen la física intuitiva; por ejemplo, los bebés de apenas cinco meses experimentan tirando objetos al suelo o se sorprenden si se les muestra una situación que implica un hecho físicamente imposible, como la desaparición repentina de un juguete.
+Sin embargo, el aprendizaje de la física intuitiva ha resultado difícil para los algoritmos de aprendizaje automático: los actuales sistemas de inteligencia artificial "palidecen" en su comprensión de la física intuitiva en comparación con los niños más pequeños, dicen los expertos.
+Para abordar esta brecha entre los humanos y las máquinas, los autores entrenaron al sistema mostrándole vídeos de muchas escenas sencillas, como pelotas que caen al suelo, pelotas que ruedan detrás de otros objetos y vuelven a aparecer, y pelotas que rebotan entre sí. Tras el entrenamiento, a Plato se le puso a prueba mostrándole vídeos que a veces contenían escenas imposibles.
+Al igual que un niño pequeño, el sistema mostraba "sorpresa" cuando se le enseñaba algo que no tenía sentido, como objetos que se movían entre sí sin interactuar. Según los investigadores, estos efectos de aprendizaje se observaron tras ver tan sólo veintiocho horas de vídeos.
+"Demostramos que nuestro modelo puede aprender un conjunto diverso de conceptos físicos, que depende críticamente de las representaciones a nivel de objeto, en consonancia con los hallazgos de la psicología del desarrollo", resumieron los expertos.
+Estos resultados podrían tener implicaciones tanto para la IA como para la investigación de la cognición humana: "Plato podría ofrecer una poderosa herramienta para investigar cómo los humanos aprenden física intuitiva y sugiere la importancia de las representaciones de los objetos en nuestra comprensión del mundo", agregaron.
+En un artículo separado de opinión, las investigadoras Susan Hespos y Apoorva Shivaram señalan que el estudio demuestra que un sistema de aprendizaje profundo basado en la cognición infantil supera a los sistemas más tradicionales de "aprendizaje desde cero".
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+Los resultados, según las citadas investigadoras, sugieren que el matemático Alan Turing podría haber tenido razón; en 1950 este escribió que, en lugar de tratar de producir un programa que simule la mente del adulto, por qué no intentar hacer uno que simule la de los niños.
+De acuerdo con Turing, se puede hacer que un ordenador "piense" como un adulto si se parte de la mente de un niño y se le proporcionan las experiencias apropiadas.
+JU (efe, sciencealert.com, nature.com)

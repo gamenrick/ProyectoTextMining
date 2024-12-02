@@ -1,0 +1,49 @@
+¿Por qué no aprovechamos más la inteligencia artificial para aprender idiomas?
+Autor desconocido
+lavozdegalicia.es
+
+Nunca antes fue tan fácil entenderse con alguien que hable otro idioma como lo es ahora gracias a la ayuda de la tecnología. Las herramientas de traducción simultánea permiten leer textos en cualquier lengua extranjera en pocos segundos, lo que facilita el trabajo y la comunicación; y los programas de aprendizaje con bots ayudan a las personas interesadas en practicar un idioma en cualquier momento y lugar, de manera totalmente personalizada. Pero estos avances también se ven con desconfianza desde el ámbito del aprendizaje de idiomas: ¿Merece la pena hacerlo? ¿Ha bajado el número de usuarios que aprende a hablar en otro idioma por las facilidades que ofrece la inteligencia artificial? Lo cierto es que, aunque dicha tecnología ha comenzado a jugar un papel destacado en la formación y el desarrollo profesional de las nuevas generaciones, y cada vez está más presente en las rutinas de los jóvenes, estos siguen valorando los métodos tradicionales a la hora de adquirir nuevas habilidades, como en el aprendizaje de idiomas. Este es una de las principales conclusiones de un estudio reciente realizado por Preply, la plataforma de aprendizaje de idiomas que conecta a millones de estudiantes y tutores de diferentes países y culturas desde hace más de 10 años. 
+La encuesta presentada por esta plataforma, realizada a 5.400 participantes de nueve países de Europa, Asia y América, muestra que el uso de herramientas de IA es significativamente más común entre la Generación Z, con un 59% de adopción, frente al 50% de los millennials. Este patrón se repite en todos los países, con Turquía a la cabeza (61%), seguido por España, Polonia y Argentina (empatados con un 60%). En contraste, Estados Unidos y Japón presentan niveles más bajos de adopción, con un 46% y 41%, respectivamente.
+
+
+
+
+
+
+
+
+
+
+La inteligencia artificial y el final de la educación en lenguas extranjeras
+
+
+
+											louise matsakis
+										 					
+
+
+
+
+
+
+											louise matsakis
+										 					
+
+En España, solo el 6% de los jóvenes considera la inteligencia artificial como su método preferido para aprender idiomas, mientras que en Alemania esta cifra se dobla, alcanzando el 12%. A pesar de que tres de cada cuatro jóvenes españoles de las generaciones Z y millennial utilizan aplicaciones como ChatGPT para tareas como la traducción (34%), recopilación de datos (34%) y generación de textos e imágenes (29%), prefieren recurrir a métodos tradicionales como la conversación, los tutoriales o las clases particulares cuando se trata de aprender idiomas. 
+«Experimentar con la IA se ha convertido en algo común, tanto en el trabajo como en nuestro tiempo libre, pero este estudio muestra que el papel de los humanos en el proceso formativo sigue siendo insustituible», explica Kirill Bigai, cofundador y CEO de Preply, que reconoce que los jóvenes prefieren las lecciones cara a cara y el aprendizaje práctico, métodos que no solo amplían sus conocimientos, sino que también «fomentan vínculos personales que les inspiran y motivan». 
+El estudio fue llevado a cabo por Preply durante junio del 2024 con el objetivo de comprender los hábitos de aprendizaje, las ambiciones y las motivaciones de la población activa de entre 18 y 43 años. La encuesta se realizó en una muestra de 5.400 participantes de Estados Unidos, Alemania, España, Polonia, México, Argentina, Japón, Corea del Sur y Turquía, obteniendo 600 respuestas por país. Los participantes se dividieron por género (2.677 hombres y 2.695 mujeres) y por generación (2.651 de la generación Z y 2.750 millennials).
+Lo que está claro es que la inteligencia artificial está transformando el aprendizaje de idiomas y, más en concreto, las llamadas «four language skills» (speaking, reading, listening and writing; es decir, comprensión oral, comprensión escrita, comprensión auditiva y escritura), «al ofrecer experiencias de aprendizaje más personalizadas, interactivas y efectivas para los estudiantes de todo el mundo», según afirman Luis Hidalgo y Álvaro Villán, profesores de la Unir, en un artículo en el que destacan varios parámetros de desarrollo: la personalización del aprendizaje, la retroalimentación instantánea, los tutores virtuales, el reconocimiento de voz y la traducción automática, el análisis de datos y seguimiento del proceso, la generación de contenido educativo y la colaboración en línea 
+Un aprendizaje menos intrusivo y más diverso
+Pero además, la tecnología tiene el potencial de promover un aprendizaje de idiomas «menos intrusivo y más diverso», lo que permite un mejor acceso al aprendizaje a los alumnos neurodiversos, es decir, que tienen  -con autismo, dislexia, déficit de atenció con hiperactividad (TDAH), entre otros- y a los que presentan disparidades entre su inglés hablado y escrito. Así lo refleja el estudio The Future of English: Global Perspectives elaborado el pasado año por el British Council, a partir de las conclusiones extraídas en mesas redondas en las que han participado 92 expertos y responsables de políticas educativas de 49 países y territorios de todo el mundo, entre los que se encuentra España.
+La investigación concluye que la visión inclusiva del aprendizaje del inglés «es cada vez más necesaria y demandada» y los expertos recalcan la creciente demanda de materiales debidamente accesibles. También destaca algunos beneficios de la aplicación de la inteligencia artificial en la enseñanza de idiomas tales como la tutoría inteligente (responder a las preguntas de los alumnos y proporcionar explicaciones), la personalización de contenidos adaptados a las necesidades individuales, la retroalimentación automática (proporcionar correcciones y respuestas rápidas), la escalabilidad, la inmediatez, la ruptura de barreras geográficas, el incremento de la eficiencia, la optimización del tiempo o una experiencia de aprendizaje «atractiva y amena» proporcionada por la interactividad o la gamificación. «El inglés ya no puede considerarse como una lengua extranjera más, es una lengua franca global y común, un vehículo de entendimiento entre distintas culturas», destaca Mina Patel, directora del grupo de investigación.  
+Traducción en más de cien idiomas
+En cualquier caso, para aquellos que necesiten traducciones rápidas, en cualquier idioma, Google ha añadido recientemente 110 nuevos idiomas a su servicio Translate, y lo ha hecho gracias a su modelo de inteligencia artificial PaLM 2, con lo que recoge a más de 614 millones de hablantes, incluyendo desde idiomas con más de 100 millones de hablantes, hasta pequeñas comunidades de pueblos indígenas.
+En el año 2022, el gigante tecnológico ya agregó 24 idiomas nuevos a su traductor mediante la tecnología Zero-Shot Machine Translation. Ese mismo año, la compañía también comunicó su iniciativa de alcanzar los mil idiomas, con el objetivo de respaldar las lenguas más habladas en todo el mundo. Ahora, Google ha anunciado la ampliación de un total de 110 idiomas que llegarán a Google Translate para dar soporte de traducción a más de 600 millones de personas. Así, Google ha incluido desde el cantonés, uno de los idiomas más solicitados debido a que suele superponerse con el mandarín en la escritura, hasta el afar -el idioma hablado en países como Etiopía-, o la lengua celta de la Isla de Man, manx. Igualmente, también se ha añadido el punjabi (Shahmukhi), que es el idioma más hablado en Pakistán, o el nko, que es una forma estandarizada de las lenguas mandingas de África occidental, con lo que se unifican muchos dialectos en un idioma común.
+
+Xurxo Melchor 
+
+
+
+
+© Copyright LA VOZ DE GALICIA S.A. Todos los derechos reservados.
+Polígono de Sabón, Arteixo, A CORUÑA (ESPAÑA) Inscrita en el Registro Mercantil de A Coruña en el Tomo 2438 del Archivo, Sección General, a los folios 91 y siguientes, hoja C-2141. CIF: A-15000649.

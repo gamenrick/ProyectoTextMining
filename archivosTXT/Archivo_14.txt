@@ -1,0 +1,35 @@
+Machine learning: qué es y cómo funciona y usos del aprendizaje automático
+Autor desconocido
+redhat.com
+
+Le recomendaremos recursos que le pueden ser útiles mientras navega en redhat.com. Por ahora, vea estos.
+El machine learning (aprendizaje automático) es la técnica que consiste en entrenar a una computadora para que encuentre patrones, realice predicciones y aprenda de la experiencia sin una programación explícita.
+El  machine learning (aprendizaje automático) es una subcategoría de la inteligencia artificial (IA) que utiliza algoritmos para identificar patrones y hacer predicciones dentro de un conjunto de datos, los cuales pueden ser números, texto e incluso imágenes. En las condiciones ideales, el aprendizaje automático nos permite interpretar los datos con mayor rapidez y precisión de la que tendríamos sin la ayuda de las máquinas.
+La inteligencia artificial surge cuando los humanos crean inteligencia similar a la humana de manera sintética dentro de una máquina. El aprendizaje automático implica programar las máquinas para que imiten funciones cognitivas específicas propias de los humanos, como la percepción, el aprendizaje y la resolución de problemas.La manera de lograr que una máquina piense como una persona es entrenándola para que cree su propio modelo predictivo que le permita analizar los datos. Para iniciar el proceso, deberá aportar datos a la computadora y elegir un modelo de aprendizaje para darle instrucciones sobre su procesamiento.Los modelos de machine learning (aprendizaje automático) pueden utilizar los datos para cumplir tres funciones:
+El modelo de aprendizaje que elija para entrenar la máquina dependerá de la complejidad de la tarea y del resultado que busque obtener. Hay tres estilos de machine learning (aprendizaje automático):Aprendizaje supervisado: se utilizan conjuntos de datos etiquetados para entrenar los modelos. Se emplea para tareas como el reconocimiento de imágenes.Aprendizaje no supervisado: se analizan los datos sin etiquetar para encontrar similitudes, patrones y tendencias. Estos modelos se utilizan para tareas como la segmentación de clientes, los sistemas de recomendación y el análisis de datos generales.Aprendizaje por refuerzo: los modelos se entrenan mediante un proceso de prueba y error dentro de un sistema de recompensas. Se puede utilizar, por ejemplo, para entrenar una computadora con el fin de que participe en un juego donde las acciones derivan en una victoria o en una derrota.Una vez que la computadora se familiarice con la forma en la que debe interpretar los datos (gracias al modelo de aprendizaje y los datos de entrenamiento), podrá hacer predicciones y ejecutar tareas cuando reciba datos nuevos. Poco a poco, sus predicciones serán más precisas a medida que aprenda de los flujos constantes de datos y podrá realizar las tareas de manera más rápida y precisa que las personas.
+El machine learning (aprendizaje automático) y la inteligencia artificial se pueden utilizar para mejorar la experiencia de los usuarios, anticipar el comportamiento de los clientes, supervisar sistemas de detección de fraudes e incluso ayudar a los proveedores de atención médica a detectar afecciones que ponen en riesgo la vida. Muchos de nosotros interactuamos con el machine learning (aprendizaje automático) y disfrutamos de sus beneficios todos los días, por ejemplo:
+El aprendizaje profundo es la técnica del machine learning (aprendizaje automático) que posibilita la inteligencia artificial generativa y se utiliza para analizar e interpretar grandes cantidades de datos. Los modelos de lenguaje de gran tamaño (LLM) son un subconjunto de la inteligencia artificial generativa que representan una aplicación fundamental del machine learning (aprendizaje automático), ya que demuestran la capacidad de comprender y generar lenguaje humano a una escala sin precedentes. 
+Hoy en día, se espera que las empresas usen el  machine learning (aprendizaje automático), y hay cada vez más casos prácticos transformadores en los sectores de la salud, los servicios financieros, las telecomunicaciones y el gobierno, entre otros.
+Red Hat ofrece una base común para que sus equipos diseñen e implementen las aplicaciones de inteligencia artificial y los modelos de machine learning (aprendizaje automático) de forma transparente y regulada. 
+Red Hat® OpenShift® AI es una plataforma que puede entrenar los modelos de inteligencia artificial con sus propios datos, distribuirlos y aplicar en ellos las técnicas de ajuste de instrucciones y perfeccionamiento para sus casos prácticos específicos.
+Para las implementaciones de inteligencia artificial de gran tamaño, Red Hat OpenShift ofrece una plataforma de aplicaciones adaptable que es adecuada para las cargas de trabajo de inteligencia artificial, con acceso a los aceleradores de hardware conocidos.
+Red Hat también utiliza sus propias herramientas de Red Hat OpenShift AI para mejorar la utilidad de otros sistemas de software open source, como Red Hat Ansible Lightspeed with IBM watsonx Code Assistant. Esta herramienta permite que los desarrolladores creen contenido de Ansible de forma más eficiente. Lee el texto sencillo que los usuarios escriben en inglés y, luego, interactúa con los modelos base IBM watsonx para generar recomendaciones de código para las tareas de automatización, que después se utilizarán para crear playbooks de Ansible.
+Además, las integraciones de los partners de Red Hat abren paso a un ecosistema de herramientas confiables de inteligencia artificial diseñadas para funcionar en las plataformas open source.
+Aquí encuentras la información más reciente sobre nuestros clientes, partners y comunidades open source.
+E-book
+
+Introducción a la inteligencia artificial para las empresas: guía para principiantes
+
+Hoja de datos
+
+Plataforma de modelos base para la inteligencia artificial generativa
+
+Publicación en blog
+
+Mano a mano con Fran Heeran, vicepresidente de telecomunicaciones globales de Red Hat
+
+Publicación en blog
+
+Manual para ejecutivos: cómo entender el panorama de la IA
+
+Somos el proveedor líder a nivel mundial de soluciones empresariales de código abierto, incluyendo Linux, cloud, contenedores y Kubernetes. Ofrecemos soluciones reforzadas, las cuales permiten que las empresas trabajen en distintas plataformas y entornos con facilidad, desde el centro de datos principal hasta el extremo de la red.

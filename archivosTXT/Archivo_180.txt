@@ -1,0 +1,73 @@
+¿Qué es ChatGPT? El Tec de Monterrey y el propio ChatGPT explican | Tecnológico de Monterrey
+Autor desconocido
+tec.mx
+
+Escuelas de Nueva York lo prohibieron, aprobó pruebas de admisión de carreras y exámenes de maestría, engañó a reclutadores y ha generado intenso debate.
+Desde su lanzamiento público, el 30 de noviembre del 2022, la herramienta gratuita de conversación con inteligencia artificial Chat GPT ha acaparado titulares con asombro y temores.
+Pero ¿qué es realmente, el Chat GPT? ¿Qué puede realmente hacer y no hacer? ¿Es tan revolucionario como muchos lo han considerado?
+Especialistas del Tecnológico de Monterrey explican a CONECTA la dimensión de esta herramienta y el propio Chat GPT se definió para nosotros. 
+ 
+Le preguntamos al propio ChatGPT qué es y así lo explicó:
+ 
+"ChatGPT es un modelo de lenguaje desarrollado por OpenAI, entrenado en tareas de conversación y optimizado para responder a preguntas y mantener diálogos con los usuarios.
+Funciona utilizando técnicas de inteligencia artificial y aprendizaje profundo para generar respuestas a preguntas y completar tareas en una conversación natural.
+Se entrena con grandes cantidades de texto para comprender la estructura del lenguaje, las relaciones entre palabras y frases, y luego utiliza eso, para generar respuestas apropiadas".
+ 
+"ChatGPT es un modelo de lenguaje...  entrenado con inteligencia artificial en tareas de conversación, optimizado para responder a preguntas".- ChatGPT
+La respuesta anterior fue una combinación, editada por CONECTA, de las preguntas "¿Qué es ChatGPT?" y "¿Qué es ChatGPT y cómo funciona?".
+También le preguntamos al ChatGPT sobre sus creadores.
+"OpenAI es una organización de investigación en inteligencia artificial y aprendizaje automático fundada en 2015 con el objetivo de desarrollar y promover la inteligencia artificial de manera segura y responsable".
+La organización fue fundada por Sam Altman (actual CEO de la compañía), el empresario Elon Musk (actual dueño de Tesla y Twitter), Greg Brockman y Ilya Sutskever, entre otros.
+En el 2018, Musk dejó la compañía para no entorpecer los intereses de sus propias empresas. En 2019. Microsoft inició una alianza con ella y en 2023 anunció una nueva inversión multimillonaria, tras el éxito público de ChatGPT.
+ 
+En palabras de Enrique Cortés, director del Hub de Inteligencia Artificial del Tec de Monterrey, ChatGPT es "una especie de perico supergigante muy elocuente”,
+Se refiere a que es un modelo de lenguaje que repite frases e ideas que ha leído y aprendido, pero hilándolas de una manera muy coherente y convincente, satisfaciendo lo que pida el usuario.
+“ChatGPT es un gran copy and paste",  añade Cortés, al respecto, explicando que no entiende lo que genera, sino solo construye y responde a pedido, repitiendo conceptos encontrados.
+"Esta Inteligencia Artificial te va a repetir lo que escribiste, pero muy bien argumentado y con estilo", dice.
+"Te va a repetir lo que escribiste, pero muy bien argumentado y con estilo".
+Cuestionado al respecto, el propio ChatGPT responde: "Aunque ChatGPT es capaz de generar texto en una variedad de idiomas y contextos, su contenido no es completamente original".
+"En su lugar". añade el ChatGPT, "utiliza patrones y relaciones aprendidas a partir de grandes cantidades de texto previamente existente para producir respuestas y contenido nuevo".
+El fundamento de este modelo, explica Cortés, es una gran red neuronal que puede descifrar cuál sería la siguiente palabra que alguien usaría en una oración.
+ 
+ 
+De acuerdo con Enrique Cortés, "la gran innovación de esta versión es la interfaz; es sencilla de usar".  Otras, anteriormente, no eran amigables con los usuarios.
+Además, añade, es importante el punto de que la interfaz ya ha sido justamente preentrenada para responder de manera fácil y natural a los usuarios. 
+Las siglas GPT significan, de hecho: Generative Pre-trained Transformer, en español, Transformador Generativo Pre-entrenado. Esta es la tercera versión, la GPT-3.
+ 
+"El ChatGPT supera el test de Turing", afirma Enrique Cortés. Este examen consiste en determinar si la inteligencia artificial puede imitar las respuestas humanas.
+Pero esta prueba no quiere decir que sea racional, simplemente repite los textos con los que fue entrenada.
+"No entiende el lenguaje, simplemente busca patrones en el texto y los regresa, pero no entienden ni lo que preguntaste ni lo que respondió", explica.
+ 
+ 
+Cortés explica que ChatGPT no da respuestas verdaderas o falsas, sino que su función es copiar y pegar el texto que suene más razonable o más humano.
+Por lo mismo, los textos que generen no necesariamente se están basando en información verdadera.
+De hecho, al estilo de los sofistas griegos, ChatGPT podría generar un texto argumentando lo que sea, así fuera falso.
+Sin embargo, el modelo ha seguido siendo trabajado por OpenAi y ChatGPT sí alerta efectivamente en varios casos cuando se le piden textos de temas sin evidencia científica.
+ 
+ 
+Por ejemplo, pedimos a ChatGPT argumentar:
+En todos los casos, manifestó que eran ideas sin evidencia científica. 
+De cualquier manera, ante la pregunta sobre la certeza de su informacion, el propio ChatGPT responde: 
+"Es importante tener en cuenta que los resultados generados por ChatGPT pueden ser influenciados por los datos con los que se entrenó el modelo, y que puede haber incongruencias o inaccuracies en el contenido generado. 
+Por lo tanto, es importante revisar y verificar cuidadosamente el contenido generado por ChatGPT antes de su uso".
+ 
+ 
+Cortés menciona que se ha visto de repente también que el chat se puede basar, por todo lo explicado ya, en información sesgada, o incluso racista, discrimandora, etc y comenta:
+"Imagino que las siguientes versiones tendrán filtros que ayudarán al usuario a eliminar todo tipo de discriminación y discursos de odio". 
+ 
+ 
+Para Enrique Cortés, herramientas como ChatGPT-3 abren posibilidades de uso masivo como la llamada API o interfaz de programación que OpenAI está por lanzar.
+"Esto va a permitir que puedas llamar a ChatGPT desde otros programa y eso abre un universo para el uso de esta IA en otras aplicaciones". 
+También estima que se abren otras discusiones sobre temas como propiedad intelectual y reformulará lo que definimos como originalidad.
+"El campo de Inteligencia Artificial avanza rápidamente, a la orden de meses. No sabemos dónde va a acabar o qué es lo que sigue, es un misterio muy interesante", concluye.
+LEE TAMBIÉN:
+ 
+ 
+ 
+ 
+ 
+
+
+
+AV. EUGENIO GARZA SADA 2501 SUR COL. TECNOLÓGICO C.P. 64849 | MONTERREY, NUEVO LEÓN, MÉXICO | TEL. +52 (81) 8358-2000 D.R.© INSTITUTO TECNOLÓGICO Y DE ESTUDIOS SUPERIORES DE MONTERREY, MÉXICO. 2018
+*DEC-520912 PROGRAMAS EN MODALIDAD ESCOLARIZADA.

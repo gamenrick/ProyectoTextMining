@@ -1,0 +1,41 @@
+Una búsqueda de Google con Inteligencia Artificial dijo erróneamente que Obama es musulmán. Ahora la empresa desactiva algunos resultados | CNN
+Clare Duffy
+cnn.com
+
+
+Nueva York (CNN) – Google prometió que sus nuevas herramientas de búsqueda con Inteligencia Artificial (IA) “harían el trabajo por ti” y harían que la búsqueda de información en línea sea más rápida y sencilla. Pero apenas unos días después del lanzamiento, la compañía ya está dando marcha atrás tras algunos resultados objetivamente incorrectos.
+    
+
+            Google presentó a principios de este mes una herramienta de descripción general de resultados de búsqueda generada por IA, que resume los resultados de búsqueda para que los usuarios no tengan que hacer clic en múltiples enlaces para obtener respuestas rápidas a sus preguntas. Pero la función fue criticada esta semana después, pues proporcionó información falsa o engañosa a las preguntas de algunos usuarios.
+    
+
+            Por ejemplo, varios usuarios publicaron en X que el resumen de inteligencia artificial de Google decía que el expresidente de Estados Unidos Barack Obama es musulmán. De hecho, Obama es cristiano. Otro usuario publicó que un resumen de Google AI que decía que “ninguno de los 54 países reconocidos de África comienza con la letra ‘K’”, olvidándose claramente de Kenya.
+    
+
+            Google confirmó a CNN el viernes que los resúmenes de IA para ambas consultas habían sido eliminadas por violar las políticas de la compañía.
+    
+
+            “La gran mayoría de las descripciones generales de IA proporcionan información de alta calidad, con enlaces para profundizar en la web”, dijo la portavoz de Google, Colette García, en un comunicado, añadiendo que algunos otros ejemplos virales de errores de IA de Google parecen haber sido imágenes manipuladas. “Realizamos pruebas exhaustivas antes de lanzar esta nueva experiencia y, al igual que con otras funciones que lanzamos en la Búsqueda, agradecemos los comentarios. Estamos tomando medidas rápidas cuando corresponda según nuestras políticas de contenido”.
+    
+
+            La parte inferior de cada descripción general de búsqueda de IA de Google reconoce que “la IA generativa es experimental”. Y la compañía dice que realiza pruebas diseñadas para imitar a posibles malos actores en un esfuerzo por evitar que aparezcan resultados falsos o de baja calidad en los resúmenes de IA.
+    
+
+            Las descripciones generales de búsqueda de Google son parte del impulso más amplio de la compañía para incorporar su tecnología Gemini AI en todos sus productos mientras intenta mantenerse al día en la carrera armamentista de AI con rivales como OpenAI y Meta. Pero la debacle de esta semana muestra el riesgo de que agregar IA –que tiende proporcionar información falsa– podría socavar la reputación de Google como fuente confiable para buscar información en línea.
+    
+
+            Incluso en búsquedas menos serias, la descripción general de la IA de Google parece proporcionar a veces información errónea o confusa.
+    
+
+            En una prueba, CNN preguntó a Google “cuánto sodio hay en el jugo de pepinillos”. La revisión de IA respondió que una porción de 8 onzas líquidas de jugo de pepinillos contiene 342 miligramos de sodio, pero que una porción de menos de la mitad del tamaño (3 onzas líquidas) contenía más del doble de sodio (690 miligramos). (El jugo de pepinillos Best Maid, a la venta en Walmart, contiene 250 miligramos de sodio en solo 1 onza).
+    
+
+            CNN también buscó: “datos utilizados para el entrenamiento de inteligencia artificial de Google”. En su respuesta, AI Overview reconoció que “no está claro si Google impide que se incluyan materiales protegidos por derechos de autor” en los datos en línea recopilados para entrenar sus modelos de IA, haciendo referencia a una gran preocupación sobre cómo operan las empresas de IA.
+    
+
+            No es la primera vez que Google ha tenido que retroceder en las capacidades de sus herramientas de inteligencia artificial por un error vergonzoso. En febrero, la compañía detuvo la capacidad de su generador de fotografías de IA para crear imágenes de personas después de que fuera criticado por producir imágenes históricamente inexactas que mostraban en gran medida a personas de color en lugar de personas blancas.
+    
+
+            La página web de Search Labs de Google permite a los usuarios de áreas donde se han implementado descripciones generales de búsqueda de IA activar y desactivar la función.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

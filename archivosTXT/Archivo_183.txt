@@ -1,0 +1,47 @@
+ChatGPT evoluciona: ahora tiene memoria para recordar detalles de conversaciones pasadas
+Autor desconocido
+xatakamovil.com
+
+Alejandro Alcolea
+Si ChatGPT ya es impresionante en muchas tareas, pronto lo será aún más. Y es que, OpenAI acaba de anunciar que está probando una nueva función para ChatGPT: la memoria. Esto permitirá que el chatbot recuerde detalles de conversaciones pasadas para no tener que volver a repetir esa información en conversaciones futuras, y lo cierto es que es una característica bastante impresionante.
+A continuación, vamos a ver qué es esto de la memoria de ChatGPT, qué implica para la privacidad y cómo podremos interactuar con esta nueva función. Ahora bien, si funciona, puede ser otra diferencia notable con el Gemini de Google que aterrizó por todo lo alto la semana pasada.
+ChatGPT lleva algo más de un año con nosotros en su forma pública. Es algo que está revolucionando varios sectores y empresas tan importantes como Microsoft se han convertido no sólo en potentes aliados de OpenAI, sino también en un vehículo de difusión bestial para GPT gracias a sistemas como Bing o el más reciente Copilot.
+OpenAI ha estado mejorando su chatbot y el año pasado conocimos GPT-4, la última versión a la que sólo se puede acceder si eres usuario de pago o a ciertas funciones si utilizas los mencionados sistemas de Microsoft, pero ahora puede que llegue el cambio más importante de la historia de ChatGPT. Y puede que de las IA conversacionales, en general.
+A través de su blog, la compañía ha anunciado que ha empezado a probar la capacidad de ChatGPT para recordar detalles de conversaciones. Esto se ha llamado, directamente desde OpenAI, "memoria", y no es para menos. Como detallan en la publicación, esta función de memoria de la inteligencia artificial permitirá que no tengamos que repetir información contextual pasada.
+Además, se ha confirmado que podremos pedir a ChatGPT que recuerde un detalle específico en una conversación (imagino que un "mi color favorito es el azul, recuerda esto para el futuro"), pero también podrá recoger los datos por sí mismo y es algo que irá evolucionando con el tiempo: cuanto más lo uses, más mejoras se notarán en conversaciones futuras.
+Desde OpenAI han puesto los siguientes ejemplos de la memoria de ChatGPT:
+Como decimos, ChatGPT podrá aprender automáticamente, pero también cuando se lo digamos y, del mismo modo, podemos desactivar la memoria manualmente. Para ello, tendremos que:
+Y, de la misma manera, podemos pedir que olvide algo. Desde 'Configuración' - 'Personalización' y 'Administrar memoria', tendremos acceso a esos datos concretos que ChatGPT está almacenando para borrarlos manualmente. Ojo, desde OpenAI afirman que borrar un chat no elimina los recuerdos, por lo que tendremos que entrar a esa pestaña de los ajustes de memoria para hacerlo.
+Ahora bien, ¿qué ocurre si quieres que esté activada esta opción de la memoria, pero por lo que sea no quieres que en una conversación específica se ponga a recopilar datos que luego pueda usar? OpenAI ofrece la opción de iniciar un 'Chat temporal'.
+Según afirman, ahí no está activa la función, estos chats no aparecerán en el historial y no se usarán para entrenar a los modelos. Ya sabemos que el resto de conversaciones sí sirven a ese entrenamiento.
+Y, evidentemente, seguro que te estás preguntando qué papel juega la privacidad en todo esto. Curiosamente, OpenAI no se ha explayado tanto en este punto, pero sí ha comentado que están tomando medidas para mitigar los sesgos y evitar que ChatGPT recuerde de manera proactiva y automática la información confidencial, como los detalles de salud, a menos que se lo pidamos expresamente.
+¿Cuándo llegará la memoria de ChatGPT? Esta semana se implementará en una pequeña muestra de usuarios de los planes gratuitos y Plus para que vayan probando su utilidad y, también, para que funcionen como beta pública, pero todavía no hay fecha para una implementación más amplia.
+Foto de portada | Pantallazo de Los Simpson con edición
+En Xataka Móvil | Cómo ver las contraseñas WiFi guardadas en el móvil
+En Xataka Móvil | Cómo crear tus propios GPTs de ChatGPT desde el móvil: haz que la IA se comporte como tú quieres
+En Xataka Móvil hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

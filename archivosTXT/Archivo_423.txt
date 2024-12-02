@@ -1,0 +1,95 @@
+Intel impulsa la "IA en todas partes" al mercado automotriz en CES
+Autor desconocido
+intel.la
+
+Puede buscar fácilmente en todo el sitio web de Intel.com de varias maneras.
+También puede probar los enlaces rápidos a continuación para ver los resultados de las búsquedas más populares.
+La versión del navegador que esta usando no es la recomendada para este sitio.Para actualizar la última versión de su navegador haga clic en alguno de los siguientes enlaces.
+Intel anuncia un acuerdo para adquirir Silicon Mobility SAS para la gestión avanzada de energía en vehículos eléctricos y una nueva familia de SoCs (Sistemas en Chip) para vehículos definidos por software y potenciados con inteligencia artificial.
+
+9 de enero de 2024
+Contacta al equipo PR de Intel
+
+Siga las noticias de Intel en las redes sociales:
+
+
+
+
+
+
+
+
+
+
+
+Por
+
+La familia de Sistemas en Chip (SoCs) para vehículos definidos por software de Intel incorpora capacidades de aceleración de inteligencia artificial provenientes de la hoja de ruta de Intel, permitiendo casos de uso altamente deseables en vehículos, como la monitorización del conductor y de los pasajeros. Intel Automotive presentó el SoC durante una conferencia el martes 9 de enero de 2024 en el CES de Las Vegas. (Créditos: Intel Corporation)
+La familia de sistemas en chips de vehículos definidos por software Intel AI mejorados cuentan con capacidades de aceleración de inteligencia artificial de la hoja de ruta de PC de IA de Intel para permitir los casos de uso de IA en el vehículo más deseables, como el monitoreo de conductores y pasajeros. Intel Automotive presentó el SoC durante una presentación el martes 9 de enero de 2024 en el CES de Las Vegas. (Créditos: Intel Corporation)
+Descargar todas las imágenes (ZIP, 5 MB)
+
+Descargar todas las imágenes (ZIP, 5 MB)
+Noticias destacadas
+ 
+
+Adquisición de Silicon Mobility SAS para llevar la eficiencia de la IA a la gestión de la energía de los vehículos eléctricos (EV), sujeto a las aprobaciones necesarias.
+Los nuevos SoC de vehículos definidos por software (SDV) mejorados con Intel AI permitirán la IA en el vehículo, como GenAI, y el monitoreo de conductores/pasajeros basado en cámaras.
+Zeekr utilizará el nuevo SoC SDV de Intel para llevar experiencias mejoradas de sala de estar GenAI a los vehículos de próxima generación.
+Intel presidirá el nuevo grupo de trabajo estándar de administración de energía de vehículos automotrices SAE.
+Intel ofrecerá la primera plataforma abierta de chiplets para automoción de la industria, que permite a los clientes integrar su propio chiplet en un producto de Intel Automotive.
+
+ 
+LAS VEGAS, 9 de enero de 2024 /PRNewswire/ -- Hoy en CES, Intel anunció planes para impulsar la estrategia "IA en todas partes" en el mercado automotriz, presentando un acuerdo para adquirir Silicon Mobility, una compañía de software y silicio "fabless" que se especializa en SoC para la administración inteligente de energía de vehículos eléctricos (EV). Intel también anunció una nueva familia de Sistemas en Chip (SoCs) para vehículos definidos por software y potenciados con inteligencia artificial. Zeekr será el primer fabricante de equipos originales (OEM) en adoptar el nuevo SoC para ofrecer experiencias impulsadas por inteligencia artificial en el habitáculo de los vehículos de próxima generación.
+"Intel está adoptando un "enfoque integral del vehículo" para abordar los mayores desafíos de la industria. Implementar soluciones innovadoras de inteligencia artificial en toda la plataforma del vehículo ayudará a la industria a navegar la transformación hacia los vehículos eléctricos", dijo Jack Weast, vicepresidente y gerente general de Intel Automotive. "La adquisición de Silicon Mobility se alinea con nuestros objetivos de sostenibilidad al abordar una necesidad crítica de gestión de energía para la industria."
+Más: Intel en CES 2024 (Kit de prensa) | Intel Automotive en CES 2024 (hoja de cotizaciones) | La transformación del vehículo definida por software comienza con Intel (hoja informativa)
+La transición hacia vehículos eléctricos, junto con la demanda del cliente de experiencias dentro del vehículo, impulsa la estrategia de Intel para habilitar los vehículos definidos por software (SDV). Intel también anunció su compromiso de ofrecer la primera plataforma de chiplets basada en UCIe abierta de la industria para SDV. Intel trabajará con imec para garantizar que las tecnologías de empaque cumplan con los rigurosos requisitos de calidad y confiabilidad de la industria automotriz. Intel también presidirá un nuevo estándar internacional que define la industria para la administración de energía de vehículos eléctricos.
+Hoy en día, los SoCs de Intel están presentes en más de 50 millones de vehículos, proporcionando energía para sistemas de entretenimiento, pantallas, cuadros de instrumentos digitales y más. Mañana, la ampliada hoja de ruta de Intel, potenciada por inteligencia artificial y centrada en el "enfoque integral del vehículo", llevará a la industria hacia un futuro más escalable, definido por software y sostenible.
+Intel adquirirá Silicon Mobility para abrir paso a un futuro eléctrico más sostenible
+Silicon Mobility SAS, una compañía de cartera de Cipio Partners y Capital-E, es una "fabless" que se dedica al software y silicio automotriz y que diseña, desarrolla e implementa SoC de administración de energía EV. Los SoCs de Silicon Mobility cuentan con aceleradores líderes en la industria, diseñados específicamente para el suministro de energía y codiseñados con algoritmos de software altamente avanzados para obtener ganancias significativas en la eficiencia energética del vehículo.
+El portafolio tecnológico de Silicon Mobility ampliará la presencia de Intel en el ámbito vehicular más allá de la computación de alto rendimiento, incorporando dispositivos de energía inteligentes y programables. La adquisición está sujeta a las aprobaciones necesarias.
+Las plataformas abiertas de Intel para llevar la experiencia de PC con IA al automóvil
+La nueva familia de SDV SoCs mejorados por IA, responde a una necesidad crítica de la industria en cuanto a escalabilidad de potencia y desempeño. Esta familia incorpora capacidades de aceleración de inteligencia artificial según la hoja de ruta de Intel para PC, posibilitando casos de uso en el vehículo, como la supervisión del conductor y los pasajeros.
+Una demostración presentó 12 cargas de trabajo avanzadas, que incluyen inteligencia artificial generativa, e-espejos, videollamadas en alta definición y juegos de PC, ejecutándose simultáneamente en varios sistemas operativos, incluyendo casos de uso críticos mixtos. Esto muestra cómo los fabricantes de automóviles pueden consolidar la arquitectura heredada de la unidad de control electrónico (ECU) para mejorar la eficiencia, la capacidad de administración y la escalabilidad, mientras integran sus propias soluciones personalizadas y aplicaciones de IA.
+"Los SoCs mejorados por IA de Intel combinan lo mejor de las tecnologías AI PC e Intel Data Center necesarias para soportar una verdadera arquitectura de SDV", dijo Weast.
+Zeekr es el primero en llevar la experiencia GenAI impulsada por Intel a los vehículos eléctricos de próxima generación
+La marca Zeekr de Geely será el primer OEM en utilizar la nueva familia de SoC SDV de Intel. Andy An, presidente del Grupo Geely Holding y CEO de Zeekr Intelligent Technology, explicó cómo la compatibilidad futura en los sistemas de Intel, junto con la aceleración de inteligencia artificial, permitirá a la compañía escalar y actualizar continuamente servicios para habilitar experiencias de próxima generación que los clientes demandan, como asistentes de voz basados en IA generativa.
+Los estándares abiertos, clave para el éxito de la industria
+Para impulsar una transición más rápida y fluida a los vehículos eléctricos y un SDV sostenible, Intel y SAE International anunciaron un comité para ofrecer un estándar automotriz para la administración de energía de la plataforma de vehículos (J3311). Intel presidirá el comité.
+Inspirado en las técnicas probadas de administración de energía del estándar ACPI de la industria de PC, el nuevo estándar SAE acelerará el progreso al adoptar y mejorar los conceptos avanzados de administración de energía de la industria de PC, ayudando a todos los vehículos eléctricos a ser más eficientes energéticamente y sostenibles.
+El comité de estándares actualmente incluye representación de la industria de Stellantis, HERE y Monolithic Power Systems (MPS). El comité está abierto a una participación adicional de la industria, con el objetivo de entregar el primer borrador de la norma dentro de 12 a 18 meses.
+Intel se compromete a una plataforma abierta de chiplets para automóviles 
+Intel también anunció su intención de trabajar con el centro de investigación y desarrollo imec para garantizar que las avanzadas tecnologías de empaque de chiplets cumplan con los estrictos requisitos de calidad y confiabilidad necesarios para los casos de uso automotriz.
+La medida subraya el compromiso de ser el primer proveedor automotriz en apoyar la integración de chiplets de terceros en sus productos automotrices. Esto brinda a los fabricantes de equipos originales (OEM) la libertad y la opción de incorporar un chiplet personalizado en un producto del plan de desarrollo de Intel a una fracción del costo de un SoC completamente personalizado. La capacidad de mezclar y combinar chiplets elimina aún más el riesgo de dependencia del proveedor y fomenta una arquitectura definida por software más escalable.
+
+Noticias destacadas
+ 
+ 
+LAS VEGAS, 9 de enero de 2024 /PRNewswire/ -- Hoy en CES, Intel anunció planes para impulsar la estrategia "IA en todas partes" en el mercado automotriz, presentando un acuerdo para adquirir Silicon Mobility, una compañía de software y silicio "fabless" que se especializa en SoC para la administración inteligente de energía de vehículos eléctricos (EV). Intel también anunció una nueva familia de Sistemas en Chip (SoCs) para vehículos definidos por software y potenciados con inteligencia artificial. Zeekr será el primer fabricante de equipos originales (OEM) en adoptar el nuevo SoC para ofrecer experiencias impulsadas por inteligencia artificial en el habitáculo de los vehículos de próxima generación.
+"Intel está adoptando un "enfoque integral del vehículo" para abordar los mayores desafíos de la industria. Implementar soluciones innovadoras de inteligencia artificial en toda la plataforma del vehículo ayudará a la industria a navegar la transformación hacia los vehículos eléctricos", dijo Jack Weast, vicepresidente y gerente general de Intel Automotive. "La adquisición de Silicon Mobility se alinea con nuestros objetivos de sostenibilidad al abordar una necesidad crítica de gestión de energía para la industria."
+Más: Intel en CES 2024 (Kit de prensa) | Intel Automotive en CES 2024 (hoja de cotizaciones) | La transformación del vehículo definida por software comienza con Intel (hoja informativa)
+La transición hacia vehículos eléctricos, junto con la demanda del cliente de experiencias dentro del vehículo, impulsa la estrategia de Intel para habilitar los vehículos definidos por software (SDV). Intel también anunció su compromiso de ofrecer la primera plataforma de chiplets basada en UCIe abierta de la industria para SDV. Intel trabajará con imec para garantizar que las tecnologías de empaque cumplan con los rigurosos requisitos de calidad y confiabilidad de la industria automotriz. Intel también presidirá un nuevo estándar internacional que define la industria para la administración de energía de vehículos eléctricos.
+Hoy en día, los SoCs de Intel están presentes en más de 50 millones de vehículos, proporcionando energía para sistemas de entretenimiento, pantallas, cuadros de instrumentos digitales y más. Mañana, la ampliada hoja de ruta de Intel, potenciada por inteligencia artificial y centrada en el "enfoque integral del vehículo", llevará a la industria hacia un futuro más escalable, definido por software y sostenible.
+Intel adquirirá Silicon Mobility para abrir paso a un futuro eléctrico más sostenible
+Silicon Mobility SAS, una compañía de cartera de Cipio Partners y Capital-E, es una "fabless" que se dedica al software y silicio automotriz y que diseña, desarrolla e implementa SoC de administración de energía EV. Los SoCs de Silicon Mobility cuentan con aceleradores líderes en la industria, diseñados específicamente para el suministro de energía y codiseñados con algoritmos de software altamente avanzados para obtener ganancias significativas en la eficiencia energética del vehículo.
+El portafolio tecnológico de Silicon Mobility ampliará la presencia de Intel en el ámbito vehicular más allá de la computación de alto rendimiento, incorporando dispositivos de energía inteligentes y programables. La adquisición está sujeta a las aprobaciones necesarias.
+Las plataformas abiertas de Intel para llevar la experiencia de PC con IA al automóvil
+La nueva familia de SDV SoCs mejorados por IA, responde a una necesidad crítica de la industria en cuanto a escalabilidad de potencia y desempeño. Esta familia incorpora capacidades de aceleración de inteligencia artificial según la hoja de ruta de Intel para PC, posibilitando casos de uso en el vehículo, como la supervisión del conductor y los pasajeros.
+Una demostración presentó 12 cargas de trabajo avanzadas, que incluyen inteligencia artificial generativa, e-espejos, videollamadas en alta definición y juegos de PC, ejecutándose simultáneamente en varios sistemas operativos, incluyendo casos de uso críticos mixtos. Esto muestra cómo los fabricantes de automóviles pueden consolidar la arquitectura heredada de la unidad de control electrónico (ECU) para mejorar la eficiencia, la capacidad de administración y la escalabilidad, mientras integran sus propias soluciones personalizadas y aplicaciones de IA.
+"Los SoCs mejorados por IA de Intel combinan lo mejor de las tecnologías AI PC e Intel Data Center necesarias para soportar una verdadera arquitectura de SDV", dijo Weast.
+Zeekr es el primero en llevar la experiencia GenAI impulsada por Intel a los vehículos eléctricos de próxima generación
+La marca Zeekr de Geely será el primer OEM en utilizar la nueva familia de SoC SDV de Intel. Andy An, presidente del Grupo Geely Holding y CEO de Zeekr Intelligent Technology, explicó cómo la compatibilidad futura en los sistemas de Intel, junto con la aceleración de inteligencia artificial, permitirá a la compañía escalar y actualizar continuamente servicios para habilitar experiencias de próxima generación que los clientes demandan, como asistentes de voz basados en IA generativa.
+Los estándares abiertos, clave para el éxito de la industria
+Para impulsar una transición más rápida y fluida a los vehículos eléctricos y un SDV sostenible, Intel y SAE International anunciaron un comité para ofrecer un estándar automotriz para la administración de energía de la plataforma de vehículos (J3311). Intel presidirá el comité.
+Inspirado en las técnicas probadas de administración de energía del estándar ACPI de la industria de PC, el nuevo estándar SAE acelerará el progreso al adoptar y mejorar los conceptos avanzados de administración de energía de la industria de PC, ayudando a todos los vehículos eléctricos a ser más eficientes energéticamente y sostenibles.
+El comité de estándares actualmente incluye representación de la industria de Stellantis, HERE y Monolithic Power Systems (MPS). El comité está abierto a una participación adicional de la industria, con el objetivo de entregar el primer borrador de la norma dentro de 12 a 18 meses.
+Intel se compromete a una plataforma abierta de chiplets para automóviles 
+Intel también anunció su intención de trabajar con el centro de investigación y desarrollo imec para garantizar que las avanzadas tecnologías de empaque de chiplets cumplan con los estrictos requisitos de calidad y confiabilidad necesarios para los casos de uso automotriz.
+La medida subraya el compromiso de ser el primer proveedor automotriz en apoyar la integración de chiplets de terceros en sus productos automotrices. Esto brinda a los fabricantes de equipos originales (OEM) la libertad y la opción de incorporar un chiplet personalizado en un producto del plan de desarrollo de Intel a una fracción del costo de un SoC completamente personalizado. La capacidad de mezclar y combinar chiplets elimina aún más el riesgo de dependencia del proveedor y fomenta una arquitectura definida por software más escalable.
+
+, 
+
+
+Acerca de Intel
+Intel (Nasdaq: INTC) es una empresa líder en la industria, creando tecnología que cambia al mundo, habilita el progreso mundial y enriquece vidas. Inspirados en la Ley de Moore, continuamente avanzamos en el diseño y la fabricación de semiconductores para ayudar a enfrentar los desafíos más grandes de nuestros clientes. Al integrar inteligencia en la nube, las redes, el edge y toda clase de dispositivos de cómputo, liberamos el potencial de los datos para transformar y mejorar a las empresas y la sociedad. Si deseas conocer más sobre las innovaciones de Intel, visita newsroom.intel.la e intel.la.
+© Intel Corporation. Intel, el logotipo Intel y otras marcas Intel son marcas comerciales de Intel Corporation o sus filiales. Otros nombres y marcas podrían ser reclamados como propiedad de terceros.
+Las tecnologías Intel podrían requerir hardware y software habilitados o la activación de servicios. // Ningún producto o componente puede ser absolutamente seguro. // Sus costos y resultados pueden variar. // El desempeño varía según el uso, la configuración y otros factores. // Consulte nuestros avisos legales y descargos de responsabilidad completos. // Intel se ha comprometido a respetar los derechos humanos y a evitar la complicidad en los abusos de los derechos humanos. Consulte los Principios Globales sobre Derechos Humanos de Intel. Los productos y el software de Intel están destinados a ser usados solamente en aplicaciones que no causan o contribuyen a una violación de un derecho humano reconocido internacionalmente.

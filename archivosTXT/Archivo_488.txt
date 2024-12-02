@@ -1,0 +1,21 @@
+ChatGPT y Copilot: hackers pueden acceder a los chats aunque estén cifrados - Infobae
+Autor desconocido
+infobae.com
+
+1 Dic, 2024
+Por  Dylan Escobar Ruiz
+Una reciente investigación llevada a cabo por el Offensive AI Lab ha desvelado vulnerabilidades significativas en la seguridad de los chatbots impulsados por Inteligencia Artificial (IA), como ChatGPT y Copilot.
+A pesar de que estos servicios se consideraban protegidos por el cifrado de extremo a extremo, el estudio muestra que los ciberdelincuentes tienen la capacidad de interceptar y decodificar hasta el 55% de las conversaciones mantenidas a través de estos sistemas, empleando un método conocido como ataque de canal lateral.
+Este descubrimiento pone en jaque la seguridad de la IA y la privacidad de los datos personales, instando a los usuarios a ser extremadamente cautelosos con la información que comparten.
+Los ataques de canal lateral se fundamentan en recolectar datos derivados de la implementación física de los sistemas de chatbots, como el consumo de energía, los tiempos de procesamiento y la emisión de radiación electromagnética.
+Estos datos, analizados por una inteligencia artificial desarrollada específicamente para este fin, son capaces de recrear conversaciones con una precisión sorprendente. Esto evidencia una debilidad en el cifrado de extremo a extremo, donde la longitud de los tokens puede ser explotada para revelar el contenido de los mensajes.
+Por otro lado, se destaca que Gemini, la inteligencia artificial de Google, parece resistente a este tipo de ataques, según el centro de investigación, lo que abre una perspectiva optimista en cuanto a la seguridad en la comunicación a través de IA.
+Para mitigar estas vulnerabilidades, los expertos sugieren entrenar a los modelos de IA para que sean más robustos frente a este tipo de ataques.
+Esto quiere decir que se necesita implementar un proceso que incluye enseñar a los sistemas a convertir secuencias de tokens en texto legible de una forma que tome en cuenta el contexto de oraciones previamente generadas, limitando así las interpretaciones posibles y la incertidumbre.
+Mientras compañías como OpenAI y Microsoft no desarrollen soluciones que corrijan estas vulnerabilidades, los usuarios se enfrentan a un riesgo constante cuando utilizan estos servicios para consultas personales o sensibles.
+Ante esta situación, es recomendable que los usuarios de estos chatbots ejerzan la máxima prudencia y eviten compartir información personal delicada.
+Las propias plataformas sugieren esta cautela al iniciar una conversación. La capacidad de adaptar estas tecnologías para asegurar la integridad de las comunicaciones es crucial para evitar futuras intrusiones y mantener la confianza de los usuarios en estos servicios innovadores.
+También hay que estar prevenido de los diversos actos delictivos que están presentes en la actualidad que usan inteligencia artificial, como las imágenes alteradas o videos que están presente en las redes sociales de famosos que piden dinero que en realidad es totalmente falso, que no estpa exento a personas que crean que es verdad.
+La seguridad en la era de la IA representa un desafío constante que exige una vigilancia y evolución continua. Este reciente hallazgo subraya la importancia de una colaboración más estrecha entre los desarrolladores de IA, expertos en seguridad y usuarios para crear un entorno digital más seguro.
+Del mismo modo, la concienciación sobre estas vulnerabilidades y la implementación de medidas preventivas serán determinantes para proteger la privacidad de los usuarios y fortalecer la confianza en la tecnología de IA.
+Esto debido a que cada día se integra más en las vidas cotidianas de distintas partes del mundo ofreciendo posibilidades antes inimaginables, pero también provocando nuevos riesgos a la privacidad e integridad física y emocional.

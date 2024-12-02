@@ -1,0 +1,127 @@
+ᐅ ChatGPT: Qué es, cómo usar y funciones del chat de GPT-3
+Autor desconocido
+sered.net
+
+
+Hosting SSD
+
+El hosting más rápido con cPanel a precio imbatible
+
+Hosting WordPress
+
+El hosting más potente para WordPress.
+
+Hosting Correo                                                                                    Nuevo
+
+Servicio de Email Profesional
+
+WooCommerce                                                                                    Nuevo
+
+Ideal para WooCommerce
+
+PrestaShop
+
+Optimizado para tu tienda.
+
+Magento
+
+Hosting optimizado para Magento.
+
+Hosting Elástico                                                                                    Nuevo
+
+Toda la potencia de un VPS en tu cPanel
+
+Hosting Reseller
+
+Marca blanca para tus clientes.
+
+Hosting SEO
+
+Múltiples IPs para SEO.
+
+Registro de dominios
+
+Comprueba si tu dominio está libre.
+
+Transferencia de dominios
+
+Transfiere tu domino en 3 sencillos pasos
+
+Protección Whois
+
+Oculta los datos públicos de tus dominios
+
+Soporte técnico
+
+Empático, rápido y preciso.
+
+Valoraciones de clientes
+
+Testimonios sobre nuestros servicios.
+
+Base de conocimientos
+
+Guías & Tutoriales para nuestros servicios.
+
+Nosotros
+
+Nuestros clientes son nuestra misión.
+Sin duda la Inteligencia Artificial se está convirtiendo en una tecnología clave en esta era digital, teniendo un impacto significativo en la sociedad. Ya que permite automatizar procesos y tareas repetitivas, pero esto se volvió mucho más real, cuando el pasado 30 de noviembre salió a la luz ChatGPT. 
+Chat GPT es un modelo de lenguaje entrenado por OpenAI que procesa y genera contenidos escritos de forma muy coherente y que se asemeja a lo que puede crear un ser humano.
+Puede responder preguntas, completar oraciones, generar texto creativo y mucho más, por eso en este artículo te mostramos todo lo que tienes que saber de esta Inteligencia Artificial. 
+Tabla de contenido
+ChatGPT es un modelo de Inteligencia Artificial de procesamiento lingüístico, capaz de generar textos similares a como lo haría una persona. Fue desarrollado por OpenAI, empresa de investigación en IA fundada en 2015 por líderes tecnológicos como Sam Altman (principal figura en la actualidad), Greg Brockman y Elon Musk (quien abandonó el proyecto en 2018).
+Se puede considerar como un robot virtual (chatbot), capaz de responder diversas preguntas, teniendo un nivel de comprensión, naturalidad, capacidad de entender el contexto y creatividad muy avanzado.
+Cuenta con más de 175 millones de parámetros para procesar y generar texto, que le permiten entender y generar texto con gran complejidad, realizar tareas como la traducción o responder preguntas que requieren de un alto grado de precisión.
+Pero, hay que tener en cuenta que ChatGPT puede generar información incorrecta, ya que aún está en etapa de prueba e investigación y que el historial de datos se limita al 2021.
+ChatGPT se diferencia de otras herramientas de Inteligencia Artificial porque entiende cómo funciona el lenguaje y su manera de hablar se acerca a como lo hace una persona. Considerando ello, podemos conocer algunas de sus características:
+▶️ Capacidad de procesamiento del lenguaje natural: ChatGPT puede comprender el lenguaje natural escrito y responder de manera coherente a preguntas y consultas de los usuarios. 
+▶️ Genera texto de calidad: Puede generar texto coherente y de alta calidad en varios idiomas, incluidos poemas y cuentos. 
+▶️ Amplio conocimiento: La herramienta cuenta con un amplio conjunto de datos sobre variedad de temas.
+▶️ Interacción personalizada: Es capaz de adaptar sus respuestas a las necesidades y preferencias del usuario.
+▶️ Capacidad para aprender: Tiene la capacidad de aprender de las interacciones con los usuarios y mejorar sus respuestas con el tiempo. 
+ChatGPT está en línea, por lo que no necesita que lo descargues para usarlo, funciona como si fuera un tipo de chatbot y solo se requiere hacer lo siguiente:
+Lo primero es entrar a su web oficial y crear una cuenta, también puedes ingresar con tu cuenta de Google o Microsoft o usando tu correo electrónico. Luego, recibirás un mensaje de confirmación y tu cuenta estará configurada.
+ Al iniciar sesion encontrarás en la parte de abajo una barra donde podrás escribir lo que desees; además, se te mostrarán algunos ejemplos de cómo hacerlo, aunque se encuentre en inglés, te será de ayuda si es la primera vez que ingresas.
+Se recomienda que seas muy específico para que puedas tener la mejor respuesta, también puedes especificar el número de palabras o párrafos.
+Ten en cuenta que no basta con simplemente preguntar algo y esperar que ChatGPT te de una respuesta de calidad, es necesario saber escribir prompt correctos. Un promp es un conjunto de palabras que van a originar una serie de contenidos mediante una IA, en este caso ChatGPT.
+Es decir, es el enunciado que colocas para obtener una respuesta, así que al escribirlos de forma correcta vas a obtener respuestas muy útiles y efectivas. Esto no se aprende de la noche a la mañana, así que cuanto más experimentes y pruebes más fácil se te hará.
+ChatGPT es fascinante por todo lo que es capaz de hacer, como cualquier otra IA busca automatizar algunas tareas. Entre sus funciones podemos ver las siguientes:
+Tiene la capacidad de generar texto coherente y bien estructurado al momento de emitir una pregunta. Esto se debe a su arquitectura y al proceso de entrenamiento que ha recibido.
+Este entrenamiento se basó en brindarle al modelo de IA gran cantidad de datos de texto y se le enseñó a identificar patrones y relaciones en el lenguaje natural. Así, es capaz de generar textos que tienen sentido y coherencia.
+Además, de brindar respuestas, también puede dar descripciones de productos, redactar correos y crear contenido para redes sociales, entre otras cosas más.
+Chat GPT puede traducir de un idioma a otro, aunque está limitado para los idiomas para lo que fue entrenado. Algunos de los idiomas que puede traducir son: inglés, español, francés, alemán, italiano y portugués.
+Aunque puede sonar un poco controversial, la verdad se trata de una técnica para determinar el tono emocional de un texto, el cual puede ser positivo, negativo o neutro. Esto es posible mediante el procesamiento de lenguaje natural y aprendizaje automático.
+Esto es útil porque se puede tener una compresión de las emociones de un determinado texto. Aunque, esto no es totalmente preciso ya que la compresión emocional es muy subjetiva.
+ChatGPT puede ser entrenado para escribir diferentes estilos como noticias, historias o ensayos. Esto se debe al conjunto de datos y los hiperparametros que usa esta herramienta.
+Un chatbot es un programa informático que simula una conversación con un usuario a través de mensajes de texto o voz. ChatGPT puede ser usado como un chatbot para que pueda interactuar con las personas y responder sus preguntas.
+A continuación, podrás aprender más sobre la IA de ChatGPT con una masterclass que imparte Arturo Source y Jordi Source en nuestra Academia Sered.net acerca de la “Mejora tu negocio usando Inteligencia Artificial. Cómo crear un blog con IA paso a paso” . ¡100% recomendable!
+ChatGPT es una herramienta muy útil gracias a su capacidad para procesar y entender el lenguaje natural, a la vez por su capacidad de adaptación y aprendizaje constante.
+Brinda respuestas muy coherentes y eficientes para los usuarios, aunque hay que tener presente que esto depende de los promp o los enunciados que se escriben.  Aunque, es una herramienta muy revolucionaria, aún está en desarrollo pero sin duda más adelante veremos un ChatGPT mucho más potente.
+
+Integrante del equipo de Marketing y Comunicación de Sered.net. Le encanta aprender todo lo relacionado con el emprendimiento y el marketing digital. Apasionada del senderismo y los viajes, además de ser aficionada a los libros y podcasts sobre desarrollo personal y educación financiera.
+¡Excelente post!
+¡Muchas gracias Mariano!
+Es un artículo súper útil. ¡Recomendado 100%!
+¡Muchas gracias Esther!
+Me ha servido de gran ayuda este post para conocer más acerca del chatGPT
+¡Muchas gracias Lidia!
+Está genial este contenido
+¡Muchas gracias Luis!
+Excelente explicación!
+¡Muchas gracias Mariana! 🙂
+Buena explicación y excelente post!!! Me pregunto si lo usáis en alguna tarea.
+Un saludo.
+¡Muchas gracias SEO Murcia! Si, lo estamos aplicando en alguna tarea del día a día 🙂
+HostingWooCommerce
+Contrata un hosting optimizado para WooCommerce y cambia de plan cuando quieras.
+Comienza desde8.33 €/Mes
+Consigue un 50% de descuento utilizando el cupón: SERED50
+(Válido para nuevos clientes con contratación anual)
+Hosting SSD
+Facilidad y sencillez para los nuevos emprendedores que quieren poner en marcha su página web.
+Hosting Colombia
+Los precios no incluyen I.V.A.
+Copyright © 2013 – 2024 SERED HOSTING S.L.
+C/ Rúa do Progreso 177 , 1º A Rúa de Valdeorras, Ourense, Galicia.
+SERED HOSTING S.L – CIF: B32496242

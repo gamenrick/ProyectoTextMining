@@ -1,0 +1,42 @@
+QUÉ ES DEEP LEARNING Y CÓMO NOS PUEDE BENEFICIAR
+Autor desconocido
+linkedin.com
+
+
+              Agree & Join LinkedIn
+            
+
+      By clicking Continue to join or sign in, you agree to LinkedIn’s User Agreement, Privacy Policy, and Cookie Policy.
+    
+El panorama en la Inteligencia Artificial está cambiando radicalmente en los últimos años. De ser algo propio de la ciencia ficción, ha pasado a ser una realidad.
+Con la llegada de la transformación digital, las organizaciones de todo tipo de sectores necesitan una gran cantidad de datos, y por primera vez en la historia de la IA, existe una demanda generalizada de sistemas con una inteligencia avanzada, equivalente a la de un humano, que sean capaces de procesar esos datos.
+A continuación vamos a ver qué es y en qué consiste el Deep Learning.
+El Deep Learning o Aprendizaje Profundo es una rama o tipo de Machine Learning que entrena a un ordenador para que pueda realizar tareas de forma similar a los seres humanos. 
+Sus características son:
+Los algoritmos de Deep Learning se aplican a redes neuronales artificiales, que imitan a la de los humanos, y que están estructuradas en forma de capas: 
+Los datos entran por la primera capa (input layer), en la que hay varias neuronas artificiales que se activan o no dependiendo de los datos. Cuando se activa, esos datos pasan por las capas intermedias (hidden layer) y se transforman en una información. Finalmente, la capa de salida (output layer) determina exactamente el tipo de información (una forma, una letra, un número, etc).
+Los algoritmos de Aprendizaje Profundo pueden funcionar a partir de un conjunto de datos de entrenamiento sin intervención humana adicional.
+El Aprendizaje Profundo puede seguir funcionando correctamente a pesar de que la mayor parte de los datos recuperados no están estructurados. 
+El desarrollo tecnológico necesario para implementar Deep Learning puede ser una desventaja, sin embargo, una vez que una empresa cuenta con la infraestructura necesaria, puede ayudar a reducir costes. 
+El Aprendizaje Profundo, cuando se aplica a la ciencia de datos, puede ofrecer modelos de procesamiento mejores y más efectivos.
+El Deep Learning es altamente escalable debido a su capacidad para procesar cantidades masivas de datos y realizar muchos cálculos de manera rentable. 
+El Deep Learning es un campo que está en pleno crecimiento y cada vez se descubren nuevas aplicaciones, incrementando la expectativa de hasta dónde podrá llegar la inteligencia artificial.
+Google, gracias a la Inteligencia Artificial, es capaz de traducir a nuestro idioma el texto que aparece en una imagen.
+Google también nos permite traducir cualquier vídeo a varios idiomas utilizando su herramienta de reconocimiento automático de voz y la herramienta de creación de subtítulos de YouTube.
+Esta herramienta hace uso del Deep Learning para reconocer objetos, caras o animales y es capaz de identificarlos y clasificarlos.
+El Deep Learning permite que la plataforma aprenda de nuestros gustos y nos muestre series o películas que concuerden con los mismos.
+Algunas marcas están trabajando para crear un coche 100% autónomo, que mediante el Aprendizaje Profundo pueda recopilar datos sobre su entorno con cámaras y otros sensores e interpretarlos.
+Gracias al Deep Learning, los sistemas informáticos pueden analizar las transacciones bancarias y de esta manera, cuando se detecta algún movimiento de un cliente fuera de lo normal, el sistema puede mandar un aviso.
+Uno de los principales retos que tendrá este sector en los próximos años será la gestión de los recursos, especialmente del agua, y en este aspecto y gracias al Deep Learning, es posible crear un sistema de riego inteligente basado en la recogida y análisis de datos.
+El Aprendizaje Profundo (Deep Learning) se considera una evolución del aprendizaje automático (Machine Learning), siendo la principal diferencia la capacidad de acción o nivel de autonomía de la tecnología.
+El Deep Learning puede permitir la creación de entornos de formación donde el estudiante pueda aplicar sus propios análisis, retarse a sí mismo e impulsarse a ir más allá en la búsqueda de conocimiento.
+Lo fundamental para que esto sea posible es recopilar la información del estudiante a través de la interacción automática con el sistema, e integrar dicha información con el acompañamiento del profesor y la interacción con sus compañeros.
+Un buen ejemplo podemos encontrarlo en el estudio de idiomas, el cual está experimentando una revolución gracias al Aprendizaje Profundo, que permite realizar traducciones simultáneas de textos y audios (como hemos visto en el apartado de “ejemplos”) e ir aprendiendo y mejorando dichas traducciones de forma autónoma. 
+¿Crees que el Deep Learning será una buena estrategia innovadora para la educación?
+
+Descubre más detalles de esta innovadora tecnología en nuestro Blog 👇
+¡Feliz fin de semana!
+
+
+        To view or add a comment, sign in
+

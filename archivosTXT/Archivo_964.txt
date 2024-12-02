@@ -1,0 +1,54 @@
+El nuevo juguete de Google creado con IA generativa… ¡es adictivo! – Es de Latino News
+Autor desconocido
+esdelatino.com
+
+Hoy es el gran día de E/S de Googleen el que se anunciarán los nuevos dispositivos de la compañía, pero también esperamos uno respuesta persuasivo en el campo deinteligencia artificial generativo (¿alguien ha mencionado Bing Chat?).
+De hecho, el gigante de las búsquedas ha preparado una serie de instrumentos Y API que permiten a los desarrolladores aprovechar sus sistemas de autoría Imágenes Y texto (lo que hacen tan bien DARLE o a mitad de camino Y ChatGPT, por así decirlo), y cuál es la mejor manera de mostrar sus habilidades como juego ¿Web muy atractiva?
+E/S FLIP es en realidad un clásico juego de cartas, pero diseñado por la inteligencia artificial generativa de Google y creado para inspirar a los desarrolladores experimentar lo que es posible con las nuevas tecnologías puestas a disposición por la casa en Mountain View. 
+Y el resultado es realmente Convincente, Inténtalo tú mismo.  La mecánica del juego presenta el poder elemental (aire, agua, fuego, metal, tierra) y una fuerza entre 10 Y 100. Cada juego en I/O FLIP es al mejor que 3 y el objetivo es conseguir una racha ganadora.
+Para reproducirlo, vaya a esta dirección y haga clic en el botón Reproducir ahora.  Luego, acepta los términos del servicio y elige un personaje entre los puestos a disposición y un dulces. No importa que sean poderes altamente combativos (por ejemplo, elegí Hugs).  Luego, la IA creará una baraja de cartas para ti, que descartarás. 
+Selecciona tres cartas, las de mayor puntuación, y participa en una batalla.  El sistema buscará un oponente para ti y tendrás que dar la vuelta a las cartas en la arena.  OMS gana Al mejor de 3 reuniones ganó el partido. 
+Cuantos más partidos ganes seguidos, más posibilidades tendrás de entrar en las clasificaciones y comparte tu mazo con jugadores de todo el mundo.
+Suena como un juego trivial, pero animaciones y el estilo son muy adictivos, y difícilmente te alejarás de ellos.  pero como fue creado esta aplicación web? 
+Google ha utilizado varias herramientas.  EL personajes se generaron previamente con Muse y DreamBooth, mientras que las descripciones de las tarjetas se crearon con la API de PaLM.
+ La interfaz fue creado a través de Flutter (Casual Games Toolkit) y Dart (registro), mientras que el alojamiento es de Firebase y carrera en la nube escalabilidad asegurada. 
+Les recordamos que el Google I/O se llevará a cabo hoy, pero mientras tanto, ¿por qué no entregar algunas tarjetas? 
+Continuar leyendo: El nuevo juguete de Google creado con IA generativa… ¡es adictivo!
+
+
+				Pilar Benegas es una reconocida periodista con amplia experiencia en importantes medios de USA, como LaOpinion, Miami News, The Washington Post, entre otros. Es editora en jefe de Es de Latino desde 2019.			
+Noticias de Miami
+Noticias Insólitas
+Promociones Argentinas
+Diario de Inteligencia Artificial
+Noticias en español para Estados Unidos y LatinoAmérica
+Quienes Somos EDL
+Contactar Es de Latino
+Términos y Condiciones
+ 2023 - Evisos 
+Login to your account below
+
+
+
+
+
+
+
+
+Remember Me
+
+
+
+
+
+
+Please enter your username or email address to reset your password.
+
+
+
+
+
+
+
+
+2023 - Evisos

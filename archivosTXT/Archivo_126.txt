@@ -1,0 +1,53 @@
+10 ejemplos exitosos de Machine Learning - Brita Inteligencia Artificial
+Wario Duckerman
+brita.mx
+
+Published By: Wario Duckerman
+Published On: marzo 13, 2021
+Published In:                                    	        
+Inteligencia Artificial
+Machine Learning
+
+
+El machine learning es una innovación moderna que ha ayudado al hombre a mejorar no solo muchos procesos industriales y profesionales, sino también a mejorar la vida cotidiana. Pero, ¿qué es el machine learning? Es un subconjunto de la inteligencia artificial, que se centra en el uso de técnicas estadísticas para construir sistemas informáticos inteligentes con el fin de aprender de las bases de datos disponibles. Actualmente, el machine learning se ha utilizado en múltiples campos e industrias. Por ejemplo, diagnóstico médico, procesamiento de imágenes, predicción, clasificación, asociación de aprendizaje, regresión, etc.
+Los sistemas inteligentes basados ​​en algoritmos de machine learning tienen la capacidad de aprender de experiencias pasadas o datos históricos. Las aplicaciones de machine learning proporcionan resultados sobre la base de la experiencia pasada. En este artículo, analizaremos 10 ejemplos de la vida real de cómo el machine learnig está ayudando a crear una mejor tecnología para impulsar las ideas actuales.
+El reconocimiento de imágenes es uno de los usos más comunes del machine learning. Hay muchas situaciones en las que puede clasificar el objeto como una imagen digital . Por ejemplo, en el caso de una imagen en blanco y negro, la intensidad de cada píxel se sirve como una de las medidas. En las imágenes en color, cada píxel proporciona 3 medidas de intensidades en tres colores diferentes: rojo, verde y azul (RGB).
+El machine learning también se puede utilizar para la detección de rostros en una imagen . Hay una categoría separada para cada persona en una base de datos de varias personas. El machine learning también se utiliza para el reconocimiento de caracteres para discernir letras tanto escritas a mano como impresas. Podemos segmentar un texto escrito en imágenes más pequeñas, cada una de las cuales contiene un solo carácter.
+El reconocimiento de voz es la traducción de palabras habladas al texto. También se conoce como reconocimiento de voz por computadora o reconocimiento automático de voz. Aquí, una aplicación de software puede reconocer las palabras pronunciadas en un archivo o clip de audio y luego convertir el audio en un archivo de texto. La medición en esta aplicación puede ser un conjunto de números que representan la señal de voz. También podemos segmentar la señal de voz por intensidades en diferentes bandas de tiempo-frecuencia.
+El reconocimiento de voz se utiliza en aplicaciones como la interfaz de usuario de voz, búsquedas por voz y más. Las interfaces de usuario de voz incluyen marcación por voz, enrutamiento de llamadas y control de dispositivos. También se puede utilizar una simple entrada de datos y la preparación de documentos estructurados.
+El machine learning se puede utilizar en las técnicas y herramientas que pueden ayudar en el diagnóstico de enfermedades . Se utiliza para el análisis de los parámetros clínicos y su combinación para el ejemplo de pronóstico, la predicción de la progresión de la enfermedad para la extracción de conocimientos médicos para la investigación de resultados, para la planificación de la terapia y el seguimiento del paciente. Estas son las implementaciones exitosas de los métodos de machine learning. Puede ayudar en la integración de sistemas informáticos en el sector sanitario.
+En finanzas, el arbitraje se refiere a las estrategias de negociación automatizadas que son de corto plazo e involucran una gran cantidad de valores. En estas estrategias, el usuario se centra en implementar el algoritmo de negociación para un conjunto de valores sobre la base de cantidades como las correlaciones históricas y las variables económicas generales. Se aplican métodos de machine learning para obtener una estrategia de arbitraje de índices. Aplicamos la regresión lineal y la Máquina de vectores de soporte a los precios de un flujo de acciones.
+Las asociaciones de aprendizaje son el proceso de desarrollar conocimientos sobre las diversas asociaciones entre los productos. Un buen ejemplo es cómo los productos no relacionados pueden asociarse entre sí. Una de las aplicaciones del machine learning es estudiar las asociaciones entre los productos que compra la gente. Si una persona compra un producto, se le mostrarán productos similares porque existe una relación entre los dos productos. Cuando se lanzan nuevos productos al mercado, se asocian con los antiguos para incrementar sus ventas.
+Una clasificación es un proceso de colocar a cada individuo en estudio en muchas clases. La clasificación ayuda a analizar las medidas de un objeto para identificar la categoría a la que pertenece ese objeto. Para establecer una relación eficiente, los analistas utilizan datos. Por ejemplo, antes de que un banco decida distribuir préstamos, evalúa a los clientes sobre su capacidad para pagar los préstamos. Al considerar factores como las ganancias, los ahorros y el historial financiero del cliente, podemos hacerlo. Esta información se toma de los datos anteriores del préstamo.
+El machine learning también se puede utilizar en los sistemas de predicción. Considerando el ejemplo del préstamo, para calcular la probabilidad de una falla, el sistema necesitará clasificar los datos disponibles en grupos. Está definido por un conjunto de reglas prescritas por los analistas. Una vez hecha la clasificación, podemos calcular la probabilidad de falla. Estos cálculos se pueden calcular en todos los sectores para diversos propósitos. Hacer predicciones es una de las mejores aplicaciones de aprendizaje automático.
+La extracción de información es una de las mejores aplicaciones del machine learning . Es el proceso de extraer información estructurada de los datos no estructurados. Por ejemplo, las páginas web, artículos, blogs, informes comerciales y correos electrónicos. La base de datos relacional mantiene la salida producida por la extracción de información. El proceso de extracción toma un conjunto de documentos como entrada y genera los datos estructurados.
+También podemos implementar el machine learning en la regresión. En regresión, podemos utilizar el principio de machine learning para optimizar los parámetros. También se puede utilizar para reducir el error de aproximación y calcular el resultado más cercano posible. También podemos utilizar el machine learning para la optimización de funciones. Optando por modificar las entradas para obtener el resultado más cercano posible.
+El machine learning tiene mucho potencial en el sector financiero y bancario . Es la fuerza impulsora detrás de la popularidad de los servicios financieros. El machine learning puede ayudar a los bancos y las instituciones financieras a tomar decisiones más inteligentes. El machine learning puede ayudar a los servicios financieros a detectar el cierre de una cuenta antes de que ocurra. También puede rastrear el patrón de gasto de los clientes. El machine learning también puede realizar el análisis de mercado. Las máquinas inteligentes se pueden entrenar para rastrear los patrones de gasto. Los algoritmos pueden identificar las tendencias fácilmente y pueden reaccionar en tiempo real.
+En pocas palabras, podemos decir que el machine learning es un avance increíble en el campo de la inteligencia artificial. Y aunque el machine learning tiene algunas implicaciones aterradoras, estas aplicaciones de machine learning son una de las formas en que la tecnología puede mejorar nuestras vidas.
+
+
+
+
+
+
+
+
+
+
+
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+
+
+
+
+ Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.
+ 
+
+
+Ofrecemos consultoría y desarrollo de soluciones con Inteligencia Artificial en México para ayudar a las organizaciones a automatizar y optimizar sus procesos.
+Política de privacidad
+Brita Inteligencia Artificial México
+Av. Paseo de la Reforma 296, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Email: contacto@brita.mx
+Brita Inteligencia Artificial
+Compañía de Inteligencia Artificial México 2023

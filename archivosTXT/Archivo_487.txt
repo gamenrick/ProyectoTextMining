@@ -1,0 +1,69 @@
+Microsoft Security Copilot en Inteligencia contra amenazas de Microsoft Defender - Microsoft Defender | Microsoft Learn
+poliveria
+microsoft.com
+
+Este explorador ya no se admite.
+Actualice a Microsoft Edge para aprovechar las características y actualizaciones de seguridad más recientes, y disponer de soporte técnico.
+Importante
+El 30 de junio de 2024, se retiró el portal independiente de Inteligencia contra amenazas de Microsoft Defender (Defender TI) (https://ti.defender.microsoft.com) y ya no es accesible. Los clientes pueden seguir usando LA TI de Defender en el portal de Microsoft Defender o con Microsoft Security Copilot. 
+              Más información
+Microsoft Security Copilot es una plataforma de inteligencia artificial basada en la nube que proporciona experiencia de copiloto de lenguaje natural. Puede ayudar a los profesionales de la seguridad en diferentes escenarios, como la respuesta a incidentes, la búsqueda de amenazas y la recopilación de información. Para obtener más información sobre lo que puede hacer, lea ¿Qué es Microsoft Security Copilot?.
+Security Copilot los clientes obtienen acceso a Inteligencia contra amenazas de Microsoft Defender (TI de Defender) por cada uno de sus usuarios autenticados de Copilot. Para asegurarse de que tiene acceso a Copilot, consulte la información de compra y licencia de Security Copilot.
+Una vez que tenga acceso a Security Copilot, se podrá acceder a las características clave descritas en este artículo en el portal de Security Copilot o en el portal de Microsoft Defender.
+Si no está familiarizado con Security Copilot, debe familiarizarse con él leyendo estos artículos:
+Security Copilot proporciona información sobre los actores de amenazas, indicadores de riesgo (IOC), herramientas y vulnerabilidades, así como información sobre amenazas contextuales de Ti de Defender. Puede usar los mensajes y los cuadernos de mensajes para investigar incidentes, enriquecer los flujos de búsqueda con información de inteligencia sobre amenazas o obtener más conocimientos sobre el panorama de amenazas global o de la organización.
+Sea claro y específico con sus indicaciones. Puede que obtenga mejores resultados si incluye nombres de actores de amenazas o IOC específicos en las solicitudes. También puede ser de ayuda si agrega inteligencia sobre amenazas a la solicitud, como:
+Referencia de forma específica un incidente (por ejemplo, "id. de incidente 15324").
+Experimente con diferentes avisos y variaciones para ver lo que funciona mejor para su caso de uso. Los modelos de IA del chat varían, así que repite y mejora los mensajes en función de los resultados que reciba.
+Copilot guarda las sesiones de aviso. Para ver las sesiones anteriores, en el menú inicio de Security Copilot, vaya a Mis sesiones.
+
+
+
+Nota:
+Para ver un tutorial sobre Copilot, incluida la característica de anclar y compartir, lea Navegar Microsoft Security Copilot.
+
+Más información sobre la creación de solicitudes efectivas
+Security Copilot permite a los equipos de seguridad comprender, priorizar y tomar medidas sobre la información de inteligencia sobre amenazas inmediatamente.
+Puede preguntar sobre un actor de amenazas, una campaña de ataque o cualquier otra inteligencia sobre amenazas de la que quiera obtener más información, y Copilot genera respuestas basadas en informes de análisis de amenazas, perfiles de intel y artículos y otro contenido de Defender TI.
+También puede seleccionar cualquiera de los mensajes integrados que están disponibles en el portal de Defender para realizar las siguientes acciones:
+
+Más información sobre el uso de Copilot en Defender para la inteligencia sobre amenazas
+Vaya a Seguridad de Microsoft Copilot e inicie sesión con sus credenciales.
+Asegúrese de que el complemento TI de Defender está activado. En la barra de indicaciones, seleccione el icono Orígenes.
+
+
+
+En la ventana emergente Administrar orígenes que aparece, en Complementos, confirme que el botón de alternancia de Microsoft Threat Intelligence está activado y cierre la ventana.
+
+
+
+Nota:
+Algunos roles pueden activar o desactivar el botón de alternancia para complementos como Defender TI. Para obtener más información, lea Administrar complementos en Microsoft Security Copilot.
+Escriba la indicación en la barra de mensajes.
+Security Copilot tiene características del sistema integradas que pueden obtener datos de los distintos complementos que están activados.
+Para ver la lista de funcionalidades integradas del sistema para Defender TI:
+En la barra de mensajes, seleccione el icono Indicaciones.
+
+
+
+Seleccione Ver todas las funcionalidades del sistema. En la sección Inteligencia sobre amenazas de Microsoft se enumeran todas las funcionalidades disponibles para TI de Defender que puede usar.
+Copilot también tiene las siguientes secuencias de indicaciones que también proporcionan información de Ti de Defender:
+Para ver estos cuadernos de mensajes, en la barra de mensajes, seleccione el icono Indicaciones y, a continuación, seleccione Ver todas las secuencias de consultas.
+Puede usar muchas indicaciones para obtener información de Defender TI. En esta sección se enumeran algunas ideas y ejemplos.
+Obtenga información sobre amenazas de los artículos sobre amenazas y los actores de amenazas.
+
+Indicaciones de ejemplo:
+Obtén información sobre los actores de amenazas y las tácticas, técnicas y procedimientos (TDP), los estados patrocinados, las industrias y los IOC asociados a ellos.
+
+Ejemplos de solicitudes:
+Obtenga información contextual e inteligencia sobre amenazas sobre vulnerabilidades y exposiciones comunes (CVE), que se derivan de artículos de TI de Defender, informes de análisis de amenazas y datos de Administración de vulnerabilidades de Microsoft Defender y Microsoft Defender Endpoint Attack Surface Administración.
+
+Ejemplos de solicitudes:
+Obtenga información detallada sobre un indicador (por ejemplo, direcciones IP, dominios y hash de archivos) en función de los numerosos conjuntos de datos disponibles en Defender TI, incluidas las puntuaciones de reputación, la información de WHOIS, el sistema de nombres de dominio (DNS), los pares de host y los certificados.
+
+Ejemplos de solicitudes:
+Sus comentarios sobre la integración de TI de Defender en Security Copilot ayudan al desarrollo. Para proporcionar comentarios, en Copilot, seleccione ¿Cómo está esta respuesta? En la parte inferior de cada mensaje completado y elija cualquiera de las siguientes opciones:
+Puede proporcionar más información acerca de cada botón de comentarios el siguiente cuadro de diálogo que aparece. Siempre que sea posible y cuando el resultado sea Necesita mejorar, escriba algunas palabras que expliquen lo que se puede hacer para mejorar el resultado. Si especificó mensajes específicos de Defender TI y los resultados no están relacionados, incluya esa información.
+Cuando interactúa con Security Copilot para obtener datos de Ti de Defender, Copilot extrae esos datos de Ti de Defender. Los mensajes, los datos que se recuperan y la salida que se muestra en los resultados de la solicitud se procesan y almacenan en el servicio de Copilot. 
+              Obtenga más información sobre la privacidad y la seguridad de los datos en Microsoft Security Copilot
+¿Le ha resultado útil esta página?

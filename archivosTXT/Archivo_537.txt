@@ -1,0 +1,62 @@
+¿Puede la inteligencia artificial realmente llevar a la humanidad a la extinción? (y otras 7 preguntas clave sobre esta tecnología) - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+Primero escuchamos que un sistema de inteligencia artificial "cobró consciencia y siente", según dijo un ingeniero de Google. Más tarde se viralizaron imágenes de Dalle-e y nos entretuvimos con ChatGPT. Después llegaron las advertencias, los miedos, las peticiones de regulación. 
+Y las dudas. 
+Así que en BBC Mundo te preguntamos hace unos días qué querías saber sobre inteligencia artificial (IA), recopilamos tus dudas y las consultamos con una experta que lleva más de 30 años trabajando en el campo de la IA. 
+Se trata de Amparo Alonso Betanzos, catedrática de Ciencias de la computación e Inteligencia Artificial en la Universidade da Coruña (España)y adjunta al rector para temas de IA. También fue presidenta de la Asociación Española de Inteligencia Artificial (AEPIA). 
+Esto es lo que nos contó. 
+Fuente de la imagen, Amparo Alonso Betanzos
+1. ¿Cómo funciona y cómo es la inteligencia artificial?
+Es complicado decirlo porque tiene muchas subáreas, pero hay, básicamente, dos formas de poder enfocar la inteligencia artificial. Una es la simbólica, la vieja IA, donde los conocimientos los adquirimos de los expertos en el campo, es mucho más transparente pero no es escalable. 
+La otra, la IA que tenemos hoy en día, está basada en datos. Para poder derivar el conocimiento lo que se hace es alimentar el sistema con datos de un campo determinado, el sistema aprende de esos datos y extrae los patrones. Es capaz de generalizar, de predecir, etc. en muchas áreas, desde el lenguaje natural, la visión artificial o el aprendizaje automático. 
+Hay modelos donde el proceso se hace por el razonamiento basado en el aprendizaje profundo con redes neuronales con muchas capas que acaban aprendiendo esos datos. Pero hay otros modelos como el razonamiento por refuerzo u otros tipos que pueden ser usados para aprender y derivar conocimiento a la IA. 
+2. La IA se "alimenta" de datos. ¿De dónde vienen esas bases de datos?
+Depende mucho del sistema que tengas. Si es un sistema experto para patrones médicos, se extraen de las grandes bases de datos clínicas que hay referenciadas por cierto tipo de enfermedades o cierto tipo de pacientes. Si son datos de tráfico, se usarán las cámaras o los sensores de tráfico disponibles. 
+Hoy es tan inmenso el proceso de digitalización en el que estamos que hay sensores que pueden derivar datos de prácticamente cualquier proceso natural o industrial en el que podamos pensar. Prácticamente todas las experiencias en las que uno puede pensar son digitales: tus viajes, tus historias clínicas, tus preferencias… 
+Por ejemplo, cuando te sientas delante del televisor y te recomienda qué ver es en función de lo que hayas hecho tú antes en esa plataforma. En ocasiones, todo esto es el alimento de los algoritmos de IA.
+Fuente de la imagen, Getty Images
+3. ¿Cómo es la IA? Hay muchos que se imaginan una gran computadora o que puede llegar a ser una máquina al estilo T100 de Terminator.
+No. No es así… A no ser que tengas tus programas de IA incluidos en algún robot con apariencia antropomórfica. Puede ser como la aspiradora autómata que va por toda la casa o tener forma humanoide, pero también es, simplemente, que enciendas el ordenador y tengas un software que te escucha, o un programa en el teléfono móvil que detecta tu huella dactilar.
+Es imposible decir un número, cuántas hay. Hay muchos sistemas y sirven para cosas muy distintas, desde el televisor que te recomienda qué ver hasta una app para predecir si tus viñedos tendrán alguna enfermedad. Es algo muy transversal. Está prácticamente en cualquier área en la que puedas pensar. 
+4. ¿Y cuál es el impacto de la IA en nuestra vida cotidiana, en los empleos…?
+Muchas veces estamos usando inteligencia artificial y ni siquiera somos conscientes de ello. 
+En el futuro tenderemos a tener más IA porque se está implantando en cada vez más áreas. 
+Sobre el empleo, ya antes de la pandemia vimos cómo cambiaba el panorama. Hay muchos más empleos afectados por la automatización, no solo por la IA. Lo vemos en los supermercados, con cada vez más máquinas en vez de cajeros, por ejemplo. 
+Cambiará las formas de trabajar sobre todo en tareas automatizadas y habrá que convivir con que parte de nuestras tareas rutinarias las hagan máquinas. Te pongo de ejemplo los médicos, que trabajaban con apenas instrumental hace 50 años y hoy tienen a su disposición muchas más máquinas.
+Está claro que afectará a los empleos y a la economía, y es algo de lo que se deben ocupar los gobiernos. Debemos ser conscientes porque, si no, puede crear grandes desniveles. Y sí, se destruirán unos empleos, pero se crearán otros. 
+Últimamente leemos mucho, o así lo percibo yo, que esto en general es bastante catastrófico. Se está creando un clima un poco de pánico que creo que habría que manejar con cuidado. Muchas veces nos enfocamos solo en el lado más trágico, pero la IA es una herramienta que tiene muchas cosas buenas si se maneja de forma adecuada. 
+Fuente de la imagen, Getty Images
+Por ejemplo, en los últimos años hemos asistido a su capacidad para una medicina mucho más preventiva. Nos puede ayudar en el aprendizaje, podemos ser mucho más selectivos con nuestros alumnos y adaptar su enseñanza, ser capaces de predecir enfermedades del ganado, luchar contra el cambio climático, hacer cosas más sostenibles o administrar mejor el stock de tu tienda. 
+Hay muchos aspectos positivos que debemos aprender a aprovechar y protegernos de los que nos puede perjudicar. 
+5. ¿Qué peligros puede haber con la IA?
+Los peligros, por ejemplo, son que el sistema se esté comportando de forma inadecuada y la persona no lo detecte, digamos que su supervisión no sea todo lo estricta que podría ser. Pero eso es un fallo humano del que no estamos libres ni con IA. 
+También es una profesión aún muy sesgada hacia el género masculino y es importante que tomemos conciencia de que parte del futuro se va a diseñar con tecnología. Cómo caminamos hacia allí, cómo queremos que sea el futuro es importante, porque el diseño de estas herramientas requiere que nos demos cuenta de los sesgos y necesita de la participación de todos. 
+Fuente de la imagen, Getty Images
+Pero creo que está ayudando a las personas empoderándolas en la toma de decisiones. Imagina que eres médico y tienes un montón de síntomas y dudas. Preguntas a un colega, en este caso, una IA, y te estrecha la posibilidad de decidir. Te ayuda, pero la decisión final la tomas tú. Igual que al algoritmo en una plataforma te puede decir qué ver, pero tú decides finalmente, no dejas que decida la máquina por ti. 
+Es cierto que la IA es algo en lo que estamos avanzando mucho y que es importante regular. 
+6. ¿Se puede regular o es como poner puertas al campo? Ya hemos visto qué pasa con internet y la 'deep web', por ejemplo. 
+La Unión Europea se ha preocupado por esto desde hace mucho tiempo. Vamos lentos, pero hay una propuesta. 
+Se empezó a hablar de este tema en 2018 cuando se crea el grupo de expertos de alto nivel de inteligencia artificial que produjo estas líneas directrices para una inteligencia artificial y confiable. Allí ya se hablaba de una supervisión humana de la IA y se miran aspectos como la sostenibilidad, la ausencia de sesgos o la seguridad. 
+Por ejemplo, la supervisión humana es uno de los puntos básicos que se contemplan en la normativa europea, es decir, que la aplicación de cualquier sistema de inteligencia artificial siempre va a tener supervisor humano en absolutamente todo el proceso de iniciación de la operación, en la recopilación de los datos, en los sectores detrás de su aplicación.
+En la UE fuimos pioneros y ahora vemos que hay una gran influencia de compañías, la mayoría de fuera de la UE, como en Estados Unidos, que insisten en la necesidad de esta regulación.
+Es algo que debe hacerse a nivel mundial, en ello estamos. Lo importante es dar el primer paso. 
+¿Se puede regular de todo? La respuesta es compleja porque la IA es compleja y es evidente que la seguridad cero no existe ni aquí ni en nada. Por ejemplo, regulamos y hacemos leyes de tráfico y eso no impide que haya accidentes.
+Siempre sería deseable una regulación a nivel mundial, pero es difícil hacerlo. Solo tienes que ver el protocolo de Kioto… No todos los países lo firman y no tienes forma de obligar a hacerlo. Aparte de la Unión Europea, convencer de que la regulación es necesaria a los otros grandes centros del mundo en IA, como China y Estados Unidos, no es sencillo. 
+Fuente de la imagen, Getty Images
+Creo que fuera del ruido mediático deberíamos todos preocuparnos porque sí es importante regular esta tecnología y hay que arbitrar una monitorización constante sobre los sistemas inteligentes. 
+7, Últimamente hemos visto titulares y expertos que dicen que la IA puede llevar a la humanidad a la extinción... ¿Es esto realmente así?
+Es difícil decir hasta dónde va a llegar a la inteligencia artificial, pero las máquinas siempre tienen que tener un modo de interrumpirlas, para apagarlas. 
+Las estamos diseñando personas… Igual que son personas las que trabajan con la energía nuclear. Así que creo que es importante detectar si hay un problema y poner normas de seguridad y de aplicación. 
+Pero como yo lo veo es que pasa con la IA como pasaba con los coches cuando aparecieron. Al principio se pensaba que iban a ser peligrosísimos, que podrían matar a la gente y que las velocidades que alcanzaban podrían desnaturalizar nuestras proteínas. Hoy sabemos que esto no es así y es una tecnología que tenemos bajo nuestro control, tenemos regulación al respecto, etc. 
+8. ¿Puede superar a la inteligencia humana y tomar consciencia?
+Casi todos los sistemas de IA superan nuestra inteligencia, lo que pasa es que en un campo determinado.
+La mayoría de las IA que tenemos son de nicho estrecho: capaces de tener un nivel de inteligencia muy alto en un campo muy concreto. Por ejemplo, la máquina AlphaGo (a la que se enseñó a jugar el go, un juego de mesa) puede ganar al campeón mundial de go, pero si quieres que juegue ajedrez, debes enseñarle, no puede sola. 
+Pueden ser magníficos diagnosticando un tipo de cáncer, pero no son buenos como médicos generales porque el conocimiento que se necesita es más amplio. 
+Y sobre la consciencia... Puede, entre comillas, modelarla.
+Hay robots que pueden modelar sentimientos y puede parecer que tienen una toma de consciencia real, pero ni siquiera sabemos cómo ocurren ciertos procesos de la consciencia en los seres humanos, así que es algo muy complejo y amplio. 
+Aunque veamos herramientas como los chats, que por ser de lenguaje parecen más transversales, en realidad lo que hacen esas máquinas es ser capaces de predecir la siguiente palabra en un texto. Es un buscador muy sofisticado, pero no es capaz de razonar profundamente porque no es consciente. Es como si tuvieras una especie de loro amaestrado muy inteligente. 
+Ahora puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

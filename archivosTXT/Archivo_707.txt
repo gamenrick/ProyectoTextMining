@@ -1,0 +1,21 @@
+Microsoft Copilot | UNIA
+Jose Antonio garcía
+unia.es
+
+Copilot es un sistema de inteligencia artificial creado por Microsoft. Es lo que se llama un sistema conversacional, lo que quiere decir que la manera de controlarlo e interactuar con esta IA es a través de un chat. Funciona utilizando el modelo de lenguaje de inteligencia artificial GPT, el mismo que utiliza ChatGPT. Otra de las principales características de Copilot es que se mantiene conectado a Internet, por lo que te va a ofrecer siempre información actualizada, además integra DALL-E 3, que es la tecnología de inteligencia artificial para generar imágenes a partir de texto. Copilot también se integra con muchas de las aplicaciones de Microsoft, como Excel, Word, PowerPoint, Outlook, OneNote, Forms, Teams e incluso el propio Windows.
+Para usar este servicio es necesario tener activada la cuenta @unia.es, puede obtener más información en la sección de Office 365.
+La comunidad universitaria podrá acceder a estas versiones gratuitas de Copilot (Bing Chat) con protección de datos comerciales y educativos desde:
+Una vez iniciada sesión podrá comprobar que le aparece en verde la palabra Protegido. Esto significa que tiene aplicada de manera correcta la licencia Enterprise de Copilot y que sus datos no serán compartidos ni usados para entrenar el modelo.
+Ahora puedes empezar a usar Copilot. Puedes escribir tus preguntas o solicitudes en el cuadro del chat. Microsoft no almacena ni usa los datos subidos al chat para entrenar al modelo.
+Al inicio de cada conversación puede seleccionar el estilo con el que quiere que Copilot interactuare con usted.
+Cada estilo tiene su propio enfoque y puede ser útil en diferentes contextos. Por ejemplo, el estilo preciso puede ser útil cuando necesitas una respuesta rápida y directa, mientras que el estilo creativo puede ser útil cuando quieres generar contenido creativo.
+El estilo puede ser :
+Preciso: Este estilo se centra en proporcionar respuestas concisas y directas a las preguntas del usuario
+Creativo: Este estilo se centra en generar contenido creativo e innovador.
+Equilibrado: Este estilo proporciona una combinación de precisión y amabilidad  Aunque las respuestas son precisas, también se entregan de una manera amigable y cortés para hacer que la interacción sea agradable.
+A pesar de que el modelo pude ofrecer respuestas supuestamente correctas, puede sufrir de las denominadas "alucinaciones". Supervise en todo momento el contenido generado por la IA y recuerde que usted es el responsable del contenido generado. 
+MásteresEnseñanzas propias de posgradoFormación continua Cursos de veranoDoctorados
+La UNIA
+BOUNIADirectorioSecretaría GeneralAdministración y serviciosTransparencia
+Ayuda
+SACUBecas y ayudasCentro de Atención al Estudiante

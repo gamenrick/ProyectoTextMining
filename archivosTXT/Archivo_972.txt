@@ -1,0 +1,130 @@
+Las 10 empresas líderes en inteligencia artificial en 2024
+Autor desconocido
+cronica.tech
+
+Username Or Email
+Password
+Remember Me
+
+Login
+Username Or Email
+
+Reset Password
+Inicio - Tecnología - Software
+Según el último estudio de IDC que analiza los principales actores que componen el mercado de ‘machine learning’ (aprendizaje de máquina en español’, se espera que este segmento supere los 500 mil millones de dólares en ingresos para 2024.
+IDC explica que las tecnologías de inteligencia artificial y aprendizaje automático están siendo usadas para:
+Por otro lado, los principales desafíos de las empresas del sector de aprendizaje automático e inteligencia artificial son:
+Las empresas descritas en este artículo se enfocan, específicamente, en el segmento de tecnologías de operaciones de aprendizaje automático (Machine Learning Operations o MLOps en inglés). Este tipo de plataformas ofrecen las siguientes funcionalidades relacionadas con los modelos de aprendizaje automático:
+Servicio: ¿La empresa es capaz de ofrecer modelos de aprendizaje automático a través de un punto final / API?
+Registro: la empresa ofrece una plataforma centralizada para los modelos de aprendizaje automático, un conjunto de APIs y una interfaz de usuario (UI) para administrar colaborativamente el ciclo completo de vida del modelo.
+Seguimiento: la plataforma permite comprobar y rastrear métricas. Por lo general, forma parte de la fase de validación del modelo y a menudo implica registrar parámetros, versiones de código, métricas y artefactos mientras se ejecuta la predicción y visualización del modelo.
+Monitoreo: la plataforma tiene un sistema para comprobar y detectar cualquier desviación en el rendimiento con los datos de producción.
+Lee también: Probamos 5 sistemas para hacer imágenes de inteligencia artificial
+“El secreto para una práctica MLOps exitosa es no adoptar diferentes conjuntos de herramientas que realicen tareas individuales, sino implementar una solución integral que haga todo por ti y hable tanto a los científicos de datos como a TI, reduciendo la complejidad y aumentando la usabilidad”, afirma Marinela Profi, líder de producto de SAS.
+Estas son las principales empresas proveedoras de servicios de aprendizaje automático/machine learning e inteligencia artificial en 2023 según IDC:
+A continuación encuentras el detalle de las plataformas, soluciones y servicios de las 10 compañías más relevantes referidas por IDC:
+IBM se ubica como el líder actual del segmento de inteligencia artificial. Su producto principal es IBM Watson. 
+Algunos de los servicios de IBM Watson incluyen:Watson Studio: un entorno de desarrollo de datos y IA que permite a los usuarios colaborar en proyectos de datos, crear modelos de IA y implementarlos en la nube o en el edgeWatson Assistant: una solución de chatbot y asistente virtual que permite a las empresas crear y desplegar chatbots personalizados para interactuar con los clientes.
+Watson Discovery: un servicio de búsqueda y análisis de datos que permite a las empresas encontrar información relevante en grandes volúmenes de datos.
+Watson Language Translator: un servicio de traducción automática que permite traducir idiomas en tiempo real.
+Watson Visual Recognition: un servicio de reconocimiento de imágenes que permite clasificar y etiquetar automáticamente imágenes.
+Watson Natural Language Understanding: un servicio de análisis de lenguaje natural que permite extraer información y tendencias de texto no estructurado.
+Watson Speech to Text y Text to Speech: servicios de transcripción y síntesis de voz que permite a las empresas transcribir y generar voz a partir de texto.
+A los servicios mencionados, IBM sumó, en mayo de 2023, los servicios de Watsonx a su portafolio. Se trata de su apuesta para competir contra GPT-4 y otros modelos de inteligencia artificial, en el marco de su conferencia Think, celebrada en Orlando. El enfoque de este conjunto de soluciones, denominadas Watsonx, son los negocios.
+Watsonx.ai: Se trata de una solución de inteligencia artificial que permite crear modelos fundacionales y generativos (como los GPT). Brinda herramientas para entrenar, validar y afinar modelos de IA y crear aplicaciones con ellos. 
+Watsonx.data: Watsonx.data es una plataforma de análisis de datos y aprendizaje automático que permite a los usuarios explorar, transformar y obtener información valiosa de sus datos en entornos de nube híbrida. 
+Watsonx.governance: La gobernanza del ciclo de vida de la IA en watsonx.governance permite a los usuarios monitorear, catalogar y gobernar modelos de IA a gran escala desde donde se encuentren. La plataforma automatiza la captura de metadatos de los modelos y mejora la precisión predictiva, identificando cómo se utiliza la IA y en qué momentos los modelos necesitan ser reentrenados.
+Lee también: Watsonx, el nuevo sistema de IA de IBM, explicado a fondo
+SAS Institute es un proveedor de software de inteligencia artificial y análisis. Su producto principal de operaciones de aprendizaje automático es SAS Viya Model Manager. 
+Otros servicios que ofrecen son:
+SAS Visual Analytics: para explorar y comprender grandes cantidades de datos.
+SAS Visual Statistics: para crear modelos predictivos y análisis estadísticos avanzados.
+SAS Visual Machine Learning: para crear y desplegar modelos de aprendizaje automático en producción.
+SAS Visual Text Analytics: para extraer información valiosa de datos no estructurados.
+SAS Viya: plataforma en la nube para análisis de datos y aprendizaje automático.
+SAS Data Management: para la gestión de datos, limpieza, enriquecimiento e integración de datos.
+SAS Model Manager: para administrar, documentar y desplegar modelos de aprendizaje automático.
+SAS Event Stream Processing: para el procesamiento en tiempo real de datos de eventos.
+Algunas de las características de los servicios de automatización de aprendizaje automático que ofrece DataRobot son:
+AutoML: crea modelos automáticos de aprendizaje de máquina.
+Automated Time Series: crea modelos predictivos con base en procesamiento de datos.
+Aplicaciones creadas por inteligencia artificial sin código: mediante inteligencia artificial, las compañías pueden diseñar sus propias aplicaciones de acuerdo a sus intereses de negocio.
+Flujos de decisión: te permite crear flujos de trabajo automatizados.DataRobot Visual AI: La plataforma en la nube de IA de DataRobot con Visual AI se enfoca en procesamiento de imágenes.Predicciones basadas en ubicación: agregue contexto geoespacial a sus modelos de aprendizaje de máquina.IA de texto: Aproveche los datos de texto en varios idiomas para ayudar a su IA a leer entre líneas y extraer aún más insights para su negocio. Deep Learning: ofrece modelos de aprendizaje profundo basado en datos obtenidos en tiempo realModelos Eureqa: resuelve problemas sofisticados con fórmulas matemáticas legibles para humanos
+Dentro de las plataformas de Microsoft para inteligencia artificial encontramos soluciones de lenguaje natural, reconocimiento de voz y visual, chatbot, procesamiento de datos en tiempo real y búsqueda cognitiva:
+Azure Machine Learning: un servicio en la nube que permite a los usuarios crear, implementar y escalar modelos de aprendizaje automático.
+Cognitive Services: un conjunto de APIs de IA que permite a las empresas integrar funciones de procesamiento del lenguaje natural, reconocimiento de voz y visual, y traducción automática en sus aplicaciones.
+Bot Framework: un marco de desarrollo que permite crear y desplegar chatbots personalizados para interactuar con los clientes.
+Azure Databricks: un servicio en la nube que permite procesar grandes volúmenes de datos y generar análisis en tiempo real.
+Azure Stream Analytics: un servicio en la nube que permite analizar datos en tiempo real de fuentes de datos en tiempo real.
+Azure Cognitive Search: un servicio de búsqueda cognitiva que permite a las empresas buscar, analizar y visualizar información estructurada y no estructurada.
+Azure AI: una plataforma para el desarrollo de inteligencia artificial, con herramientas de aprendizaje automático, análisis de datos, procesamiento de lenguaje natural, visión, y reconocimiento de voz.
+Google ofrece una amplia variedad de servicios de IA en la nube, incluyendo aprendizaje automático, procesamiento del lenguaje natural, reconocimiento de voz y visual, y análisis de video.
+Google Cloud AI Platform: incluye herramientas de aprendizaje automático, procesamiento de lenguaje natural, visión y reconocimiento de voz.
+TensorFlow: es una plataforma de código abierto para el desarrollo de aprendizaje automático, utilizada por Google y otras empresas para construir modelos de IA.
+Cloud AutoML: es una plataforma de automatización de aprendizaje automático que permite a las empresas implementar modelos de IA de manera rápida y eficiente.
+Cloud Natural Language: es un servicio de procesamiento del lenguaje natural que permite a las empresas analizar texto y extraer información útil.
+Cloud Translation: es un servicio de traducción automática que permite a las empresas traducir texto y contenido multimedia.
+Cloud Video Intelligence: es un servicio de análisis de video que permite a las empresas extraer información de contenido de video.
+Cloud Speech-to-Text: es un servicio de reconocimiento de voz que permite a las empresas transcribir y traducir audio y voz.
+Cloud Text-to-Speech: es un servicio de síntesis de voz que permite a las empresas generar voz artificial.
+Amazon Web Services ofrece servicios de inteligencia artificial en la nube, incluyendo aprendizaje automático, procesamiento del lenguaje natural, reconocimiento de voz y visual, chatbot, y personalización de recomendaciones:
+Amazon SageMaker:  es un servicio en la nube que permite a los usuarios crear, implementar y escalar modelos de aprendizaje automático.
+Amazon Rekognition: es una plataforma de reconocimiento de imágenes y video que permite a las empresas analizar imágenes y videos para extraer información útil.
+Amazon Transcribe: es una tecnología de transcripción automática de audio y video que permite a las empresas transcribir y traducir audio y video.
+Amazon Translate: es un servicio de traducción automática que permite a las empresas traducir texto y contenido multimedia.
+Amazon Comprehend: es una plataforma de procesamiento del lenguaje natural que permite a las empresas analizar texto y extraer información útil.
+Amazon Lex: es una solución de chatbot que permite a las empresas crear y desplegar chatbots personalizados para interactuar con los clientes.
+Amazon Personalize: es un servicio de personalización de recomendaciones que permite a las empresas personalizar las recomendaciones para cada usuario individual.
+Dataiku es una plataforma de inteligencia artificial y ciencia de datos que ofrece herramientas para explorar, limpiar, modelar y visualizar datos de diversas fuentes. Entre sus servicios encontramos:
+Data Preparation: explora, limpia y prepara datos.
+Data Science Studio: es una interfaz de arrastrar y soltar para facilitar la creación de modelos de aprendizaje automático y algoritmos de análisis predictivo.
+DSS Visual: crea visualizaciones interactivas y permite compartirlas con otros miembros del equipo.
+Flow: facilita colaborar en proyectos en equipo y seguir el progreso del mismo.
+DSS Connect: es una herramienta para integrarse con otras herramientas y tecnologías de inteligencia artificial y análisis de datos populares.
+Data Governance Center: garantiza la calidad, seguridad y cumplimiento normativo.
+Deployment Manager : despliega modelos de aprendizaje automático en producción.
+Databricks es una empresa de software de ciencia de datos y análisis que ofrece una plataforma en la nube para procesar, almacenar y analizar grandes cantidades de datos. Su plataforma, conocida como Databricks Unified Analytics Platform, permite a los usuarios procesar y analizar datos utilizando herramientas de inteligencia artificial, aprendizaje automático y análisis estadístico.
+Delta Lake: es un sistema de almacenamiento de datos que permite la gestión de versiones y la recuperación de datos, lo que ayuda a garantizar la calidad de los datos y el cumplimiento normativo.
+MLflow: es una plataforma para la gestión de modelos de aprendizaje automático, desde el desarrollo hasta el despliegue en producción.
+Databricks Runtime: es un conjunto de herramientas y bibliotecas para el procesamiento de datos y aprendizaje automático.
+Databricks Workspace: es una plataforma de colaboración para equipos de ciencia de datos y aprendizaje automático.
+Databricks Data Stream: es un servicio para el procesamiento en tiempo real de datos de eventos.
+Databricks SQL: es una herramienta para ejecutar consultas SQL en grandes conjuntos de datos.
+Databricks NLP: es un servicio para el procesamiento de lenguaje natural y obtención de información valiosa de texto no estructurado.
+4paradigm es una empresa de inteligencia artificial que ofrece una variedad de servicios y herramientas para ayudar a las empresas a crear, implementar y escalar soluciones de inteligencia artificial. Estos son algunas de sus marcas:
+4Paradigm Sage AIOS: es un sistema operativo basado en inteligencia artificial.
+4Paradigm Sage Studio: es una plataforma para desarrollar y lanzar aplicaciones con base en inteligencia artificial.
+4Paradigm Marketing: es una plataforma para administrar la experiencia de usuario con base en IA.
+4Paradigm SageOne: ofrece capacidad de cómputo para tareas relacionadas con inteligencia artificial y ‘machine learning’.
+Alibaba Cloud ofrece una variedad de servicios de inteligencia artificial, como una plataforma en la nube para el desarrollo, aprendizaje automático e implementación de soluciones de inteligencia artificial, un servicio de computación escalable y altamente disponible para aplicaciones de IA, un servicio de procesamiento del lenguaje natural, un servicio de búsqueda de imágenes basado en IA, y un servicio de visión por computadora.
+Alibaba Cloud Machine Learning Platform for AI: una plataforma en la nube para el desarrollo, el aprendizaje automático y la implementación de soluciones de inteligencia artificial.
+AI-Driven Elastic Compute Service: un servicio de computación escalable y altamente disponible para aplicaciones de inteligencia artificial.
+Alibaba Cloud Natural Language Processing: un servicio de procesamiento del lenguaje natural para tareas como el análisis de sentimientos, la traducción automática y el reconocimiento de voz.
+Alibaba Cloud Image Search: un servicio de búsqueda de imágenes basado en inteligencia artificial para la clasificación, la búsqueda y la recuperación de imágenes.
+OpenAI se enfoca en proporcionar herramientas y servicios avanzados de IA para mejorar la productividad y automatizar tareas.
+Estas son sus diferentes plataformas:
+GPT-3: un modelo de lenguaje de gran escala que puede generar texto en diferentes idiomas y formatos.
+OpenAI GPT-3 Playground: una plataforma de aprendizaje automático que permite a los desarrolladores experimentar con el modelo GPT-3.
+OpenAI Robotics: una plataforma de robótica que permite a los investigadores y desarrolladores trabajar en proyectos de robótica con aprendizaje automático. Su desarrollo fue abandonado.
+DALL-E 2: un modelo de generación de imágenes.
+OpenAI Gym: una plataforma para el desarrollo y la evaluación de algoritmos de aprendizaje automático.
+OpenAI Safety Gym: una plataforma de seguridad para el desarrollo y la evaluación de algoritmos de aprendizaje automático.
+OpenAI API : un servicio web que permite acceder a sus modelos y tecnologías a través de una interfaz de programación de aplicaciones (API)
+Iguazio es una empresa que ofrece una plataforma de datos en tiempo real y una plataforma de inteligencia artificial (AI) para acelerar la transformación digital de las empresas. Su plataforma combina almacenamiento de datos, procesamiento en tiempo real y servicios de inteligencia artificial y aprendizaje automático (ML) para permitir a las empresas crear aplicaciones y obtener  valiosos de sus datos.
+Comparte el contenido si te gustó.
+Recibe los últimos artículos en tu correo electrónico:
+Por qué no incluyen en la lista a “Palantir Ttechnology”
+Tu dirección de correo no será publicada Los campos requeridos marcados con *
+Nombre * 
+Correo * 
+Sitio web 
+ Guardar mi nombre, correo electrónico y sitio web en este navegador para la próxima vez que haga un comentario.
+Comentario *  
+ 
+
+
+
+Δ
+Recibe los últimos artículos en tu correo electrónico:
+Somos un portal enfocado en contenidos de tecnología y marketing digital.
+Copyright © 2024 cronica.tech

@@ -1,0 +1,39 @@
+¿Qué es la Inteligencia Artificial Generativa?
+Héctor Borrás
+cyberclick.es
+
+Por Héctor Borrás, publicado el 22 septiembre 2023
+Seguro que conoces ChatGPT o DALL-E, pero ¿sabías que ambos funcionan gracias a la Inteligencia Artificial Generativa? Y es que, mucha gente conoce el término Inteligencia Artificial, pero no tanto cuando va seguido de la palabra “generativa”. Inteligencias Artificiales hay de muchos tipos, y hoy queremos hablarte de esta, una de las más extendidas, para que la conozcas a fondo, sepas cómo funciona y comprendas cuáles son todos sus usos, pudiendo así ponerla en práctica en tu empresa.
+
+
+
+La Inteligencia Artificial Generativa o IA generativa es una rama dentro de la IA capaz de generar contenido original basándose en datos ya existentes previamente suministrados. Se basa en el machine learning y en métodos de deep learning (aprendizaje profundo), así como en redes neuronales avanzadas y algoritmos que pueden aprender imágenes, textos, vídeos y música para después generar contenido nuevo y original, difícil de distinguir del creado por una persona en la mayoría de ocasiones.
+
+La Inteligencia Artificial Generativa funciona a través del aprendizaje automático (machine learning), con el cual es capaz de procesar una gran cantidad de datos, tanto visuales como textuales, para interiorizar los patrones y saber qué elementos es más probable que aparezcan cerca de otros.
+En definitiva, una IA generativa es un sistema entrenado para responder a lo que se le pide de la forma más humana posible, gracias a que ha aprendido por probabilidad qué elementos deben ir al lado de otros.
+Sin embargo, hay diferentes técnicas de entrenamiento para crear una IA generativa:
+Como ves, la participación humana está presente en la creación de las IA generativas, pero la mayor parte de su aprendizaje y entrenamiento tiene lugar de forma automática.
+
+Lo bueno de la IA generativa es que puede ser muy positiva para diferentes equipos dentro de una misma empresa y para distintos sectores:
+
+Hay que tener en cuenta que la IA se basa en contenido ya generado por el ser humano, por lo que si se entrena con contenido de internet, como ocurre con, por ejemplo, ChatGPT, puede dar información no verídica, poco contrastada y subjetiva. Por tanto, no tenemos que tomarnos la información que arroja como verdadera, sino como lo que es, información recabada de diferentes fuentes que pueden tener errores.
+Por otro lado, cuando se utiliza la Inteligencia Artificial Generativa para crear contenido creativo, muchas veces no vamos a dar con el resultado final en la primera interacción con la herramienta. Muy probablemente necesitaremos darle nuestra revisión humana, por lo que, a día de hoy, las IA generativas enfocadas a aspectos creativos sirven como inspiración y guía, pero no suelen ofrecer el resultado que buscamos a golpe de clic.
+
+En resumen, cualquiera que necesite generar contenido, ya sea textual o visual, puede recurrir a la Inteligencia Artificial Generativa para apoyarse.
+
+Lo cierto es que son pocas las empresas que han conseguido desarrollar modelos de Inteligencia Artificial Generativa. Las que han conseguido hacerlo cuentan con millones de fondos que donan recursos para la causa. Por ejemplo, la empresa OpenAI de Elon Musk creadora de ChatGPT, DALL-E y los modelos anteriores de ChatGPT, cuenta con miles de millones de donantes. Y es que, crear estos sistemas lleva tiempo y dinero. Se estima que ChatGPT-3 tuvo un coste estimado de varios millones de dólares y tuvo que entrenarse con alrededor de 45 terabytes de datos textuales.
+Y no solo eso, las empresas capaces de sacar a la luz este tipo de tecnología también cuentan con algunos de los mejores ingenieros e informáticos del mundo. Como es el caso de, por ejemplo, DeepMind, una empresa subsidiaria de Alphabet (empresa matriz de Meta y Google) que sacó su IA Generativa llamada Make-A-Video, una herramienta capaz de generar vídeos a partir de texto.
+Por tanto, como te podrás imaginar, la mayoría de empresas no se pueden permitir crear una Inteligencia Artificial Generativa por sí mismas y tienen que valerse de herramientas creadas por el tipo de empresas nombradas anteriormente. Afortunadamente, ChatGPT es una plataforma en abierto de la que se puede beneficiar cualquier persona, aunque la mayoría de ellas requieren un pago previo.
+
+La gran pregunta es, ¿sustituirá la IA generativa el trabajo de algunos profesionales? Eso es algo que no se puede saber, pero lo que sí es cierto es que, poco a poco, las herramientas de Inteligencia Artificial Generativa se irán convirtiendo en una herramienta indispensable dentro de muchos sectores y muchas áreas de la empresa.
+En el caso de que el reemplazo tenga lugar, hay tareas que las IA no pueden llevar a cabo y que los humanos deberán seguir haciendo, tareas que, por cierto, son muy importantes. En ese sentido, para afrontar ese reemplazo de la mejor manera posible, como individuos y como empresas, hay muchas cosas que podemos hacer:
+Si todavía no lo has hecho, te animamos a que incluyas la Inteligencia Artificial Generativa en algunas áreas de tu empresa para que no te quedes atrás. Verás que pueden ser un gran apoyo para tu equipo, pudiendo agilizar los procesos y mejorar los resultados finales. No seas reticente a las nuevas tecnologías, el verdadero reto está en saber utilizarlas de forma adecuada, pero negarte su uso solo conllevará que tu competencia te pase por delante.
+
+
+Key Account Manager Engineer en Cyberclick. Experto en desarrollo de aplicaciones web e integraciones entre sistemas con más de 10 años de experiencia. Cuenta con una licenciatura en Matemáticas, Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Informáticas y Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma. 
+Key Account Manager Engineer at Cyberclick. Expert in web application development and system integrations with over 10 years of experience. He holds a degree in Mathematics, a Higher Degree in Computer Application Development, and a Higher Degree in Multiplatform Application Development.
+
+
+
+
+

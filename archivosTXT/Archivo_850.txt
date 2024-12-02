@@ -1,0 +1,85 @@
+Cinco aplicaciones de la inteligencia artificial en agricultura
+Autor desconocido
+plataformatierra.es
+
+La inteligencia artificial expande las posibilidades de generar valor en la agricultura, siendo indispensable para afrontar la transición ecológica. La reducción de insumos y la automatización de las tareas son dos de sus funcionalidades.
+La digitalización ha traído consigo nuevos términos al vocabulario empleado en la agricultura. Hoy en día es común escuchar: agricultura de precisión, sensórica, realidad aumentada y/o virtual, internet de las cosas, análisis masivo de datos o Agricultura 4.0. Aunque hay uno que destaca por encima de todos: inteligencia artificial. 
+Las definiciones dadas al término de inteligencia artificial son varias. Consiste en mezclar distintos algoritmos para obtener modelos con la capacidad de imitar al ser humano. Los conceptos hacen hincapié en cuatro objetivos. Estos diferencian al tipo de inteligencia a partir de su racionalidad y pensamiento, según lo recogido en la siguiente figura:
+Fuente: elaboración propia. IBM.
+ 
+En una versión simplificada, la inteligencia artificial hermana a la programación y a los equipos, para obtener herramientas capaces de resolver problemas
+Los sistemas con capacidad de decisión pueden diferenciarse en distintos tipos y subcategorías. 
+En primer lugar, se distingue a la conocida como inteligencia artificial débil o estrecha (ANI, Artificial Narrow Intelligence). Su funcionalidad se acota a realizar tareas concretas y se encuentra presente en la mayoría de las herramientas inteligentes usadas habitualmente, como por ejemplo, los asistentes virtuales Siri o Alexa. 
+En segundo lugar, la inteligencia artificial fuerte, que se compone a su vez entre general (AGI, Artificial General Intelligence) o superior (ASI, Artificial Super Intelligence).
+La AGI tendría una capacidad similar a la del ser humano. La conciencia propia le permite enfrentarse a problemas, adquirir conocimiento y proyectar el futuro. La ASI sobrepasaría el intelecto humano.
+El enfoque de inteligencia artificial fuerte presenta un carácter teórico-experimental. Los centros de investigación y grandes desarrolladoras se encuentran ensamblando casos de uso con esta orientación. 
+También se resaltan dos subcategorías de inteligencia artificial: aprendizaje automático (machine learning) y aprendizaje profundo (deep learning). La segunda formaría parte de la primera y se constituyen de diferentes algoritmos de sistemas inteligentes que forjan modelos expertos, para efectuar proyecciones o clasificaciones.
+Categorías de inteligencia artificial
+Fuente: elaboración propia. IBM.
+ 
+La diferencia entre ambas subcategorías reside en la forma de aprender los algoritmos. La inteligencia profunda se compone de redes neuronales de más de tres capas, donde se incluye la entrada y la salida, y es capaz de automatizar el desarrollo del proceso.
+Esquema de una red neuronal
+Fuente: IBM.
+ 
+Con el deep learning se permite el empleo de agrupaciones de datos más grandes. Además, se pueden usar datos no estructurados. El modelo es capaz de ofrecer su jerarquía, con independencia de que la fuente de datos primaria se encuentre etiquetada o no. 
+La industria auxiliar del sistema agroalimentario se encuentra desarrollando productos y servicios basados en inteligencia artificial.
+Los datos generados por los sectores incluidos en esta actividad económica permiten generar grandes innovaciones, según lo comunicado por la Unión Europea.
+La Revolución Verde trajo consigo la introducción de agroquímicos en el campo agrícola y una expansión del regadío. Esto ha llevado a que se triplique el consumo de recursos naturales en apenas cincuenta años. 
+Los sistemas de inteligencia artificial han integrado algoritmos capaces de calcular la demanda hídrica de los cultivos, que se determina a través de la evapotranspiración de la especie vegetal.
+En Plataforma Tierra ofrecemos una herramienta para el cálculo de las necesidades hídricas y de fertilización 
+Los valores empleados se pueden obtener a partir de bases de datos preestablecidas, estaciones meteorológicas, dendrómetros, sensores hídricos de suelo o imágenes hiperespectrales.
+El empleo de una fuente de datos u otra depende del grado de sofisticación del modelo empleado. El uso de datos recolectados in situ incrementa la precisión de los valores ofrecidos, pues se adaptan a los requerimientos de cada campo agrícola. 
+Los sistemas de inteligencia artificial necesitan de la integración de todas las tecnologías generadas en esta Revolución Tecnológica para aumentar la precisión de los valores
+Es común que estos sistemas también determinen las necesidades nutricionales de los vegetales. A partir de los nutrientes del suelo, del agua y de las enmiendas aplicadas en el perfil edáfico, las herramientas, ofrecen a los agricultores la cantidad de abono a aplicar al cultivo en cada fase de crecimiento.
+Estos sistemas pueden descender la demanda de insumos en hasta un 65 %
+Por otro lado, la aplicación de los modelos se ha extrapolado hacia las redes de regantes para dar solución a la gestión integral y sostenible del ciclo del agua. 
+Los sistemas de trazabilidad inteligentes pueden detectar las fugas de agua, y permiten aminorar en un 30 % perdidas hídricas y energéticas.  
+Los estreses bióticos pueden causar pérdidas de producción de hasta el 40 %. Por tanto, la detección precoz de las patologías que afectan a los cultivos tiene una importancia capital. 
+Una parte de los algoritmos pueden emplear los datos meteorológicos de estaciones próximas (temperatura, humedad, precipitación, viento, etc.) para el cálculo de la tasa de probabilidad de incidencia de las plagas y enfermedades. El sistema alerta a los productores de la posibilidad de incidencia. 
+La expansión de las nuevas categorías de inteligencia artificial ha permitido expandir las funcionalidades de los sistemas de detección por modelos capaces diagnosticar, a partir de una fotografía, el cuadro del síntomas del vegetal, junto con las alternativas disponibles para su control. Se pueden integrar en vehículos de conducción autónoma. 
+Robot autónomo para la exploración continua de plagas en invernaderos
+Fuente: Tekeniker TV
+También, los modelos permiten detectar la incidencia temprana de plagas y enfermedades, a través del análisis de imágenes hiperespectrales y térmicas de alta resolución para la detección.
+La aplicación excesiva de agroquímicos puede acarrear grandes impactos sobre los ecosistemas, incidiendo negativamente sobre su biodiversidad y salud de los humanos. 
+La necesidad de reducir la adición de estos compuestos ha llevado a desarrollar aplicadores selectivos, tanto para fitosanitarios como para fertilizantes, que se encuentran controlados por sistemas informáticos. 
+Los equipos pueden detectar, a través de sensores ultrasónicos u ópticos, a objetivos individuales con una precisión de hasta el 95 %. El sistema de inteligencia artificial acciona la emisión agroquímicos solo sobre los vegetales de interés.
+Visión Artificial detección de Plantas y Malezas G&D Agricultura de Precisión
+Fuente: Estudiogyd
+Para la aplicación de fitosanitarios en cultivos extensivos de porte herbáceo, el equipo se instala en los pulverizadores en barra. Los dosificadores se accionan individualmente a partir de la señal emitida por los sensores. 
+En cultivos frutícolas, el sistema permite a los atomizadores ajustar el caudal de salida según el volumen de copa. Además, puede segmentar el cuerpo del vegetal en tres secciones, variando la cantidad de caldo aplicado entre estas. 
+Las abonadoras utilizadas en cultivos al aire libre incorporan sistemas informáticos que posibilitan la emisión de fertilizantes en el área de influencia de las raíces de los vegetales (en superficie o en profundidad). También, a partir de la medición in situ del follaje de los vegetales o cambios en los elementos nutritivos del suelo, aunque estos últimos equipos son concepciones experimentales. 
+La capacidad de innovación ofrecida por la inteligencia artificial ha provocado que surjan tres niveles de conducción. 
+Dos de ellas controladas total o parcialmente por sistemas inteligentes, mientras que una solo ofrece información de geoposicionamiento al conductor. 
+Los sistemas de autoguiado se han expandido en el campo agrícola. La informática ha permitido dirigir a la conducción de los tractores a través de un equipo hidráulico, controlados a partir del sistema de navegación por posicionamiento. Además, puede coordinar la logística de cooperación entre vehículos. 
+El operario queda relegado a controlar los aperos conectados a las tomas de fuerza del tractor como instrumentos para la preparación del terreno, trasplantadoras, sembradoras, equipos para la aplicación de agroquímicos, etc. 
+ Autoguiado FJ Dynamics en funcionamiento Fendt 927
+Fuente: Drondeando Servicios
+Los equipos acoplados pueden ser robots inteligentes, siendo su control automático. Por ello, el operario puede quedar relegado a supervisar una tarea repetitiva.
+El desarrollo tecnológico ha permitido desarrollar equipos autopropulsados con un control totalmente autónomo. 
+La autonomía de la maquinaria agrícola autónoma puede ser de hasta dos jornadas de trabajo
+El sistema de navegación por posicionamiento se combina con un vasto conjunto de sensores de posicionamiento, velocidad, aceleración o fuerza, que le ofrecen a la inteligencia artificial por aprendizaje automático o profundo suficientes datos para poder esquivar obstáculos, modificar su ruta o detener su actividad ante condiciones meteorológicas excepcionales por sí mismo, sin necesidad de ninguna intervención humana. 
+Encabezado: Tractor 8R autónomo | John Deere
+Fuente: John Deere España.
+La seguridad de los operarios es el criterio de diseño es lo más importante a la hora de desarrollar equipos autónomos 
+En este sentido, este grupo de maquinaria se encuentra en desarrollo, aunque comienza a existir en el mercado algunos modelos para su adquisición. Se espera que su expansión sea exponencial ante las ventajas que ofrece para los productores, siendo la principal: la actividad autónoma e ininterrumpida de la actividad agrícola.
+La maquinaria agrícola autónoma incorpora nuevas fuentes de energía renovable como la solar, reduciendo las emisiones de gases de efecto invernadero y expandiendo la autonomía de los equipos
+La recolección de frutas y hortalizas para consumo en fresco es una de las actividades que más dificultades presenta para su mecanización. 
+El riesgo de depreciación comercial de la mercancía es elevado, por la fragilidad de los productos. 
+Los sistemas inteligentes han permitido ensamblar herramientas capaces de tratar con suma delicadeza a los productos. 
+Estos se encuentran compuestos por articulaciones móviles, instaladas en vehículos guiados automáticamente aéreos o terrestres, y se encuentran controlados por un sistema de inteligencia profunda, que permite identificar a la fruta que presenta un índice de madurez, un tamaño, una masa y un aspecto óptimo a través de imágenes tomadas por sensores ópticos. 
+Abundant Robotics Cosecha de Manzanas
+Fuente: Abundant Robotics
+El "robot volador" israelí que recoge frutas de los árboles
+Fuente de ambos: Israel Económico IE
+La tasa de rendimiento depende de cada equipo en particular. Los robots recolectores de manzana pueden tener un periodo de cosecha de 1,5 segundos por manzana, mientras que los diseñados para cosechar fresas necesitan de 7 a 11 segundos por fruto. 
+En cultivos hortícolas existen prototipos capaces de identificar y recoger los frutos de pepino cada 45 segundos y de berenjena cada 64 segundos. 
+El subsector de las hortalizas tiene un potencial elevado para incorporar estos sistemas robóticos, controlados por inteligencias artificiales. 
+La inteligencia artificial potencia la capacidad de innovación de los desarrolladores tecnológicos. En algunos casos, permitiendo el ensamblaje de aplicaciones de bajo coste para los productores (por ejemplo, herramientas de riego, fertilización, enfermedades o plagas). 
+Con ello, se dota a los agentes de instrumentos útiles para poder aplicar una agricultura basada en el conocimiento y la eficiencia.
+La Unión Europea demanda una contracción de la demanda de insumos, manteniendo la productividad del campo y, por tanto, la integración de las nuevas tecnologías y las técnicas ecológicas se hacen indispensables para afrontar la transición verde europea.
+También se abre una nueva vía para reducir los costes de producción. La estabilidad registrada en el precio de los productos, y el ascenso de los gastos de cultivo, ha reducido el beneficio económico de ciertos agricultores. Así, es aquí donde los equipos inteligentes facilitan la reducción de los gatos variables de cultivo. 
+Sin embargo, a pesar del bajo coste de las aplicaciones, la maquinaria agrícola y los equipos inteligentes sí pueden ascender los costes de producción, aunque aminoran en gran medida los requerimientos de mano de obra. 
+Por ello, tiene una importancia capital efectuar un análisis económico para determinar la viabilidad de la operación, el cual debe combinarse con un análisis de necesidades ante la oferta diversa de productos y servicios tecnológicos que existe, seleccionando aquellos equipos que más se adapten a las necesidades de los productores. 
+Miramos al futuro compartiendo experiencias, tecnologías, emprendimiento e innovación en nuestra Plataforma Digital Agroalimentaria
+Para recibir semanalmente actualidad del sector agroalimentario
+© Tierra. Plataforma Digital Agroalimentaria 2024. Todos los derechos reservados.

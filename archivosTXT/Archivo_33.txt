@@ -1,0 +1,33 @@
+Deep learning vs machine learning: claves de cada aprendizaje desde el comportamiento - Blog IL3 - UB
+Autor desconocido
+ub.edu
+
+9 septiembre 2022
+¿Pueden las máquinas pensar como los seres humanos? Con conceptos como la inteligencia artificial, el machine learning y el deep learning estamos más cerca de ello, y cada día tienen más aplicaciones en relación al comportamiento humano.
+En muchas ocasiones, estos términos se emplean como sinónimos pero, realmente, no lo son. Aunque todos estos conceptos explotaron a la vez, se puede decir que uno evoluciona a partir del otro y que el machine learning y el deep learning son los pilares que sustentan la inteligencia artificial, y que le otorgan el poder transformador que la IA tiene hoy en día.
+Aunque pueda parecer que algunos de estos conceptos están muy alejados del análisis del comportamiento, veremos que no lo estan tanto. Mientras el machine learning se basa en el aprendizaje automático, el deep learning se sustenta en el aprendizaje profundizado. Veamos cuáles son las claves de cada aprendizaje desde el comportamiento.
+Antes de profundizar en las diferencias entre deep learning y machine learning, tenemos que conocer cada concepto de forma individual.
+Para entender ambos conceptos, debemos conocer primero qué es un algoritmo. Este término se asigna a las reglas que muestran el paso a paso necesario para resolver un problema. Es el que determina el camino a seguir para ejecutar una tarea a través de una secuencia lógica, definida y finita de instrucciones.
+¿Qué es el machine learning? Se conoce como aprendizaje automático y consiste en el uso de algoritmos para organizar datos, reconocer patrones de comportamiento y hacer que los ordenadores puedan aprender con esos modelos, generando insights inteligentes (conocimientos inteligentes) sin necesidad de una pre-programación. Algunas de las técnicas propias del machine learning han sido ampliamiente utilizadas por psicólogos, economistas, o educadores durante muchos años (regresión, reducción de dimensionalidad, etc).
+¿Qué es el deep learning? Se conoce como aprendizaje profundo y es la parte del aprendizaje automático que, a través de algoritmos de alto nivel, imita la red neuronal del cerebro humano. Para conseguir esto, los datos son sometidos a varias capas de procesamiento no lineales que simulan la forma de pensar de las neuronas. El deep learning ha tenido un enorme desarrollo en años recientes y está representando un cambio cualitativo muy importante.
+Para poder entender las claves de cada aprendizaje desde el comportamiento, es importante conocer sus aplicaciones y características principales:
+
+En ambos casos, se imita la forma de aprendizaje del cerebro humano, aunque de forma diferente (aprendizaje basado en el refuerzo en machine learning y redes neuronales extendidas en deep learning), y su funcionamiento efectivo será posible si se dispone de datos fiables y de calidad.
+Para entender mejor la diferencia entre machine learning y deep learning, podemos ver ejemplos de las aplicaciones que tiene cada uno de estos aprendizajes:
+●      Machine learning. Cuando el proveedor de correo electrónico reconoce un email como spam; cuando en tus redes sociales te recomiendan amigos, grupos o vídeos; cuando el GPS anticipa que una parte de tu ruta tiene mucho tráfico y te redirecciona por un trayecto alternativo, pero también la predicción del curso o el diagnóstico de una enfermedad, la classificación del riesgo de comportamiento violente, etc.
+●      Deep learning. Cuando una plataforma como Netflix usa sus motores de recomendación o sugerencias; cuando se utiliza un chatbot para atención al cliente; cuando sistemas como Siri, Google Home o Alexa reconocen tu voz,o las aplicaciones que reconocen que emoción podemos sentir cuando tenemos una determinada expresión facial,  etc. Sin embargo, dada su potencia, también puede utilizarse para predecir eventos muy poco frecuentes, como el suicidio.
+El deep learning, en definitiva, es una rama del machine learning pero va mucho más allá, intentando emular la forma de aprendizaje de los humanos. Y ambos conceptos se encuadran dentro de la inteligencia artificial.
+El Máster en Behavioral Data Science del IL3-UB está orientado a resolver problemas concretos de empresas y organizaciones, a partir de una sólida base científica y métodos de aprendizaje basados en casos, con la participación de profesionales del sector.
+¿Quieres saber más sobre el Máster en Behavioral Data Science?¿Quieres saber más sobre el Máster en Behavioral Data Science?
+FUNDACIÓ INSTITUT DE FORMACIÓ CONTÍNUA DE LA UNIVERSITAT DE BARCELONA como responsable del tratamiento tratará tus datos con la finalidad de atender a tu petición. Puedes acceder, rectificar y suprimir tus datos, así como ejercer otros derechos consultando la información adicional y detallada en nuestra Política de Privacidad.
+
+* Campos obligatorios
+
+Name  *
+Email  *
+Comentario
+ 
+
+
+
+Δ

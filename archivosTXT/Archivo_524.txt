@@ -1,0 +1,109 @@
+Google: cómo el nuevo algoritmo de la compañía y la IA están transformando los resultados de nuestras búsquedas (y las graves consecuencias que están teniendo para algunas páginas) - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+Si alguna vez una persona buscó en inglés en Google la frase "reseñas sobre purificadores de aire", probablemente encontró el tipo de contenido que se publica en la página HouseFresh.com.
+El sitio web fue creado en 2020 por Gisele Navarro y su esposo, luego de una década de experiencia escribiendo sobre productos que mejoran la calidad del aire en espacios interiores.
+La pareja llenó su sótano de purificadores, realizaron rigurosas pruebas basadas en ciencia y escribieron artículos para ayudar a los consumidores a analizar si el marketing de estos productos era exagerado.
+HouseFresh es un ejemplo de lo que ha sido una industria floreciente de editores independientes que producen exactamente el tipo de contenido original que Google dice querer promover.
+Y, de hecho, poco después del lanzamiento del sitio web, el gigante tecnológico comenzó a mostrar HouseFresh entre las primeras páginas que aparecían luego de hacer una búsqueda sobre el tema.
+La página se convirtió en un negocio próspero con 15 empleados a tiempo completo.
+Navarro tenía grandes planes para el futuro.
+No obstante, en septiembre de 2023, Google realizó una serie de actualizaciones en el algoritmo que opera su motor de búsqueda.
+Fuente de la imagen, Getty Images
+"Nos diezmó", dice Navarro. "De repente, los términos de búsqueda que solían mostrar HouseFresh enviaban a la gente a grandes revistas de estilo de vida que claramente no prueban los productos. Los artículos en esas webs están llenos de información que es incorrecta".
+La segunda actualización del algoritmo de Google se produjo el pasado marzo y fue aún más dura. Los miles de visitantes diarios de HouseFresh se redujeron a solo cientos.
+"Quedamos absolutamente destrozados", dice Navarro.
+En las pasadas semanas, HouseFresh tuvo que despedir a la mayor parte de su equipo.
+Si nada cambia, afirma, el sitio web está condenado al fracaso.
+Un portavoz de Google dijo a la BBC que la compañía sólo establece cambios en los motores de búsqueda después de hacer pruebas rigurosas que confirmen que serán útiles para los usuarios.
+Señaló también que la empresa brinda a los propietarios de sitios web ayuda, recursos y oportunidades para retroalimentación.
+Google se mantiene firme en su posición de que los cambios serán beneficiosos para las búsquedas y que el nuevo algoritmo es solo el comienzo.
+La semana pasada, el director ejecutivo de Google, Sundar Pichai, anunció en la conferencia anual de desarrolladores de la compañía uno de los movimientos más significativos en la historia del motor de búsqueda.
+En el futuro, dijo Pichai, Google proporcionará sus propias respuestas generadas por IA a las búsquedas de los usuarios, sin que tengan que entrar a una página web.
+La función es llamada "Resumen de IA" y ya se implementó en EE.UU.
+Fuente de la imagen, Getty Images
+"El resultado es un producto que hace el trabajo por usted", afirmó Pichai.
+"Es IA generativa a la escala de la curiosidad humana", agregó.
+Las descripciones generales de IA son solo uno de una serie de cambios profundos que Google implementó en su producto principal durante los últimos dos años.
+La compañía dice que su reciente esfuerzo por renovar las búsquedas marcará el comienzo de una nueva y emocionante era tecnológica y ayudará a resolver muchos de los problemas que afectan a internet.
+Los críticos dicen que puede suceder todo lo contrario.
+A medida que Google reestructura sus algoritmos y utiliza inteligencia artificial para hacer la transición de un motor de búsqueda a un motor de búsqueda y respuesta, a algunos les preocupa que el resultado pueda ser nada menos que la extinción de las empresas que generan contenido.
+Una cosa es segura: el trabajo de Google está a punto de tener un profundo impacto en lo que muchos de nosotros vemos cuando nos conectamos a internet.
+Los cambios se realizaron porque Google reconoce que internet tiene un problema. Lo habrás visto tú mismo, si alguna vez has utilizado un motor de búsqueda.
+Internet está dominado por una “escuela” de creación de sitios web conocida como "optimización de motores de búsqueda" o SEO, en inglés.
+El término se refiere a técnicas destinadas a ajustar artículos y páginas web para lograr un mejor reconocimiento en los motores de búsqueda.
+La empresa incluso ofrece sugerencias, herramientas y consejos de SEO para propietarios de sitios web. Para millones de empresas que dependen de la mecanización de los motores de búsqueda, el SEO puede ser inevitable.
+El problema es que se puede abusar del SEO.
+Algunos propietarios de sitios web se dieron cuenta de que a veces se puede ganar más dinero creando contenido diseñado para complacer a los algoritmos de Google, en lugar de a los seres humanos.
+Fuente de la imagen, Getty Images
+Los esfuerzos de la empresa para abordar este problema no siempre tienen éxito. Si alguna vez te has sentido frustrado por lo que aparece cuando buscas algo como "Las mejores zapatillas deportivas para mujer", conoces el problema.
+A menudo, los resultados luego de hacer una búsqueda con palabras clave están llenos de sitios páginas que contienen muy poca información útil, pero toneladas de anuncios y enlaces a minoristas.
+Lo que a menudo se pierde es lo que probablemente estás buscando cuando abres Google: información de personas que tienen conocimiento y que sienten pasión por su tema.
+La guerra de Google contra el spam en los resultados de búsqueda se intensificó recientemente.
+En 2022, la compañía emitió una "Actualización de contenido útil" para su algoritmo destinada a eliminar el contenido creado únicamente con el fin de obtener una clasificación más alta en el motor de búsqueda.
+Luego realizó una actualización posterior en septiembre de 2023 y un tercer ajuste en marzo de este año. El gigante tecnológico asegura que el resultado es "un 45% menos de contenido no original y de baja calidad".
+"Nuestras actualizaciones recientes tienen como objetivo conectar a las personas con contenido útil, satisfactorio y original, de una amplia gama de sitios en la web", afirmó un portavoz de la compañía a la BBC.
+"Mientras trabajamos para mejorar las búsquedas, seguimos enfocándonos en enviar tráfico valioso a las páginas web y respaldar una internet abierta y saludable", añadió.
+Pero las actualizaciones también tuvieron consecuencias, algunas sorprendentes.
+Por ejemplo, los datos de la herramienta de análisis SEMrush sugieren que el sitio web de la revista New York Magazine perdió el 32% de su tráfico proveniente de Google en los últimos seis meses, mientras que GQ.com se contrajo un 26%.
+Los datos indican que Urban Dictionary, un diccionario de la jerga del idioma inglés que suele ser muy popular y es construido de forma colectiva, perdió unos 18 millones de páginas vistas, lo que representa más de la mitad de su tráfico proveniente de las búsquedas en Google.
+Fuente de la imagen, Getty Images
+De la misma forma, el portal OprahDaily.com bajó casi un 58%.
+Un portavoz de New York Magazine dijo que estos hallazgos estaban incompletos y no reflejaban el análisis interno de la empresa.
+SEMrush es una herramienta estándar de la industria, sus cifras son estimaciones y estos datos sólo miden el tráfico proveniente de Google.
+Los representantes de GQ, Oprah Daily y Urban Dictionary no respondieron a las solicitudes de comentarios que les hizo la BBC.
+Sin embargo, expertos y más de media docena de ejecutivos de medios y propietarios de sitios web le dijeron a la bbc que los datos parecen estar muy pegados a la realidad.
+En lugar de estos sitios, hay una plataforma de la que se verá mucho más: Reddit.
+Según SEMrush, Reddit experimentó un crecimiento del 126% en el tráfico proveniente de Google. 
+La empresa ya se está beneficiando de este auge.
+Reddit acaba de anunciar sus primeras ganancias trimestrales desde que se convirtió en una empresa que cotiza en bolsa en marzo de 2024.
+Sus ingresos totalizan US$243 millones, un sorprendente 48% más que el año anterior.
+"El aumento de tráfico que está viendo Reddit no tiene precedentes en internet", afirma Lily Ray, vicepresidenta de estrategia e investigación SEO de la agencia de marketing Amsive, y toda una celebridad en el mundo del SEO.
+"Contenido de cocina, contenido para adultos, videojuegos, jardinería, moda, todo es solo Reddit".
+Esta empresa, sin embargo, se negó a hacer comentarios a la BBC.
+Pero Reddit no es el único ganador después de las recientes actualizaciones del algoritmo de Google.
+Los datos de SEMrush muestran que otros sitios generados por usuarios como Quora e Instagram experimentaron aumentos astronómicos muy similares. También hubo picos impresionantes en LinkedIn y Wikipedia.
+De cierta forma, Google estaba siguiendo una tendencia.
+En los últimos años, una gran cantidad de usuarios de internet comenzaron a agregar la palabra "Reddit" al final de sus búsquedas.
+Tenían la esperanza de que la gente compartiera en dicha plataforma sus opiniones honestas, a diferencia de los sitios web que intentaban engañar al sistema de Google.
+Fuente de la imagen, Getty Images
+Así lo confirma el enlace de Google con el público, Danny Sullivan.
+"Hemos descubierto que la gente a menudo quiere aprender de las experiencias de otros, por lo que mostramos contenido de cientos de foros y otras comunidades en la web", señaló. 
+"Nuestro acuerdo con Reddit no incluía en absoluto clasificar su contenido en un lugar más alto", indicó. 
+Pero los resultados de Google son un juego de dar y recibir. Si el motor de búsqueda envía tráfico a un sitio, es porque lo recibe de otro.
+Los efectos sobre los perdedores en esta ecuación son dramáticos.
+"Google simplemente está librando una guerra contra los sitios web de contenido editorial", dice Ray.
+"Es casi como si hubiera diseñado un algoritmo para atacar a los pequeños blogueros", sostiene.
+La mayor ofensa, según los creadores de contenido y ejecutivos de medios que entrevistamos, son las respuestas generadas por la IA.
+Google sostiene que sus resúmenes de IA en los resultados de búsqueda serán de gran ayuda para los sitios web.
+Liz Reid, jefa de búsqueda de Google, escribió en una publicación que en realidad aumentan el tráfico que la plataforma envía a los sitios web.
+"Las descripciones generales de IA obtienen más clics que si la página hubiera aparecido en una lista tradicional para esa consulta", escribió.
+"A medida que ampliemos esta experiencia, continuaremos enfocándonos en enviar tráfico valioso a editores y creadores de contenido”.
+Sin embargo, la compañía no ha compartido ninguno de los datos que respaldan esa afirmación, y muchos propietarios de sitios web y expertos de la industria temen que lo que ocurra sea lo contrario.
+Katie Berry, propietaria del sitio web de consejos de limpieza Housewife How-Tos, supone que los usuarios simplemente no buscarán más información si la IA de Google responde a sus preguntas.
+Los resultados de búsqueda de IA "responden las preguntas de manera superficial y, a menudo, incorrectamente, por lo que la gente no visita mi página", dice.
+Según Berry, el tráfico de su página cayó un 70% después de la actualización de Google de 2022 y cayó aún más después de que Google comenzara a probar su nueva IA.
+Otros, como el escritor de viajes David Leiter, dicen que la IA de Google está robando abiertamente su contenido.
+El creador de contenido cuenta que una búsqueda de "Los mejores cañones de ranura cerca de Las Vegas" solía mostrar un artículo en su sitio web World Travel Guy.
+Sin embargo, a principios de esta semana hizo una búsqueda que arrojó una respuesta generada por IA en la parte superior de la página.
+"Google reemplazó mi artículo con un cuadro gigante que tenía una descripción general hecha por la IA, y arrojó una respuesta que es incorrecta", afirmó Leiter.
+"Los primeros cuatro lugares que enumera ni siquiera son cañones de ranura. Un cañón de ranura es un tipo específico de cañón con un pasadizo estrecho, pero la IA no entiende eso”, comentó.
+La descripción general de la IA incluía un enlace al artículo de Leiter, pero sólo si la persona se tomaba el tiempo de hacer clic en una pequeña flecha en la parte inferior del resultado.
+Leiter dice que las recientes actualizaciones del algoritmo de Google le arrebataron el 95% de su tráfico.
+Mientras, Google reconoce que las herramientas de inteligencia artificial pueden proporcionar información inexacta, pero asegura que trabaja constantemente para mejorar los resultados.
+Fuente de la imagen, Getty
+Los ejecutivos de los medios no son los únicos que cuestionan el control de Internet de Google.
+La empresa está luchando simultáneamente contra numerosas demandas antimonopolio, que están dirigidas a diferentes partes de su negocio.
+Actualmente, está a la espera de una decisión sobre una demanda presentada por el Departamento de Justicia de Estados Unidos que le acusa de gestionar un monopolio ilegal en la industria de los motores de búsqueda.
+Si el gigante tecnológico pierde el caso, las sanciones podrían ir desde multas masivas hasta la disolución forzosa de la empresa.
+Google, que controla más del 90% del negocio de búsquedas mundial, sostiene que su éxito se debe únicamente al hecho de que fabrica productos superiores.
+Uno de sus portavoces indicó que la empresa se enfrenta a una "inmensa competencia" y que la gente tiene muchas opciones para buscar información en línea.
+"Entiendo que Google no nos debe tráfico a nosotros ni a nadie", dice Navarro, de HouseFresh.
+"Pero Google controla las carreteras. Si mañana deciden que las carreteras no llegarán a una ciudad entera, esa ciudad morirá. Tiene demasiado poder. Uno no puede simplemente encogerse de hombros y decir: 'Oh, bueno, es sólo el libre mercado'", opina.
+"Tal vez fue ingenuo pensar que podríamos tener éxito simplemente creando contenido original y de excelente calidad que la gente quiera leer".
+ Haz clic aquí para leer más historias de BBC News Mundo.
+También puedes seguirnos en YouTube, Instagram, TikTok, X, Facebook y en nuestro nuevo canal de WhatsApp, donde encontrarás noticias de última hora y nuestro mejor contenido.
+Y recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

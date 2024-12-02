@@ -1,0 +1,41 @@
+Los adultos mayores comienzan a dominar la inteligencia artificial generativa | UPRESS 
+Autor desconocido
+upress.mx
+
+Entre el 25% y el 30% de los adultos mayores aún en la fuerza laboral se sienten preocupados por su falta de habilidades digitales.
+En un mundo donde la tecnología avanza a pasos agigantados, la inteligencia artificial (IA) generativa se está consolidando como una herramienta esencial, especialmente en el cuidado y la mejora de la calidad de vida de los adultos mayores, subrayó Laura Rodríguez Peralta, profesora de la Facultad de Tecnologías de Información y Ciencia de Datos de UPAEP.
+Rodríguez Peralta explicó que la inteligencia artificial generativa es un tipo de IA enfocada en la creación de contenido a partir de patrones o datos existentes, utilizando modelos avanzados como redes neuronales profundas y algoritmos de aprendizaje automático. Agregó que estos modelos pueden generar texto, imágenes, música o código, imitando el comportamiento o la creatividad humana, destacando su capacidad para producir resultados innovadores, originales y útiles.
+Rodríguez Peralta refirió que estas tecnologías no solo mejoran la calidad de vida de los adultos mayores, sino que también les ofrecen una conexión emocional y una sensación de pertenencia. "Aunque la comunicación tecnológica puede parecer fría, estas herramientas ayudan a los adultos mayores a sentirse acompañados y comprendidos, mejorando su bienestar emocional", concluyó.
+Jorge Aguilar Cisneros, profesor de la Facultad de Tecnologías de Información y Ciencia de Datos de UPAEP, enfatizó la importancia de entender las diferentes generaciones para abordar adecuadamente las necesidades tecnológicas de los adultos mayores. Mencionó las categorías de generaciones, como los Baby Boomers (nacidos entre 1946 y 1964) y la Generación X (nacidos entre 1965 y 1980), que en su mayoría constituyen a los adultos mayores, pero también destacó que la Generación Y (nacidos entre 1981 y 1994) está comenzando a envejecer. "Es crucial comprender estas diferencias generacionales porque las aplicaciones de IA generativa deben adaptarse a las necesidades específicas de cada grupo", destacó.
+Dijo que, si bien los adultos mayores pueden beneficiarse enormemente de la IA generativa, enfrentan desafíos significativos debido a las bajas habilidades digitales. Según las estadísticas, aproximadamente el 25-30% de los adultos mayores aún en la fuerza laboral se sienten preocupados por su falta de habilidades digitales. 
+"Estas preocupaciones son justificadas, ya que la tecnología puede mejorar la calidad del trabajo y la productividad, pero también puede ser un obstáculo si no se manejan adecuadamente las herramientas disponibles", afirmó.
+La IA generativa ofrece numerosos beneficios en el ámbito laboral, desde mejorar la calidad del trabajo hasta aumentar la productividad. Sin embargo, es esencial proporcionar a los adultos mayores las herramientas y el conocimiento necesarios para utilizar estas tecnologías de manera efectiva. "Debemos preocuparnos no solo por aquellos que ya no están en la fuerza laboral, sino también por aquellos que aún lo están, asegurándonos de que tengan las habilidades necesarias para prosperar en un entorno digital", añadió.
+Aguilar Cisneros enfatizó la importancia de reducir la brecha digital a través de la educación y la capacitación. "En la UPAEP, hemos implementado cursos para reducir la brecha digital, enseñando habilidades en el uso de computadoras y habilidades digitales esenciales", comentó. Estos cursos no solo se centran en la tecnología básica, sino que también incluyen aplicaciones de IA generativa que pueden facilitar las tareas diarias y mejorar la eficiencia en el trabajo.
+Jorge Aguilar mencionó ejemplos concretos, como la reciente incorporación de la inteligencia artificial generativa en aplicaciones populares como WhatsApp. "Realicé algunas pruebas básicas, como preguntar sobre la generación de imágenes y pedirle que me ayudara con un reporte financiero. La IA generativa puede ayudar a los usuarios a crear contenido de calidad con instrucciones mínimas", explicó.
+Aguilar Cisneros hizo hincapié en la importancia de proporcionar apoyo y educación a los adultos mayores para cerrar la brecha digital y maximizar los beneficios de la inteligencia artificial generativa. "A medida que avanzamos hacia un futuro más digital, debemos asegurarnos de que todas las generaciones, especialmente los Baby Boomers y la Generación X, puedan participar plenamente en el mundo digital en el que vivimos", concluyó.
+Los académicos compartieron varias aplicaciones de IA generativa para el entorno de los adultos mayores. Buena parte de ellas son accesibles de forma gratuita, con opciones premium disponibles para funcionalidades adicionales.
+Chatbots y asistentes virtuales:
+Replika: Un chatbot diseñado para ofrecer conversaciones significativas, proporcionando compañía y apoyo emocional a los usuarios, incluyendo adultos mayores que puedan sentirse solos. https://replika.com/
+Alexa de Amazon con habilidades mejoradas: Adaptada para recordar a los usuarios sobre la toma de medicamentos, citas médicas y proporcionar información relevante a través de comandos de voz. 
+https://www.amazon.com.mx/gp/help/customer/display.html?nodeId=GT3QRHH2HSJ8MWC6
+Monitoreo de la salud:
+Ellie: Un asistente virtual desarrollado para realizar evaluaciones de salud mental mediante interacciones conversacionales, detectando signos tempranos de depresión y ansiedad. https://ellie.care/
+KardiaMobile: Utiliza inteligencia artificial para analizar electrocardiogramas (ECG) y detectar arritmias cardiacas, permitiendo a los adultos mayores monitorear su salud cardiaca en casa. https://www.alivecor.es/kardiamobile
+Rehabilitación y ejercicio:
+Zibrio SmartScale: Una balanza inteligente que utiliza IA para evaluar el equilibrio y el riesgo de caídas, proporcionando recomendaciones personalizadas para mejorar la estabilidad física. https://www.zibrio.com/shop/smartscale
+Neuro Rehab VR: Aplicaciones de realidad virtual con IA que ofrecen programas de rehabilitación personalizados para adultos mayores, ayudando en la recuperación de movilidad y funciones cognitivas. https://neurorehabvr.com/
+Entretenimiento y estimulación cognitiva:
+Jibo: Un robot social que puede interactuar con los usuarios, contar historias, jugar juegos y proporcionar entretenimiento adaptado a los intereses y capacidades de los adultos mayores. https://grupoadd.es/el-robot-jibo
+Neuron up: Una plataforma que utiliza IA para crear actividades de estimulación cognitiva y física, ayudando a mantener la mente activa y reduciendo el riesgo de deterioro cognitivo.   https://neuronup.com/category/actividades-de-neurorrehabilitacion/
+Generación de contenido personalizado:
+MuseNet: Un sistema de IA desarrollado por OpenAI que puede generar música personalizada basada en las preferencias del usuario, proporcionando entretenimiento y estimulación emocional. https://openai.com/index/musenet/
+StoryCraft: Una aplicación que utiliza IA para ayudar a los adultos mayores a crear y compartir sus historias de vida, facilitando la escritura y preservación de recuerdos. https://play.google.com/store/apps/details?id=com.thecricuitstudio.storycraft&hl=es_MX&pli=1
+Reducción del aislamiento social:
+MyndVR: Utiliza realidad virtual para ofrecer experiencias inmersivas que permiten a los adultos mayores explorar nuevos lugares y participar en actividades sociales virtuales, reduciendo el aislamiento. https://www.myndimmersive.com/
+Care.coach: Un avatar de IA que proporciona compañía y asistencia, interactuando con los usuarios y conectándolos con familiares y amigos a través de mensajes y videollamadas. https://www.care.coach/
+Suscríbete aquí y recibe de manera diaria las notas más relevantes de UPAEP. 
+
+Ingresar correo electrónico
+
+
+Enviar

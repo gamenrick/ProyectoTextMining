@@ -1,0 +1,40 @@
+Móviles con inteligencia artificial generativa: la IA entra en el bolsillo
+Autor desconocido
+lavozdegalicia.es
+
+Era cuestión de tiempo que la inteligencia artificial generativa llegase a los móviles, y el pistoletazo de salida se ha dado con el inicio de este 2024. Samsung y Google anunciaron la semana pasada un acuerdo de colaboración, que se extenderá a lo largo de varios años, para poner esta tecnología en los smartphones. La compañía coreana se convierte así en el primer socio de Google Cloud en implantar en sus teléfonos Gemini Pro e Imagen 2 en Vertex AI a través de la nube. Y los dispositivos que lo estrenarán son los nuevos Samsung Galaxy S24.
+Gemini se construyó desde el principio para ser multimodal, lo que significa que puede generalizar y entender, operar y combinar sin dificultad distintos tipos de información, como texto, código de programación, imágenes y vídeo. De este modo, varias aplicaciones nativas de Samsung ofrecerán desde ahora funciones avanzadas. Por ejemplo, con Live Translate podemos hacer traducciones de texto y de voz en los dos sentidos y en tiempo real. Por su parte, Chat Assist ayuda a perfeccionar el tono de la conversación y asegurar que se transmite de la manera adecuada: no es lo mismo un mensaje profesional a un compañero de trabajo que una frase corta y atractiva para una red social. La IA integrada en el teclado Samsung también puede traducir de forma instantánea mensajes, emails y otros documentos hasta en 13 idiomas, y en el coche Android Auto hará un resumen automáticamente de los mensajes entrantes y sugerirá respuestas o acciones relevantes, como avisar a alguien de la hora a la que vamos a llegar.
+Otras aplicaciones son Note Assist, que crea resúmenes generados con IA (por ejemplo, comprime una larga noticia en tres epígrafes con lo más importante de la misma); o Circle to Search, con la que podemos rodear, destacar, escribir o tocar cualquier cosa que esté en la pantalla del móvil para encontrar resultados útiles.
+La serie S24 utiliza Gemini Nano, un modelo de lenguaje integrado en el dispositivo que forma parte del sistema operativo Android 14. De hecho, es la versión de Gemini más eficiente para tareas que se ejecutan en el dispositivo. Por su parte, Imagen 2 en Vertex AI posibilita funciones como Generative Edit, capaz de completar partes del fondo de una foto con inteligencia artificial. Por ejemplo, si una imagen está torcida, puede rellenar los bordes; si una persona o un objeto se tienen que mover ligeramente para estar en la posición perfecta, la IA deja que los usuarios ajusten la posición del sujeto y genera un fondo que combina perfectamente con el lugar original. Y si necesitamos ralentizar un vídeo en acción, Instant Slow Mo puede generar frames (cuadros) adicionales siguiendo los movimientos para reducir la velocidad y conseguir una toma más detallada.
+Pero los beneficios de llevar la IA en el bolsillo no solo se extienden al mercado de consumo. En el reciente CES de Las Vegas Motorola presentó nuevas funcionalidades de IA para MotoTalk, una plataforma de software pensada para aumentar la productividad empresarial. Gracias a ella, los equipos de campo podrán utilizar el reconocimiento de imágenes y la planificación de rutas para optimizar su trabajo diario. Integradas en la cartera Motorola for Business, los usuarios pueden identificar y contar la cantidad de cualquier producto en las estanterías, reconocer y recopilar información sobre sus precios y acceder a informes de acciones en cada tienda, garantizando el cumplimiento del merchandising y una mejor gestión de las ventas. Con esta función, los empleados pueden acceder al instante a métricas generadas automáticamente, en lugar de esperar a los datos de las mediciones manuales en el punto de venta, lo que aumenta la productividad de los promotores y vendedores en el comercio minorista.
+Aprovechando la IA, la planificación de itinerarios optimiza estratégicamente las rutas comerciales, maximizando la eficiencia en términos de distancia, tiempo y oportunidades de venta. Esta herramienta permite generar itinerarios para diferentes equipos de campo en una fracción del tiempo que lleva la planificación manual, y también resume las visitas y actuaciones del personal en las tiendas.
+El servicio MotoTalk es multiplataforma y compatible con Android, iOS y Windows. La solución creada por Motorola también ofrece otras funciones, como gestión de equipos, registros de horas electrónicos, seguimiento en tiempo real y gestión de tareas.
+
+
+
+
+
+
+ 
+
+
+El círculo de la integración de la IA en el smartphone se cierra con su uso en los procesos de I+D. La compañía china Oppo emplea esta tecnología en los laboratorios donde fabrica y prueba los productos que salen al mercado. En ellos cuenta con brazos robóticos que gracias a la inteligencia artificial desempeñan tareas que requieren una alta precisión, necesarias para el desarrollo de los dispositivos y para realizar test de rendimiento de hardware y software.
+Uno de estos robots con IA navega por internet, redes sociales y otras plataformas para asegurar que los equipos funcionan al máximo nivel en estos entornos simulados. Otro realiza miles de pruebas para garantizar la precisión de lectura y escritura en distintos terminales NFC. Y como los móviles también son una herramienta clave en las experiencias de realidad aumentada y virtual, Oppo utiliza inteligencia artificial para permitir que los objetos del espacio virtual sean coherentes con lo que el usuario ve en el mundo real, creando una realidad extendida completamente fluida. Para ello, en otro laboratorio un brazo robótico simula varias posiciones y ángulos del dispositivo. Debido a la creciente demanda de almacenamiento de datos, IA y computación de alto rendimiento, Oppo construyó en el 2020 su primer centro de datos a gran escala en Dongguan.
+
+
+
+
+
+
+ 
+
+
+Este dispositivo cuadrado, con pantalla de 2,88 pulgadas, botón lateral para hablar, cámara y una rueda analógica para navegar por sus menús, está en boca de todo el mundo. Se llama Rabbit R1, está impulsado por IA generativa y funciona como un asistente que unifica en una sola interfaz diferentes aplicaciones instaladas en el móvil para utilizarlas mediante comandos de voz. Emplea el denominado Large Action Model (LAM) y permite, por ejemplo, escuchar música de Spotify, reservar un viaje en Uber o pedir comida, simplemente expresándolo. Si dirigimos su cámara al interior de un frigorífico, nos sugerirá recetas. Ha sido creado por una startup sueca, que asegura que Rabbit R1 puede «ver, aprender y repetir».
+
+Xurxo Melchor 
+
+
+
+
+© Copyright LA VOZ DE GALICIA S.A. Todos los derechos reservados.
+Polígono de Sabón, Arteixo, A CORUÑA (ESPAÑA) Inscrita en el Registro Mercantil de A Coruña en el Tomo 2438 del Archivo, Sección General, a los folios 91 y siguientes, hoja C-2141. CIF: A-15000649.

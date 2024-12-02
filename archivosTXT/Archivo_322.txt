@@ -1,0 +1,95 @@
+Riesgos y Desafíos Éticos del Uso de la Inteligencia Artificial en el Derecho | by Federico Ast | Astec | Medium
+Federico Ast
+medium.com
+
+Sign up
+Sign in
+Sign up
+Sign in
+Federico Ast
+Follow
+Astec
+--
+1
+Share
+Esta es una versión traducida y adaptada del texto “The key legal issues relating to the use, acquisition, and development of AI” publicado en el blog de Thomson Reuters Legal el 1 de marzo de 2024.
+Muchas herramientas de software legal están incorporando modelos de lenguaje, como GPT-4, para mejorar su desempeño. Sin embargo, los profesionales del derecho deben ser conscientes de que el uso de estos modelos conlleva riesgos significativos. Es crucial ser cuidadoso acerca de qué tipos de tecnologías utilizar, cuándo utilizarlas y cómo.
+La inteligencia artificial generativa (GenAI) sigue siendo una tecnología en desarrollo en la industria legal. Aún persiste una falta de claridad sobre cómo utilizarla en cumplimiento con los deberes legales y éticos del litigante.
+No existe un manual que enseñe cómo hacerlo correctamente, ya que el entorno tecnológico cambia muy rápidamente. Depende de cada profesional mantenerse al corriente de los desarrollos y experimentar responsablemente con la IA generativa.
+Tener una comprensión sólida de sus capacidades y problemas clave es esencial para entender cuándo usar IA y cuándo no.
+La IA generativa y los LLMs tienen varias limitaciones y debilidades, y es probable que se descubran más problemas en el futuro. Utilizar esta tecnología está lejos de ser una actividad libre de riesgos.
+Existen dos categorías principales de riesgos en el uso de la IA y los LLMs: el riesgo de output (donde la información generada por el sistema de IA es demasiado riesgosa para ser utilizada) y el riesgo de input (donde la información que se introduce en un modelo de IA está en sí misma en riesgo).
+Los LLMs pueden sufrir alucinaciones. Esto significa, como lo define Rawia Ashraf de Thomson Reuters: “que pueden dar respuestas incorrectas con un alto grado de confianza.”
+La imagen popular de la IA como un cerebro artificial que piensa por sí solo es inadecuada. Un modelo de GPT no puede razonar como los humanos, y su conocimiento depende enteramente de los datos que se le proporcionan. Modelos entrenados de manera inadecuada pueden devolver respuestas confusas, sin sentido o directamente equivocadas.
+La posibilidad de que los modelos de IA produzcan alucinaciones, en combinación con la escasez relativa de datos legales con las que se los entrena, hace que sea especialmente riesgoso para los abogados confiar en la información producida por estos modelos.
+Ciertamente, a medida que se agreguen más datos legales específicos al entrenamiento de los LLMs (un proceso conocido como sintonía fina), menor será la probabilidad de encontrar alucinaciones y más preciso se volverá el LLM. Pero aún estamos lejos de esa certidumbre.
+Los LLMs, como cualquier tipo de IA, no son motores de razonamiento completamente objetivos. Las personas que los programan pueden estar sesgadas, y estos sesgos pueden transmitirse a los programas.
+Como señala Ashraf: “si existen sesgos en los datos utilizados para entrenar la IA, también habrá sesgos en el contenido generado por la IA. Los modelos entrenados con datos sesgados hacia un resultado o grupo lo reflejarán en su desempeño”.
+Veamos un ejemplo.
+La IA es utilizada con frecuencia por empresas que buscan automatizar la selección y el reclutamiento de empleados. Los modelos prometen mejorar estos procesos al ordenar, clasificar y eliminar candidatos con una mínima supervisión humana.
+Sin embargo, delegar estas tareas a sistemas de IA conlleva riesgos. El uso de IA generativa no exime a un empleador de denuncias de discriminación, y los sistemas de IA podrían discriminar de manera involuntaria.
+¿Cómo?
+Las herramientas de IA podrían realizar análisis de sitios web, redes sociales y bases de datos públicas, muchas de las cuales contienen información sobre posibles candidatos que un empleador legalmente no puede preguntar en una aviso de empleo o una entrevista laboral. Estas incluyen la edad, religión, raza, orientación sexual o información genética del candidato.
+Además, las herramientas de reclutamiento por IA podrían replicar y perpetuar viejas prácticas discriminatorias.
+Los sistemas podrían favorecer a los aplicantes con ciertos antecedentes educativos o ubicaciones geográficas, lo que a su vez podría sesgar los resultados en función de la raza.
+Datos incompletos, anomalías y errores en los algoritmos también podrían generar resultados sesgados. Un algoritmo que utilice datos de una parte del mundo podría no funcionar efectivamente en otros lugares.
+El principal riesgo de input que presentan los LLMs actualmente es una potencial violación de la confidencialidad. Si no se toman las debidas precauciones, el uso de LLMs podría romper la relación de privilegio entre abogado y cliente, así como las obligaciones de proteger la seguridad de los datos.
+Al utilizar un LLM, el abogado debe asegurarse de que la plataforma no retenga ningún dato introducido en ella ni permita que terceras partes accedan a esos datos.
+Aunque los desarrolladores de plataformas han comenzado a introducir funcionalidades para resolver problemas de privacidad, como permitir a los usuarios apagar el historial del chat y evitar que la información que introducen sea utilizada para entrenar la plataforma, algunos LLMs aún no cuentan con esas funciones.
+Una firma legal podría considerar firmar un acuerdo de licencia con su proveedor de IA o la plataforma que incorpora la IA, con estrictas cláusulas de confidencialidad que impidan que personas no autorizadas accedan a la información.
+Sin embargo, incluso con estos acuerdos, los profesionales del derecho aún deberían considerar los LLMs como lugares inseguros. Y definitivamente no deberían introducir información confidencial en modelos públicos como ChatGPT.
+La IA generativa no puede reemplazar la experiencia humana ni ser considerada culpable por un error que, en última instancia, fue cometido por un ser humano. Al final del día, la responsabilidad recae sobre los litigantes que utilizan IA generativa en su trabajo legal.
+Al igual que las sanciones que los abogados pueden sufrir por la conducta de no abogados a quienes supervisan o emplean, aquellos que utilicen IA generativa como asistencia en su trabajo legal sin una supervisión adecuada podrían ser acusados de graves violaciones éticas.
+Los abogados tienen la obligación ética de comprender una tecnología antes de utilizarla, lo cual deriva de su deber de proporcionar una representación competente a sus clientes.
+Un abogado debe poseer el conocimiento necesario para brindar esa representación, lo que significa que debe mantenerse al tanto de los cambios en la tecnología relevante y comprender razonablemente sus riesgos y beneficios. Muchas jurisdicciones han incorporado un deber específico de “competencia tecnológica” en sus reglas éticas, lo que incluye la IA generativa.
+¿Cuán competente debería ser uno en cuanto a los sistemas de IA?
+Es fundamental estar familiarizado con cómo fue entrenada la plataforma, sus limitaciones y las tareas para las que puede ser utilizada.
+Los profesionales legales deben tener una idea clara de la calidad general del output que produce el LLM. Se podría argumentar que un abogado que no revisa el output de un LLM está cometiendo una violación ética.
+Proteger la confidencialidad del cliente es otra preocupación ética importante.
+Como señala Ashraf:
+“La IA generativa, por su naturaleza, fue diseñada para ser entrenada (o aprender) al menos en parte con la información que proveen los usuarios. Así que, cuando los litigantes usan IA generativa para ayudar a responder a una pregunta legal específica o redactar un documento sobre algún tema introduciendo hechos específicos del caso, podrían estar compartiendo información confidencial con terceras partes, como los desarrolladores de la plataforma u otros usuarios, sin saberlo.”
+Esto va directamente en contra de la obligación de un abogado de no revelar información confidencial de clientes sin su consentimiento informado. También es una violación de su obligación de hacer esfuerzos razonables para prevenir la divulgación no autorizada de información relacionada con la representación del cliente.
+El uso creciente de los LLMs empujará los límites de las reglas de descubrimiento y evidencia, así también creará nuevos problemas procedimentales.
+Como sostiene Ashraf:
+“Las cortes van a enfrentar el desafío de decidir si aceptar o no evidencia generada parcial o totalmente por IA generativa o LLM. Podrían desarrollarse nuevos estándares de confiabilidad y admisibilidad para este tipo de evidencia.”
+Podrían surgir estrictas prohibiciones de utilizar información producida por IA en industrias reguladas, como la banca y las finanzas, “donde la base subyacente de la información podría no ser clara o no ser fácilmente explicable a los reguladores”, dice Ashraf.
+“También es probable que haya un aumento en las acciones de clase promovidas por consumidores y artistas en varias áreas del derecho.”
+El uso de IA generativa podría inspirar una oleada de litigios en términos de problemas sustantivos, tales como:
+• Denuncias de mala praxis: Por ejemplo, un cliente que asegura que el uso de IA generativa por parte de su abogado fue un reemplazo inadecuado de su expertise legal declarada.
+• Denuncias de copyright: Por ejemplo, si el uso de material bajo copyright para entrenar modelos de IA generativa se considera “fair use”.
+• Fraudes de consumo: Por ejemplo, una empresa que usa IA generativa para crear reseñas falsas de sus productos o servicios.
+• Denuncias por difamación: Por ejemplo, un demandante que sostiene que un sistema de IA realizó una difamación.
+La IA generativa y los LLMs tienen implicaciones para prácticamente todas las industrias y afectarán prácticamente cualquier tipo de transacción de sus clientes.
+Cuando la IA se convierte en una parte central de una transacción comercial, aspectos de los acuerdos comerciales estándar pueden necesitar ser renegociados. Esto puede incluir disposiciones para los siguientes riesgos:
+A medida que más empresas incorporan IA en sus productos y sistemas, aumenta el potencial de que la IA genere demandas por daños. La capacidad de la IA generativa de actuar de manera autónoma plantea nuevos desafíos legales.
+Una pregunta clave es cómo asignar la responsabilidad cuando el producto que tuvo el problema incorpora IA. Los litigantes y las cortes han comenzado a probar la aplicación de teorías legales tradicionales a daños que involucran productos de IA, como vehículos autónomos y robots industriales.
+Por ejemplo, en el caso Cruz v. Raymond Talmadge d/b/a Calvary Coach, el litigio era acerca de un dispositivo GPS con IA. Un autobús chocó contra un puente y causó lesiones a los demandantes, quienes demandaron a los fabricantes del GPS que el conductor del autobús había utilizado, basándose en teorías tradicionales de negligencia, violación de garantía y responsabilidad.
+Las organizaciones que utilizan información personal en IA podrían enfrentar dificultades para cumplir con un conjunto de leyes estatales, federales y globales de protección de datos, como aquellas que restringen las transferencias de datos personales entre fronteras.
+Algunos países, especialmente en la UE, tienen leyes exhaustivas de protección de datos que restringen la IA y la toma de decisiones automatizadas que involucren información personal.
+Otros países, como Estados Unidos, no cuentan con una única ley federal que regule la privacidad y la toma de decisiones automatizadas. Esto significa que las partes deben estar al tanto de todas las leyes sectoriales y estatales relevantes, como la Privacy Rights Act de 2020 de California.
+Muchas de estas leyes de protección de datos incluyen un requisito de minimizar la cantidad de información personal que una organización tiene sobre un individuo, y una exigencia de que los algoritmos de IA utilizados sean transparentes, explicables, justos, empíricamente correctos y responsables.
+Las compañías que utilizan IA con fines creativos podrían enfrentar problemas específicos de propiedad intelectual. Entre ellos se incluyen:
+• Cómo proteger la propiedad intelectual generada por IA: Esto puede implicar registrar patentes, presentar marcas o reclamar el uso de IA como un secreto industrial.
+• Cómo determinar la propiedad de la propiedad intelectual generada por una IA.
+• Cómo determinar si la empresa es víctima de una violación de propiedad intelectual realizada por una IA.
+Los lugares de trabajo modernos utilizan IA cada vez con mayor frecuencia para realizar tareas de recursos humanos, lo que conlleva riesgos potenciales:
+• Reclutamiento: La evaluación de candidatos con IA podría discriminar contra individuos con discapacidades. Por ejemplo, si las herramientas de IA se utilizan para evaluar a los candidatos por su voz, podrían evaluar negativamente a aquellos que tienen un problema del habla.
+• Onboarding de empleados: La investigación de los antecedentes de los empleados podría violar derechos a la privacidad bajo leyes de biometría y protección de contraseñas.
+El uso de IA conlleva ciertos riesgos antimonopolio, en particular relacionados con comportamientos anticompetitivos ilegales. Por ejemplo, los sistemas de IA podrían ser utilizados para realizar acuerdos de fijación de precios entre competidores.
+Los riesgos antimonopolio también podrían surgir si los sistemas de IA se involucran en comportamientos anticompetitivos o debilitan la competencia.
+Por ejemplo, un sistema de IA podría desarrollar una capacidad de aprendizaje suficiente como para asimilar respuestas del mercado y concluir que coludir con un sistema de IA competidor es la forma más eficiente de maximizar los beneficios.
+--
+--
+1
+Un blog sobre tecnología, innovación y transformación digital. Fintech, legaltech, blockchain e inteligencia artificial. Cómo los emprendedores utilizan las nuevas tecnologías para transformar las viejas industrias.
+Ph.D. Blockchain & Legaltech Entrepreneur. Singularity University Alumnus. Founder at Kleros. Building the Future of Law. @federicoast / federicoast.com
+Help
+Status
+About
+Careers
+Press
+Blog
+Privacy
+Terms
+Text to speech
+Teams

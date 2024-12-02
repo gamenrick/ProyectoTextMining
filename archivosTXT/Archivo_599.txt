@@ -1,0 +1,29 @@
+Residuos de computadoras de IA pueden "aumentar sin control" – DW – 29/10/2024
+Autor desconocido
+dw.com
+
+Científicos pronostican un aumento de 1.000 veces en los residuos electrónicos de los servidores informáticos de IA para 2030 y reclaman estrategias de reciclaje para reducir el impacto medioambiental.
+Se prevé que la creciente popularidad de la IA generativa provoque un rápido crecimiento de e-waste, residuos electrónicos, según un estudio publicado en Nature Computational Science.
+Los investigadores responsables del estudio calcularon que los residuos electrónicos podrían alcanzar un total de entre 1,2 y 5,0 millones de toneladas métricas de aquí a 2030, lo que supone unas 1.000 veces más residuos electrónicos de los que se produjeron en 2023.
+"Descubrimos que los residuos electrónicos generados por la IA generativa, en particular los grandes modelos lingüísticos, podrían aumentar drásticamente, alcanzando potencialmente hasta 2,5 millones de toneladas al año en 2030; si no se aplican medidas de reducción de residuos", afirma Asaf Tzachor, experto en desarrollo sostenible de la Universidad Reichman de Israel y coautor del estudio.
+El estudio también ofrece soluciones para reducir los residuos electrónicos: las estrategias para prolongar, reutilizar y reciclarel hardware de IA generativa podrían reducir la creación de residuos electrónicos entre un 16 y un 86 por ciento, según sus estimaciones.
+"Esto supone una enorme oportunidad para reducir el flujo de residuos si estas prácticas se adoptan de forma generalizada. De este estudio se desprende claramente que la naturaleza de la crisis de los residuos electrónicos es global, por lo que es importante centrarse en la gestión transfronteriza de los residuos electrónicos", afirma Saurabh Gupta, fundador de Earth5R, una organización de sostenibilidad con sede en India. Gupta no participó en el estudio.
+Cada vez que tiramos un aparato electrónico "anticuado" o roto, se considera basura electrónica. Esto puede incluir ordenadores, teléfonos inteligentes, cargadores y cables, juguetes electrónicos, coches y sistemas de servidores más grandes.
+Los e-residuos constituyen el 70 por ciento del total de desperdicios tóxicos que se producen en el mundo cada año. Sólo se recicla el 12,5 por ciento.
+"Reducir los residuos electrónicos es importante, porque su eliminación inadecuada provoca la liberación de materiales peligrosos, como el plomo y el mercurio, que dañan los ecosistemas y la salud humana", explica Gupta a DW por correo electrónico.
+Los investigadores del estudio, publicado el 28 de octubre de 2024, se centraron en los residuos electrónicos producidos por algoritmos de IA generativa, tipos de IA que generan textos, imágenes, videos o música a partir de conjuntos de datos masivos.
+De investigaciones anteriores se desprende que la IA tiene unas necesidades energéticas elevadas: los cálculos de la empresa de investigación SemiAnalysis sugieren que la IA podría hacer que los centros de datos utilizaran el 4,5 por ciento de la producción mundial de energía en 2030.
+Pero Tzachor dice que no está tan claro cuántos residuos electrónicos producen los programas de IA generativa, como ChatGPT. Esto incluye todos los recursos informáticos necesarios para entrenar y utilizar la IA en los centros de datos.
+Y dado que la IA generativa depende de las rápidas mejoras en la infraestructura de hardware y las tecnologías de chips, hay indicios de que está generando más residuos electrónicos a medida que el hardware se actualiza o se sustituye.
+"Es mucho más fácil y rentable abordar los retos de los residuos electrónicos que plantea la IA ahora, antes de que aumenten de forma incontrolable", afirma Tzachor.
+El estudio estima que la aplicación de estrategias de economía circular podría reducir la generación de residuos electrónicos en un 16, o hasta un 86 por ciento.
+Las estrategias de economía circular pretenden minimizar los residuos y aumentar la eficiencia del hardware informático.
+Según Tzachor, la estrategia tiene tres objetivos principales:
+1. Prolongar el uso del hardware existente para retrasar la necesidad de nuevos equipos
+2. Reutilizar y refabricar componentes
+3. Extraer materiales valiosos durante el reciclaje del hardware
+Gupta afirmó estar totalmente de acuerdo con las conclusiones del estudio.
+"El rango de reducción del 16 al 86 por ciento refleja el inmenso potencial de estas estrategias, especialmente si cuentan con el apoyo de políticas, y cuando se aplican ampliamente en todas las industrias y regiones", explica Gupta.
+"A través de nuestros programas comunitarios y asociaciones con empresas, ya estamos fomentando esfuerzos locales de recogida y reciclaje de residuos electrónicos que ayudan a empresas y consumidores a gestionar sus aparatos electrónicos de forma sostenible", dice Gupta.
+El experto hace hincapié en que los residuos electrónicos constituyen una crisis mundial que necesita estrategias de gestión de residuos electrónicos equitativas y transfronterizas para mitigar los "daños medioambientales y sanitarios" causados cuando los países de ingresos altos exportan sus residuos electrónicos a las regiones de ingresos bajos.
+(gg/ms)

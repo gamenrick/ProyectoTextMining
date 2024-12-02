@@ -1,0 +1,18 @@
+DALL-E: IA es capaz de generar imágenes a partir de un texto – DW – 11/04/2022
+Autor desconocido
+dw.com
+
+Esta ingeniosa IA es capaz de generar imágenes a partir de los atributos descritos por un usuario: ya sea un astronauta montando a caballo" o "una tetera con forma de aguacate", DALL-E 2 parece ser capaz de todo.
+La empresa de inteligencia artificial OpenAI ha lanzado su última creación, llamada DALL-E 2, una red neuronal que genera complejas imágenes a partir de texto. En enero de 2021, la empresa ya había creado la versión predecesora DALL-E. Ahora, con la versión más avanzada, el sistema ofrece composiciones más realistas y en mayor resolución.
+"DALL-E 2 es un nuevo sistema de IA que puede crear imágenes y arte realistas a partir de una descripción en lenguaje natural", según se lee en el sitio web de OpenAI.
+El sitio web da muchos ejemplos de los trabajos del sistema de IA y son nada menos que impresionantes. Y es que el sistema puede convertir simples descripciones de texto en imágenes fotorrealistas.
+DALL-E 2 puede editar imágenes y cambiar su composición, sombras, reflejos y texturas sobre la marcha. Incluso puede combinar conceptos totalmente extraños. Por ejemplo, las palabras "un astronauta" "montando a caballo" y "en un estilo fotorrealista", o "un escaparate de una floristería" con "una fachada verde pastel y blanco limpio" y "una puerta abierta" fueron suficientes para que DALL-E 2 produjera imágenes bastante elaboradas.
+Otro ejemplo, quizás aún más específico, que dio a conocer la empresa fue: "Macrofotografía de película de 35 mm de una gran familia de ratones con sombreros acogidos junto a la chimenea".
+Según OpenAI, además de crear las imágenes, "DALL-E 2 puede tomar una imagen y crear diferentes variaciones de la misma inspiradas en el original". Esto se ilustra con un cuadro que se hace ligeramente diferente con cada versión sin dejar de ser fiel a las características generales del cuadro.
+Fusionando los nombres del robot WALL-E y del artista Salvador Dalí, DALL-E2 funciona gracias a un proceso llamado "difusión". Básicamente, el sistema reorganiza un patrón aleatorio de puntos en una imagen a medida que reconoce aspectos específicos de la figura.
+Alex Nichol, uno de los investigadores a cargo del desarrollo de DALL-E 2, mostró a The New York Times, una demostración. Cuando tecleó "una tetera con forma de aguacate", la inteligencia artificial produjo diez imágenes diferentes de una "tetera de aguacate", con y sin hueso.
+La herramienta, que aún no se comparte con el público, se está poniendo a disposición de un "grupo selecto de usuarios" a través de una lista de espera.
+OpenAI planea ofrecer finalmente la tecnología a la comunidad creativa, para que personas como los diseñadores gráficos puedan utilizar nuevos atajos al desarrollar imágenes digitales, según The New York Times.
+De acuerdo con The Smithsonian Magazine, para evitar posibles daños, OpenAI ha publicado una política de usuario que prohíbe pedir al sistema que produzca imágenes ofensivas, como violencia, pornografía o mensajes de temática política.
+"Esperamos que herramientas como ésta democraticen la capacidad de la gente para crear lo que quiera", dice Nichol a Fortune.
+Editado por Felipe Espinosa Wang.

@@ -1,0 +1,93 @@
+IA generativa: qué es y por qué importa | SAS
+Autor desconocido
+sas.com
+
+Ir al contenido principal
+¿Por qué aprender SAS?
+La demanda de conocimientos de SAS es cada vez mayor. Prospere en su carrera y forme a su equipo en competencias muy solicitadas
+¿Por qué aprender SAS?
+¿Por qué SAS?
+Descubra por qué SAS es la plataforma analítica más confiable del mundo y por qué los analistas, clientes y expertos del sector aman SAS.
+Aprenda más acerca de SAS
+Selecciona tu región
+América
+Europa
+Oriente Medio & África
+Asia Pacífico
+América
+Europa
+Oriente Medio & África
+Asia Pacífico
+¡Hola  !
+Crear perfil 
+Mi SAS 
+Accede a Mi SAS, a pruebas, a comunidades y a mucho más.
+Editar Perfil 
+Mi SAS 
+Accede a Mi SAS, a pruebas, a comunidades y a mucho más.
+Sitios SAS
+La IA generativa se alimenta de los datos existentes, aprende de ellos, y después genera datos con características similares. Por ejemplo, puede generar texto, imágenes, audio, vídeo y código de cómputo.
+Los sistemas tradicionales de IA y machine learning reconocen patrones en los datos para hacer predicciones. Sin embargo, la IA generativa va más allá de las predicciones: su función principal es generar nuevos datos. Imagínese recibir el texto completo de un discurso pocos segundos después de haber dado a un chatbot (como por ejemplo ChatGPT) unas cuantas palabras para describir su idea. O generar música, arte o imágenes a partir de descripciones basadas en texto. O desarrollar una estrategia empresarial a través de una conversación informal con una herramienta de IA generativa.
+¿Cómo empezó todo?
+Contrariamente a lo que piensa la mayoría de la gente, la IA generativa no es nueva, sino que se ha elaborado a partir de tecnologías que hace décadas que se utilizan, entre ellos la IA, el aprendizaje automático y los métodos estadísticos. Hay tres tecnologías de IA generativa: gemelos digitales, grandes modelos de lenguaje y generación de datos sintéticos.
+A pesar de que los orígenes de la IA generativa son bastante anteriores, nos remontaremos a 1966 y a un chatbot llamado ELIZA.
+Joseph Weizenbaum, creador de ELIZA, diseñó este chatbot imitando los psicoterapeutas rogerianos que reflejan lo que dice el paciente. ELIZA utilizaba la concordancia de patrones para conseguir este objetivo. ELIZA fue uno de los primeros programas en intentar pasar el test de Turing, un juego de imitación para discernir si una máquina muestra o no un comportamiento inteligente com un humano.
+A medida que evolucionaron los métodos para analizar datos de texto no estructurados, entre 1970 y 1990 fueron creciendo las redes semánticas, ontologías, redes neuronales recurrentes, etc. Entre el 2000 y el 2015, se produjo una mejora del modelado de lenguaje y la integración de palabras, y apareció Google Translate.
+En 2014, Ian Goodfellow y su equipo desarrollaron las redes generativas adversativas (RGA), configurando dos redes neuronales para que compitieran (por ejemplo, en formación) la una contra la otra. Una red generaba datos, mientas que la otra intentaba determinar si los datos eran reales o no. En 2017 se presentaron los modelos de transformadores. Incluían un mecanismo de auto-atención que les permitía valorar la importancia de diferentes partes de las aportaciones cuando hacían predicciones. También se popularizaron modelos como BERT y ELMo.
+Los modelos de transformador generativo pre-entrenado (GPT) fueron los siguientes en aparecer, y en 2018 se presentó el primer modelo GPT. Este modelo se había capacitado con grandes cantidades de datos de texto de Internet. Con 117 millones de parámetros, podía general un texto de estilo y contenido similar al de los datos de entrenamiento. Ya en 2023, los modelos amplios de lenguaje de GPT habían evolucionado hasta el punto que podían superar con éxito exámenes difíciles, como el examen de acceso a la abogacía.
+Al ser una tecnología revolucionaria, la repercusión de la IA generativa se ha comparado con descubrimientos como la electricidad y la imprenta. Los modelos de IA conversacionales, como el ChatGPT, con el potencial de impulsar drásticamente la productividad, se han hecho extremadamente populares entre las empresas y los usuarios, y han suscitado preocupación por la privacidad de datos, la parcialidad de la IA, la ética y la precisión. El mercado global de la IA generativa se espera que crezca hasta los 110,800 millones de dólares en 2030.
+Determinar los "ganadores" y "perdedores" de posibles cambios fiscales antes de implementar la normativa es fundamental para el Servicio Público Federal de Hacienda de Bélgica. Cuando necesita respuestas rápidas y precisas, el SPF utiliza Aurora, un gemelo digital de la calculadora que procesa los impuestos sobre la renta del país, para simular futuras reformas de la deuda. Mejores simulaciones implica responsables políticos mejor informados y mejores resultados.
+Los consumidores tienen más confianza en las organizaciones que demuestran un uso responsable y ético de la IA. Descubra por qué es esencial adoptar sistemas de IA confiables diseñados para centrarse en el ser humano, la inclusión y la responsabilidad.
+¿Siente curiosidad por saber cómo funciona la IA generativa y qué necesita tener en cuenta antes de usarla? Obtenga una introducción a la tecnología, conozca un marco para adoptar herramientas de IA generativa y considere si adoptar la tecnología y cómo hacerlo.
+Los estudiantes han utilizado la IA generativa para crear contenidos y gráficos, escribir código, crear aplicaciones móviles y resolver problemas. Aunque la IA generativa puede ser divertida y útil, necesitamos humanos que detecten y corrijan las respuestas erróneas o las "alucinaciones".
+¿Puede la explosión de imágenes generadas crear una irrealidad que lleve el ser humano al fracaso? Conozca el verdadero significado del término "deepfake", descubra cómo pueden utilizarse los deepfakes para hacer el bien y vea cómo las técnicas emergentes pueden ayudar a detectar e identificar los medios generados.
+Descubra qué herramientas son las más frecuentes hoy en día y cómo se aplican en las distintas industrias.
+La IA generativa abarca una amplia gama de sectores y funciones empresariales en todo el mundo. A medida que crece su popularidad, la tecnología ha provocado simultáneamente entusiasmo y temor entre particulares, empresas y entidades gubernamentales. Veamos cómo algunas industrias están utilizando la IA generativa en la actualidad.
+Los bancos y otras organizaciones de servicios financieros pueden utilizar la IA generativa para mejorar las decisiones, mitigar los riesgos y aumentar la satisfacción del cliente. Cuando los modelos generativos de IA se entrenan para aprender patrones y detectar anomalías, pueden señalar actividades sospechosas en tiempo real. Al crear datos simulados para pruebas de resistencia y análisis de escenarios, la IA generativa puede ayudar a los bancos a predecir futuros riesgos financieros y prevenir pérdidas. Y los asistentes virtuales (como los chatbots) pueden ofrecer un servicio de atención al cliente similar al humano 24 horas al día, 7 días a la semana.
+Las aseguradoras pueden utilizar datos sintéticos para la fijación de precios, reservas y modelos actuariales. Por ejemplo, las compañías de seguros pueden utilizar datos sintéticos parecidos a la información histórica sobre pólizas y siniestros para entrenar y probar modelos de tarificación, lo que les ayuda a evaluar el rendimiento de distintas estrategias de tarificación sin utilizar información personal sensible de los clientes. Los datos sintéticos también pueden ayudar a evaluar sucesos de baja probabilidad, como terremotos o huracanes.
+La IA generativa tiene muchas aplicaciones prometedoras en las ciencias de la vida. En el descubrimiento de fármacos, puede acelerar el proceso de identificación de nuevos candidatos potenciales para los medicamentos. En lo que se refiere a investigación clínica, la IA generativa tiene el potencial de extraer información de datos complejos para crear datos sintéticos y gemelos digitales, que son representativos de las personas (una forma de proteger la privacidad). Otras aplicaciones incluyen la identificación de señales de seguridad o la búsqueda de nuevos usos para tratamientos existentes.
+Los fabricantes pueden utilizar la IA generativa para ayudar a optimizar las operaciones, el mantenimiento, las cadenas de suministro -incluso el uso de la energía- para reducir costos, aumentar la productividad y mejorar la sostenibilidad. Un modelo generativo de IA aprenderá de los datos existentes sobre rendimiento, mantenimiento y sensores, previsiones, factores externos, etc., para luego ofrecer estrategias recomendadas de mejora.
+El procesamiento del lenguaje natural (PLN) y los chatbots pueden ayudar a los trabajadores del sector público a responder más rápidamente a las necesidades de los ciudadanos, como mejorar los servicios de emergencia a los que se encuentran en zonas propensas a inundaciones o asistir a los barrios desatendidos. Las técnicas de IA generativa, como los modelos predictivos y las simulaciones, pueden analizar grandes cantidades de datos históricos, la opinión pública y otros indicadores, y generar recomendaciones para reducir la congestión, mejorar la planificación de infraestructuras y ajustar la asignación de recursos.
+En el comercio minorista, el éxito exige comprender la demanda de los compradores, diseñar experiencias de compra que atraigan a los clientes y garantizar una ejecución fiable y estable de la cadena de suministro. Algunos minoristas, por ejemplo, están utilizando IA generativa con tecnología de gemelos digitales para ofrecer a los planificadores una visión de posibles escenarios, como interrupciones en la cadena de suministro o limitaciones de recursos. Esto es posible gracias a una sofisticada simulación de IA y modelado de datos.
+Los modelos son caros de ejecutar, ya que requieren enormes cantidades de potencia de cálculo y datos. Debería evaluar detenidamente el retorno de la inversión antes de implantar un modelo de IA generativa. También existen consideraciones éticas. ¿De dónde proceden los datos y a quién pertenecen? ¿Son confiables? ¿Entiende exactamente cómo se construyó el modelo?
+Algunos ejemplos populares de tecnologías de IA generativa incluyen DALL-E, un sistema de generación de imágenes que crea imágenes a partir de entradas de texto, ChatGPT (un sistema de generación de texto), el chatbot Google Bard y el motor de búsqueda potenciado por IA Bing de Microsoft. Otro ejemplo es el uso de IA generativa para crear una representación digital de un sistema, un proceso empresarial o incluso una persona, como una representación dinámica del estado de salud actual y futuro de alguien.
+Existen tres tipos principales de tecnologías generativas (gemelos digitales, grandes modelos de lenguaje y generación de datos sintéticos).
+Los gemelos digitales son modelos virtuales de objetos o sistemas de la vida real creados a partir de datos históricos, del mundo real, sintéticos o del bucle de retroalimentación de un sistema. Se construyen con software, datos y colecciones de modelos generativos y no generativos que reflejan y se sincronizan con un sistema físico, como una entidad, un proceso, un sistema o un producto. Los gemelos digitales se utilizan para probar, optimizar, controlar o predecir. Por ejemplo, un gemelo digital de una cadena de suministro puede ayudar a las empresas a predecir cuándo pueden producirse desabastecimientos.
+Un gran modelo de lenguaje (LLM, por sus siglas en inglés) es un potente modelo de machine learning capaz de procesar e identificar relaciones complejas en el lenguaje natural, generar texto y mantener conversaciones con los usuarios. Estos modelos se basan en técnicas como el machine learning y las redes neuronales. Definidos como modelos de IA de procesamiento del lenguaje natural, los LLM se entrenan con cantidades masivas de datos de texto. Los modelos resultantes tienen hasta miles de millones de parámetros. ChatGPT de OpenAI es un ejemplo de gran modelo de lenguaje muy popular.
+La generación de datos sintéticos hace referencia a los datos bajo demanda, de autoservicio o automatizados generados por algoritmos o reglas en lugar de recogidos del mundo real. Los datos sintéticos suelen generarse para satisfacer condiciones que no se dan en los datos reales. Reproducen las mismas propiedades estadísticas, probabilidades, patrones y características que los datos del mundo real a partir de los cuales se ha entrenado. Muchas organizaciones utilizan datos sintéticos para preservar la privacidad o superar otras dificultades que surgen para la recopilación y el uso de datos del mundo real, como el costo, los procesos de preparación de datos que requieren mucho tiempo, o los sesgos.
+Muchas otras tecnologías permiten y apoyan la IA generativa:
+Un algoritmo es una lista de instrucciones paso a paso diseñadas para realizar una tarea específica o resolver un problema. Muchos programas informáticos son una secuencia de algoritmos escritos de manera que el ordenador pueda entenderlos. A medida que los algoritmos empiezan a complementar o sustituir las decisiones humanas, debemos explorar su equidad y exigir transparencia sobre cómo se desarrollan.
+La inteligencia artificial hace posible que las máquinas aprendan de la experiencia, se ajusten a nuevas aportaciones y realicen tareas similares a las humanas. La IA a menudo se basa en gran medida en el aprendizaje profundo y la NLP. Gracias a estas tecnologías, los ordenadores pueden entrenarse para realizar tareas específicas procesando grandes cantidades de datos y reconociendo patrones.
+El deepl learning es un subconjunto de machine learning que entrena a un ordenador para realizar tareas similares a las humanas, como reconocer el habla, identificar imágenes y hacer predicciones. Mejora la capacidad de clasificar, reconocer, detectar y describir utilizando datos. Los modelos de aprendizaje profundo como los GAN y los autocodificadores variacionales (VAE, por sus siglas en inglés) se entrenan en conjuntos de datos masivos y pueden generar datos de alta calidad. Técnicas más recientes, como los StyleGAN y los modelos de transformación, pueden crear vídeos, imágenes, texto y voz realistas.
+El maching learning es un método de análisis de datos que automatiza la construcción de modelos analíticos. Se trata de una rama de la inteligencia artificial que entrena a una máquina para que aprenda. El machine learning se basa en la idea de que los sistemas pueden aprender de los datos, identificar patrones y tomar decisiones con una intervención humana mínima.
+El procesamiento de lenguaje natural  es una rama de la inteligencia artificial que ayuda a las computadoras a comprender, interpretar y manipular el lenguaje humano. NLP toma elementos prestados de muchas disciplinas, incluyendo la ciencia de la computación y la lingüística computacional, en su afán por cerrar la brecha entre la comunicación humana y el entendimiento de los ordenadores.
+Las redes neuronales son sistemas informáticos con nodos interconectados que funcionan de forma muy parecida a las neuronas del cerebro humano. Las redes neuronales utilizan algoritmos para reconocer patrones ocultos y correlaciones en los datos planos, agruparlos y clasificarlos, y aprender y mejorar continuamente con el tiempo.
+El aprendizaje por refuerzo es cuando un algoritmo descubre mediante ensayo y error qué acciones producen las mayores recompensas. El aprendizaje por refuerzo, un modelo de aprendizaje automático, se basa en una señal de recompensa para su mecanismo de retroalimentación a medida que aprende gradualmente la mejor (o más gratificante) política u objetivo. Se usa a menudo en robótica, juegos y navegación.
+La IA generativa se basa en muchos algoritmos y tecnologías de IA diferentes para generar datos que tengan distribuciones y características de probabilidad similares a los datos de los que aprende. En lugar de empezar desde cero, puede seguir estos cinco pasos para perfeccionar un modelo lingüístico básico pre-entrenado.
+1. Defina la tarea.
+
+Elija un modelo lingüístico pre-entrenado adecuado y defina claramente la tarea para la que se va a ajustar. Puede tratarse de clasificación de textos (por ejemplo, reconocimiento de entidades), generación de textos, etc.
+2. Prepare los datos.
+Recopile y pre-procese sus datos específicos para tareas como el etiquetado, el formateo y la tokenización. Cree conjuntos de datos de entrenamiento y validación (y posiblemente de prueba).
+3. Afine.
+Entrene el modelo modificado con los datos específicos de su tarea, utilizando el conjunto de datos de entrenamiento para actualizar el peso del modelo. Supervise el rendimiento del modelo en el conjunto de validación para evitar el sobreajuste.
+4. Evalúe y pruebe
+Tras el entrenamiento, evalúe el modelo perfeccionado en el conjunto de validación y realice los ajustes necesarios según los resultados. Cuando esté satisfecho, pruebe el modelo en el conjunto de pruebas para obtener una estimación no sesgada del rendimiento.
+5. Despliegue.
+Cuando esté seguro del rendimiento del modelo, despliéguelo para el uso previsto. Esto podría implicar la integración del modelo en una aplicación, un sitio web u otra plataforma.
+Los datos son esenciales para construir modelos, pero los datos de alta calidad pueden ser difíciles de encontrar, sesgados o caros. Una manera de resolver estos problemas es utilizar datos sintéticos, que se crean artificialmente (a menudo con algoritmos). Si utilizamos conjuntos de datos del mundo real para generar datos sintéticos adicionales -con propiedades adecuadas para construir buenos modelos de machine learning-, podemos entrenar modelos para prácticamente cualquier propósito, como la investigación de una enfermedad rara.
+Descubra cómo las soluciones de IA pueden aumentar la creatividad y los esfuerzos humanos.
+Con SAS® Viya®, el exceso de información no existe. Conozca la forma más rápida de pasar de miles de millones de puntos de datos a un punto de vista.
+Lecturas recomendadas
+Obtenga una prueba sin costo
+Solicite una demostración
+
+Solicite una cotización
+
+Contáctenos
+
+La curiosidad es nuestro código. Las soluciones analíticas de SAS transforman los datos en inteligencia, inspirando a clientes de todo el mundo a realizar nuevos y extraordinarios descubrimientos que impulsan el progreso.
+Explore
+¿Qué es...
+Compartir
+Comparte con amigos y compañeros. 

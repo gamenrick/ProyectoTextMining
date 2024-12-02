@@ -1,0 +1,80 @@
+Machine learning, deep learning y PLN: ¿qué son? < HP TECH TAKES /...  - HP.com México
+Autor desconocido
+hp.com
+
+
+JavaScript parece estar deshabilitado en su navegador.
+Para obtener la mejor experiencia en nuestro sitio, asegúrese de activar Javascript en su navegador.
+
+
+Gana un CUPÓN de descuento en tu primera compra al registrar tu e-mail
+Regístrate
+
+
+Para ayuda en tu compra
+
+
+
+
+Chatea con un agente
+Lunes a Viernes 08:00 a 18:00 hrs.
+
+
+ 555 091 2455
+
+
+
+Soporte para comprar:
+
+
+
+
+555 091 2455
+Lunes a Viernes 08:00 a 18:00 hrs.
+
+
+
+Gracias por visitar la tienda de MÉXICO HP
+
+Sin duda has oído hablar de personas asombrosas, casi ilustradas, que tienen la increíble capacidad de aprender por sí mismas. Establecen su propia agenda, horarios de estudio y, a base de prueba y error, desarrollan habilidades y conocimientos sorprendentes.
+Esta capacidad autodidacta de muchos seres humanos es realmente impresionante y ha llevado a muchos científicos, investigadores, músicos e incluso deportistas a altos niveles de excelencia. ¿Imagínate si pudiéramos dar esa misma capacidad a las máquinas y computadoras? Si tenemos en cuenta su alto potencial de procesamiento de información, ¿qué límites podrían alcanzar? ¿Sería posible desarrollar la idea completa del aprendizaje automático?
+Probablemente el intentar responder estas mismas interrogantes fue lo que llevó a los científicos informáticos a dar sus primeros pasos en el área de la inteligencia artificial.
+Aunque ha sido imaginada de una forma u otra a lo largo de la historia, la Inteligencia Artificial (IA) es una rama cuyos estudios más amplios se concretaron principalmente a partir de la invención de las computadoras y después de la Segunda Guerra Mundial.
+La idea de estudiar el comportamiento de las máquinas emulando el comportamiento de los seres humanos u otros seres inteligentes no es nueva en la literatura; pero fue recién a partir del período mencionado es que se desarrollaron con mayor intensidad las herramientas para llevar a cabo estos estudios junto con otra idea que había existido durante muchos siglos: el algoritmo.
+Estos famosos seres -sobre todo hoy en día con la popularización de internet, las cookies y las proyecciones sobre los gustos de los usuarios de las redes sociales- existen desde la época babilónica y, de forma sintética, no son más que sistemas finitos y lógicos secuenciales de razonamiento, operaciones o instrucciones para lograr un objetivo.
+Explicado así, puede resultar complicado a primera vista, pero imagina que los algoritmos son como recetas de comida. Si sigues los pasos correctamente e incluyes los ingredientes en el momento adecuado y en las cantidades correctas, definitivamente obtendrás un excelente platillo.
+Intenta imaginar lo que alguien o algo podría desarrollar si las instrucciones de los pasos de su algoritmo fueran cosas como: buscar conocimiento sobre química, resolver derivadas, aprender mandarín, jugar al ajedrez. Ahora, añade a esto una memoria y la capacidad de almacenar y procesar enormes cantidades de datos. ¿No sería impresionante?
+¡De hecho, lo es! Este es el potencial de los autodidactas artificiales.
+Si bien existe toda una amplia área de investigación matemática detrás de los conceptos de inteligencia artificial, invariablemente la definición que encontramos en la vida cotidiana sobre este tema es una mezcla un tanto homogénea con la definición misma de sus dos grandes conceptos o dos grandes áreas: Aprendizaje automático y procesamiento de lenguaje natural.
+De tal forma que, si no existe una receta única para hacer bizcocho de chocolate, tampoco existe una forma única en la que las máquinas puedan emular los comportamientos de los seres inteligentes.
+Por ello, a continuación veremos un poco sobre lo que significa cada uno de ellos y cuáles son sus principales características.
+El Machine learning (aprendizaje de máquina o aprendizaje automático) se define como la capacidad de las máquinas y computadoras para aprender a partir del análisis de datos y la identificación de patrones.
+El ser humano necesita estar expuesto a la imagen de un conejo varias veces para comprender que un animal pequeño y esponjoso que tiene dos grandes orejas, que salta con las patas traseras (y que podría o no gustarle las zanahorias) es, de hecho, un conejo. De tal forma que, en esta base de datos mental que tenemos con información sobre las características de estos animales, podemos diferenciar un conejo de un canguro o un hámster, por ejemplo.
+De la misma manera, una máquina puede ser expuesta a varias imágenes de conejos y varias imágenes de no conejos para, a través de prueba y error, aprender a definir qué es un conejo y qué no lo es.
+Este aprendizaje puede ser supervisado por seres humanos, quienes podrán delimitar los matices de los algoritmos y darán la dirección de aprendizaje que seguirá la máquina.
+Sin embargo, existen aprendizajes no supervisados, donde las máquinas, al tener conocimiento de las reglas de un juego, por ejemplo, pueden aprender a jugarlo y desarrollar estrategias para ganar. Un caso clásico de una prueba en esta área ocurrió durante la década de 1990, cuando el gran maestro de ajedrez y campeón mundial Garry Kasparov se enfrentó a la computadora. Deep Blue de IBM.
+Así en la escuela como en la vida, nuestro proceso de aprendizaje no siempre es lineal. Es posible aprender a través de conexiones, cruzando información, aprovechando los chismes de los vecinos, charlando con amigos, leyendo un libro, saliendo a pasear con el perro, viendo una serie, etc. Incluso podemos asignar internamente un peso diferente a cada una de estas fuentes de experiencia o información al clasificar su relevancia como mayor o menor.
+Estas ideas están detrás de la definición de redes neuronales.
+Las redes neuronales son un proceso más complejo donde, de manera sintética, en lugar de hacer un análisis uno a uno, varios algoritmos pueden -pero no necesariamente lo hacen- especializarse en una característica o detalle que compone algo para tomar una decisión o dar un pronóstico. Incluso pueden utilizar una  respuesta con peso de relevancia, según la fuente, para tomar una decisión o dar un pronóstico.
+Todavía usando el ejemplo del conejo, sería como si cada algoritmo o grupo de algoritmos dentro de ese proceso de aprendizaje se estuviera especializando en comprender los matices de lo que es una oreja, mientras que otro aprende cómo son las patas y qué tan largas pueden ser, y otro algoritmo observa las características del hocico y así sucesivamente, hasta que, en conjunto, la máquina pueda definir qué es un conejo y qué no es un conejo.
+Este proceso puede tener innumerables variables, conexiones, matices, además de diferentes pesos, siendo así un proceso de aprendizaje profundo e interconectado. Este sería por tanto el famoso Deep learning (aprendizaje profundo).
+En comparación con el aprendizaje profundo, el proceso de aprendizaje automático puede requerir un menor nivel de complejidad de los algoritmos y equipos utilizados.
+Identificará patrones y hará predicciones más rápidamente, pero estas predicciones pueden hacerse con un nivel más bajo de precisión. Para alcanzar su máximo potencial, el machine learning requiere que los datos a tratar hayan sido previamente estructurados y, por tanto, se requiere un poco más de intervención humana.
+Por otro lado, en el aprendizaje profundo la búsqueda de “imitar-replicar-reproducir” el comportamiento de los seres inteligentes a la hora de procesar información se da mediante redes neuronales artificiales que se organizan en diferentes niveles, procesando datos y permitiendo hacer predicciones con menos intervención humana y más autonomía.
+El aprendizaje profundo puede funcionar sin problemas con datos no estructurados. Sin embargo, la exigencia es mayor en relación al nivel de complejidad de los algoritmos y equipos involucrados en el proceso. Identificar patrones y hacer predicciones es un poco más lento, pero puede ser más preciso.
+El procesamiento del lenguaje natural (PLN) es la segunda gran área de inteligencia artificial que veremos aquí. Se centra en estudiar cómo las computadoras y las máquinas pueden comprender, interpretar y manipular el lenguaje humano.
+El lenguaje, en general, ha sido un gran aliado, si no el principal, para que los individuos se comuniquen entre sí y para el desarrollo de ideas, procesos, colaboración, organización de las ciudades y sus sociedades.
+Cuando nos referimos al PLN, pensamos en una forma en que las máquinas y las computadoras tienen la capacidad de interpretar, comprender y responder a los datos de entrada que les damos con nuestro lenguaje.
+Seguramente ya te habrás quedado asombrado con la rapidez con la que los asistentes virtuales de voz entienden tu pregunta y dan rápidamente una respuesta que coincide con ese contexto. Los mecanismos que están detrás de esta tecnología son exactamente los avances obtenidos por los estudios en el área de procesamiento del lenguaje natural.
+Transformar la voz en información es uno de estos ejemplos, pero hay varios más: ese chatbot de atención al cliente que responde a tus preguntas en la web de la empresa de compras online, tus filtros de correo electrónico que separan el spam y otro tipo de comunicaciones recibidas, los resultados de búsqueda, los traductores online, cuando tu aplicación de mensajería te indica una palabra para completar la oración que comenzaste a escribir, llamadas telefónicas digitales que son grabadas para su posterior consulta, el análisis de textos y datos que organizan la información en bloques inteligibles, en fin, todo esto es el resultado del desarrollo de esta tecnología.
+El mundo de la inteligencia artificial es bastante amplio, impactando nuestras vidas en el presente y con el potencial de seguir influyendo de manera aún más robusta en el futuro.
+Conocer las aplicaciones y extensiones de temas como machine learning, el deep learning y la PNL puede hacernos más conectados y conscientes de la realidad que influye en la tecnología que nos rodea, así como ayudarnos a hacer un mejor uso de ella.
+Si te gustan los temas como este, sigue siguiéndonos aquí en Tech Takes, el sitio web de consejos tecnológicos de HP.
+ 
+Explorando la tecnología de hoy para las posibilidades de mañana
+1 Los tiempos de actualización pueden variar según el dispositivo. La disponibilidad de las características y las apps puede variar de una región a otra. Algunas características requieren hardware específico (consulta https://www.microsoft.com/es-xl/windows/windows-11).
+Ultrabook, Celeron, Celeron Inside, Core Inside, Intel, el logotipo Intel, Intel Atom, Intel Atom Inside, Intel Core, Intel Inside, el logotipo Intel Inside, Intel vPro, Intel Evo, Itanium, Itanium Inside, Pentium, Pentium Inside, vPro Inside, Xeon, Xeon Phi, Xeon Inside, Intel Agilex, Arria, Cyclone, Movidius, eASIC, Iris, MAX, Intel RealSense, Stratix e Intel Optane son marcas comerciales de Intel Corporation o sus filiales.El logotipo Intel es una marca comercial de Intel Corporation o sus filiales
+No todas las características están disponibles en todas las ediciones o versiones de Windows. Los sistemas pueden requerir hardware, controladores y / o software actualizados y / o adquiridos por separado para aprovechar al máximo la funcionalidad de Windows. Ver www.microsoft.com
+De acuerdo con la Política de soporte de Microsoft Silicon, HP no admite ni proporciona controladores para Windows 8 o Windows 7 en productos configurados con procesadores Intel o AMD de séptima generación y hacia adelante.
+Tenga en cuenta: El color y aspecto del producto y la sensación puede variar de la representación visual en el sitio web. Si bien se realizan todos los esfuerzos para verificar los precios, las especificaciones del producto y otros errores, de vez en cuando ocurren errores inadvertidos y HP se reserva el derecho de rechazar los pedidos que surjan de dichos errores. Para pen drives, comuníquese con los respectivos fabricantes para cualquier consulta de servicio.
+Esta tienda electrónica es atendida por DC Mayorista S.A. de C.V.

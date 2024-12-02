@@ -1,0 +1,34 @@
+Aplicaciones de la IA en marketing
+jblanco
+plainconcepts.com
+
+De acuerdo con ‘The 6th State of Marketing Report’ de Salesforce, publicado en mayo de 2020, el 84% de los responsables de marketing entrevistados usaban inteligencia artificial (IA) para sus procesos, cuando en 2018 era solo el 29 %. La constante digitalización, acrecentada por la pandemia, ha hecho crecer esta cifra en un departamento tan esencial para la promoción de los productos y servicios de una empresa.
+Al igual que en la gestión de la cadena de suministro, el departamento de marketing es uno de los que más se puede aprovechar del poder de la IA para sus tareas cotidianas. Del análisis de los datos a la creación de experiencias inmersivas o personalizadas, estas son algunas de las aplicaciones de la IA en marketing.
+
+Los bots se pone al servicio de los departamentos de marketing de muy diversas maneras:
+
+En 2018, el gigante del comercio electrónico Alibaba abrió una tienda física en Hong Kong: FashionAI contaba, entre otras tecnologías, con espejos inteligentes que sugerían prendas para complementar las que llevaban los clientes, o un armario virtual que vincula la ropa que se probaron en la tienda con su cuenta online para que la compren desde casa. Esto demuestra que la IA puede servir para diseñar experiencias inmersivas que modernicen los comercios minoristas.
+Con este tipo de experiencias no solo se benefician los consumidores: los departamentos de marketing obtienen datos para desarrollar estrategias publicitarias más afinadas u obtener tendencias de consumo.
+
+Los famosos algoritmos que hacen recomendaciones en Netflix o Amazon según nuestro historial deben estar en el punto de atención de los departamentos de marketing: si se hacen recomendaciones a la audiencia, esta ahorra tiempo en la búsqueda de productos.
+Así, se puede crear un motor de búsqueda, diseñar un chatbot que sugiera productos después de que el usuario responda a unas preguntas o recopilar información que detecte futuros intereses de los clientes y con ello hacerle recomendaciones personalizadas.
+La IA en marketing ‘gestiona’ precios basados en datos de demanda y de la competencia. Estos precios pueden ser dinámicos; por ejemplo, los que ofrecen comparadores de viajes, que son diferentes según el momento del día en el que hacemos la consulta o la proximidad a la fecha en la que queremos viajar. También pueden ser fijos, si tras el análisis de los datos se decide establecer un precio único.
+Usar el filtrado de datos con IA para el análisis predictivo sirve para que la compañía pueda detectar:
+
+Los datos de las investigaciones de mercadotecnia tradicionales, mezclados con los obtenidos por redes sociales y los CRM, y filtrados por el tamiz de la IA, pueden servir para crear nuevos productos.
+Fue lo que le pasó a la multinacional Unilever, que cuenta con data centers de IA por todo el planeta. Gracias a la información analizada descubrieron que existían unas 50 canciones en las que se mencionaban los conceptos aparentemente antitéticos de «helado» y «desayuno». El resultado fue crear varios helados de la gama Ben & Jerry’s con sabor a cereales.
+Mediante Machine Learning y la ingesta de grandes cantidades de datos, se pueden desarrollar tecnologías que ayuden a los redactores a crear textos más persuasivos.
+Por ejemplo, una máquina puede dar ideas para títulos del post de un blog, que resulten lo suficientemente atractivos como para que una persona lea el post hasta el final. También, sugerir hashtag para posicionar actualizaciones en redes sociales. Todo ello contribuye a la insustituible creatividad humana.
+Al mismo tiempo, las herramientas de SEO pueden devolver resultados de palabras clave de larga cola que buscan los internautas. Con ellas, un humano diseña una estrategia de contenidos y un calendario editorial.
+La inteligencia artificial de Alexa, Cortana o Siri es también un buen canal para ofrecer productos y servicios, o para las funciones de atención al cliente, como los chatbots descritos antes. Promociones, sorteos, últimas novedades… son algunas de las acciones que se pueden llevar a cabo.
+¿Quieres que te ayudemos a implantar la IA en tu departamento de marketing?
+En Plain Concepts, somos conscientes de la relevancia de la Inteligencia Artificial en el marketing y hemos perfeccionado nuestros servicios de inteligencia artificial para proporcionar soluciones personalizadas y eficientes. Entendemos la dinámica cambiante del entorno digital y nos esforzamos por mantener a nuestros clientes a la vanguardia con tecnología de punta y asesoramiento experto. Contáctanos hoy para descubrir cómo la IA puede transformar tus estrategias de marketing.
+
+ 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

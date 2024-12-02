@@ -1,0 +1,36 @@
+Cómo los 4 roles de la IA redefinen tu estrategia - Telefónica
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ Cuando tienes una necesidad, debes analizar el problema y explorar las posibles soluciones.
+Nelson Alejandro Rodríguez Seguir          
+Referente en gestión de proyectos de Inteligencia Artificial Generativa (GenAI).
+10/09/2024
+Es como cuando buscas un coche: eliges uno más grande si es familiar, más deportivo si te gusta la acción, o más tradicional para el día a día. O cuando seleccionas un plan de fibra, una plataforma de streaming o el móvil perfecto. Según nuestras necesidades y prioridades, cada uno escoge la solución que mejor cubra todas las variables que tengamos sobre la mesa. Para cada una de estas decisiones, consideras diferentes variables: funcionalidades, beneficios, relación costo-beneficio, entre otros. Del mismo modo, cuando consideras implementar una solución de inteligencia artificial, es crucial evaluar qué tipo de IA es la más adecuada según tus necesidades específicas.
+La IA no es una solución única para todo; tiene diferentes roles y aplicaciones, según lo que necesites. Al igual que al comprar un coche o seleccionar un plan de servicios, es vital identificar las características que mejor se alineen con tus objetivos. Por ejemplo, si prefieres una solución que te permita liberar tiempo en tareas rutinarias, podrías optar por una IA que asuma un rol de mayor responsabilidad. En cambio, si buscas apoyo en la toma de decisiones estratégicas, una IA que actúe como consejera sería más adecuada. Entender estas distinciones te permitirá maximizar los beneficios de la IA en tu organización.
+Existen muchas clasificaciones de la IA, y aquí me voy a enfocar en su clasificación por rol. Según el porcentaje de responsabilidad que le asignes, la IA tendrá un rol diferente y existen hasta cuatro tipos de roles diferentes. Aun cuando hay un rol con el 100% de responsabilidad, esto es posible porque, como buenos jefes que somos, podemos “delegar” especialmente tareas muy repetitivas donde nuestro aporte es mínimo y por eso las delegamos en la IA. A continuación, te muestro los 4 roles de la IA:
+En este rol, la IA toma todas las decisiones y asume plena responsabilidad de las acciones y resultados. Actúa de manera autónoma, sin necesidad de supervisión humana. Este nivel de responsabilidad es ideal para tareas repetitivas y predecibles, donde la IA puede operar con eficiencia y precisión sin intervención humana. Esto te libera de tareas que no requieren tu expertise, permitiéndote concentrarte en lo que realmente importa.
+En este rol, la IA toma todas las decisiones y asume plena responsabilidad de las acciones y resultados. Actúa de manera autónoma, sin necesidad de supervisión humana, porque previamente un humano ha validado que su intervención no aportaba valor significativo en el proceso y puede automatizar 100% estas tareas. Este nivel de responsabilidad es ideal para tareas repetitivas y predecibles, donde la IA puede operar con eficiencia y precisión sin intervención humana. Esto te libera de tareas que no requieren tu expertise, permitiéndote concentrarte en lo que realmente importa.
+La IA ofrece recomendaciones y asesoramiento basado en datos y análisis, pero las decisiones finales recaen en los humanos. Este rol es perfecto para líderes que necesitan orientación experta, proporcionando una gran cantidad de información procesada que ayuda a tomar decisiones informadas y estratégicas. Es como tener un mentor o consejero personal que te guía con la mejor información disponible.
+La IA y los humanos comparten la responsabilidad equitativamente, colaborando en la toma de decisiones. La IA colabora ofreciendo sugerencias y análisis, pero las decisiones finales las toman los seres humanos. Este rol es adecuado para tareas que requieren la combinación de la intuición humana y el análisis de datos de la IA para obtener mejores resultados. Cuando tenemos una duda, lo que solemos hacer es consultar a un amigo. La idea es que la IA asuma ese rol consultivo y actúe como un “amigo virtual” que nos ayuda a obtener una perspectiva diferente, ayudándonos a ver las cosas desde varios puntos de vista. De este modo, la IA se convierte en una herramienta valiosa para tomar mejores decisiones.
+La IA y los humanos comparten la responsabilidad equitativamente, colaborando en la toma de decisiones. La IA colabora ofreciendo sugerencias y análisis, pero las decisiones se toman conjuntamente. Este rol es adecuado para tareas que requieren la combinación de la intuición humana y el análisis de datos de la IA para obtener mejores resultados. Cuando tenemos una duda lo que solemos hacer es consultar a un amigo, la idea es que la IA tome ese rol y actúe como ese amigo que nos ayude a obtener una perspectiva diferente, ayudándonos a ver las cosas desde varios puntos de vista.
+4. Asistente (25% de responsabilidad):
+La IA actúa como apoyo, proporcionando información y análisis bajo supervisión humana. La mayor parte de la responsabilidad recae en los humanos, quienes toman las decisiones finales. Este rol es ideal para mejorar la eficiencia en tareas específicas, como planificar un viaje, donde la IA puede ayudar con las reservas y recomendaciones basadas en los detalles que proporcionas. Te ayuda a manejar los detalles, permitiéndote concentrarte en las decisiones más importantes.
+Para poder escoger adecuadamente el rol de la IA es fundamental tener clara la necesidad que se quiere abordar. A veces sabemos que podemos mejorar algo, pero debemos tomarnos el tiempo para identificar el problema raíz
+Es como cuando nos duele la cabeza: ¿tomamos una pastilla para resolverlo o analizamos la situación y vemos que el dolor se debe a haber saltado una comida? La verdadera solución sería comer, ¿no? De la misma manera, es crucial entender bien nuestras necesidades para aplicar la solución más adecuada. En el caso de la IA, esto significa tener muy claro qué queremos lograr y qué datos tenemos disponibles.
+Entender el rol que desempeña la IA es crucial para aprovecharla según nuestras necesidades. Cada rol—jefe, consejero, colega o asistente—ofrece diferentes niveles de responsabilidad y apoyo. Saber elegir el rol adecuado permite usar la IA de manera más efectiva y evitar soluciones ineficaces. No siempre necesitamos un martillo para cada problema; seleccionar la herramienta correcta asegura mejores resultados y optimiza tanto el proceso como los recursos disponibles. Así, logramos una integración más inteligente y beneficiosa de la IA en nuestras estrategias. 
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

@@ -1,0 +1,41 @@
+Nobel de Física: John Hopfield y Geoffrey Hinton ganan el premio por hacer que “las máquinas aprendan” y sentar las bases de la inteligencia artificial - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, cortesía Premio Nobel
+El premio Nobel de Física 2024 ha ido a parar a quienes han sentado las bases para que “las máquinas aprendan”, un aspecto clave para el desarrollo de la inteligencia artificial.
+Los profesores John Hopfield (91) y Geoffrey Hinton (76) han sido galardonados este martes por la Real Academia Sueca de las Ciencias por sus "descubrimientos e invenciones” que han sido “fundamentales para el aprendizaje automático con redes neuronales artificiales", declaró el jurado.
+El nombre de los premiados fue leído por Hans Ellegren, secretario general de la organización que otorga los premios científicos más importante del mundo, desde Estocolmo (Suecia).
+Hopfield es profesor en la Universidad de Princeton (Estados Unidos), mientras que Hinton da clases en la Universidad de Toronto (Canadá).
+"Estoy estupefacto. No tenía idea de que esto sucedería", declaró Hinton, a quien se ha apodado como “el padrino” de la inteligencia artificial.
+Fuente de la imagen, Getty Images
+“El premio de este año es sobre máquinas que aprenden”, anunció el secretario general de la Academia sueca.
+Hopfield creó una memoria asociativa en 1982, la cual podía almacenar y reconstruir imágenes y otros tipos de patrones en los datos. 
+Hinton, por su parte, desarrolló un método que permite a una máquina encontrar propiedades en los datos de forma autónoma y, por lo tanto, realizar tareas como identificar elementos específicos en imágenes.
+El trabajo de los científicos ha servido para que las computadoras sean capaces de imitar funciones humanas como la memoria y el aprendizaje. 
+¿Cómo? Utilizando conceptos y métodos fundamentales de la física, los científicos desarrollaron tecnologías que utilizan estructuras en redes para procesar información. Algunas de esas estructuras ya se utilizan a diario.
+"El aprendizaje es una capacidad fascinante del cerebro humano", afirmó Ellen Moons, presidenta del Comité Nobel de Física, luego de leídos los nombre de los laureados. 
+"Nosotros podemos reconocer imágenes y asociarlas con memorias y experiencias pasadas. Billones de neuronas que están conectadas entre sí nos dan una capacidad cognitiva única", apuntó la miembro del jurado, quien indicó que "las redes neuronales artificiales (desarrolladas por los premiados) están inspiradas en las redes neuronales de nuestro cerebro". 
+Moons aseguró que el trabajo de los premiados no solo ha permitido avances en la astrofísica o el estudio de las partículas, sino que ya es "nuestra vida cotidiana", a través de tecnologías como "el reconocimiento facial y la traducción de lenguajes".
+La investigación de Hinton allanó el camino para sistemas de inteligencia artificial como ChatGPT.
+Fuente de la imagen, Getty Images
+La presidenta del Comité Nobel de Física aseguró que los estudios de Hopfield y Hinton pueden "ayudar a los seres humanos a tomar decisiones más rápidas y confiables a la hora de diagnosticar enfermedades".
+Sin embargo, también admitió que abren las puertas a situaciones peligrosas y riesgosas.
+Esto ya fue advertido por el propio Hinton, quien en 2023 renunció a su puesto como asesor de Google alertando sobre los riesgos que implicaba el rápido desarrollo de la inteligencia artificial.
+Nada más conocer sobre la concesión del premio a su persona, el profesor británico-canadinense insistió en sus llamados de atención.
+"No tenemos experiencia sobre lo que es tener cosas más inteligentes que nosotros", declaró Hinton por teléfono en la conferencia de prensa del Nobel.
+"Va a ser maravilloso en muchos aspectos, en áreas como la atención médica", aseveró, pero acto seguido indicó que "también tenemos que preocuparnos por una serie de posibles consecuencias negativas. En particular, la amenaza de que estas cosas se salgan de control".
+En una entrevista a la BBC, el ahora premiado realizó un aterrador pronóstico que parece salido del guión de una película de Hollywood. 
+"Mi suposición es que, dentro de cinco o 20 años, habrá una probabilidad del 50% de que tengamos que afrontar el problema de que la inteligencia artificial intente tomar el control de nuestras vidas", dijo.
+El Nobel de Física viene acompañado por un cheque de más de millón de dólares.
+Fuente de la imagen, Getty Images
+Considerado ampliamente como el premio más prestigioso del mundo para los físicos, el reconocimiento fue creado, junto con los galardones por logros en medicina, literatura y paz, en el testamento de Alfred Nobel.
+Desde 1901 se han concedido 117 veces y en la lista de ganadores anteriores figuran superestrellas científicas como Albert Einstein, Niels Bohr y Enrico Fermi.
+El año pasado, tres investigadores ganaron el premio por sus avances en el campo del estudio de los electrones.
+El premio fue para la física franco-sueca Anne L’Huillier, el científico francés Pierre Agostini y el húngaro Ferenc Krausz, quienes utilizaron destellos de luz de una duración de attosegundos (un billonésimo de segundo) para iluminar moléculas y proporcionar breves visiones de cómo viajan los electrones a gran velocidad.
+El australiano William Lawrence Bragg el honrado más joven -con 25 años- por sus trabajos en “el análisis de la estructura cristalina mediante rayos X”.
+Por su parte, el científico con mayor fue Arthur Ashkin, quien en 2018 recibió el premio a sus 96 años “por las pinzas ópticas y su aplicación a los sistemas biológicos”.
+Haz clic aquí para leer más historias de BBC News Mundo.
+También puedes seguirnos en YouTube, Instagram, TikTok, X, Facebook y en nuestro nuevo canal de WhatsApp, donde encontrarás noticias de última hora y nuestro mejor contenido.
+Y recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

@@ -1,0 +1,65 @@
+Google Gemini: qué es, cómo funciona y cómo puedes usarlo
+David Tomas
+cyberclick.es
+
+Por David Tomas, publicado el 29 enero 2024
+Google Gemini es el modelo de Inteligencia Artificial creado por la compañía Google que pretende ser el sucesor del actual modelo llamado PaLM. Como sabes, los modelos de Inteligencia Artificial son la tecnología que permite y hace posibles herramientas como ChatGPT o Bard, es decir, son el conjunto de algoritmos que permite que existan este tipo de chats.
+Gemini es una tecnología muy interesante porque en su presentación ha parecido ser superior a la tecnología de ChatGPT4, pero esto puede cambiar porque OpenaAI, la desarrolladora de ChatGPT, también está constantemente haciendo mejoras en sus algoritmos.
+Por otro lado, es un tipo de modelo de Inteligencia Artificial multimodal, esto quiere decir que no solo entiende información escrita, sino también imágenes, audio y código.
+
+
+
+Gemini está disponible en cuatro versiones, las cuales se adaptan a necesidades diferentes y tienen características concretas.
+
+Es la versión más simple de Gemini y está desarrollada para poder utilizarse en dispositivos con recursos limitados como los móviles o tablets. 
+Es más pequeño que los siguientes modelos, pero sigue siendo capaz de llevar a cabo muchas tareas como traducir, responder a preguntas sobre determinada información y ofrecer textos creativos. 
+Digamos que Gemini Nano es la versión Gemini para móvil y la que hace más accesible este tipo de tecnología en dispositivos más limitados, pues los otros modelos son demasiado grandes para poder ejecutarse en ellos. 
+Mientras escribimos este texto, Gemini Nano solo está disponible en el móvil de gama alta de Google llamado Pixel 8 Pro, pero la compañía quiere lanzarlo en otros dispositivos en el futuro.
+
+En este caso, estamos en una versión de Gemini que puede ejecutarse en dispositivos con mayor capacidad y que ha sido desarrollado con más parámetros, siendo así un modelo más grande que el anterior.
+Gemini es de código abierto, es decir, que los usuarios no van a tener que pagar para poder utilizarlo, redistribuirlo o mejorarlo.
+
+Podríamos decir que Gemini Pro es la versión comercial de Gemini, es decir, la versión de pago para desarrolladores y empresas. Aunque es gratuito para uso personal o para proyectos pequeños. Y es que, Gemini Pro tiene algunas características adicionales y otras mejoradas con respecto a Gemini, como por ejemplo:
+Al igual que Gemini Nano y Gemini, Gemini Pro está disponible en 10 idiomas entre los que se encuentran el español y se puede utilizar en Google Bard y en Google Cloud Platform.
+Podríamos decir que Gemini Pro es la equivalencia de GPT-3.5, pero a diferencia de esta Gemini Pro sí que puede ofrecer información actual, pues mientras redactamos este texto GPT-3.5 solo puede ofrecer información hasta el 31 de diciembre de 2022 (algo que puede ampliarse con el paso del tiempo). Sin embargo, esto es una limitación que pone la empresa para animar a los usuarios a que paguen la versión GPT-4, pues esta sí que ofrece información actualizada.
+
+Este es el modelo de Inteligencia Artificial más avanzado que ha conseguido crear Google AI hasta la fecha. 
+Tiene nada más y nada menos que un billón de parámetros, lo que le hace ser una versión que puede ofrecer respuestas más complejas y realizar tareas también más complicadas.
+Gemini Ultra ha sido entrenado con una gran cantidad de fuentes de información y está desarrollado pensando en grandes proyectos.
+Esto es lo que puede hacer Gemini Ultra que las versiones anteriores no:
+Aunque Gemini Ultra todavía está en desarrollo y la compañía no ha dado muchos más datos sobre este modelo, se cree que será de pago en cuanto salga a la luz y que se podrá utilizar en Google Bard Advance.
+Por lo que sabemos hasta ahora, Gemini Ultra es el claro competidor de GPT-4, la última versión de modelo de Inteligencia Artificial desarrollada por OpernAI. Además, le ha conseguido superar en muchos aspectos.
+
+Como decíamos antes, no debemos confundir los chatbots o los chats conversacionales (con los que podemos interactuar) con la tecnología que los hace posibles.
+ChatGPT es la Inteligencia Artificial conversacional desarrollada por OpenAl, mientras que Google Bard es lo mismo pero desarrollado por Google AI.
+En cambio, Gemini es un modelo de Inteligencia Artificial, es decir, lo que puede hacer posible que existan herramientas como ChatGPT o Google Bard.
+Concretamente, en el pasado Google Bard fue desarrollado con el modelo de Inteligencia Artificial PaLM, pero ahora Google lo ha sustituido por Gemini con el objetivo de que Google Bard se perfeccione y ofrezca mejores respuestas.
+En resumen, ChatGPT es el chat conversacional creado gracias al modelo de Inteligencia Artificial GPT-4 (la última versión hasta la fecha), y Google Bard es el chat desarrollado con el modelo de IA Gemini.
+
+Como cualquier otro modelo de Inteligencia Artificial, Gemini se entrena con una gran cantidad de datos. En el caso concreto de este modelo, se ha desarrollado con datos recopilados de internet.
+Lo que se hace con estos datos es ofrecérselos a los diferentes algoritmos con los que funcionan estos modelos para que se entrenen y aprendan a entender el lenguaje humano. Es de esta forma como los modelos de Inteligencia Artificial consiguen generar respuestas de forma muy parecida a como lo puede hacer un ser humano.
+Como ya hemos dicho, Gemini es un modelo multimodal, lo que quiere decir que entiende de fábrica tanto texto como audio, imágenes y código sin necesidad de implementar ningún complemento. Y esto es algo muy interesante, ya que GPT no tiene esta capacidad.
+
+Aunque Google Gemini esté disponible en español en su versión normal, Pro y Nano, puede que por cuestiones de regulación no esté disponible en España o Europa. ¿Quiere decir eso que no vas a poder acceder a él? Para nada.
+Si no está disponible en tu ubicación siempre puedes recurrir a las VPN (red privada virtual), un tipo de tecnología que te permite fingir que estás en otra ubicación para poder acceder a contenido no disponible en la tuya. De esta forma, podrías poner tu ubicación en Estados Unidos, por ejemplo, donde sí está disponible Gemini.
+De todas formas, si está disponible en tu ubicación, simplemente tendrás que utilizar herramientas como por ejemplo Google Bard o Google Cloud Platform para poder beneficiarte de Gemini.
+Pese a todo ello, esto no quiere decir que siempre vayas a necesitar una VPN para acceder a Google Gemini, pues es posible que en el futuro las cosas cambien y este modelo de Inteligencia Artificial se pueda utilizar de forma normal en Europa.
+
+En este apartado nos vamos a centrar en dos de sus características más importantes: su tamaño y su etiquetado.
+En cuanto al tamaño, Gemini (en su versión de código abierto) es un modelo de Inteligencia Artificial mediano con 1.5B de parámetros. Esto quiere decir que tiene grandes capacidades para generar respuestas complejas y para aprender. Pero si lo comparamos con otros modelos como LaMDA o GPT-3, que son de gran tamaño, sería un poco más reducido.
+El tamaño de un modelo de lenguaje nos indica su capacidad de aprendizaje, de precisión, de generar textos complejos y de ser coherente.
+Sobre el etiquetado, decir que esta característica hace referencia al proceso de etiquetar los datos que se utilizan en el entrenamiento de los modelos de lenguaje. Esto se hace para que estos modelos sean capaces de diferenciar entre frases, palabras y conceptos y que puedan aprender mejor su significado.
+En el caso de Gemini, está etiquetado con datos de código y texto, lo que le permite ser más preciso que aquellos modelos que no utilizan el etiquetado.
+
+Gemini puede generar código, texto e imágenes, así como entender lo que se le muestra para que lo explique. En este vídeo que te dejamos a continuación puedes ver de todo lo que es capaz.
+
+Aunque puede que parte de las funcionalidades que veas todavía no hayan sido lanzadas al público, en este vídeo se puede ver cómo Gemini puede razonar de forma lógica y espacial, comprender algo culturalmente, traducir una imagen y crear juegos, entre otras muchas cosas. Seguro que muchas de ellas te dejan con la boca abierta.
+En resumen, Gemini es todavía una Inteligencia Artificial en desarrollo que no ha demostrado todo su potencial, pero seguro que lo vamos viendo poco a poco. De todas formas, ya ha demostrado ser muy revolucionario, sobre todo en su versión Nano.
+
+CEO y cofundador de Cyberclick. Cuenta con más de 25 años de experiencia en el mundo online. Es ingeniero y cursó un programa de Entrepreneurship en MIT, Massachusetts Institute of Technology. En 2012 fue nombrado uno de los 20 emprendedores más influyentes en España, menores de 40 años, según la Global Entrepreneurship Week 2012 e IESE. Autor de "La empresa más feliz del mundo" y "Diario de un Millennial". 
+CEO and co-founder of Cyberclick. David Tomas has more than 25 years of experience in the online world. He is an engineer and completed an Entrepreneurship program at MIT, Massachusetts Institute of Technology. In 2012 he was named one of the 20 most influential entrepreneurs in Spain, under the age of 40, according to Global Entrepreneurship Week 2012 and IESE. Author of "The Happiest Company in the World" and "Diary of a Millennial".
+
+
+
+
+

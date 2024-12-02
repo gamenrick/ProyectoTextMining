@@ -1,0 +1,67 @@
+Ciberseguridad e Inteligencia Artificial Generativa - Blog de hiberus
+José Manuel Noja
+hiberus.com
+
+Dos de los conceptos más nombrados en los últimos años en la sociedad tecnológica en la que estamos inmersos son Ciberseguridad e Inteligencia Artificial Generativa. Han dejado de ser nociones abstractas, o cercanas a la ciencia ficción, para convertirse en una realidad omnipresente en nuestras vidas.  
+Sistemas de domótica, plataformas de entretenimiento o aplicaciones de creación de contenido son de uso cotidiano, y esta mezcla de diferentes tecnologías y el enorme conjunto de datos que manejan hacen que la Ciberseguridad y la Inteligencia Artificial Generativa sean dos de los principales focos tecnológicos en los que debamos poner especial atención. 
+La inteligencia artificial generativa (IA generativa) es una rama de la IA que se especializa en la creación de contenido nuevo, como textos, imágenes, videos y música, a partir de datos ya existentes. Esta tecnología emplea modelos avanzados de aprendizaje automático, sobre todo redes neuronales profundas, para detectar patrones en grandes volúmenes de datos y generar resultados originales que imitan esos patrones. 
+En esencia, la IA generativa utiliza redes neuronales artificiales para crear datos sintéticos que se asemejan mucho a los datos reales, abriendo un amplio abanico de posibilidades creativas y prácticas. 
+Como suele ocurrir con todas las nuevas tecnologías que avanzan rápidamente, se generan múltiples preguntas en torno a la seguridad de nuestros datos. Desde agosto de 2024 existe una Ley de Inteligencia Artificial, aprobada por el Parlamento Europeo, cuyo objetivo es introducir un marco normativo y jurídico único para el gobierno de la IA y sus sistemas que operen en la Unión Europea. 
+El empleo por parte de los ciberdelincuentes de IA Generativa para crear correos electrónicos de phishing que parezcan más creíbles y legítimos; el uso de algoritmos de aprendizaje automático combinados con software de mapeo facial para crear deepfakes convincentes o su utilización para lanzar ataques ransomware y otros ataques automatizados que se propagan y/o mutan muy rápidamente y son prácticamente imposibles de neutralizar utilizando mecanismos de respuesta dependientes de humanos, hace que resulte de vital importancia asegurar que estos datos estén protegidos contra accesos no autorizados y ciberataques. 
+La ciberseguridad debe aprovechar el uso de la IA para analizar patrones y detectar anomalías en el comportamiento de los usuarios o en el tráfico de red mediante análisis forenses en ciberseguridad y otras técnicas y estrategias, lo que ayuda a identificar amenazas; también, utilizarla para su beneficio generando respuestas automáticas a incidentes de seguridad, reduciendo así el tiempo de respuesta y minimizando el impacto de los ataques.  
+La repercusión de la IA en la ciberseguridad va en aumento con los crecientes avances tecnológicos y con la llegada de la imputación cuántica. Es por ello que la monitorización constante y las revisiones periódicas en profundidad deben ayudarnos a la identificación de posibles brechas de seguridad. Gracias a la capacidad para procesar grandes cantidades de datos y reconocer patrones complejos, la tecnología Deep Learning está ayudando a contribuir a una búsqueda, gestión y respuesta a amenazas más precisa. Esto nos permite estar actualizados sobre amenazas más recientes y ajustar nuestras defensas 
+No sólo hay que evaluar la importancia de la ciberseguridad desde el punto de vista de fortalecer nuestros sistemas para prevenir ataques externos; además de la amenaza externa, debe preocuparnos el uso de la IA en nuestro entorno empresarial. El rápido crecimiento y la normalización del uso de esta tecnología supone un riesgo como, por ejemplo, que el tiempo que se dedica al aprendizaje es menor y los controles de seguridad para evitar pérdida de datos no son tan exhaustivos o carecen de la supervisión continua. Cuando un empleado carga un archivo corporativo a la hora de plantear una pregunta a una IA Generativa, ¿toma la precaución de que ese archivo no contenga información confidencial? ¿Siempre? ¿Ese contenido está siempre bajo control de nuestra empresa?  
+En el ámbito del desarrollo, conocer y seguir estrategias de IA responsable que recomiendan adoptar plataformas como Google,  OpenAI, AWS o, por ejemplo, la ciberseguridad en Microsoft 365, nos ayudará a proteger los activos de la empresa. 
+Existen una serie de prácticas y medidas implementadas que aseguran que los modelos de inteligencia artificial generativa funcionen de manera ética y segura. Algunas de estas prácticas incluyen:
+También es fundamental que los desarrolladores y usuarios de estos modelos asuman su responsabilidad y los utilicen de manera ética y no generen contenido dañino o engañoso. Y, por supuesto, deben cumplir con las leyes y normativas de protección de datos establecidas por los organismos reguladores. 
+Existen cerca de 12.000 herramientas de IA disponibles, aunque casi todas ellas son variaciones de apenas un puñado de ellas que ejercen de matriz principal. Cada aplicación de IA tiene diferentes políticas de privacidad y retención de datos que es poco probable que los empleados revisen antes de continuar con la consulta. Peor aún, estas políticas cambian con el tiempo, lo que dificulta comprender la exposición al riesgo de una empresa en cada momento. Es por ello que se hace necesario tomar medidas concretas para proteger los activos de datos de la empresa. Algunas de estas medidas pueden ser:
+En resumen, la Inteligencia Artificial Generativa ha llegado para quedarse y presenta un desafío, pero es importante aprovechar la oportunidad para integrarla como parte de nuestros sistemas de ciberseguridad. El aumento de amenazas hace que sea imposible responder a ellas utilizando tan solo el factor humano. Debemos utilizar todo su potencial para desarrollar, implementar y revisar herramientas que garanticen la seguridad de nuestro entorno empresarial. 
+A medida que la inteligencia artificial avanza, también surgen nuevos retos. Sin embargo, si nos mantenemos actualizados y aplicamos estrategias de seguridad basadas en datos y bien pensadas, podemos superar estos obstáculos y aprovechar el potencial de la IA generativa mientras protegemos la información.
+En hiberus, ofrecemos una serie de servicios para proteger y ayudar a tu organización a proteger sus datos a través de la IA. Desde nuestra área de Sistemas, ofrecemos servicios de asesoramiento de la mano de un equipo de expertos en derecho tecnológico para que puedas alcanzar tus objetivos de negocio, y te ayudamos a cumplir las normativas de ciberseguridad.
+Contacta con nuestro equipo de ciberseguridad
+
+
+
+
+
+
+
+
+
+
+
+
+
+He leído y acepto la Política de privacidad
+
+Me gustaría recibir comunicaciones de marketing de Hiberus y sobre sus productos, servicios y eventos.
+
+
+
+
+
+
+
+
+
+Great read
+I think AI will also play a great role in all kind of business
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+
+Nombre*
+Email*
+Website
+ Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.
+ 
+
+
+Te mantenemos al dia de tendencias y novedades sobre el futuro del trabajo, formas de hacer crecer tu negocio, liderazgo digital y muchas cosas más..
+Newsletter
+
+
+
+
+
+He leído y acepto la Política de privacidad
+
+

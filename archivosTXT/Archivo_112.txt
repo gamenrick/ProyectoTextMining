@@ -1,0 +1,30 @@
+El Deep Learning y su uso en la Medicina - Máster en Deep Learning : Universidad de Alcalá
+Autor desconocido
+master-deeplearning.com
+
+El mundo de la Medicina está en constante evolución. Debe estar a la vanguardia de las nuevas técnicas que pueden ayudar tanto a profesionales del sector como a pacientes. Y en un mundo cada vez más tecnológico, es indispensable que estos nuevos inventos formen parte de la Medicina. Uno de ellos es el llamado Deep Learning, una disciplina que ha levantado mucho interés en las últimas décadas. Pero, ¿cómo puede ayudar al mundo de la Medicina? ¡Sigue leyendo!
+
+Con el auge de las nuevas tecnologías ha surgido una necesidad de crear nuevos términos. De modo que cada día podemos ver nuevas expresiones o composiciones para designar a estos ámbitos. Inteligencia Artificial, Big Data, Data Science… estos son solo algunos ejemplos.
+De modo que…¿a qué nos referimos exactamente cuando hablamos del Deep Learning? Antes de nada hay que aclarar que hablamos de un tipo de Inteligencia Artificial (IA). Se trata de un campo que permite a la máquina aprender por sí sola de los errores y la información que recibe. Los algoritmos que la conforman son capaces de identificar patrones y anomalías en el comportamiento.
+Gracias a esto, podemos decir que se puede crear un modelo que aprende y previene futuros errores. Estamos hablando de una tecnología en desarrollo y que podría solucionar la vida de los usuarios, dejándolos con las decisiones importantes.
+Sin embargo, son muchas las personas que tienden a confundir términos. Y esto ocurre con el Deep Learning vs Machine Learning.  A simple vista parecen iguales. Incluso podrían ser sectores que se entrelazasen entre sí. Pero hay algunas diferencias de las que podríamos hablar.
+El punto en común que tienen es que ambos forman parte de la Inteligencia Artificial. Pero por un lado, el Machine Learning se ocupa del aprendizaje guiado o supervisado que ayudará a la máquina a identificar el proceso de manera automática.
+Por otro lado, en el Deep Learning la máquina aprende por sí sola de los errores que recibe. Como podemos ver son términos muy similares pero con grandes diferencias en la manera de trabajar.
+Ya conocemos la definición de Deep Learning. Ahora podemos pasar a conocer qué objetivos tiene esta disciplina para este 2019. Como hemos comentado, estamos hablando de un ámbito en desarrollo, en el que toman parte cada vez más instituciones y compañías.
+Para 2018 se esperaron mejoras en startups de hardware, meta-learning que reemplazara al SDG, modelos generativos o en la brecha semántica. Además, también se esperaba un aumento en ámbitos de enseñanza y de la ética de la IA. Sin embargo, estos objetivos no se cumplieron. No obstante, esto no ha supuesto un problema para la proposición de nuevos objetivos en 2019. Aquí os traemos unos cuantos que se intentarán cumplir este año.
+Para este 2019 se espera un mayor control de los modulados generativos. También que haya un mayor avance en modelos basados en GAN y Flow.  Y es que para que la máquina pueda imitar un comportamiento, debe haber un modelo descriptivo que lo refleje.
+El Deep Learning ha mostrado sus puntos fuertes proporcionando predicciones de sistemas de alta dimensión. Aún así, todavía no puede formular sus propios abstractos. Para compensar esta carencia, en el futuro veremos soluciones de procesos duales híbridos que incorporan modelos existentes en combinación con el aprendizaje de modelos.
+Para este año se prevé una mayor investigación en modelos generativos que migren a las herramientas de diseño existentes. El Deep Learning seguirá introduciéndose como componente en el flujo de trabajo humano.
+Como podemos ver, estamos hablando de un sector con un largo futuro por delante. Probablemente será cuestión de tiempo que nos sorprenda con sus nuevos avances.
+El uso de las nuevas tecnologías es indudable en diversos ámbitos de la sociedad. Cada vez más usuarios disfrutan de las ventajas que ofrecen estos dispositivos. Y no son los únicos. La Economía, las Finanzas, son algunos de los ámbitos que también utilizan las nuevas tecnologías.
+Y el mundo de la Medicina no iba a ser diferente.
+Estamos hablando de un sector en constante cambio y evolución que necesita de los últimos avances para proporcionar los mejores servicios a sus pacientes. Es por eso que hay muchos ejemplos de la implantación del Deep Learning en el campo de la Medicina. Aquí os traemos algunos ejemplos.
+En Copenhaguen, Dinamarca, los servicios de emergencia están utilizando este asistente de voz. Su tarea es analizar las conversaciones entre los profesionales y los pacientes y así extraer los datos. Gracias a Corti, se han salvado numerosas vidas, ya que en situaciones de emergencia, los pacientes suelen estar bajo mucha presión. 
+La IA se ha convertido en uno de los aliados más poderosos en la lucha contra el cáncer. Este sistema fue lanzado por el Departamento TI del Gobierno de Moscú. Se trata de un código fuente abierta de detección de cáncer. Esta aplicación usa Deep Learning para encontrar signos de cáncer de pulmón en las radiografías.
+Aunque no se trata de una aplicación definitiva que garantice la salud y que evite los riesgos de los pacientes, sí puede salvar muchas vidas. Y como estos son varios los ejemplos del uso del Deep Learning en la Medicina. Es seguro decir que nos encontramos ante un camino largo y beneficioso.
+Si te interesa este ámbito y quieres formar parte de ello, entonces únete a nosotros. La Universidad de Alcalá ha creado un Máster en Deep Learning para formar a sus alumnos y convertirlos en expertos cualificados. Si quieres saber más, no dudes en contactar con nosotros. Estaremos encantados de proporcionarte más información. ¡Te esperamos!
+ Rellene este formulario para enviarnos cualquier consulta. En breve nos pondremos en contacto contigo.
+ 
+ 
+ Madrid (España)
+ Madrid (España)

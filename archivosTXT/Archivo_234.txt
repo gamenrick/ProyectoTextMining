@@ -1,0 +1,70 @@
+Ejemplos de IA generativa | Google Cloud
+Autor desconocido
+google.com
+
+Descubre cómo puede ayudar Gemini a tu empresa en nuestro evento digital Gemini at Work, que se celebrará el 24 de septiembre. Inscríbete ya.
+Transforma la creación y el descubrimiento de contenido, la investigación, el servicio de atención al cliente y la eficiencia de los desarrolladores con la potencia de la IA generativa de Google Cloud.
+Los nuevos clientes pueden recibir hasta 300 USD en crédito gratis para probar los productos de IA de Google Cloud.
+Cómo utilizan las empresas la IA generativa
+¿Cómo funciona la IA generativa?
+Soluciones de IA generativas de Google Cloud
+Vídeo: Introduction to Generative AI
+22:07
+Información general
+La IA generativa o inteligencia artificial generativa hace referencia al uso de la IA para crear contenido, como texto, imágenes, música, audio y vídeos.
+La IA generativa se basa en modelos fundacionales, es decir, grandes modelos de IA, que pueden realizar varias tareas a la vez y llevar a cabo tareas preconfiguradas, como resúmenes, preguntas y respuestas, clasificación, etc. Además, al requerir una preparación mínima, los modelos básicos se pueden adaptar a casos prácticos concretos con muy pocos datos de ejemplo.
+La IA generativa usa un modelo de aprendizaje automático para aprender los patrones y las relaciones de un conjunto de datos de contenido creado por personas. A continuación, utiliza los patrones aprendidos para generar contenido.
+La forma más habitual de preparar un modelo de IA generativa es usar el aprendizaje supervisado, que es un conjunto de contenido creado por personas y las etiquetas correspondientes. A continuación, aprende a generar contenido similar al creado por personas y etiquetado con las mismas etiquetas.
+La IA generativa procesa gran cantidad de contenido y ofrece información valiosa y respuestas mediante texto, imágenes y formatos fáciles de usar. La IA generativa se puede usar para:
+- Mejorar las interacciones con los clientes a través de chats mejorados y experiencias de búsqueda
+- Consultar enormes cantidades de datos sin estructurar a través de interfaces de conversación y resúmenes
+- Ayudar con tareas repetitivas como responder a solicitudes de propuestas, localizar contenido de marketing en cinco idiomas y comprobar el cumplimiento de los contratos con los clientes
+Con Vertex AI, puedes interactuar con modelos básicos, como Gemini, e insertarlos en tus aplicaciones, sin necesidad de tener experiencia en aprendizaje automático. Accede a modelos básicos en Model Garden, ajusta modelos con una interfaz de usuario sencilla en Vertex AI Studio o usa modelos en un cuaderno de ciencia de datos.
+Vertex AI Agent Builder  ofrece a los desarrolladores la forma más rápida de crear buscadores basados en IA generativa y agentes de IA. 
+Además, Gemini para Google Cloud actúa como un colaborador de IA siempre disponible que ayuda a usuarios de todos los niveles donde la necesitan.
+Colabora con los expertos de Google para ponerte en marcha rápidamente con la IA generativa. Descubre nuestra oferta de servicios de consultoría de IA generativa, que puede ayudar a tu organización a:
+- Crear nuevo contenido de texto y de imágenes
+- Descubrir tendencias y obtener información valiosa a partir de los datos
+- Resumir para tomar decisiones más rápidamente
+- Automatizar soluciones y procesos
+- Producir tus soluciones de IA generativa
+Echa un vistazo a toda la cartera de servicios de consultoría de Google Cloud.
+
+9:37
+Cómo funciona
+La IA generativa está pensada para abrir paso en una nueva ola de experiencias multimodales e interactivas que transforman la forma de interactuar con la información, las marcas y entre sí. Gracias a la experiencia de décadas de investigación, innovación e inversión en IA, Google Cloud ofrece a empresas y gobiernos la posibilidad de generar texto, imágenes, código, vídeos, audio y más a partir de indicaciones sencillas de lenguaje natural.
+Usos habituales
+La IA generativa puede ayudar a los agentes del servicio de atención al cliente, ya que les permite sintetizar respuestas de bases de conocimiento internas y referencias externas rápidamente, así como resumir conversaciones para resolver problemas rápidamente. Los analistas pueden ver fácilmente las analíticas del centro de llamadas y de los clientes con modelos predictivos, lo que les permite personalizar la experiencia de un cliente. Para mejorar las tasas de desviación, las organizaciones pueden usar la IA generativa para generar automáticamente respuestas de preguntas frecuentes y mejorar sus sitios web con búsqueda multimodal y resúmenes de contenido.
+Guía de despliegue: repositorio de GitHub
+Documentación: Primeros pasos con la IA conversacional
+Codelab: Crear una aplicación de chat generativa 
+La IA generativa puede ayudar a los agentes del servicio de atención al cliente, ya que les permite sintetizar respuestas de bases de conocimiento internas y referencias externas rápidamente, así como resumir conversaciones para resolver problemas rápidamente. Los analistas pueden ver fácilmente las analíticas del centro de llamadas y de los clientes con modelos predictivos, lo que les permite personalizar la experiencia de un cliente. Para mejorar las tasas de desviación, las organizaciones pueden usar la IA generativa para generar automáticamente respuestas de preguntas frecuentes y mejorar sus sitios web con búsqueda multimodal y resúmenes de contenido.
+Guía de despliegue: repositorio de GitHub
+Documentación: Primeros pasos con la IA conversacional
+Codelab: Crear una aplicación de chat generativa 
+Gemini Code Assist ofrece asistencia basada en IA para ayudar a los desarrolladores a crear aplicaciones con mayor velocidad y calidad en editores de código populares como VS Code y JetBrains. Es compatible con tu código base privado esté donde esté, incluso en distintos repositorios. 
+Gracias a la compatibilidad con la IA generativa en Vertex AI, las empresas pueden ajustar Codey, una familia de modelos de código, usando su propio código base. La posibilidad de personalizar estos modelos te ayudará a generar código que cumpla los estándares y las convenciones de programación establecidos, al tiempo que aprovechas los endpoints personalizados y el código base propio para las tareas de generación de código. 
+Guía de despliegue: repositorio de GitHub
+Guía de configuración de Gemini Code Assist
+Gemini Code Assist ofrece asistencia basada en IA para ayudar a los desarrolladores a crear aplicaciones con mayor velocidad y calidad en editores de código populares como VS Code y JetBrains. Es compatible con tu código base privado esté donde esté, incluso en distintos repositorios. 
+Gracias a la compatibilidad con la IA generativa en Vertex AI, las empresas pueden ajustar Codey, una familia de modelos de código, usando su propio código base. La posibilidad de personalizar estos modelos te ayudará a generar código que cumpla los estándares y las convenciones de programación establecidos, al tiempo que aprovechas los endpoints personalizados y el código base propio para las tareas de generación de código. 
+Guía de despliegue: repositorio de GitHub
+Guía de configuración de Gemini Code Assist
+La IA generativa ayuda a los profesionales del marketing a interactuar con los clientes y a conseguir resultados empresariales positivos.
+Estos son algunos de los usos principales:
+Guía de despliegue: repositorio de GitHub 
+Ver arquitectura de referencia de ejemplo
+Guía sobre la IA generativa en Vertex AI 
+La IA generativa ayuda a los profesionales del marketing a interactuar con los clientes y a conseguir resultados empresariales positivos.
+Estos son algunos de los usos principales:
+Guía de despliegue: repositorio de GitHub 
+Ver arquitectura de referencia de ejemplo
+Guía sobre la IA generativa en Vertex AI 
+Transforma la experiencia de tu sitio web y tu aplicación móvil con la IA generativa. Las herramientas de generación de contenido de Vertex AI, con la tecnología de Gemini, te permiten generar texto, audio e imágenes a gran escala. Localiza y traduce contenido para atraer a clientes en nuevos mercados y tener una relevancia cultural. Desarrolla experiencias de búsqueda de última generación en tu sitio web para que los usuarios encuentren información precisa rápidamente. Despliega agentes de IA para obtener información y enviar transacciones básicas, sin dejar de tener un control exhaustivo sobre lo que dice tu agente de IA. 
+Guía de despliegue: repositorio de GitHub
+Despliega una base de conocimientos de preguntas frecuentes sobre la IA generativa
+Ver arquitectura de referencia de ejemplo
+Transforma la experiencia de tu sitio web y tu aplicación móvil con la IA generativa. Las herramientas de generación de contenido de Vertex AI, con la tecnología de Gemini, te permiten generar texto, audio e imágenes a gran escala. Localiza y traduce contenido para atraer a clientes en nuevos mercados y tener una relevancia cultural. Desarrolla experiencias de búsqueda de última generación en tu sitio web para que los usuarios encuentren información precisa rápidamente. Despliega agentes de IA para obtener información y enviar transacciones básicas, sin dejar de tener un control exhaustivo sobre lo que dice tu agente de IA. 
+Guía de despliegue: repositorio de GitHub
+Despliega una base de conocimientos de preguntas frecuentes sobre la IA generativa
+Ver arquitectura de referencia de ejemplo

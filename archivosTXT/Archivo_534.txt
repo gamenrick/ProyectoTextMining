@@ -1,0 +1,56 @@
+IA: el comercio ilegal de imágenes de abuso sexual infantil generadas por inteligencia artificial - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Angus Crawford y Tony Smith
+BBC News
+Algunos pedófilos utilizan la tecnología de Inteligencia Artificial (IA) para crear y vender material que simula situaciones reales de abuso sexual infantil, cuenta una investigadora a la BBC.  
+Logran el acceso a las imágenes pagando subscripciones a cuentas en sitios populares de intercambio de contenido como la plataforma Patreon.
+La empresa declaró que tiene una política de “cero tolerancia” contra este tipo de imágenes en su sitio.
+El Consejo Nacional de Jefes de Policía en Reino Unido (NPCC) expresó que era “indignante” que algunas plataformas estuvieran percibiendo “enormes ganancias” al no adoptar una “responsabilidad moral”.
+Por su parte, la agencia de inteligencia y ciberseguridad británica GCHQ respondió al informe diciendo: “Los criminales de abuso sexual infantil adoptan todas las tecnologías y algunos creen que el futuro del material de abuso sexual infantil yace en el contenido generado por IA”.
+Los productores de las imágenes de abuso están utilizando un programa de IA llamado Stable Diffusion, cuya función original era para generar imágenes para arte o diseño gráfico.
+La IA posibilita a las computadoras realizar tareas que típicamente requieren inteligencia humana.
+El software de Stable Diffusion permite a los usuarios describir la imagen que buscan, a través de palabras clave, para que el programa luego genere esa imagen.
+Pero la BBC ha encontrado que se está usando para crear imágenes realistas de abuso sexual infantil, incluyendo la violación de bebés y menores.
+Los equipos de la policía británica que investigan el abuso infantil online dicen ya haberse topado con ese contenido.
+La periodista independiente Octavia Sheepshanks investigó el asunto durante varios meses. Se puso en contacto con la BBC a través de la organización benéfica Sociedad para la Prevención de la Crueldad de los Niños (NSPCC, en inglés) para hacer público su trabajo. 
+“Desde que la generación de imágenes con IA se hizo posible, ha habido una enorme aluvión… no sólo de niñas muy jóvenes, se trata de [pedófilos] hablando de menores”, expresó.
+Una “pseudo imagen” generada por una computadora que muestra abuso sexual infantil es considerada en Reino Unido como una imagen real y su posesión, publicación o transferencia son ilegales.
+El director de protección infantil del consejo NPCC, Ian Critchley, dijo que sería incorrecto alegar que no se está causando daños a alguien por el hecho de que ningún menor real está representado en ese tipo de imágenes “sintéticas”.
+Critchley advirtió que un pedófilo podría “progresar a lo largo de esa escala de ofensa partiendo del pensamiento, a lo sintético, hasta actualmente abusar un niño de verdad”. 
+Las imágenes de abuso son compartidas a través de un proceso de tres etapas:
+Algunos de los creadores de las imágenes las están colocando en una popular plataforma de redes sociales llamada Pixiv, que es principalmente usada por artistas de comparten manga y anime.
+Sin embargo, debido a que el sitio está basado en Japón, donde el intercambio de dibujos animados sexuales y las ilustraciones de menores no son ilegales, los creadores lo utilizan para promover su trabajo en grupos y vía etiquetas, que crean índices de tópicos según palabras clave.
+Un portavoz de Pixiv señaló que el sitio pone mucho énfasis en abordar este tema. Afirmó que el 31 de mayo había prohibido toda representación realista de contenido sexual que involucrara menores.
+La compañía aseguró que había fortalecido proactivamente sus sistemas de monitoreo y estaba destinando recursos sustanciales para contrarrestar los problemas relacionados al desarrollo de la IA.
+Octavia Sheepshanks dijo a la BBC que los usuarios parecían estar produciendo imágenes de abuso sexual infantil a una escala industrial.
+“El volumen es inmenso, hasta el punto en que [los creadores] dicen que ‘apuntamos a producir al menos 1000 imágenes al mes’”, informó la periodista independiente.
+Los comentarios de los usuarios sobre las imágenes individuales en Pixiv djan claro que tienen interés sexual en menores, con algunos de ellos incluso ofreciendo aportar imágenes y videos de abuso que no ha sido generados por IA.
+Sheepshanks ha estado monitoreando algunos de estos grupos en la plataforma.
+“Entre esos grupos, que tendrán 100 miembros, la gente estará compartiendo, ‘Oh, mira, aquí hay un vínculo a la cosa real’”, dice.
+“Las cosas más horrorosas, ni siquiera sabía que existieran esas palabras [descripciones]”.
+Fuente de la imagen, Getty Images
+Muchas de las cuentas en Pixiv incluyen vínculos a sus biografías que dirigen a la gente a lo que llaman sus “contenidos sin censura” dentro del sitio de contenido compartido Patreon, que está basado en EE.UU.
+Patreon está valorado en US$4.000 millones y afirma contar con más de 250.000 creadores, la mayoría de estos son cuentas legítimas que pertenecen a celebridades, periodistas y escritores bien conocidos.
+Sus seguidores pueden apoyar a los creadores afiliándose a una subscripción que les da acceso a blogs, podcasts, videos e imágenes por un costo que empieza en US$3,85. 
+Pero nuestra investigación encontró cuentas de Patreon que ofrecen vender imágenes obscenas fotorrealistas de niños, con diferentes niveles de precio dependiendo del tipo de material requerido.
+Uno escribió en su cuenta: “Yo entreno a mis niñas en mi PC”, añadiendo que despliegan “sumisión”. Por US$8,30 al mes, otro usuario ofreció “arte exclusivo no censurado”.
+La BBC envió a Patreon un ejemplo, que la plataforma confirmó como “semi realista y viola nuestras políticas”. Dijo que la cuenta había sido inmediatamente retirada.
+Patreon afirmó que tiene una política de “tolerancia cero”, insistiendo que: “Los creadores no pueden financiar contenido dedicado a temas sexuales que involucran a menores”.
+La compañía dijo que el aumento de contenido dañino generado por IA en internet era “real y preocupante”, añadiendo que había “identificado y eliminado “crecientes cantidades” de dicho material.
+“Ya prohibimos material sintético de explotación infantil generado por IA”, manfiestó, describiendo el sitio como “muy proactivo”, con equipos, tecnología y socios dedicados a “proteger a los adolescentes”.
+El generador de imágenes de IA Stable Diffusion fue creado como una colaboración internacional entre académicos y una serie de compañías, encabezados por la firma Stability AI.
+Se han lanzado varias versiones, con restricciones redactadas dentro de la codificación que controlan el tipo de contenido que se puede crear.
+Pero el año pasado, una versión anterior de “fuente abierta” fue lanzada públicamente que permitía a los usuarios remover cualquier filtro y capacitarse para producir cualquier imagen, incluyendo las ilegales.
+Stability AI dijo a la BBC que “prohíbe todo uso indebido como propósito ilegal o inmoral en nuestra plataforma, y nuestras políticas aclaran que esto incluye [material de abuso sexual infantil]”.
+“Apoyamos firmemente los esfuerzos de los cuerpos policiales contra aquellos que abusan nuestros productos con propósito ilegal o nefario”.
+A medida que la IA se desarrolla rápidamente, han surgido dudas sobre los riesgos futuros que podría presentar para la privacidad de las personas, sus derechos humanos y seguridad.
+Jo [un pseudónimo por razones de seguridad], directora de la misión contra el abuso sexual infantil de GCHQ, dijo a la BBC: “GCHQ apoya a las agencias policiales para que estén a la delantera de las amenazas emergentes como el contenido generado por IA y asegurar que no haya un refugio para los ofensores”.
+Ian Critchley del NPCC declaró que también estaba preocupado que el aluvión de imágenes realistas de IA o “sintéticas” pudiera entorpecer el proceso de identificación de las víctimas reales de abuso.
+“Crea un requerimiento adicional, en términos de la vigilancia policial y las agencias del orden para identificar dónde un menor actual, dondequiera que esté en el mundo, está siendo abusado en lugar de un niño artificial o sintético”, explicó.
+Critchley señaló además que creía que era una momento crucial para la sociedad.
+“Podemos procurar que internet y la tecnología permitan crear las fantásticas oportunidades para los jóvenes, o que se vuelvan un lugar mucho más perjudicial”, concluyó.
+Recuerda que puedes recibir notificaciones de BBC News Mundo. Descarga la última versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+¿Ya conoces nuestro canal de YouTube? ¡Suscríbete!
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

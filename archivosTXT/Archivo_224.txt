@@ -1,0 +1,98 @@
+¿Asesino de ChatGPT? Qué significa Gemini 1.5 para el futuro de la IA de Google
+Om Kamath
+meetcody.ai
+
+
+
+Google contra OpenAI: ¿Gana Google?
+Tras no dar en el clavo con Bard en el tren de la IA, Google acaba de presentar su último producto de IA, Gemini. Como parte de este lanzamiento, Bard ha sido rebautizado como Gemini y ahora incorpora el nuevo Gemini Pro LLM. Profundicemos para comprender el alcance de estos cambios.
+¿Qué es Gemini AI?
+Gemini representa el nuevo modelo de lenguaje de gran tamaño (LLM) de Google, tras el lanzamiento de LaMDA y PaLM. A diferencia de sus predecesores, Gemini es multimodal de forma nativa, capaz de comprender texto, imágenes, voz y código, y cuenta con mayores capacidades de comprensión y razonamiento.
+Variantes de Gemini AI
+La IA Gemini consta de tres grandes modelos lingüísticos:
+
+Gemini Nano: Optimizado para la eficiencia en el dispositivo, ofrece soluciones rápidas de IA directamente en su dispositivo personal.
+Gemini Pro: Un modelo versátil y escalable, experto en abordar diversas tareas con un sólido rendimiento. Accesible en la versión gratuita de la interfaz de chat Gemini.
+Gemini Ultra: la cúspide de la serie Gemini, que potencia la resolución de problemas complejos y hace avanzar las fronteras de las capacidades de la IA. Exclusivo para suscriptores del Plan Google One AI Premium.
+
+Los modelos Gemini se entrenaron con TPUv5e y TPUv4, según su tamaño y configuración. Training Gemini Ultra utilizó una gran flota de aceleradores TPUv4 propiedad de Google en varios centros de datos. Esto representa un importante aumento de escala con respecto a su anterior modelo insignia, el PaLM-2, que presentaba nuevos retos de infraestructura.
+
+Comparación de Gemini con otros LLM
+Comprensión textual
+Fuente: Google Deepmind
+Comprensión de la imagen
+Fuente: Google Deepmind
+Más información aquí.
+Beneficios de Géminis
+1. Integración perfecta con todas las aplicaciones de Google
+Gemini se integra ahora a la perfección con todas las aplicaciones de Google, incluidas Maps, YouTube y Gmail, entre otras. Para consultar aplicaciones concretas, basta con anteponer “@” al nombre de la aplicación seguido de la consulta. Aunque se pueden conseguir integraciones similares en ChatGPT utilizando GPTs y Plugins, puede que no ofrezcan el mismo nivel de fluidez que las integraciones nativas de Gemini.
+
+
+La reconocida experiencia de Google en tecnología de motores de búsqueda se extiende sin duda a la mejora de las capacidades de navegación web de Gemini. Aprovechando los puntos fuertes de los algoritmos de búsqueda e indexación, Gemini ofrece a los usuarios una experiencia de navegación fluida y eficaz.
+2. Capacidades multimodales
+Gemini ofrece ahora capacidades multimodales, incluida la comprensión de imágenes, en la interfaz de chat de Gemini sin coste adicional. Aunque su rendimiento durante las pruebas fue decente, es posible que no alcance la precisión del GPT-4V. Sin embargo, dado que es gratis, no podemos quejarnos, ¿verdad? 😉 Existe la posibilidad de que Gemini Ultra supere a GPT-4V en función de las métricas
+
+3. Acceso gratuito para aficionados y estudiantes
+Google ofrece acceso gratuito a la API Gemini Pro 1.0 a los aspirantes a desarrolladores LLM que deseen sumergirse en este campo pero que tengan dificultades para acceder a las API de GPT debido a los costes. Con esto, puedes hacer hasta 60 consultas por minuto en Google AI Studio, una herramienta gratuita para desarrolladores basada en la web. Google AI Studio te permite desarrollar rápidamente mensajes y obtener una clave API para el desarrollo de aplicaciones. Si accedes a Google AI Studio con tu cuenta de Google, podrás beneficiarte de esta cuota gratuita. Se trata de una excelente oportunidad para iniciar tu andadura en el LLM y explorar incrustaciones, bases de datos vectoriales, búsqueda semántica y mucho más.
+
+
+4. 4. Relación calidad-precio
+Por 20 dólares al mes, los usuarios pueden acceder a GPT-4 a través de ChatGPT Plus. Alternativamente, por el mismo precio, pueden acceder a Gemini Advanced con Gemini Ultra 1.0, que incluye ventajas adicionales como 2 TB de almacenamiento en la nube e integración con Google Apps como Gmail y Docs. Sin embargo, para acceder a Gemini Advanced es necesario suscribirse al plan Google One AI Premium. A pesar de este requisito, ofrece un mayor valor por su dinero.
+
+
+La introducción de un plan de nivel medio con 500 GB de almacenamiento y acceso a Gemini Advanced entre los planes Standard y Premium mejoraría significativamente la accesibilidad de Gemini, especialmente para estudiantes y usuarios con necesidades moderadas de almacenamiento. Google, si estás escuchando, por favor considera esta sugerencia.
+¿Qué le espera a Géminis?
+DeepMind, de Google, no deja de desarrollar el modelo Gemini, y hace apenas una semana lanzó Gemini Pro 1.5. En esta variante actualizada, la ventana contextual se ha ampliado a 128.000 fichas. Además, un grupo selecto de desarrolladores y clientes empresariales pueden ahora experimentar con ventanas de contexto aún mayores, de hasta 1 millón de tokens, a través de vistas previas privadas en AI Studio y Vertex AI. Para ponerlo en perspectiva, un libro típico de no ficción contiene unas 300.000 fichas. Con la ventana de contexto de 1 millón de tokens de Gemini Pro 1.5, los usuarios ahora pueden cargar libros enteros en solicitudes de consulta, un avance notable en comparación con la ventana de contexto de 128.000 tokens de GPT-4.
+En medio de la saturación de LLM en el sector de la IA, Google parece haber dado esta vez en el clavo con su arquitectura mejorada, sus respuestas rápidas y su perfecta integración en el ecosistema de Google. De hecho, podría ser un paso en la dirección correcta, manteniendo a OpenAI y a otros competidores alerta.
+En esta era de la IA, es crucial que las empresas cuenten con empleados bien formados, e incorporar la IA a la formación de los empleados puede suponer una inversión importante. Si busca soluciones de IA para formar a sus empleados, Cody es la herramienta adecuada para usted. Al igual que ChatGPT y Gemini, Cody puede ser entrenado en los datos de su negocio, equipo, procesos y clientes, utilizando su base de conocimientos única. Cody es independiente del modelo, por lo que le resultará más fácil cambiar de modelo según sus necesidades.
+Con Cody, las empresas pueden aprovechar el poder de la IA para crear un asistente personalizado e inteligente que atienda específicamente a sus necesidades, lo que lo convierte en una prometedora incorporación al mundo de las soluciones empresariales basadas en IA.
+
+
+
+
+
+
+
+
+
+Author
+Om Kamath
+Om Kamath
+ 
+Google contra OpenAI: ¿Gana Google?
+Tras no dar en el clavo con Bard en el tren de la IA, Google acaba de presentar su último producto de IA, Gemini. Como parte de este lanzamiento, Bard ha sido rebautizado como Gemini y ahora incorpora el nuevo Gemini Pro LLM. Profundicemos para comprender el alcance de estos cambios.
+Gemini representa el nuevo modelo de lenguaje de gran tamaño (LLM) de Google, tras el lanzamiento de LaMDA y PaLM. A diferencia de sus predecesores, Gemini es multimodal de forma nativa, capaz de comprender texto, imágenes, voz y código, y cuenta con mayores capacidades de comprensión y razonamiento.
+La IA Gemini consta de tres grandes modelos lingüísticos:
+Los modelos Gemini se entrenaron con TPUv5e y TPUv4, según su tamaño y configuración. Training Gemini Ultra utilizó una gran flota de aceleradores TPUv4 propiedad de Google en varios centros de datos. Esto representa un importante aumento de escala con respecto a su anterior modelo insignia, el PaLM-2, que presentaba nuevos retos de infraestructura.
+
+Comprensión textual
+Fuente: Google Deepmind
+Comprensión de la imagen
+Fuente: Google Deepmind
+Más información aquí.
+Gemini se integra ahora a la perfección con todas las aplicaciones de Google, incluidas Maps, YouTube y Gmail, entre otras. Para consultar aplicaciones concretas, basta con anteponer “@” al nombre de la aplicación seguido de la consulta. Aunque se pueden conseguir integraciones similares en ChatGPT utilizando GPTs y Plugins, puede que no ofrezcan el mismo nivel de fluidez que las integraciones nativas de Gemini.
+
+
+La reconocida experiencia de Google en tecnología de motores de búsqueda se extiende sin duda a la mejora de las capacidades de navegación web de Gemini. Aprovechando los puntos fuertes de los algoritmos de búsqueda e indexación, Gemini ofrece a los usuarios una experiencia de navegación fluida y eficaz.
+Gemini ofrece ahora capacidades multimodales, incluida la comprensión de imágenes, en la interfaz de chat de Gemini sin coste adicional. Aunque su rendimiento durante las pruebas fue decente, es posible que no alcance la precisión del GPT-4V. Sin embargo, dado que es gratis, no podemos quejarnos, ¿verdad? 😉 Existe la posibilidad de que Gemini Ultra supere a GPT-4V en función de las métricas
+
+Google ofrece acceso gratuito a la API Gemini Pro 1.0 a los aspirantes a desarrolladores LLM que deseen sumergirse en este campo pero que tengan dificultades para acceder a las API de GPT debido a los costes. Con esto, puedes hacer hasta 60 consultas por minuto en Google AI Studio, una herramienta gratuita para desarrolladores basada en la web. Google AI Studio te permite desarrollar rápidamente mensajes y obtener una clave API para el desarrollo de aplicaciones. Si accedes a Google AI Studio con tu cuenta de Google, podrás beneficiarte de esta cuota gratuita. Se trata de una excelente oportunidad para iniciar tu andadura en el LLM y explorar incrustaciones, bases de datos vectoriales, búsqueda semántica y mucho más.
+
+
+Por 20 dólares al mes, los usuarios pueden acceder a GPT-4 a través de ChatGPT Plus. Alternativamente, por el mismo precio, pueden acceder a Gemini Advanced con Gemini Ultra 1.0, que incluye ventajas adicionales como 2 TB de almacenamiento en la nube e integración con Google Apps como Gmail y Docs. Sin embargo, para acceder a Gemini Advanced es necesario suscribirse al plan Google One AI Premium. A pesar de este requisito, ofrece un mayor valor por su dinero.
+
+
+La introducción de un plan de nivel medio con 500 GB de almacenamiento y acceso a Gemini Advanced entre los planes Standard y Premium mejoraría significativamente la accesibilidad de Gemini, especialmente para estudiantes y usuarios con necesidades moderadas de almacenamiento. Google, si estás escuchando, por favor considera esta sugerencia.
+DeepMind, de Google, no deja de desarrollar el modelo Gemini, y hace apenas una semana lanzó Gemini Pro 1.5. En esta variante actualizada, la ventana contextual se ha ampliado a 128.000 fichas. Además, un grupo selecto de desarrolladores y clientes empresariales pueden ahora experimentar con ventanas de contexto aún mayores, de hasta 1 millón de tokens, a través de vistas previas privadas en AI Studio y Vertex AI. Para ponerlo en perspectiva, un libro típico de no ficción contiene unas 300.000 fichas. Con la ventana de contexto de 1 millón de tokens de Gemini Pro 1.5, los usuarios ahora pueden cargar libros enteros en solicitudes de consulta, un avance notable en comparación con la ventana de contexto de 128.000 tokens de GPT-4.
+En medio de la saturación de LLM en el sector de la IA, Google parece haber dado esta vez en el clavo con su arquitectura mejorada, sus respuestas rápidas y su perfecta integración en el ecosistema de Google. De hecho, podría ser un paso en la dirección correcta, manteniendo a OpenAI y a otros competidores alerta.
+En esta era de la IA, es crucial que las empresas cuenten con empleados bien formados, e incorporar la IA a la formación de los empleados puede suponer una inversión importante. Si busca soluciones de IA para formar a sus empleados, Cody es la herramienta adecuada para usted. Al igual que ChatGPT y Gemini, Cody puede ser entrenado en los datos de su negocio, equipo, procesos y clientes, utilizando su base de conocimientos única. Cody es independiente del modelo, por lo que le resultará más fácil cambiar de modelo según sus necesidades.
+Con Cody, las empresas pueden aprovechar el poder de la IA para crear un asistente personalizado e inteligente que atienda específicamente a sus necesidades, lo que lo convierte en una prometedora incorporación al mundo de las soluciones empresariales basadas en IA.
+
+
+
+
+Om Kamath
+
+La evolución de las búsquedas web potenciadas por IA La última innovación de OpenAI, ChatGPT Search, marca un salto significativo en las capacidades de búsqueda web basadas en IA. Esta función integra la búsqueda web en tiempo real en la inter...                
+
+Nvidia ha presentado discretamente su último modelo de IA, el Nemotron 70B, que está causando sensación en el sector de la inteligencia artificial al superar a modelos bien establecidos como el GPT-4 de OpenAI y el Sonnet Claude 3.5 de Anthropic. ...                

@@ -1,0 +1,142 @@
+Inteligencia Artificial | BBVA
+BBVA
+bbva.com
+
+Cerrar panel
+BBVA.com
+Pulsar Enter
+Búsqueda Predictiva
+Cerrar panel
+Cerrar panel
+Cerrar panel
+BBVA.com
+EnglishEspañol
+Cerrar panel
+Innovación
+Video
+Ver Video
+Inteligencia Artificial
+Solo cinco meses después de que BBVA distribuyera 3.000 licencias de ChatGPT Enterprise entre sus empleados, el 83% de ellos lo han incorporado a su rutina de trabajo y ya han creado unos 3.000 GPTs. Estas adaptaciones de la herramienta se diseñan para llevar a cabo tareas específicas, que van desde analizar información financiera a ayudar a responder consultas legales de clientes en menos de 24 horas, o hacer seguimiento de la satisfacción del cliente.
+Data
+En la primera jornada del Encuentro Financiero de ABC-Deloitte, Jon Ander Beracoechea, Chief Scientist en BBVA, advirtió que la Inteligencia Artificial (IA) tiene un potencial transformador para el sector financiero que aún no se está valorando en toda su magnitud. Aunque los beneficios inmediatos de la IA ya están siendo aprovechados por la banca en áreas como la prevención de fraudes y la personalización de servicios, su verdadero impacto a medio y largo plazo será "mucho más profundo y amplio" de lo que se anticipa, explicó.
+
+En la primera jornada del Encuentro Financiero de ABC-Deloitte, Jon Ander Beracoechea, Chief Scientist en BBVA, advirtió que la Inteligencia Artificial (IA) tiene un potencial transformador para el sector financiero que aún no se está valorando en toda su magnitud. Aunque los beneficios inmediatos de la IA ya están siendo aprovechados por la banca en áreas como la prevención de fraudes y la personalización de servicios, su verdadero impacto a medio y largo plazo será "mucho más profundo y amplio" de lo que se anticipa, explicó.
+Inteligencia Artificial
+Tras formar a más de 50.000 empleados en datos, BBVA desarrolla un nuevo programa en esta ocasión junto a la Universidad de Navarra centrado en el uso de herramientas como ChatGPT, para potenciar la productividad optimizando la eficiencia en la toma de decisiones y operaciones diarias. Se enmarca dentro de un acuerdo de colaboración para capacitar a los profesionales del banco en ciencia de datos y en las nuevas tecnologías emergentes.
+
+
+11:00
+Audio
+
+Escuchar Audio
+BBVA Podcast
+Cuando tu app bancaria de BBVA predice tus próximos gastos e ingresos, detecta alguna situación anómala en tu cuenta o te sugiere productos que se adaptan a tus necesidades, está utilizando inteligencia artificial. 
+
+Cuando tu app bancaria de BBVA predice tus próximos gastos e ingresos, detecta alguna situación anómala en tu cuenta o te sugiere productos que se adaptan a tus necesidades, está utilizando inteligencia artificial. 
+Inteligencia Artificial
+BBVA es la decimotercera entidad bancaria más avanzada del mundo por su integración de las tecnologías de datos e inteligencia artificial, según el índice internacional Evident AI Index. El banco se alza como el primero español y cuarto europeo de la lista, donde destaca especialmente por el desarrollo profesional que ofrece a sus expertos en IA y por haber definido una estrategia transversal de la que participan los niveles más altos de la organización.
+
+BBVA es la decimotercera entidad bancaria más avanzada del mundo por su integración de las tecnologías de datos e inteligencia artificial, según el índice internacional Evident AI Index. El banco se alza como el primero español y cuarto europeo de la lista, donde destaca especialmente por el desarrollo profesional que ofrece a sus expertos en IA y por haber definido una estrategia transversal de la que participan los niveles más altos de la organización.
+Inteligencia Artificial
+“Nuestro reto es crear productos de datos que puedan dar servicio transversal a todos los usuarios y asegurar una capa de calidad sobre este producto de datos final”, afirma Mónica Nureña, Head of Data Strategy & Data Portfolio Management de BBVA en Perú, durante la tercera sesión del conversatorio “AI & Tech Sessions”, organizado por la revista Semana Económica en la sede de la entidad financiera. Bajo el título ‘El management de la Inteligencia Artificial. ¿Cómo hacer un mejor negocio de la IA?’, expertos de diferentes organizaciones han debatido sobre el papel de la IA en la creación de valor de cara a los clientes.
+
+
+47:55
+Audio
+
+Escuchar Audio
+Inteligencia Artificial
+En este episodio exploramos cómo aprovechar la IA para generar textos más accesibles con Isam Diab Lozano, filólogo hispánico especializado en lingüística computacional, que está haciendo un doctorado en Accesibilidad Cognitiva e Inteligencia Artificial en la Universidad Politécnica de Madrid.
+
+En este episodio exploramos cómo aprovechar la IA para generar textos más accesibles con Isam Diab Lozano, filólogo hispánico especializado en lingüística computacional, que está haciendo un doctorado en Accesibilidad Cognitiva e Inteligencia Artificial en la Universidad Politécnica de Madrid.
+Data
+Koray Öztopçu, director de financiación al consumo de Garanti BBVA, es el autor de una reciente tribuna de opinión sobre la inteligencia artificial (IA), las nuevas generaciones y la financiación al consumo.
+
+Koray Öztopçu, director de financiación al consumo de Garanti BBVA, es el autor de una reciente tribuna de opinión sobre la inteligencia artificial (IA), las nuevas generaciones y la financiación al consumo.
+Inteligencia Artificial
+Belén Blanco, CEO de BBVA Asset Management Europa, participó el martes 17 de septiembre en la I Jornada de la Cátedra de Asset Management, organizada por la Universidad Pontificia de Comillas. Durante su intervención, afirmó que la tecnología ha revolucionado la gestión de activos en los últimos años, y señaló que la inteligencia artificial y el blockchain van a ser decisivos para transformar la experiencia de los clientes. “La inteligencia artificial nos permite personalizar la gestión de carteras y acercar más al gestor al inversor final”, dijo.
+
+Belén Blanco, CEO de BBVA Asset Management Europa, participó el martes 17 de septiembre en la I Jornada de la Cátedra de Asset Management, organizada por la Universidad Pontificia de Comillas. Durante su intervención, afirmó que la tecnología ha revolucionado la gestión de activos en los últimos años, y señaló que la inteligencia artificial y el blockchain van a ser decisivos para transformar la experiencia de los clientes. “La inteligencia artificial nos permite personalizar la gestión de carteras y acercar más al gestor al inversor final”, dijo.
+Innovación
+TensorFlow es una biblioteca 'open source' para aprendizaje automático creada por Google, una de las más usadas a nivel mundial para ayudar a entrenar redes neuronales. Empresas como BBVA la emplean en el desarrollo de sus capacidades de IA y para ofrecer funcionalidades novedosas a sus clientes.
+
+TensorFlow es una biblioteca 'open source' para aprendizaje automático creada por Google, una de las más usadas a nivel mundial para ayudar a entrenar redes neuronales. Empresas como BBVA la emplean en el desarrollo de sus capacidades de IA y para ofrecer funcionalidades novedosas a sus clientes.
+Innovación
+La ciudad de Barcelona acoge la primera edición que organiza este evento en España, que se está celebrando entre el 25 y el 29 de agosto. Dentro del programa de actividades, BBVA ha patrocinado su Finance Day, que ha girado en torno a la aplicación de la IA y el ‘machine learning’ en el sector financiero.
+
+La ciudad de Barcelona acoge la primera edición que organiza este evento en España, que se está celebrando entre el 25 y el 29 de agosto. Dentro del programa de actividades, BBVA ha patrocinado su Finance Day, que ha girado en torno a la aplicación de la IA y el ‘machine learning’ en el sector financiero.
+Innovación
+Python es uno de los lenguajes de programación más populares en el mundo de la tecnología gracias a diferentes características, como su compatibilidad multiplataforma, su capacidad para diseñar programas con menos líneas de código y su naturaleza de código abierto. Además, estas ventajas han convertido a Python en uno de los lenguajes preferidos por los desarrolladores para crear 'software' enfocado en dos tendencias clave: inteligencia artificial y 'machine learning'.
+
+Python es uno de los lenguajes de programación más populares en el mundo de la tecnología gracias a diferentes características, como su compatibilidad multiplataforma, su capacidad para diseñar programas con menos líneas de código y su naturaleza de código abierto. Además, estas ventajas han convertido a Python en uno de los lenguajes preferidos por los desarrolladores para crear 'software' enfocado en dos tendencias clave: inteligencia artificial y 'machine learning'.
+Innovación
+La AI Factory, el centro de BBVA especializado en el desarrollo de soluciones de inteligencia artificial (IA), se expande a México y Turquía con el fin de crear productos de manera global y aprovechar el conocimiento de todo el Grupo. Con estos nuevos centros, BBVA pretende acelerar la adopción de soluciones basadas en IA orientadas a mejorar la experiencia de sus clientes y optimizar sus procesos internos. Además, el banco ha contratado a 230 expertos en IA, lo que duplica la plantilla de estas ‘factorías’ a más de 400 profesionales.
+Innovación
+El 'deep learning' (aprendizaje profundo) es un subcampo de la IA dentro del 'machine learning' (aprendizaje automático), por lo que ambos conceptos tienen puntos en común, pero también diferencias. El primero utiliza redes neuronales para sacar conclusiones complejas de forma similar a un ser humano. Por su parte, el segundo es capaz de realizar predicciones a partir de patrones, aunque requiere un mayor nivel de intervención humana.
+
+El 'deep learning' (aprendizaje profundo) es un subcampo de la IA dentro del 'machine learning' (aprendizaje automático), por lo que ambos conceptos tienen puntos en común, pero también diferencias. El primero utiliza redes neuronales para sacar conclusiones complejas de forma similar a un ser humano. Por su parte, el segundo es capaz de realizar predicciones a partir de patrones, aunque requiere un mayor nivel de intervención humana.
+Innovación
+A medida que la inteligencia artificial se integra cada vez más en la sociedad y se utiliza para tomar decisiones que afectan a las personas, como en el ámbito laboral o en la justicia, surge el reto de los algoritmos sesgados, provocados generalmente por la existencia de prejuicios o distorsiones en los datos de entrenamiento. Para combatir los sesgos, ya existen propuestas que alertan sobre estos y que buscan mitigar su impacto negativo en la sociedad.
+Foto de apertura generada con Midjourney (IA)
+
+A medida que la inteligencia artificial se integra cada vez más en la sociedad y se utiliza para tomar decisiones que afectan a las personas, como en el ámbito laboral o en la justicia, surge el reto de los algoritmos sesgados, provocados generalmente por la existencia de prejuicios o distorsiones en los datos de entrenamiento. Para combatir los sesgos, ya existen propuestas que alertan sobre estos y que buscan mitigar su impacto negativo en la sociedad.
+Innovación
+BBVA da un paso firme hacia el futuro con la expansión de la oferta formativa a la plantilla introduciendo nuevos cursos sobre inteligencia artificial generativa. En el marco del acuerdo firmado con OpenAI, la entidad financiera busca que sus empleados, desde científicos de datos hasta cualquier miembro del equipo, apliquen los últimos avances en IA, ‘machine learning’ y analítica avanzada en el desarrollo de productos financieros innovadores. Campus BBVA ha formado a través de Data University a más de 50.000 empleados en 6 años, de los cuales cerca de 5.000 han completado cursos especializados en la Data University. Además, BBVA fortalece su ecosistema educativo mediante alianzas con prestigiosas instituciones como la Universidad de Navarra, Telefónica y Coursera.
+Ciberseguridad
+BBVA ha elegido a Telefónica Tech para impulsar la ciberseguridad de sus operaciones a escala global con la incorporación de las tecnologías más avanzadas en inteligencia artificial y automatización de procesos para la prevención de ciberamenazas. Además, esta alianza conlleva la creación de un nuevo centro especializado en México, que funcionará como espejo del Centro Global de Ciberseguridad de BBVA ya existente en España. La combinación de ambos permitirá ofrecer una cobertura integral e ininterrumpida a todo el Grupo.
+
+BBVA ha elegido a Telefónica Tech para impulsar la ciberseguridad de sus operaciones a escala global con la incorporación de las tecnologías más avanzadas en inteligencia artificial y automatización de procesos para la prevención de ciberamenazas. Además, esta alianza conlleva la creación de un nuevo centro especializado en México, que funcionará como espejo del Centro Global de Ciberseguridad de BBVA ya existente en España. La combinación de ambos permitirá ofrecer una cobertura integral e ininterrumpida a todo el Grupo.
+Inteligencia Artificial
+Cursos 'online' promovidos por universidades, formaciones en escuelas de negocio e incluso materiales ofrecidos por gigantes tecnológicos son algunas de las vías para aprender a dominar la inteligencia artificial. Además, más allá de la programación, los profesionales de IA también pueden formarse en otras áreas, como la lingüística computacional o la ética. Gracias a esta tendencia, Europa ya cuenta con más de 120.000 profesionales altamente cualificados para trabajar en IA.
+
+Cursos 'online' promovidos por universidades, formaciones en escuelas de negocio e incluso materiales ofrecidos por gigantes tecnológicos son algunas de las vías para aprender a dominar la inteligencia artificial. Además, más allá de la programación, los profesionales de IA también pueden formarse en otras áreas, como la lingüística computacional o la ética. Gracias a esta tendencia, Europa ya cuenta con más de 120.000 profesionales altamente cualificados para trabajar en IA.
+Inteligencia Artificial
+BBVA AI Factory, el centro especializado en analítica avanzada e inteligencia artificial de BBVA, ha sido reconocido por tercera vez como uno de los laboratorios de innovación más relevantes del mundo financiero por la revista Global Finance. BBVA es el único banco español incluido en este ranking, que destaca la “excelencia” para crear soluciones que abordan los actuales desafíos del sector financiero.
+
+BBVA AI Factory, el centro especializado en analítica avanzada e inteligencia artificial de BBVA, ha sido reconocido por tercera vez como uno de los laboratorios de innovación más relevantes del mundo financiero por la revista Global Finance. BBVA es el único banco español incluido en este ranking, que destaca la “excelencia” para crear soluciones que abordan los actuales desafíos del sector financiero.
+Inteligencia Artificial
+BBVA ha llevado a cabo un estudio en España y en México que demuestra que los clientes que utilizan algunas de sus principales herramientas para gestionar su salud financiera ahorran un 11% y un 20% más, respectivamente. Pero, ¿cómo se ha asegurado el banco de que al calcular este ahorro han eliminado la influencia de otras variables, como que sean las personas más ahorradoras quienes más tiendan a utilizar estas funcionalidades? Para lograrlo, el banco ha utilizado dos modelos de aprendizaje automático e inferencia causal, una metodología estadística que detecta relaciones de causa-efecto complejas.
+
+BBVA ha llevado a cabo un estudio en España y en México que demuestra que los clientes que utilizan algunas de sus principales herramientas para gestionar su salud financiera ahorran un 11% y un 20% más, respectivamente. Pero, ¿cómo se ha asegurado el banco de que al calcular este ahorro han eliminado la influencia de otras variables, como que sean las personas más ahorradoras quienes más tiendan a utilizar estas funcionalidades? Para lograrlo, el banco ha utilizado dos modelos de aprendizaje automático e inferencia causal, una metodología estadística que detecta relaciones de causa-efecto complejas.
+Inteligencia Artificial
+La capacidad de aprendizaje y de predicción de las máquinas se ha incrementado a lo largo del tiempo. Esto se observa tanto en los asistentes virtuales, que cada vez son más eficientes al responder y ejecutar tareas gracias a la mejora de los grandes modelos de lenguaje (LLM), como en plataformas de 'streaming' o comercio electrónico, que utilizan algoritmos para personalizar contenidos. El 'machine learning', especializado en el reconocimiento de patrones, es un campo en auge con décadas de historia.
+
+La capacidad de aprendizaje y de predicción de las máquinas se ha incrementado a lo largo del tiempo. Esto se observa tanto en los asistentes virtuales, que cada vez son más eficientes al responder y ejecutar tareas gracias a la mejora de los grandes modelos de lenguaje (LLM), como en plataformas de 'streaming' o comercio electrónico, que utilizan algoritmos para personalizar contenidos. El 'machine learning', especializado en el reconocimiento de patrones, es un campo en auge con décadas de historia.
+Ciberseguridad
+La inteligencia artificial no es buena ni mala por sí misma, sino que, al igual que sucede con cualquier herramienta, todo depende del uso que se haga de ella. De hecho, en el ámbito de la ciberseguridad tiene un doble papel: mientras los equipos de seguridad utilizan sus capacidades para reforzar las defensas, los ciberdelincuentes la emplean para mejorar sus ataques.
+Innovación
+Redes neuronales, procesamiento de lenguaje natural, aprendizaje automático… La IA es un colaborador esencial de BBVA para ayudar a sus clientes a administrar su ahorro, gestionar sus inversiones, analizar su consumo y anticipar sus próximos gastos.
+
+Redes neuronales, procesamiento de lenguaje natural, aprendizaje automático… La IA es un colaborador esencial de BBVA para ayudar a sus clientes a administrar su ahorro, gestionar sus inversiones, analizar su consumo y anticipar sus próximos gastos.
+Innovación
+El ‘machine learning’ tiene cada vez más aplicaciones empresariales que benefician a consumidores y ciudadanos, como ayudarles a gestionar su salud financiera, agilizar sus trámites digitales y hacer más fluida su experiencia ‘online’ en múltiples plataformas. De este auge ha surgido la directriz básica de la explicabilidad: es decir, la IA no es misteriosa ni mágica, ni debe parecerlo. Para los algoritmos más complejos, los científicos de datos desarrollan herramientas que ayudan a comprender cómo toman sus decisiones.
+
+El ‘machine learning’ tiene cada vez más aplicaciones empresariales que benefician a consumidores y ciudadanos, como ayudarles a gestionar su salud financiera, agilizar sus trámites digitales y hacer más fluida su experiencia ‘online’ en múltiples plataformas. De este auge ha surgido la directriz básica de la explicabilidad: es decir, la IA no es misteriosa ni mágica, ni debe parecerlo. Para los algoritmos más complejos, los científicos de datos desarrollan herramientas que ayudan a comprender cómo toman sus decisiones.
+Innovación
+La superinteligencia artificial es un concepto teórico que implica la existencia de una IA con capacidades de procesamiento superiores a las del cerebro humano e incluso de razonamiento. Este avance podría ser una realidad en el futuro, y los expertos se debaten entre la fascinación por sus capacidades y las dudas sobre cómo evaluar sus riesgos para evitar que sea incontrolable.
+Innovación
+La irrupción de herramientas como ChatGPT ha revolucionado la interacción conversacional entre el ser humano y la máquina. La capacidad de la IA generativa de dar respuestas precisas, y relevantes según el contexto, la hacen especialmente valiosa para el entorno de la atención automática al cliente a través de ‘chatbots’ y avatares virtuales.
+
+La irrupción de herramientas como ChatGPT ha revolucionado la interacción conversacional entre el ser humano y la máquina. La capacidad de la IA generativa de dar respuestas precisas, y relevantes según el contexto, la hacen especialmente valiosa para el entorno de la atención automática al cliente a través de ‘chatbots’ y avatares virtuales.
+Innovación
+Tras años a la vanguardia en proyectos e investigación basada en inteligencia artificial (IA), BBVA da un paso decidido en el uso de la IA generativa en sus principales mercados. Por un lado, ha priorizado alrededor de 100 proyectos que se desarrollarán con distintas herramientas de esta nueva tecnología. Y, por otro, ha firmado un acuerdo estratégico con OpenAI, el creador de ChatGPT, para empezar a desplegar esta herramienta entre sus empleados. El objetivo es explorar, de forma segura y responsable, la IA generativa para acelerar procesos, mejorar la productividad y fomentar la innovación gracias a las nuevas capacidades para la creación de texto, imágenes o tratar información, entre sus múltiples funcionalidades.
+
+Tras años a la vanguardia en proyectos e investigación basada en inteligencia artificial (IA), BBVA da un paso decidido en el uso de la IA generativa en sus principales mercados. Por un lado, ha priorizado alrededor de 100 proyectos que se desarrollarán con distintas herramientas de esta nueva tecnología. Y, por otro, ha firmado un acuerdo estratégico con OpenAI, el creador de ChatGPT, para empezar a desplegar esta herramienta entre sus empleados. El objetivo es explorar, de forma segura y responsable, la IA generativa para acelerar procesos, mejorar la productividad y fomentar la innovación gracias a las nuevas capacidades para la creación de texto, imágenes o tratar información, entre sus múltiples funcionalidades.
+Inteligencia Artificial
+Després d'anys a l'avantguarda en projectes i recerca basada en intel·ligència artificial (IA), BBVA fa un pas decidit en l'ús de la IA generativa als seus mercats principals. D'una banda, ha prioritzat prop de 100 projectes que es desenvoluparan amb diferents eines d'aquesta nova tecnologia. I, de l'altra, ha signat un acord estratègic amb OpenAI, el creador de ChatGPT, per començar a desplegar aquesta eina entre els seus empleats. L'objectiu és explorar, de manera segura i responsable, la IA generativa per accelerar processos, millorar la productivitat i fomentar la innovació gràcies a les noves capacitats per a la creació de text i imatges o el tractament d'informació, entre les seves múltiples funcionalitats.
+
+Després d'anys a l'avantguarda en projectes i recerca basada en intel·ligència artificial (IA), BBVA fa un pas decidit en l'ús de la IA generativa als seus mercats principals. D'una banda, ha prioritzat prop de 100 projectes que es desenvoluparan amb diferents eines d'aquesta nova tecnologia. I, de l'altra, ha signat un acord estratègic amb OpenAI, el creador de ChatGPT, per començar a desplegar aquesta eina entre els seus empleats. L'objectiu és explorar, de manera segura i responsable, la IA generativa per accelerar processos, millorar la productivitat i fomentar la innovació gràcies a les noves capacitats per a la creació de text i imatges o el tractament d'informació, entre les seves múltiples funcionalitats.
+Innovación
+Pese a la caída de la inversión y el complejo contexto macroeconómico, el ecosistema emprendedor español ha aumentado su valor en casi un 5% en 2023, según datos de South Summit. En esta tendencia destacan dos grandes motores de crecimiento: la ampliación del ecosistema, con cada vez más actores, y el aumento de la valoración de empresas enfocadas a la IA, reflejo del interés inversor creciente en esta disrupción tecnológica.
+
+Pese a la caída de la inversión y el complejo contexto macroeconómico, el ecosistema emprendedor español ha aumentado su valor en casi un 5% en 2023, según datos de South Summit. En esta tendencia destacan dos grandes motores de crecimiento: la ampliación del ecosistema, con cada vez más actores, y el aumento de la valoración de empresas enfocadas a la IA, reflejo del interés inversor creciente en esta disrupción tecnológica.
+Innovación
+La publicación internacional reconoce con dos premios The Innovators el servicio de criptoactivos de BBVA en Suiza y un proceso automatizado que ha desarrollado el banco para guiar la creación y aplicación de modelos ‘machine learning’ a la detección y gestión temprana de deuda.
+
+La publicación internacional reconoce con dos premios The Innovators el servicio de criptoactivos de BBVA en Suiza y un proceso automatizado que ha desarrollado el banco para guiar la creación y aplicación de modelos ‘machine learning’ a la detección y gestión temprana de deuda.
+Échale un vistazo
+Newsletter
+Resultados BBVA
+Aprendemos Juntos
+Reporte Vulnerabilidades
+© Banco Bilbao Vizcaya Argentaria, S.A. 2024

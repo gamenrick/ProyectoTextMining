@@ -1,0 +1,908 @@
+La nueva realidad de la educación ante los avances de la inteligencia artificial generativa
+Francisco José García-Peñalvo
+redalyc.org
+
+Estudios e Investigaciones
+
+Recepción:  01 Junio  2023
+
+Aprobación:  01 Julio  2023
+
+Publicación:  10 Julio  2023
+
+DOI: https://doi.org/10.5944/ried.27.1.37716
+
+
+Resumen:
+							                           Cada vez es más común interactuar con productos que parecen “inteligentes”, aunque quizás la etiqueta “inteligencia artificial” haya sido sustituida por otros eufemismos. Desde noviembre de 2022, con la aparición de la herramienta ChatGPT, ha habido un aumento exponencial en el uso de la inteligencia artificial en todos los ámbitos. Aunque ChatGPT es solo una de las muchas tecnologías generativas de inteligencia artificial, su impacto en los procesos de enseñanza y aprendizaje ha sido notable. Este artículo reflexiona sobre las ventajas, inconvenientes, potencialidades, límites y retos de las tecnologías generativas de inteligencia artificial en educación, con el objetivo de evitar los sesgos propios de las posiciones extremistas. Para ello, se ha llevado a cabo una revisión sistemática tanto de las herramientas como de la producción científica que ha surgido en los seis primeros meses desde la aparición de ChatGPT. La inteligencia artificial generativa es extremadamente potente y mejora a un ritmo acelerado, pero se basa en lenguajes de modelo de gran tamaño con una base probabilística, lo que significa que no tienen capacidad de razonamiento ni de comprensión y, por tanto, son susceptibles de contener fallos que necesitan ser contrastados. Por otro lado, muchos de los problemas asociados con estas tecnologías en contextos educativos ya existían antes de su aparición, pero ahora, debido a su potencia, no podemos ignorarlos solo queda asumir cuál será nuestra velocidad de respuesta para analizar e incorporar estas herramientas a nuestra práctica docente.
+
+
+Palabras clave: inteligencia artificial, inteligencia artificial generativa, ChatGPT, educación.
+		                         
+
+Abstract:
+						                           It is increasingly common to interact with products that seem “intelligent”, although the label “artificial intelligence” may have been replaced by other euphemisms. Since November 2022, with the emergence of the ChatGPT tool, there has been an exponential increase in the use of artificial intelligence in all areas. Although ChatGPT is just one of many generative artificial intelligence technologies, its impact on teaching and learning processes has been significant. This article reflects on the advantages, disadvantages, potentials, limits, and challenges of generative artificial intelligence technologies in education to avoid the biases inherent in extremist positions. To this end, a systematic review has been carried out of both the tools and the scientific production that has emerged in the six months since the appearance of ChatGPT. Generative artificial intelligence is extremely powerful and improving at an accelerated pace, but it is based on large language models with a probabilistic basis, which means that they have no capacity for reasoning or comprehension and are therefore susceptible to containing errors that need to be contrasted. On the other hand, many of the problems associated with these technologies in educational contexts already existed before their appearance, but now, due to their power, we cannot ignore them, and we must assume what our speed of response will be to analyse and incorporate these tools into our teaching practice.
+
+
+Keywords: artificial intelligence, generative artificial intelligence, ChatGPT, education.
+                                
+
+INTRODUCCIÓN
+
+La investigación en Inteligencia Artificial (IA) lleva años en continuo crecimiento y no tiene visos de ralentizarse, aportando modelos más complejos, más grandes y de respuesta más rápida. Estos modelos se entrenan actualmente con miles de millones de unidades de datos, lo que los hace mucho más potentes que sus antecesores de no hace tantos años, lo que ha llevado a que en pocos años los modelos lingüísticos se hayan hecho mucho más potentes. Esta potencia tiene unos usos prácticamente ilimitados, lo que también incluye aplicaciones de ética cuestionable, dando lugar a vacíos legales y a reacciones extremas que llegan hasta la prohibición de su uso. Sin embargo, la innovación basada en tecnologías inteligentes está en un momento de total crecimiento, como reflejan los datos. Así en los últimos 10 años se han triplicado las nuevas empresas de IA, por ejemplo, 57 de las 273 empresas de la última hornada del YC (Y Combinator) trabajan con la IA generativa, lo que se traduce en un crecimiento de los puestos de trabajo que requieren o se relacionan con competencias de IA (Maslej et al., 2023).
+Si se quiere analizar el tema de la IA y la educación, dejando de lado aspectos relacionados con las políticas y la gestión de la educación y poniendo el foco en la relación de la IA con el aprendizaje, Wang y Cheng (2021) identifican tres direcciones principales de investigación en IA en Educación (AIEd, por sus siglas en inglés – Artificial Intelligence in Education): aprender con la IA, aprender sobre la IA y utilizar la IA para aprender a aprender. Simplificando aún más, para una mejor comprensión del texto, se va a diferenciar entre su uso en los procesos de enseñanza y aprendizaje y el impacto que en ellos tiene (IA en la educación), y el papel de la educación para seguir cumpliendo su cometido en la sociedad (educación en tiempos de IA).
+
+IA en Educación
+
+El documento Consenso de Beijing sobre la inteligencia artificial (UNESCO, 2019) pretende dar respuesta a las oportunidades y a los desafíos que presenta la IA en relación con la educación, planteando 44 recomendaciones, agrupadas en distintos aspectos que pueden ayudar a entender la magnitud de la tarea: planificación de la IA en las políticas educativas; la IA para la gestión y la impartición de la educación; la IA para apoyar la docencia y a los docentes; la IA para el aprendizaje y la evaluación del aprendizaje; el desarrollo de valores y competencias para la vida y el trabajo en la era de la IA; la IA para ofrecer oportunidades de aprendizaje permanente para todos; promoción del uso equitativo e inclusivo de la IA en la educación; IA con equidad de género e IA para la igualdad de género; y velar por el uso ético, transparente y verificable de los datos y algoritmos educativos. Estos aspectos son tratados de forma más detallada en Inteligencia artificial y educación. Guía para las personas a cargo de formular políticas (UNESCO, 2021). Como se puede ver, la relación entre la IA y la educación es compleja y con múltiples aristas.
+Dejando de lado aspectos relacionados con las políticas y la gestión de la educación y poniendo el foco en la relación de la IA con el aprendizaje, cuando se habla de IA en educación se suele pensar, fundamentalmente, en la personalización del aprendizaje (Zhang et al., 2020). Así, se habla de tutores inteligentes (Yilmaz et al., 2022), asistentes virtuales (Gubareva y Lopes, 2020), experiencias de aprendizaje inmersivas e interactivas (Chng et al., 2023), utilización de los datos para mejorar el desempeño de los estudiantes (Vázquez-Ingelmo et al., 2021), entre otros tópicos. Analizar estos datos permitirá detectar patrones y tendencias y asistir al profesorado en la detección temprana de fracasos y la identificación de áreas de mejora que permitan diseñar estrategias de enseñanza más efectivas (Gašević et al., 2015).
+
+Educación en tiempos de IA
+
+Sin embargo, hablar de educación en tiempos de IA implica reflexionar sobre el papel de la educación para preparar a las personas para un mundo en constante cambio en el que esta tecnología estará presente en todos los aspectos de la vida: el trabajo, los estudios, el ocio, las relaciones personales, etc. Por esto es importante que se comprenda cómo funciona la IA y los beneficios y riesgos de su uso. Se necesitan nuevos conocimientos, habilidades, competencias y valores para la vida y el trabajo en la era de la IA (Bozkurt et al., 2023; Ng et al., 2022).
+
+La IA como una tecnología emergente que puede ser disruptiva
+
+Las universidades llevan tiempo preocupadas por las tecnologías emergentes y su aplicación a la educación superior. Por ejemplo, en España según el informe UNIVERSITIC 2022 (Crespo Artiaga et al., 2023): el 71 % de las universidades han diseñado una estrategia para impulsar iniciativas docentes innovadoras y el 86 % analiza las tendencias TI aplicables a la innovación docente; 1 de cada 3 ha evolucionado sus LMS (Learning Management Systems) hacia un Ecosistema Digital de Aprendizaje (EDA), que facilita la personalización de la formación, aunque de momento solo el 17 % utiliza soluciones de aprendizaje adaptativo que permiten experiencias con mayor grado de personalización; el 30 % disponen de un laboratorio para analizar las tecnologías emergentes y su aplicación a su entorno, mientras que el 16 % tienen un catálogo para entender mejor su potencial, con el objetivo de impulsar proyectos piloto para la transformación digital; y el 25 % previenen ciberamenazas con inteligencia artificial, como medio para mejorar la gestión de la seguridad. La IA tendrá un fuerte impacto en la sociedad y se la considera una tecnología disruptiva (Alier-Forment y Llorens-Largo, 2023). Tan peligroso es abrazarla ingenuamente como rechazarla sin más (Llorens-Largo, 2019).
+
+Implicaciones sociales de la IA (más allá de lo que parece)
+
+No se debe caer en la concepción incauta de que la tecnología es neutral y que todo depende de los humanos que la desarrollan y usan. La tecnología no es solamente un medio para alcanzar un fin, sino que también moldea ese fin (Coeckelbergh, 2023).
+Por tanto, deben estar en el debate temas como la toma algorítmica de las decisiones, su capacidad de influencia y de manipulación (Flores-Vivar y García-Peñalvo, 2023a); los sesgos, las discriminaciones injustas y la desigualdad (Holmes et al., 2022); la vigilancia, las competencias técnicas, las burbujas de información y la exclusión (Nemorin et al., 2023); y la sustitución de los humanos en el posthumanismo y el transhumanismo (Neubauer, 2021), y todas sus interrelaciones.
+Todos estos aspectos son muy importantes en el mundo de la educación, ya que afectan al comportamiento humano. Teniendo en cuenta una doble implicación, tanto en el sentido en que la IA puede afectar al mundo educativo en estos aspectos, al igual que está haciendo en la sociedad en general, como en el sentido en que la educación debe preparar a las personas para enfrentarse al mundo que vendrá fuertemente condicionado por la tecnología, siendo la IA una de ellas con un peso específico cada vez más alto (Flores-Vivar y García-Peñalvo, 2023b).
+
+Visión integral y estratégica de la IA
+
+Hace falta, por tanto, una visión sistemática, con un planteamiento integral, global y multicultural. En este sentido, la UNESCO adoptó el 23 de noviembre de 2021 la Recomendación sobre la ética de la inteligencia artificial (UNESCO, 2022). Uno de los ámbitos de actuación que aborda es la educación, recomendando, entre otras cosas, “impartir al público de todos los países, a todos los niveles, conocimientos adecuados en materia de IA, a fin de empoderar a la población y reducir las brechas digitales y las desigualdades en el acceso a la tecnología digital resultantes de la adopción a gran escala de sistemas de IA”. En el caso de España, esto ya estaba reflejado en el eje estratégico 2 (Promover el desarrollo de capacidades digitales, potenciar el talento nacional y atraer talento global en inteligencia artificial) de la Estrategia Nacional de Inteligencia Artificial (ENIA) (Gobierno de España, 2020). Se puede decir, por tanto, que al menos a nivel político, la preocupación ya existe. Entonces, ¿qué ha pasado para que en todo el mundo se esté hablando y analizando el tema? La respuesta no es otra que la aparición en escena, en noviembre de 2022, de la versión pública de una herramienta, ChatGPT de OpenAI (https://openai.com/blog/chatgpt/), que puede entablar conversaciones en las que las personas pueden hacer preguntas o peticiones y el sistema les ofrece, en cuestión de segundos, respuestas que, en principio, son indistinguibles de las que hubiera ofrecido un experto humano. ChatGPT se basa en un modelo avanzado de lenguaje de gran tamaño (Large Language Model – LLM) denominado Generative Pre-trained Transformer (GPT-3) (Brown et al., 2020).
+No obstante, ChatGPT, como ejemplo de herramienta, y GPT-3, como LLM, son solo dos casos particulares (por más que, obviamente, hayan provocado una disrupción tecnológica) de una corriente en la IA que se denomina IA generativa (García-Peñalvo y Vázquez-Ingelmo, 2023; van der Zant et al., 2013) por su capacidad para generar contenido (texto, imágenes, vídeos, audios, etc.) a partir de una petición, expresada habitualmente en un texto escrito en lenguaje natural, aunque en la actualidad ya hay aplicaciones que aceptan entradas multimodales.
+
+Modelos de lenguaje y ChatGPT (y similares): ¿inteligentes?
+
+El primer impulso de los humanos es menospreciar cualquier artefacto que se arrogue la condición de inteligente. Así, a ChatGPT se le ha etiquetado, entre otras muchas cosas, de charlatán o de loro sofisticado, ya que no entiende de lo que está hablando (Alonso, 2023). Las personas se pueden sentir más inteligentes que ChatGPT si demuestran que no sabe lógica ni matemáticas, que se inventa lo que no sabe (técnicamente denominadas alucinaciones) y otras debilidades por el estilo. Todo esto puede haber sido cierto en algún momento, aunque puede haberse solucionado ya con las continuas mejoras que se van liberando o se acabará solucionando en versiones futuras o mediante la integración con otros componentes que incrementan la versatilidad y las prestaciones de ChatGPT, pero, no obstante, lo que no se debe olvidar es que ChatGPT se basa en un modelo de lenguaje que no fue concebido, inicialmente, para muchas de las cosas que se le piden.
+Los ataques más fuertes a la IA generativa no son nuevos. Tienen su germen en la línea del contrargumento de John Searle al test de Turing. En su juego de imitación, Turing (1950) proponía considerar que una máquina es inteligente si puede pasar por un ser humano en una prueba ciega. Por su parte, Searle (1980) decía que, si en una sala hay un humano que solo entiende castellano, con un libro de reglas, que recibe un papel con símbolos indescifrables (en chino) y que ejecuta las instrucciones del libro de forma que devuelve otro papel con símbolos que desconoce (en chino), desde fuera parece que haya una conversación, pero dentro de la habitación no hay nadie que comprenda el chino. Aunque Dennett (2017, p. 299) comenta que “la naturaleza hace un uso intensivo del principio de mínimo conocimiento y diseña criaturas muy capaces, expertas e incluso astutas que no tienen la más mínima idea de lo que hacen ni de por qué lo hacen”, la realidad es que se está aún en pañales en el conocimiento del funcionamiento del cerebro y de la relación entre la mente humana y la conciencia.
+
+Preocupación institucional y de los tomadores de decisiones
+
+Como indicio del interés despertado en el gobierno universitario, la European University Association publicó en febrero de 2023 su posicionamiento respecto al uso responsable en la docencia universitaria (European University Association, 2023), que posteriormente en España fue suscrito por Crue Universidades Españolas y el Ministerio de Universidades. De su planteamiento, cabe destacar una línea: las consecuencias inmediatas en el proceso de enseñanza y aprendizaje, fundamentalmente en la evaluación, ya que el estudiantado ya lo está utilizando.
+EDUCAUSE también ha mostrado su preocupación y ha realizado una encuesta (QuickPoll) cuya principal conclusión es que mientras las distintas partes implicadas en la educación superior aún se están formando opiniones sobre la IA generativa: el estudiantado ya ha empezado a utilizarla en sus trabajos, al igual que el profesorado, sin embargo, la mayoría de las instituciones no tienen políticas sobre su uso (Muscanell y Robert, 2023).
+En este mismo sentido, el Instituto para la Educación Superior en América Latina y el Caribe (IESALC) de la UNESCO recomienda utilizar ChatGPT y la IA con cuidado y creatividad, crear capacidad para su comprensión y gestión, y realizar auditorías de IA (Sabzalieva y Valentini, 2023).
+Para Informatics Europe (2023) esta fuerte y rápida irrupción en el mundo académico preocupa e ilusiona al mismo tiempo. Preocupa por sus efectos negativos a corto plazo sobre las convenciones establecidas de confianza y autenticidad. Despierta entusiasmo su potencial para mejorar las capacidades humanas. Específicamente, la escritura de código es un tema preocupante en los estudios de Informática (Hazzan, 2023; Meyer, 2022).
+
+Preocupación en la academia
+
+El tema también ha despertado interés entre la comunidad investigadora en educación. Con una posición bastante unánime sobre que el camino no es ignorar ni prohibir el uso de ChatGPT o aplicaciones similares, sino que habrá que capacitar tanto al profesorado como al estudiantado para un uso correcto y ético, así como revisar los planes de estudio para primar el pensamiento crítico y sacar el máximo rendimiento a estas herramientas (García-Peñalvo, 2023). Se propone un enfoque que construya relaciones de confianza con el estudiantado, con un diseño pedagógico centrado en las personas, donde la evaluación forme parte del mismo proceso de aprendizaje en lugar de únicamente actividades de control (Rudolph et al., 2023).
+
+“El emperador va desnudo”
+
+Siempre que aparece una tecnología prometedoramente disruptiva viene acompañada de discursos y posturas extremas, tanto tecnófilas como tecnófobas. Chomsky et al. (2023) opinan que la IA generativa “socavará nuestros objetivos científicos y comprometerá nuestros principios morales al integrar una comprensión fundamentalmente errónea del lenguaje y el conocimiento”, mientras que Bill Gates (2023) afirma que “El desarrollo de la IA es tan fundamental como la creación del microprocesador, el ordenador personal, Internet y el teléfono móvil”.
+En este cruce de posiciones y reparto de culpas, cuando se centra el foco de atención en las consecuencias de la aplicación de la IA generativa en la educación, parece más que evidente que a ChatGPT se le está haciendo responsable de unas debilidades en las prácticas educativas actuales que ya existían, pero que se resistían a ser admitidas. El sistema educativo, con especial mención al sistema universitario actual, está diseñado para un mundo con escasez de información, en el que en la etapa vital en la que las personas se formaban, acudían a los centros educativos para adquirirla y guardarla para el momento en que se necesitase. Ahora, sin embargo, se vive en una sociedad con acceso inmediato y a demanda de una sobreinformación (verdades o tautologías, medias verdades o indeterminaciones y falsedades o contradicciones). Los centros educativos, más concretamente las universidades, siguen manteniendo su compromiso con la sociedad de creación, transmisión y preservación del conocimiento, pero ¿sabrán dar respuesta al reto que representa la llegada de unas aplicaciones “inteligentes” que han causado un tremendo terremoto informacional cuando no están más que en sus albores?
+Este artículo tiene el objetivo de enfrentar al emperador que está desnudo al espejo de la realidad. Una realidad que tiene muchas aristas y oportunidades, pero que no se puede ni negar ni prohibir, es más se debe hacer todo lo posible por conocer sus posibilidades y limitaciones para alfabetizar a todos los actores del sistema educativo y así poder incorporar estas aplicaciones que hacen uso de la IA generativa a los procesos de enseñanza y aprendizaje de la forma más eficiente y eficaz. Para ello, en primer lugar, se va a hacer un mapa, tanto de las primeras herramientas que han aparecido copando la oferta y que tienen un potencial uso en la educación, como de las reacciones en la academia en los primeros seis meses de vida desde la aparición de ChatGPT, que ha supuesto la popularización de la IA generativa.
+
+IMPLICACIONES Y USOS DE LA IA GENERATIVA EN EDUCACIÓN
+
+Para poder utilizar con criterio y conocimiento de causa una tecnología en los procesos de enseñanza y aprendizaje, primero se deben conocer sus posibilidades y límites sin dejarse llevar por los extremismos, que suelen estar especialmente sesgados cuando una tendencia potencialmente disruptiva hace su aparición, como ha sucedido con la IA generativa, cuya penetración ha sido especialmente acelerada. Por ello, previamente a compartir las reflexiones sobre las implicaciones de esta tecnología en el contexto educativo, se va a realizar un estudio prospectivo orientado tanto a las herramientas que ya están disponibles con un potencial uso educativo, como a los aportes que desde la academia se han realizado en los primeros seis meses desde el tsunami provocado por ChatGPT.
+
+Herramientas educativas basadas en tecnologías IA generativa
+
+La IA generativa tiene como objetivo la generación de contenidos. Los modelos de lenguaje que se usan para este fin se entrenan para determinar qué elementos tienen una mayor probabilidad de aparecer cerca de otros. Para generar sus respuestas, evalúan grandes corpus de datos, lo que les permite satisfacer a las solicitudes con respuestas que entran dentro de una probabilidad determinada para el corpus del entrenamiento, es decir, sin implicar un razonamiento, de forma que, aunque la respuesta sea coherente, no implica que sea siempre correcta. Esta característica debe tenerse en cuenta en cualquier ámbito, pero especialmente en los usos educativos de estas herramientas.
+El número de herramientas informáticas que incluyen algún tipo de característica inteligente se ha visto incrementado en 2022 y, con un carácter exponencial, en 2023. Esto se debe, en buena medida, a los modelos de lenguaje de gran tamaño o LLM (Gruetzemacher y Paradice, 2022) (donde el concepto de “grande” crece a la par que la IA) que están siendo entrenados con una amplia base de conocimiento y utilizando una tremenda potencia de cómputo.
+Los LLM se han puesto en primera línea por la popularidad del Generative Pre-trained Transformer (GPT) (Brown et al., 2020; OpenAI, 2023), porque, ya sea en su versión 3.5 [2022] o 4 [2023], está detrás de ChatGPT. Sin embargo, GPT no es más que uno de los múltiples LLM existentes y que se basan en la arquitectura de Transformer (Vaswani et al., 2017). Así se pueden mencionar desde primeras propuestas de lenguajes de modelos (que no se considerarían actualmente de gran tamaño) como BERT (Bidirectional Encoder Representations from Transformers, [2018]) (Devlin y Chang, 2018; Devlin et al., 2019) o T5 (Text-To-Text Transfer Transformer, [2019]) (Raffel et al., 2020), hasta los más actuales, como, por ejemplo, LaMDA (Language Model for Dialogue Applications, [2021]) (Adiwardana, 2020; Collins y Ghahramani, 2021; Thoppilan et al., 2022), Chinchilla [2022] (Hoffmann et al., 2022), Bard [2023] (Pichai, 2023), LLaMA [2023] (Large Language Model Meta AI) (Touvron et al., 2023), Titan [2023] (Sivasubramanian, 2023) o Lima (Zhou et al., 2023), entre otros muchos (Yang et al., 2023; Zhao et al., 2023).
+Estos modelos de lenguaje permiten seguir una secuencia conversacional en lenguaje natural, dando como resultado respuestas de alta calidad. Sin embargo, los códigos cerrados y los elevados costes de desarrollo y entrenamiento suponen un freno importante, incluso para las empresas más potentes del sector. Para paliar estos problemas, cada vez hay más soluciones que vienen de la mano de la comunidad de software libre, por ejemplo, Alpaca [2023] (Taori et al., 2023) afina LLaMA (Touvron et al., 2023), para convertirlo en un modelo asequible y replicable. Partiendo de 175 pares instrucción-salida escritos por humanos, Alpaca aprovecha GPT-3.5 para ampliar los datos de entrenamiento a 52K de forma autoinstructiva, con lo que logra que tenga un rendimiento similar a GPT-3.5. A pesar de la eficacia de Alpaca, el ajuste fino completo de LLaMA a gran escala lleva mucho tiempo, requiere muchos cálculos, no admite multimodalidad y es difícil de transferir a diferentes escenarios posteriores. No obstante, se ha abierto el camino a métodos para diseñar modelos ligeros y personalizados que se puedan entrenar en dispositivos de cómputo de más bajas prestaciones y en muy poco tiempo, como, por ejemplo, LLaMA-Adapter (Zhang et al., 2023), que introduce 1,2M parámetros sobre el modelo LLaMA 7B congelado y cuesta menos de una hora ajustarlo en 8 GPU A100.
+No se pretende realizar un listado exhaustivo de estas herramientas, para ello ya hay interesantes recursos que se actualizan frecuentemente (Agarwal, 2023; Ebrahimi, 2023) o directorios de herramientas de IA, como Futurepedia (https://www.futurepedia.io/) o All Things AI (https://allthingsai.com/), que intentan reflejar esta evolución desbordante. Más bien, se quiere hacer una categorización de las herramientas que presentan un potencial uso educativo, así como elegir algunos representantes de este enfoque generativo que están comenzando a destacar, ya sea por su aceptación en entornos de producción o por su potencial para futuros avances, aunque, en este momento, se encuentren todavía en una fase incipiente de prototipado.
+Con independencia que cada vez habrá un mayor número de herramientas multimodales que transformen diferentes tipos de entrada en distintos tipos de salidas, para comprender el panorama actual en relación con el contexto educativo se clasifican en herramientas que fundamentalmente generan texto, imágenes, vídeo, objetos 3D, audio, código fuente, y herramientas para la detección de texto generado con IA. Dentro de cada una de las categorías se ha establecido diferentes subcategorías funcionales (ver Tabla 1).
+
+
+Tabla 1
+
+Clasificación de herramientas de IA generativa con potencial uso educativo
+
+
+Fuente: elaboración propia.
+
+
+
+
+Generación de textoApoyo a la investigaciónChatPDF, Consensus, Elicit, Humata, Klavier, SciSpace Copilot, Scite Assistant, Trinka
+
+
+ChatbotChatGPT, ChatSonic, Claude
+
+
+Creación de contenidosJasper, Notion
+
+
+Enseñanza de idiomasTwee
+
+
+Generador de currículo personalResume Builder
+
+
+Generador de exámenesConker. Monic
+
+
+Herramientas ofimáticasGoogle Workspace, Microsoft 365 Copilot
+
+
+Motor de búsquedaMicrosoft Bing, Perplexity, You
+
+
+Parafraseado de textoQuillbot
+
+
+Generación de imágenesGeneración de grafosGraphGPT
+
+
+Generación de imágenesAdobe Firefly, Bing Image Creator, Craiyon, DALL·E 2, Deep Dream Generator, Dream by Wombo, Leap, Midjourney, NightCafe, Stable Diffusion Online, Starryai, Stockimg, Visual ChatGPT
+
+
+Generación de presentacionesChatBA, Decktopus, GPT for Slides, SlidesAI
+
+
+Generación de vídeoConversor de vídeo a textoYoutubeDigest
+
+
+Generación de vídeosFliki, Gencraft, Imagen video, Make a video
+
+
+Generación de objetos 3DGeneración de objetos 3DAICommand, DreamFusion, GET3D, Imagine 3D
+
+
+Generación de audioConversor de voz a textoOtter, Transkriptor
+
+
+Generación de audioAudioLM, Lovo, Murf.ai, Voicemaker
+
+
+Modulador de vozVoicemod
+
+
+Generación de código fuenteDepuración de códigoAdrenaline, Code GPT
+
+
+Generación de códigoAmazon CodeWhisper, Codeium, Ghostwriter, Github copilot, Text2SQL
+
+
+Detección de texto generado con IAAntiplagioTurnitin
+
+
+Detección de textos generados con IAAI Text Classifier, GPTZero
+
+
+
+
+
+
+Tras esta labor de revisión y clasificación de algunas de las herramientas existentes que hacen uso de técnicas de IA generativa se pueden presentar algunas reflexiones:
+
+
+
+1. 
+						Hay una enorme cantidad de herramientas que utilizan IA generativa. Su espectro de uso es muy amplio y muchas de ellas son susceptibles de usarse con fines educativos y/o de aprendizaje.
+2. 
+						Muchas tienen modelos de uso freemium, aunque las versiones gratuitas suelen ser muy limitadas en cuanto a sus prestaciones.
+3. 
+						La generación de texto y los asistentes de escritura tienen un importante nicho y aparecen nuevas herramientas frecuentemente.
+4. 
+						El apoyo para la traducción automática de textos es una funcionalidad que está muy perfeccionada, con lo que ello supone tanto en la escritura científica como en la enseñanza/aprendizaje de idiomas.
+5. 
+						Se prevé una revolución en el concepto de buscador tal y como se conoce hoy en día. Los servicios de búsqueda sintáctica se verán complementados por búsquedas y generación de informes a través de la integración de técnicas IA generativas en los motores de búsqueda, como ya ha sucedido con Microsoft Bing y se espera que la respuesta por parte de Google sea accesible en todas las zonas geográficas. Las grandes empresas de informática están volcando sus modelos de negocio en este sector. El propio ChatGPT, con la incorporación de plug-ins es capaz de basar sus respuestas en contenido obtenido de la Web y no solo de su base de conocimiento.
+6. 
+						La transformación de texto a imágenes cuenta con muchos servicios, obteniéndose ya resultados de alta calidad. La transformación de texto en otros medios como vídeo u objetos 3D cuenta con propuestas prometedoras, pero en un estado todavía embrionario que no se ha cristalizado, a fecha de hoy, en aplicaciones de garantía accesibles a los usuarios finales.
+7. 
+						El avance en los modelos de lenguaje está teniendo como resultado la aparición de aplicaciones de transformación de texto a elementos multimodales.
+8. 
+						La integración de los modelos de lenguaje en aplicaciones de uso cotidiano es una de las grandes apuestas de los ecosistemas ofimáticos para mejorar la productividad en su utilización, por ejemplo, la integración de PaLM en Google Docs (Google Workspace) (Kurian, 2023) o de GPT en Microsoft Office (Microsoft 365 Copilot).
+9. 
+						Uno de los aspectos en los que no se está teniendo tanto éxito, por más que haya cada vez más productos que lo prometen, es en la detección de textos generados por inteligencia artificial. Los detectores de textos generados presentan grandes limitaciones, como reconoce la propia OpenAI sobre su AI Text Classifier, siendo muy poco fiable para textos de menos de 1000 caracteres (y escritos en inglés) (Kirchner et al., 2023). Se intenta abordar este problema utilizando firmas propias de los modelos que se incrustan en los textos generados o aplicando técnicas de marca de agua que imprimen patrones específicos en los textos. Sin embargo, se ha demostrado tanto empírica como teóricamente que los detectores no son fiables en escenarios prácticos (Sadasivan et al., 2023), es decir, para un modelo lingüístico suficientemente avanzado incluso el mejor detector posible solo puede ser ligeramente mejor que un clasificador aleatorio. Por tanto, se debe ser muy cauto a la hora de utilizar estas herramientas para tomar decisiones, por ejemplo, sobre la evaluación de trabajos académicos porque el potencial daño reputacional a los autores puede llegar a ser muy alto en los falsos positivos.
+
+
+
+Revisión rápida: IA generativa en educación
+
+Una vez que se tiene una visión global de las herramientas, se debe conocer cómo está siendo vista la llegada de estas tecnologías a la comunidad educativa, pero desde un punto de vista más académico. Para ello, se ha llevado a cabo una revisión rápida (rapid review) (Grant y Booth, 2009) de literatura para evaluar lo que se ha publicado sobre esta temática particular, utilizando métodos de revisión sistemática para buscar y evaluar críticamente la investigación existente.
+ChatGPT también está teniendo una gran influencia en la producción científica en este inicio de 2023, sirva como ejemplo que a fecha de 1 de abril de 2023 había un total de 194 artículos que mencionaban ChatGPT en arXiv, con un foco principal en el procesamiento de lenguaje natural, pero con potencial de investigación en otros campos entre los que destaca la educación (Liu et al., 2023). En el caso específico de la revisión realizada, se han tomado como referencia los artículos publicados y recogidos en Web of Science y Scopus (a fecha de 6 de abril 2023) por considerarse las bases de datos de mayor difusión y aceptación internacional y recoger artículos que han pasado unos procesos de revisión que no están presentes en otras bases de datos, como la anteriormente mencionada arXiv.
+
+Definición del protocolo de revisión
+
+De una forma sucinta, se presenta el protocolo de revisión (García-Peñalvo, 2022) seguido en el estudio:
+
+
+
+1. 
+						Preguntas de investigación:
+
+
+PI1. Características de los ítems del corpus final de la revisión (años de publicación, tipo de artículo, fuentes, autores, distribución geográfica).
+
+
+PI2. En qué campos disciplinares se desarrollan los estudios.
+
+
+PI3. Cuáles son las aportaciones de la IA generativa a la educación.
+
+
+PI4. Qué intervenciones educativas se reflejan o se proponen en los estudios.
+
+
+
+2. 
+						Criterios de inclusión y exclusión:
+
+
+CI1. El artículo debe estar publicado o aceptado para su publicación y accesible en acceso temprano.
+
+
+CI2. El artículo no debe ser una nota o una carta.
+
+
+CI3. El artículo debe estar escrito en inglés.
+
+
+CI4. El texto completo del artículo debe estar accesible.
+
+
+CI5. El artículo tiene relación con el uso de la inteligencia artificial generativa en la educación.
+
+
+CI6. El artículo aporta una experiencia educativa o una reflexión sobre el uso educativo de la inteligencia artificial generativa.
+
+
+CI7. El artículo no es una versión de otro ya incluido en el corpus.
+
+
+CE1. El artículo no está publicado o aceptado para su publicación y accesible en acceso temprano.
+
+
+CE2. El artículo es una nota o una carta.
+
+
+CE3. El artículo no está escrito en inglés.
+
+
+CE4. El texto completo del artículo no está accesible.
+
+
+CE5. El artículo no tiene relación con el uso de la inteligencia artificial generativa en la educación.
+
+
+CE6. El artículo no aporta una experiencia educativa o una reflexión sobre el uso educativo de la inteligencia artificial generativa.
+
+
+CE7. El artículo es una versión de otro ya incluido en el corpus y, por tanto, no aporta nada nuevo sobre el artículo ya incluido.
+
+
+
+3. 
+						Fuentes de datos:
+
+
+Web of Science (WoS) y Scopus.
+
+
+
+4. 
+						Ecuación canónica de búsqueda:
+
+
+Education AND (“generative artificial intelligence” OR “generative AI” OR “chatgpt”).
+
+
+
+
+
+PI1. Características de los ítems del corpus final de la revisión (años de publicación, tipo de artículo, fuentes, autores, distribución geográfica).
+PI2. En qué campos disciplinares se desarrollan los estudios.
+PI3. Cuáles son las aportaciones de la IA generativa a la educación.
+PI4. Qué intervenciones educativas se reflejan o se proponen en los estudios.
+CI1. El artículo debe estar publicado o aceptado para su publicación y accesible en acceso temprano.
+CI2. El artículo no debe ser una nota o una carta.
+CI3. El artículo debe estar escrito en inglés.
+CI4. El texto completo del artículo debe estar accesible.
+CI5. El artículo tiene relación con el uso de la inteligencia artificial generativa en la educación.
+CI6. El artículo aporta una experiencia educativa o una reflexión sobre el uso educativo de la inteligencia artificial generativa.
+CI7. El artículo no es una versión de otro ya incluido en el corpus.
+CE1. El artículo no está publicado o aceptado para su publicación y accesible en acceso temprano.
+CE2. El artículo es una nota o una carta.
+CE3. El artículo no está escrito en inglés.
+CE4. El texto completo del artículo no está accesible.
+CE5. El artículo no tiene relación con el uso de la inteligencia artificial generativa en la educación.
+CE6. El artículo no aporta una experiencia educativa o una reflexión sobre el uso educativo de la inteligencia artificial generativa.
+CE7. El artículo es una versión de otro ya incluido en el corpus y, por tanto, no aporta nada nuevo sobre el artículo ya incluido.
+Web of Science (WoS) y Scopus.
+Education AND (“generative artificial intelligence” OR “generative AI” OR “chatgpt”).
+
+Resultados de la revisión
+
+En el diagrama PRISMA (Page et al., 2021) recogido en la Figura 1 se resume el proceso de búsqueda y filtrado de los resultados obtenidos, mientras que en la Tabla 2 se presentan los estudios incluidos en el corpus final de la revisión.
+
+
+
+Figura 1
+
+Flujo de trabajo de la revisión rápida
+
+Fuente: elaboración propia.
+
+
+
+
+Tabla 2
+
+Estudios incluidos en el corpus final de la revisión, ordenados por el apellido del primer autor
+
+
+Fuente: elaboración propia.
+
+
+
+
+[1](Ali, DiPaola, y Breazeal, 2021)
+
+
+[2](Ali, DiPaola, Lee, et al., 2021)
+
+
+[3](Arora y Arora, 2022)
+
+
+[4](Choi et al., 2023)
+
+
+[5](Cooper, 2023)
+
+
+[6](Cotton et al., 2023)
+
+
+[7](Crawford et al., 2023)
+
+
+[8](Dwivedi et al., 2023)
+
+
+[9](Finnie-Ansley et al., 2023)
+
+
+[10](García-Peñalvo, 2023)
+
+
+[11](Gašević et al., 2023)
+
+
+[12](Gilson et al., 2023)
+
+
+[13](Iskender, 2023)
+
+
+[14](Johinke et al., 2023)
+
+
+[15](Karaali, 2023)
+
+
+[16](Khan et al., 2023)
+
+
+[17](Kung et al., 2023)
+
+
+[18](Lee, 2023)
+
+
+[19](Lim et al., 2023)
+
+
+[20](Lyu et al., 2022)
+
+
+[21](Masters, 2023)
+
+
+[22](Mbakwe et al., 2023)
+
+
+[23](Pataranutaporn et al., 2022)
+
+
+[24](Pavlik, 2023)
+
+
+[25](Perkins, 2023)
+
+
+[26](Sallam, 2023)
+
+
+[27](Šlapeta, 2023)
+
+
+[28](Thorp, 2023)
+
+
+[29](Thurzo et al., 2023)
+
+
+[30](Tlili et al., 2023)
+
+
+[31](Vartiainen y Tedre, 2023)
+
+
+
+
+
+
+
+PI1. Características de los ítems del corpus final de la revisión (años de publicación, tipo de artículo, fuentes, autores, distribución geográfica)
+
+Los artículos seleccionados se concentran mayoritariamente en el año 2023 (aproximadamente el 84 %), lo que claramente transmite la novedad de la aplicación de la inteligencia artificial generativa a la educación. Predomina el artículo de revista con 71 % (un 87 % si se consideran los artículos editoriales también publicados en revistas, se ha considerado que los artículos editoriales, dado el momento emergente de la IA generativa, podrían aportar una visión reflexiva y crítica por parte de los equipos editoriales de las revistas científicas). En cuanto a la fuente en la que los artículos fueron publicados hay una gran dispersión. De las 26 fuentes representadas, solo hay una con tres artículos (Journal of University Teaching and Learning Practice), seguida de otras tres fuentes que han publicado dos artículos seleccionados (AAAI Conference on Artificial Intelligence; Computers and Education: Artificial Intelligence; PLOS Digital Health). Exactamente igual que sucede con las fuentes ocurre con los autores, no hay una gran concentración de artículos en número reducido de autores. De los 169 autores que firman los artículos seleccionados, hay solo dos autoras que han participado en tres artículos (Safinah Ali y Cynthia Breazeal) y otra autora que lo ha hecho en dos artículos (Daniella DiPaola). En la distribución geográfica de los artículos destaca Estados Unidos, representado en quince artículos, seguido de Australia, representado en ocho artículos.
+
+PI2. En qué campos disciplinares se desarrollan los estudios
+
+El campo disciplinar de Educación, entendido como un campo transversal, es el más representado en el corpus de la revisión con nueve artículos (29 %), seguido de Medicina con ocho artículos (25,8 %). La organización en campos disciplinares se puede apreciar en la Tabla 3.
+
+
+Tabla 3
+
+Disciplinas en las que se centran los estudios incluidos en el corpus final de la revisión
+
+
+Fuente: elaboración propia.
+
+
+
+
+Campo DisciplinarNº de artículosArtículos
+
+
+Artesanía1[31]
+
+
+Biología1[27]
+
+
+Ciencias1[5]
+
+
+Educación9[6] [7] [8] [10] [11] [19] [23] [28] [30]
+
+
+Enfermería1[4]
+
+
+Escritura2[14] [25]
+
+
+Ingeniería Informática1[9]
+
+
+Matemáticas1[15]
+
+
+Medicina8[3] [12] [16] [17] [18] [21] [22] [26]
+
+
+Odontología1[29]
+
+
+Periodismo1[24]
+
+
+Preuniversitario3[1] [2] [20]
+
+
+Turismo1[13]
+
+
+
+
+
+
+
+PI3. Cuáles son las aportaciones de la IA generativa a la educación
+
+La percepción más generalizada sobre las tecnologías basadas en IA generativa en educación es una mezcla de entusiasmo y aprensión. Esta posición se refleja muy bien en las cuatro paradojas expresadas por Lim et al. (2023), la IA generativa:
+
+
+
+1. 
+						Es “amiga” y “enemiga” a la vez.
+2. 
+						Es “capaz” pero “dependiente”.
+3. 
+						Es “accesible” pero “restrictiva”.
+4. 
+						Se hace aún más “popular” cuando está “prohibida”.
+
+
+Sobre esta base, se presentan los beneficios, riesgos y retos presentes en los trabajos que conforman el corpus de la revisión.
+Beneficios y potenciales usos en educación:
+
+
+
+
+B1. Acceso a una gran cantidad de información relevante en tiempo real, para posteriormente procesarla, resumirla y presentarla como si fuera un humano [4] [6] [16] [24].
+
+
+B2. Generación de grandes baterías de contenidos educativos (casos, unidades, rúbricas, cuestionarios, etc.), que puedan preservar la privacidad en algunos casos críticos como en el dominio de la educación médica [3] [5] [16] [17] [24] [26].
+
+
+B3. Herramientas de apoyo para aprender nuevos conceptos frente a medios más tradicionales, incluyendo la capacidad de resumir o explicar conceptos complejos [5] [16].
+
+
+B4. Su capacidad para comprender el contexto permite una interacción (diálogo) con estas herramientas que puede ayudar a la obtención de respuestas autodirigidas a las preguntas y aprender más eficazmente sobre diversos temas [4] [12].
+
+
+B5. Potencian el pensamiento crítico y la creatividad al ofrecer al estudiantado la oportunidad de recibir comentarios sobre sus tareas y de cuestionar sus creencias [7] [26] [31].
+
+
+B6. Apoyan al estudiantado en tareas más repetitivas, así se puede centrar en la esencia de las tareas y ser más crítico en su aprendizaje [7] [13].
+
+
+B7. Facilitan el desarrollo inicial de ideas y la reflexión sobre ellas [7] [13].
+
+
+B8. Proporcionan una plataforma de comunicación asíncrona, lo que aumenta el compromiso y facilita la colaboración del estudiantado [6].
+
+
+B9. Permiten un aprendizaje personalizado [6] [12] [16] [18] [26].
+
+
+B10. Pueden ayudar a estudiantes con problemas al escribir y, en general, a cualquiera a tener más control sobre sus competencias de escritura [5] [7].
+
+
+B11. Pueden convertirse en asistentes virtuales de aprendizaje [7] [10] [18].
+
+
+B12. Pueden servir como herramientas de aprendizaje continuo e informal [4].
+
+
+B13. Facilitan el desarrollo de las competencias lingüísticas [6] [16].
+
+
+B14. Mejora de la productividad del profesorado al tener que invertir menos tiempo a responder las mismas preguntas del estudiantado, a calificar trabajos escritos, etc., lo que permitiría al profesorado centrarse en tareas de más alto nivel, como proporcionar comentarios y apoyo a los estudiantes [4] [6] [8] [13] [16] [18].
+
+
+B15. Apoyan a la evaluación automatizada y otras innovaciones en la evaluación [6] [16].
+
+
+
+B1. Acceso a una gran cantidad de información relevante en tiempo real, para posteriormente procesarla, resumirla y presentarla como si fuera un humano [4] [6] [16] [24].
+B2. Generación de grandes baterías de contenidos educativos (casos, unidades, rúbricas, cuestionarios, etc.), que puedan preservar la privacidad en algunos casos críticos como en el dominio de la educación médica [3] [5] [16] [17] [24] [26].
+B3. Herramientas de apoyo para aprender nuevos conceptos frente a medios más tradicionales, incluyendo la capacidad de resumir o explicar conceptos complejos [5] [16].
+B4. Su capacidad para comprender el contexto permite una interacción (diálogo) con estas herramientas que puede ayudar a la obtención de respuestas autodirigidas a las preguntas y aprender más eficazmente sobre diversos temas [4] [12].
+B5. Potencian el pensamiento crítico y la creatividad al ofrecer al estudiantado la oportunidad de recibir comentarios sobre sus tareas y de cuestionar sus creencias [7] [26] [31].
+B6. Apoyan al estudiantado en tareas más repetitivas, así se puede centrar en la esencia de las tareas y ser más crítico en su aprendizaje [7] [13].
+B7. Facilitan el desarrollo inicial de ideas y la reflexión sobre ellas [7] [13].
+B8. Proporcionan una plataforma de comunicación asíncrona, lo que aumenta el compromiso y facilita la colaboración del estudiantado [6].
+B9. Permiten un aprendizaje personalizado [6] [12] [16] [18] [26].
+B10. Pueden ayudar a estudiantes con problemas al escribir y, en general, a cualquiera a tener más control sobre sus competencias de escritura [5] [7].
+B11. Pueden convertirse en asistentes virtuales de aprendizaje [7] [10] [18].
+B12. Pueden servir como herramientas de aprendizaje continuo e informal [4].
+B13. Facilitan el desarrollo de las competencias lingüísticas [6] [16].
+B14. Mejora de la productividad del profesorado al tener que invertir menos tiempo a responder las mismas preguntas del estudiantado, a calificar trabajos escritos, etc., lo que permitiría al profesorado centrarse en tareas de más alto nivel, como proporcionar comentarios y apoyo a los estudiantes [4] [6] [8] [13] [16] [18].
+B15. Apoyan a la evaluación automatizada y otras innovaciones en la evaluación [6] [16].
+Riesgos de las herramientas de IA generativa para la educación:
+
+
+
+
+R1. Aprendizaje rápido y superficial [8].
+
+
+R2. Pueden suponer un impedimento para que el estudiantado desarrolle habilidades de pensamiento crítico e independiente, lo que podría tener repercusiones a largo plazo [4] [8] [9] [13] [18].
+
+
+R3. Pueden ir en contra del desarrollo de la creatividad [8] [13].
+
+
+R4. Pueden ofrecer información incompleta, lo que puede llevar a malinterpretar un concepto [4] [7] [10] [24] [26].
+
+
+R5. Pueden ofrecer respuestas con verosimilitud aparente, pero carentes de coherencia, produciéndose en muchos casos resultados “inventados”, que reciben el nombre de alucinaciones [14] [16] [18] [26] [27] [31].
+
+
+R6. Tienen carencias a la hora de interpretar la información cuantitativa insertada en un texto [15].
+
+
+R7. En muchas ocasiones no se ofrece información sobre la autoría o la fuente de evidencia que respalda los resultados obtenidos, lo que también supone una vulneración de los derechos de autor [5] [6] [10] [11] [14] [26] [31].
+
+
+R8. Pueden afectar negativamente al desarrollo de las habilidades interpersonales, por ejemplo, la comunicación e interacción del estudiantado con el profesorado y sus compañeros y compañeras puede verse resentida [4] [18].
+
+
+R9. Uso deshonesto de estas herramientas cuando se utiliza sin más el resultado obtenido como propio, lo que podría ser considerado como un plagio [4] [6] [8] [10] [11] [13] [16] [18] [25] [26] [29].
+
+
+R10. Una posible causa de problemas de equidad entre las personas que tienen acceso y usan estas herramientas (o versiones premium de pago) y las que no [4] [6] [13] [19].
+
+
+R11. Invasión en la privacidad de los datos y la confidencialidad [13] [18].
+
+
+R12. Aumento de los prejuicios raciales y socioeconómicos por los sesgos de los datos en el entrenamiento de estas aplicaciones [13] [18] [29] [31].
+
+
+R13. Posible impacto negativo en el medioambiente por la potencia de procesamiento que se requiere para obtener los resultados [5].
+
+
+R14. Problemas de ciberseguridad [26].
+
+
+
+R1. Aprendizaje rápido y superficial [8].
+R2. Pueden suponer un impedimento para que el estudiantado desarrolle habilidades de pensamiento crítico e independiente, lo que podría tener repercusiones a largo plazo [4] [8] [9] [13] [18].
+R3. Pueden ir en contra del desarrollo de la creatividad [8] [13].
+R4. Pueden ofrecer información incompleta, lo que puede llevar a malinterpretar un concepto [4] [7] [10] [24] [26].
+R5. Pueden ofrecer respuestas con verosimilitud aparente, pero carentes de coherencia, produciéndose en muchos casos resultados “inventados”, que reciben el nombre de alucinaciones [14] [16] [18] [26] [27] [31].
+R6. Tienen carencias a la hora de interpretar la información cuantitativa insertada en un texto [15].
+R7. En muchas ocasiones no se ofrece información sobre la autoría o la fuente de evidencia que respalda los resultados obtenidos, lo que también supone una vulneración de los derechos de autor [5] [6] [10] [11] [14] [26] [31].
+R8. Pueden afectar negativamente al desarrollo de las habilidades interpersonales, por ejemplo, la comunicación e interacción del estudiantado con el profesorado y sus compañeros y compañeras puede verse resentida [4] [18].
+R9. Uso deshonesto de estas herramientas cuando se utiliza sin más el resultado obtenido como propio, lo que podría ser considerado como un plagio [4] [6] [8] [10] [11] [13] [16] [18] [25] [26] [29].
+R10. Una posible causa de problemas de equidad entre las personas que tienen acceso y usan estas herramientas (o versiones premium de pago) y las que no [4] [6] [13] [19].
+R11. Invasión en la privacidad de los datos y la confidencialidad [13] [18].
+R12. Aumento de los prejuicios raciales y socioeconómicos por los sesgos de los datos en el entrenamiento de estas aplicaciones [13] [18] [29] [31].
+R13. Posible impacto negativo en el medioambiente por la potencia de procesamiento que se requiere para obtener los resultados [5].
+R14. Problemas de ciberseguridad [26].
+Retos que abre la IA generativa para los sistemas educativos:
+
+
+
+
+Re1. Adaptación de todos los actores involucrados al ecosistema digital derivado de la IA generativa, que está en continua evolución [8] [19].
+
+
+Re2. Formación del profesorado en competencias sobre IA generativa [4] [5] [6] [10] [11] [30].
+
+
+Re3. Generación de comunidades de práctica para compartir experiencias sobre el uso educativo de la IA [4].
+
+
+Re4. Desarrollo en el estudiantado de las competencias sobre IA generativa, con énfasis en el desarrollo de pensamiento crítico para poder comprender tanto sus potencialidades como sus limitaciones y hacer un uso ético de estas tecnologías [4] [10] [18] [30].
+
+
+Re5. Revisión, actualización e innovación de los contenidos curriculares y métodos docentes que hayan podido quedar obsoletos, con la consiguiente resistencia al cambio, en los que haya más cabida para la reflexión del estudiantado [10] [11] [13] [14] [18] [22] [24] [26] [28] [29] [30].
+
+
+Re6. Búsqueda de alternativas y/o complementariedades a la hora de la evaluación (oralidad como complemento a los trabajos escritos, evaluaciones abiertas que fomenten la originalidad y la creatividad, entrega de esquemas gráficos, preocuparse por el proceso seguido y no solo por el producto final) [4] [6] [7] [8] [10] [18].
+
+
+Re7. Desarrollo de códigos éticos y definición de directrices generales con respecto a la IA generativa [8] [19] [21] [26].
+
+
+
+Re1. Adaptación de todos los actores involucrados al ecosistema digital derivado de la IA generativa, que está en continua evolución [8] [19].
+Re2. Formación del profesorado en competencias sobre IA generativa [4] [5] [6] [10] [11] [30].
+Re3. Generación de comunidades de práctica para compartir experiencias sobre el uso educativo de la IA [4].
+Re4. Desarrollo en el estudiantado de las competencias sobre IA generativa, con énfasis en el desarrollo de pensamiento crítico para poder comprender tanto sus potencialidades como sus limitaciones y hacer un uso ético de estas tecnologías [4] [10] [18] [30].
+Re5. Revisión, actualización e innovación de los contenidos curriculares y métodos docentes que hayan podido quedar obsoletos, con la consiguiente resistencia al cambio, en los que haya más cabida para la reflexión del estudiantado [10] [11] [13] [14] [18] [22] [24] [26] [28] [29] [30].
+Re6. Búsqueda de alternativas y/o complementariedades a la hora de la evaluación (oralidad como complemento a los trabajos escritos, evaluaciones abiertas que fomenten la originalidad y la creatividad, entrega de esquemas gráficos, preocuparse por el proceso seguido y no solo por el producto final) [4] [6] [7] [8] [10] [18].
+Re7. Desarrollo de códigos éticos y definición de directrices generales con respecto a la IA generativa [8] [19] [21] [26].
+
+PI4. Qué intervenciones educativas se reflejan o se proponen en los estudios
+
+En los diferentes trabajos seleccionados se encuentran varias intervenciones educativas que bien se han realizado o bien se proponen con medidas de acción ante lo que supone la llegada masiva de tecnologías relacionadas con la IA generativa. Estas intervenciones se distinguen en el aula y en la definición de estrategias y políticas educativas.
+Trabajo en el aula
+Los primeros trabajos (desde una perspectiva temporal) que aplican técnicas de IA generativa en el aula se refieren al diseño de actividades para llevar las Generative Adversarial Networks (GAN) (Goodfellow et al., 2020; Karras et al., 2021) al aula en estudios preuniversitarios. Ali, DiPaola y Breazeal (2021) diseñaron actividades educativas sobre qué eran las GAN para que el estudiantado comprendiera los conceptos de generadores y discriminadores, es decir, que pudieran entender que el objetivo del generador es crear algo nuevo que el discriminador tiene que clasificar como real o como falso. El objetivo de estas actividades era que los alumnos comprendieran mejor el funcionamiento de las GAN y su papel en la IA generativa. Por su parte, en Ali, DiPaola, Lee, et al. (2021) se utilizan las actividades con estudiantes de secundaria para concienciar sobre los aspectos éticos de la IA utilizando herramientas para la generación de deepfakes. Estas actividades pretendían fomentar una comprensión más profunda de los riesgos potenciales y las consideraciones éticas de las herramientas generativas de IA. Pataranutaporn et al. (2022) exploran los efectos en el aprendizaje cuando se usan instructores virtuales generados con inteligencia artificial, encontrando una correlación positiva entre la simpatía por el instructor y la motivación del estudiantado, aunque no se refleje en una mayor puntuación en las pruebas de evaluación. Lyu et al. (2022) introducen la IA en el nivel preuniversitario a través de herramientas interactivas, la metáfora de la caverna de Platón y exploraciones artísticas, pero estos autores utilizan los VAE (Variational Autoencoders) (Kingma y Welling, 2022) en lugar de las GAN.
+Las GAN también tienen aplicación práctica en la formación de los futuros médicos, produciendo de forma rápida material de formación y simulaciones que se puedan utilizar como recursos educativos (Arora y Arora, 2022). Estos casos sintéticos aumentarían la cantidad de casos extremos con los que crear escenarios de aprendizaje que, además, protegerían la identidad de los pacientes, facilitando como beneficio añadido el intercambio de recursos (casos) entre instituciones.
+
+Dwivedi et al. (2023) proponen que profesorado y estudiantado exploren juntos las aplicaciones y los límites, tanto éticos como de capacidad, de la IA generativa, permitiendo así el uso de esta tecnología de formas inimaginables. Para ello proponen utilizar el marco IT Mindfulness (Thatcher et al., 2018) que incluye cuatro elementos: 1) alerta a la distinción, 2) conciencia de múltiples perspectivas, 3) apertura a la novedad y 4) orientación en el presente.
+
+Šlapeta (2023) reflexiona sobre cómo empezar a utilizar herramientas de IA generativa en el aula y comienza estableciendo sus límites, es decir, se trata de modelos, no de fuentes de sabiduría ni de la verdad absoluta. Cualquier asistente ayuda a ordenar los pensamientos y las tareas en trozos significativos. Sin embargo, si se quiere incorporar esta tecnología a la rutina diaria, se debe aprender a utilizar, de forma que el usuario deber ser el experto y, como tal, el responsable de verificar los resultados que le proporciona el asistente.
+Definición de estrategias y políticas educativas
+No se debe prohibir el uso en las instituciones educativas de las herramientas que emplean IA generativa (Choi et al., 2023; García-Peñalvo, 2023; Iskender, 2023; Lim et al., 2023; Perkins, 2023; Tlili et al., 2023), siendo la prohibición el mejor síntoma de que las instituciones de educación no están preparadas todavía para la incorporación natural de estas tecnologías, herramientas que, por otra parte, están a disposición del estudiantado fuera de las instituciones educativas y serán herramientas habituales en su puesto de trabajo tras terminar sus estudios (Masters, 2023). Pero, consecuentemente, el profesorado debe sentirse respaldado por el gobierno de sus instituciones y tener claro las expectativas que suponen estas herramientas en todo el proceso de enseñanza/aprendizaje, con una atención especial en el caso de la evaluación (Cooper, 2023).
+Para poner freno al uso fraudulento o carente de ética, que no es algo que haya surgido por la aparición de estas tecnologías, el profesorado tiene que potenciar su rol de concienciación del estudiantado sobre la importancia de honestidad académica, el valor del pensamiento crítico y las consecuencias de los usos deshonestos (Choi et al., 2023; Dwivedi et al., 2023), ejerciendo una labor de mayor liderazgo (Crawford et al., 2023) y cambiando la narrativa en pro de una responsabilidad distribuida cuando se trata de mala conducta académica. Es decir, que el gobierno, el profesorado y el estudiantado compartan la responsabilidad (Lim et al., 2023). No obstante, la promoción de las buenas prácticas no debe significar una renuncia a la necesidad de detección del fraude académico, ya que las trampas no detectadas suponen una forma de desigualdad en el presente y una carencia de formación en el futuro. Además, dada su naturaleza global, se hace necesaria la coordinación internacional para maximizar los beneficios de estas herramientas (Dwivedi et al., 2023).
+
+REFLEXIÓN
+
+La IA es un conjunto de herramientas de procesamiento de información que supone un paso más en los muchos dados en este campo en el último siglo. Permite procesar información de una forma útil para el ser humano por su velocidad y el ajuste a los objetivos. Lo más llamativo de lo sucedido en los últimos meses, y lo que probablemente afecta más a la educación, es una parte específica de estas IA, los llamados modelos generativos, cuya estrategia comercial y colaborativa ha permitido interactuar con ellas a millones de personas en todo el mundo, haciéndonos globalmente conscientes de las posibilidades que ofrece y de los posibles riesgos.
+Aunque se han difundido IA dedicadas a tareas diferentes como creación y manipulación de imágenes o vídeos, las que ofrecen la opción de la gestión del lenguaje natural son las que más han impactado. Esto es la primera vez que sucede con esta dimensión y calidad. No nos impresiona ya el manejo que las máquinas hacen en la actualidad de los números, algo que hace unos años era también objeto de controversia. Empezamos a familiarizarnos con los robots o drones, que ya tenemos en nuestras casas. Ahora, nos planteamos los problemas de la gestión del lenguaje, algo que hemos considerado como parte de la esencia de los seres humanos, lo que nos pone en alerta. Pero que una máquina pueda manejar lenguaje de la misma manera que un humano, no la convierte en humana, salvo que nosotros creamos que es así.
+Un planteamiento similar se ha dado con el sufrimiento y los sentimientos de amor en otros seres vivos. Cualidades que durante siglos han sido atribuidas exclusivamente a los seres humanos, admitimos ahora que también son propias de otros seres vivos. En un ejercicio más de incoherencia humana, podríamos empezar a preocuparnos por si las máquinas que manejan lenguaje tienen sentimientos, como ya se ha hecho en algún caso, mientras que seguimos dudando de si otros seres vivos los tienen. La diferencia entre estos dos casos es que la máquina maneja nuestro mismo lenguaje, podemos preguntarle directamente y ella nos contesta, mientras que otros seres vivos manejan otros tipos de lenguaje, con el que la mayoría de los seres humanos no podemos interactuar. No parece que este deba ser el criterio que marque la diferencia.
+No todo lo que es posible imaginar con una IA es real en este momento. Hay que ir analizando cada una de las opciones que aparecen y situarlas en el marco de utilidad adecuado. No hay una sola IA, hay muchos modelos entrenados de formas diferentes para hacer tareas específicas. Además, los resultados son utilizados por otro tipo de software que genera funciones que ya no son propias de una IA. Si las resistencias pueden poner en peligro el uso de herramientas tan potentes como estas de las que hablamos, es esencial que las preguntas se ajusten a los hechos, para que las respuestas puedan ofrecer opciones reales.
+No existe ningún ejemplo relevante de tecnología a la que se haya prohibido el acceso con éxito. El acceso a Internet o a los dispositivos móviles inteligentes han generado también numerosos debates con propuestas claras de limitación a determinadas personas por su edad o condición. Sin embargo, ninguna de estas iniciativas parece haber tenido éxito. Esto se debe especialmente a que el control se encuentra más enfocado a la limitación del acceso que a la capacidad de los usuarios para filtrar la información y las herramientas de las que dispone. Esto es un fenómeno que tampoco es nuevo, dado que de siempre el acceso a la información no filtrada ha generado debates.
+En este artículo no pretendemos resolver el problema de si herramientas como ChatGPT son inteligentes o no. Lo que parece que no hay duda es que realizan funciones que, cuando son realizadas por un ser humano, son consideradas reflejo de la inteligencia del sujeto que las usa. Decimos sin problema que modelos similares que han sido diseñados para jugar al ajedrez son extremadamente inteligentes (hasta el punto de que los humanos no juegan torneos con ellos). ¿Por qué ahora tenemos estas prevenciones? Quizás se debe solo a que las otras son tareas que no todos los seres humanos realizan (jugar al ajedrez) o por las que tienen escaso interés. Sin embargo, el uso del lenguaje es cosa de todos y todos creemos entender de qué hablamos (nunca mejor dicho).
+Mientras organizaciones e instituciones debaten sobre la postura que deben tomar o recomendar sobre el uso de estas IA en la educación, la tecnología avanzará lo suficiente, como para que dichas resoluciones carezcan de sentido cuando se aprueben. Es muy importante tener esto en cuenta, para no dedicar tiempo a normas o recomendaciones de imposible cumplimiento.
+El problema para el mundo académico es que las máquinas pueden hacer fácilmente, y de manera bastante acertada en este momento (quizás totalmente acertada en unos meses), tareas que nosotros hemos encomendado a nuestros estudiantes como mecanismo para determinar si alcanzan los objetivos de una asignatura, es decir, para su evaluación. La primera reacción ante esta situación es impedirles utilizar este tipo de herramientas. Sin embargo, la pregunta ahora es más interesante: si una máquina ya puede hacer una tarea, ¿qué otras cosas podrían empezar a hacer los seres humanos asistidos por estas máquinas? Lo mismo nos hemos planteado en el siglo XVIII y XIX con las revoluciones industriales, cuando las máquinas sustituyeron la mano de obra en multitud de fábricas. Ahora tenemos la capacidad de hacer las mismas cosas mucho más rápido y, lo que es mejor, plantearnos hacer cosas diferentes. Que sea o no para mejorar el bienestar de nuestras sociedades, será responsabilidad nuestra.
+Los problemas que aquí hemos presentado no son propios del ámbito de la educación. También afectan a otros sectores que hemos mencionado como la abogacía, la medicina, la ingeniería o la programación. Afectará a toda aquella tarea que requiera el manejo rápido de grandes cantidades de información contenida en bases de datos o, esta es la gran novedad, en textos. La educación no debe situarse al margen de estos debates y debemos imponernos la tarea de estar atentos a las opciones que estas herramientas nos dan para maximizar las posibilidades de aprendizaje de todos: profesorado y estudiantado. Quizás debamos realizar ciertos cambios en los planes de estudio de nuestras titulaciones incorporando el aprendizaje del uso de estas herramientas en cada uno de los campos, pero lo que es seguro es que tendremos que hacer ya cambios sustanciales en nuestra manera de enseñar y en lo que pediremos a nuestros estudiantes que hagan.
+Por último, en la redacción de este artículo, nos hemos dado cuenta de cuál será nuestro principal problema: la velocidad a la que tendremos que analizar e incorporar estas novedades. En el tiempo que lo hemos escrito y atendido las sugerencias de los revisores, han surgido más y más opciones. Este será el verdadero reto a partir de ahora.
+REFERENCIAS
+Adiwardana, D. (2020, January 28th). Towards a Conversational Agent that Can Chat About…Anything. Google. http://bit.ly/3YAYGpm
+
+Agarwal, G. (2023). AI Tool Master List. https://doi.org/10.1007/s43681-022-00147-7
+
+Ali, S., DiPaola, D. y Breazeal, C. (2021). What are GANs?: Introducing Generative Adversarial Networks to Middle School Students. En Proceedings of the 35th AAAI Conference on Artificial Intelligence, AAAI 2021 (pp. 15472-15479). https://doi.org/10.1609/aaai.v35i17.17821
+
+Ali, S., DiPaola, D., Lee, I., Sindato, V., Kim, G., Blumofe, R. y Breazeal, C. (2021). Children as creators, thinkers and citizens in an AI-driven future. Computers and Education: Artificial Intelligence, 2, Article 100040. https://doi.org/10.1016/j.caeai.2021.100040
+
+Alier-Forment, M. y Llorens-Largo, F. (2023). EP-31 Las Alucinaciones de ChatGPT con Faraón Llorens In Cabalga el Cometa. https://bit.ly/3ZCNBVT
+
+Alonso, C. (2023, 19 de abril). ¡Ojo con ChatGPT, que es un charlatán mentirosillo! El futuro está por hackear. https://bit.ly/44dEbCk
+
+Arora, A. y Arora, A. (2022). Generative adversarial networks and synthetic patient data: current challenges and future perspectives. Future Healthcare Journal, 9(2), 190-193. https://doi.org/10.7861/fhj.2022-0013
+
+Bozkurt, A., Xiao, J., Lambert, S., Pazurek, A., Crompton, H., Koseoglu, S., Farrow, R., Bond, M., Nerantzi, C., Honeychurch, S., Bali, M., Dron, J., Mir, K., Stewart, B., Costello, E., Mason, J., Stracke, C. M., Romero-Hall, E., Koutropoulos, A., … Jandrić, P. (2023). Speculative futures on ChatGPT and generative artificial intelligence (AI): A collective reflection from the educational landscape. Asian Journal of Distance Education, 18(1), 53-130. https://doi.org/10.5281/zenodo.7636568
+
+Brown, T. B., Mann, B., Ryder, N., Subbiah, M., Kaplan, J., Dhariwal, P., Neelakantan, A., Shyam, P., Sastry, G., Askell, A., Agarwal, S., Herbert-Voss, A., Krueger, G., Henighan, T., Child, R., Ramesh, A., Ziegler, D. M., Wu, J., Winter, C., … Amodei, D. (2020). Language Models are Few-Shot Learners. arXiv. https://doi.org/10.48550/arXiv.2005.14165
+
+Chng, E., Tan, A. L. y Tan, S. C. (2023). Examining the Use of Emerging Technologies in Schools: a Review of Artificial Intelligence and Immersive Technologies in STEM Education. Journal for STEM Education Research, In Press. https://doi.org/10.1007/s41979-023-00092-y
+
+Choi, E. P. H., Lee, J. J., Ho, M. H., Kwok, J. Y. Y. y Lok, K. Y. W. (2023). Chatting or cheating? The impacts of ChatGPT and other artificial intelligence language models on nurse education. Nurse Education Today, 125, Article 105796. https://doi.org/10.1016/j.nedt.2023.105796
+
+Chomsky, N., Roberts, I. y Watumull, J. (2023, March 8th). The False Promise of ChatGPT. The New York Times. http://bit.ly/3GycXfx
+
+Coeckelbergh, M. (2023). La filosofía política de la inteligencia artificial. Una introducción. Cátedra.
+Collins, E. y Ghahramani, Z. (2021, May 18th). LaMDA: our breakthrough conversation technology. Google. http://bit.ly/3I5udIZ
+
+Cooper, G. (2023). Examining Science Education in ChatGPT: An Exploratory Study of Generative Artificial Intelligence. Journal of Science Education and Technology, 32, 444-452. https://doi.org/10.1007/s10956-023-10039-y
+
+Cotton, D. R. E., Cotton, P. A. y Shipway, J. R. (2023). Chatting and cheating: Ensuring academic integrity in the era of ChatGPT. Innovations in Education and Teaching International, In Press. https://doi.org/10.1080/14703297.2023.2190148
+
+Crawford, J., Cowling, M. y Allen, K. A. (2023). Leadership is needed for ethical ChatGPT: Character, assessment, and learning using artifiicial intelligence (AI). Journal of University Teaching and Learning Practice, 20(3). https://doi.org/10.53761/1.20.3.02
+
+Crespo Artiaga, D., Ruiz Martínez, P. M., Claver Iborra, J. M., Fernández Martínez, A. y Llorens Largo, F. (Eds.). (2023). UNIVERSITIC 2022. Análisis de la madurez digital de las universidades españolas en 2022. Crue Universidades Españolas. https://bit.ly/3n60tp3
+
+Dennett, D. (2017). De las bacterias a Bach. La evolución de la mente. Pasado & Presente.
+Devlin, J. y Chang, M.-W. (2018, November 2nd). Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing. Google. http://bit.ly/3Ebwrpi
+
+Devlin, J., Chang, M.-W., Lee, K. y Toutanova, K. (2019). BERT: Pre-training of deep bidirectional transformers for language understanding. arXiv preprint, Article 1810.04805. https://doi.org/10.48550/arXiv.1810.04805
+
+Dwivedi, Y. K., Kshetri, N., Hughes, L., Slade, E. L., Jeyaraj, A., Kar, A. K., Baabdullah, A. M., Koohang, A., Raghavan, V., Ahuja, M., Albanna, H., Albashrawi, M. A., Al-Busaidi, A. S., Balakrishnan, J., Barlette, Y., Basu, S., Bose, I., Brooks, L., Buhalis, D., … Wright, R. (2023). “So what if ChatGPT wrote it?” Multidisciplinary perspectives on opportunities, challenges and implications of generative conversational AI for research, practice and policy. International Journal of Information Management, 71, Article 102642. https://doi.org/10.1016/j.ijinfomgt.2023.102642
+
+Ebrahimi, Y. (2023). 1000 AI collection tools. http://bit.ly/3YOjkSK
+
+European University Association (2023). Artificial intelligence tools and their responsible use in higher education learning and teaching. European University Association. https://bit.ly/3Hq2ROf
+
+Finnie-Ansley, J., Denny, P., Luxton-Reilly, A., Santos, E. A., Prather, J. y Becker, B. A. (2023). My AI Wants to Know if This Will Be on the Exam: Testing OpenAI's Codex on CS2 Programming Exercises. En ACE '23: Proceedings of the 25th Australasian Computing Education Conference (pp. 97-104). ACM. https://doi.org/10.1145/3576123.3576134
+
+Flores-Vivar, J. M. y García-Peñalvo, F. J. (2023a). La vida algorítmica de la educación: Herramientas y sistemas de inteligencia artificial para el aprendizaje en línea. En G. Bonales Daimiel y J. Sierra Sánchez (Eds.), Desafíos y retos de las redes sociales en el ecosistema de la comunicación, (Vol. 1, pp. 109-121). McGraw-Hill.
+Flores-Vivar, J. M. y García-Peñalvo, F. J. (2023b). Reflections on the ethics, potential, and challenges of artificial intelligence in the framework of quality education (SDG4). Comunicar, 31(74), 35-44. https://doi.org/10.3916/C74-2023-03
+
+García-Peñalvo, F. J. (2022). Developing robust state-of-the-art reports: Systematic Literature Reviews. Education in the Knowledge Society, 23, Article e28600. https://doi.org/10.14201/eks.28600
+
+García-Peñalvo, F. J. (2023). The perception of Artificial Intelligence in educational contexts after the launch of ChatGPT: Disruption or Panic? Education in the Knowledge Society, 24, Article e31279. https://doi.org/10.14201/eks.31279
+
+García-Peñalvo, F. J. y Vázquez-Ingelmo, A. (2023). What do we mean by GenAI? A systematic mapping of the evolution, trends, and techniques involved in Generative AI. International Journal of Interactive Multimedia and Artificial Intelligence, In Press.
+Gašević, D., Dawson, S. y Siemens, G. (2015). Let’s not forget: Learning analytics are about learning. TechTrends, 59(1), 64-71. https://doi.org/10.1007/s11528-014-0822-x
+
+Gašević, D., Siemens, G. y Sadiq, S. (2023). Empowering learners for the age of artificial intelligence. Computers and Education: Artificial Intelligence, 4, Article 100130. https://doi.org/10.1016/j.caeai.2023.100130
+
+Gates, B. (2023, March 21). The Age of AI has begun. GatesNotes. http://bit.ly/3nZjFF4
+
+Gilson, A., Safranek, C. W., Huang, T., Socrates, V., Chi, L., Taylor, R. A. y Chartash, D. (2023). How Does ChatGPT Perform on the United States Medical Licensing Examination? The Implications of Large Language Models for Medical Education and Knowledge Assessment. JMIR Medical Education, 9, Article e45312. https://doi.org/10.2196/45312
+
+Gobierno de España (2020). ENIA: Estrategia Nacional de Inteligencia Artificial. Ministerio de Asuntos Económicos y Transformación Digital. https://bit.ly/3oHHUb0
+
+Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. y Bengio, Y. (2020). Generative adversarial networks. Commun. ACM, 63(11), 139-144. https://doi.org/10.1145/3422622
+
+Grant, M. J. y Booth, A. (2009). A typology of reviews: an analysis of 14 review types and associated methodologies. Health Information and Libraries Journal, 26(2), 91-108. https://doi.org/10.1111/j.1471-1842.2009.00848.x
+
+Gruetzemacher, R. y Paradice, D. (2022). Deep Transfer Learning & Beyond: Transformer Language Models in Information Systems Research. ACM Computing Surveys, 54(10s). https://doi.org/10.1145/3505245
+
+Gubareva, R. y Lopes, R. P. (2020). Virtual Assistants for Learning: A Systematic Literature Review. En H. Chad Lane, S. Zvacek, y J. Uhomoibhi (Eds.), Proceedings of the 12th International Conference on Computer Supported Education (CSEDU 2020) (Online, May 2 - 4, 2020) (Vol. 1, pp. 97-103). SCITEPRESS. https://doi.org/10.5220/0009417600970103
+
+Hazzan, O. (2023, January 23). ChatGPT in Computer Science Education. BLOG@ACM. http://bit.ly/3WYTxpv
+
+Hoffmann, J., Borgeaud, S., Mensch, A., Buchatskaya, E., Cai, T., Rutherford, E., de las Casas, D., Hendricks, L. A., Welbl, J., Clark, A., Hennigan, T., Noland, E., Millican, K., Driessche, G. v. d., Damoc, B., Guy, A., Osindero, S., Simonyan, K., Elsen, E., … Sifre, L. (2022). Training Compute-Optimal Large Language Models. arXiv, Article arXiv:2203.15556v1. https://doi.org/10.48550/arXiv.2203.15556
+
+Holmes, W., Porayska-Pomsta, K., Holstein, K., Sutherland, E., Baker, T., Shum, S. B., Santos, O. C., Rodrigo, M. T., Cukurova, M., Bittencourt, I. I. y Koedinger, K. R. (2022). Ethics of AI in Education: Towards a Community-Wide Framework. International Journal of Artificial Intelligence in Education, 32, 504-526. https://doi.org/10.1007/s40593-021-00239-1
+
+Informatics Europe (2023). AI in Informatics Education (Position paper by Informatics Europe and the National Informatics Associations). Informatics Europe.
+Iskender, A. (2023). Holy or Unholy? Interview with Open AI’s ChatGPT. European Journal of Tourism Research, 34, Article 3414. https://doi.org/10.54055/ejtr.v34i.3169
+
+Johinke, R., Cummings, R. y Di Lauro, F. (2023). Reclaiming the technology of higher education for teaching digital writing in a post-pandemic world. Journal of University Teaching and Learning Practice, 20(2), Article 01. https://doi.org/10.53761/1.20.02.01
+
+Karaali, G. (2023). Artificial Intelligence, Basic Skills, and Quantitative Literacy. Numeracy, 16(1), Article 9. https://doi.org/10.5038/1936-4660.16.1.1438
+
+Karras, T., Laine, S. y Aila, T. (2021). A Style-Based Generator Architecture for Generative Adversarial Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 43(12), 4217-4228. https://doi.org/10.1109/TPAMI.2020.2970919
+
+Khan, R. A., Jawaid, M., Khan, A. R. y Sajjad, M. (2023). ChatGPT-Reshaping medical education and clinical management. Pakistan Journal of Medical Sciences, 39(2), 605-607. https://doi.org/10.12669/pjms.39.2.7653
+
+Kingma, D. P. y Welling, M. (2022). Auto-Encoding Variational Bayes. arXiv, Article arXiv:1312.6114v11. https://doi.org/10.48550/arXiv.1312.6114
+
+Kirchner, J. H., Ahmad, L., Aaronson, S. y Leike, J. (2023, January 31). New AI classifier for indicating AI-written text. https://bit.ly/3rbXJYI
+
+Kung, T. H., Cheatham, M., Medenilla, A., Sillos, C., De Leon, L., Elepano, C., Madriaga, M., Aggabao, R., Diaz-Candido, G., Maningo, J. y Tseng, V. (2023). Performance of ChatGPT on USMLE: Potential for AI-assisted medical education using large language models. PLOS Digital Health, 2(2), Article e0000198. https://doi.org/10.1371/journal.pdig.0000198
+
+Kurian, T. (2023, March 14th). The next generation of AI for developers and Google Workspace. The Keyword. http://bit.ly/3mUo0sx
+
+Lee, H. (2023). The rise of ChatGPT: Exploring its potential in medical education. Anatomical sciences education, In Press. https://doi.org/10.1002/ase.2270
+
+Lim, W. M., Gunasekara, A., Pallant, J. L., Pallant, J. I. y Pechenkina, E. (2023). Generative AI and the future of education: Ragnarök or reformation? A paradoxical perspective from management educators. International Journal of Management Education, 21(2), Article 100790. https://doi.org/10.1016/j.ijme.2023.100790
+
+Liu, Y., Han, T., Ma, S., Zhang, J., Yang, Y., Tian, J., He, H., Li, A., He, M., Liu, Z., Wu, Z., Zhu, D., Li, X., Qiang, N., Shen, D., Tianming Liu y Ge, B. (2023). Summary of ChatGPT/GPT-4 Research and Perspective Towards the Future of Large Language Models. arXiv, Article arXiv:2304.01852v3. https://doi.org/10.48550/arXiv.2304.01852
+
+Llorens-Largo, F. (2019, 13/02/2019). Las tecnologías en la educación: características deseables, efectos perversos. Universídad. https://bit.ly/3SxO72D
+
+Lyu, Z., Ali, S. y Breazeal, C. (2022). Introducing Variational Autoencoders to High School Students. En Proceedings of the 36th AAAI Conference on Artificial Intelligence, AAAI 2022 (pp. 12801-12809). https://doi.org/10.1609/aaai.v36i11.21559
+
+Maslej, N., Fattorini, L., Brynjolfsson, E., Etchemendy, J., Ligett, K., Lyons, T., Manyika, J., Ngo, H., Niebles, J. C., Parli, V., Shoham, Y., Wald, R., Jack Clark y Perrault, R. (2023). The AI Index 2023 Annual Report. http://bit.ly/3KBVCFa
+
+Masters, K. (2023). Ethical use of artificial intelligence in health professions education: AMEE Guide No. 158. Medical Teacher, 45(6), 574-584. https://doi.org/10.1080/0142159X.2023.2186203
+
+Mbakwe, A. B., Lourentzou, I., Celi, L. A., Mechanic, O. J. y Dagan, A. (2023). ChatGPT passing USMLE shines a spotlight on the flaws of medical education. PLOS digital health, 2(2), Article e0000205. https://doi.org/10.1371/journal.pdig.0000205
+
+Meyer, B. (2022, December 23). What Do ChatGPT and AI-based Automatic Program Generation Mean for the Future of Software. BLOG@CACM. https://bit.ly/3LyAJLj
+
+Muscanell, N. y Robert, J. (2023). EDUCAUSE QuickPoll Results: Did ChatGPT Write This Report? EDUCASE Review. https://bit.ly/44o0uWj
+
+Nemorin, S., Vlachidis, A., Ayerakwa, H. M. y Andriotis, P. (2023). AI hyped? A horizon scan of discourse on artificial intelligence in education (AIED) and development. Learning, Media and Technology, 48(1), 38-51. https://doi.org/10.1080/17439884.2022.2095568
+
+Neubauer, A. C. (2021). The future of intelligence research in the coming age of artificial intelligence – With a special consideration of the philosophical movements of trans- and posthumanism. Intelligence, 87, Article 101563. https://doi.org/10.1016/j.intell.2021.101563
+
+Ng, D. T. K., Lee, M., Tan, R. J. Y., Hu, X., Downie, J. S. y Chu, S. K. W. (2022). A review of AI teaching and learning from 2000 to 2020. Education and Information Technologies, In Press. https://doi.org/10.1007/s10639-022-11491-w
+
+OpenAI. (2023). GPT-4 Technical Report. arXiv, Article arXiv:2303.08774v3. https://doi.org/10.48550/arXiv.2303.08774
+
+Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., Shamseer, L., Tetzlaff, J. M., Akl, E. A., Brennan, S. E., Chou, R., Glanville, J., Grimshaw, J. M., Hróbjartsson, A., Lalu, M. M., Li, T., Loder, E. W., Mayo-Wilson, E., McDonald, S., … Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ, 372, Article n71. https://doi.org/10.1136/bmj.n71
+
+Pataranutaporn, P., Leong, J., Danry, V., Lawson, A. P., Maes, P. y Sra, M. (2022). AI-Generated Virtual Instructors Based on Liked or Admired People Can Improve Motivation and Foster Positive Emotions for Learning. En Proceedings of 2022 IEEE Frontiers in Education Conference (FIE) (Uppsala, Sweden, 08-11 October 2022). IEEE. https://doi.org/10.1109/FIE56618.2022.9962478
+
+Pavlik, J. V. (2023). Collaborating With ChatGPT: Considering the Implications of Generative Artificial Intelligence for Journalism and Media Education. Journalism and Mass Communication Educator, 78(1), 84-93. https://doi.org/10.1177/10776958221149577
+
+Perkins, M. (2023). Academic Integrity considerations of AI Large Language Models in the post-pandemic era: ChatGPT and beyond. Journal of University Teaching and Learning Practice, 20(2), Article 07. https://doi.org/10.53761/1.20.02.07
+
+Pichai, S. (2023, February 6th). An important next step on our AI journey. Google. http://bit.ly/3YZj9E2
+
+Raffel, C., Shazeer, N., Roberts, A., Lee, K., Narang, S., Matena, M., Zhou, Y., Li, W. y Liu, P. J. (2020). Exploring the limits of transfer learning with a unified text-to-text transformer. Journal of Machine Learning Research, 21(140), 1-67.
+Rudolph, J., Tan, S. y Tan, S. (2023). ChatGPT: Bullshit spewer or the end of traditional assessments in higher education? Journal of Applied Learning and Teaching, 6(1), 1-22. https://doi.org/10.37074/jalt.2023.6.1.9
+
+Sabzalieva, E. y Valentini, A. (2023). ChatGPT e inteligencia artificial en la educación superior: Guía de inicio rápido (ED/HE/IESALC/IP/2023/12). UNESCO e Instituto Internacional de la UNESCO para la Educación Superior en América Latina y el Caribe. https://bit.ly/3oeYm2f
+
+Sadasivan, V. S., Kumar, A., Balasubramanian, S., Wang, W. y Feizi, S. (2023). Can AI-Generated Text be Reliably Detected? arXiv, Article arXiv:2303.11156v1. https://doi.org/10.48550/arXiv.2303.11156
+
+Sallam, M. (2023). ChatGPT Utility in Healthcare Education, Research, and Practice: Systematic Review on the Promising Perspectives and Valid Concerns. Healthcare, 11(6), Article 887. https://doi.org/10.3390/healthcare11060887
+
+Searle, J. R. (1980). Minds, brains, and programs. Behavioral and Brain Sciences, 3(3), 417-424. https://doi.org/10.1017/S0140525X00005756
+
+Sivasubramanian, S. (2023, April 13th). Announcing New Tools for Building with Generative AI on AWS. AWS. https://bit.ly/3mziFXM
+
+Šlapeta, J. (2023). Are ChatGPT and other pretrained language models good parasitologists? Trends in parasitology, 39(5), 314-316. https://doi.org/10.1016/j.pt.2023.02.006
+
+Taori, R., Gulrajani, I., Zhang, T., Dubois, Y., Li, X., Guestrin, C., Liang, P. y Hashimoto, T. B. (2023). Alpaca: A Strong, Replicable Instruction-Following Model. Stanford University. https://bit.ly/444TrRx
+
+Thatcher, J., Wright, R. T., Sun, H., Zagenczyk, T. J. y Klein, R. (2018). Mindfulness in Information Technology Use: Definitions, Distinctions, and a New Measure. MIS Quarterly, 42(3), 831-847. https://doi.org/10.25300/MISQ/2018/11881
+
+Thoppilan, R., Freitas, D. D., Hall, J., Shazeer, N., Kulshreshtha, A., Cheng, H.-T., Jin, A., Bos, T., Baker, L., Du, Y., Li, Y., Lee, H., Zheng, H. S., Ghafouri, A., Menegali, M., Huang, Y., Krikun, M., Lepikhin, D., Qin, J., … Le, Q. (2022). LaMDA: Language Models for Dialog Applications. arXiv, Article arXiv:2201.08239v3. https://doi.org/10.48550/arXiv.2201.08239
+
+Thorp, H. H. (2023). ChatGPT is fun, but not an author. Science, 379(6630), 313. https://doi.org/10.1126/science.adg7879
+
+Thurzo, A., Strunga, M., Urban, R., Surovková, J. y Afrashtehfar, K. I. (2023). Impact of Artificial Intelligence on Dental Education: A Review and Guide for Curriculum Update. Education Sciences, 13(2), Article 150. https://doi.org/10.3390/educsci13020150
+
+Tlili, A., Shehata, B., Adarkwah, M. A., Bozkurt, A., Hickey, D. T., Huang, R. y Agyemang, B. (2023). What if the devil is my guardian angel: ChatGPT as a case study of using chatbots in education. Smart Learning Environments, 10(1), Article 15. https://doi.org/10.1186/s40561-023-00237-x
+
+Touvron, H., Lavril, T., Izacard, G., Martinet, X., Lachaux, M.-A., Lacroix, T., Rozière, B., Goyal, N., Hambro, E., Azhar, F., Rodriguez, A., Joulin, A., Grave, E. y Lample, G. (2023). LLaMA: Open and Efficient Foundation Language Models. arXiv, Article arXiv:2302.13971v1. https://doi.org/10.48550/arXiv.2302.13971
+
+Turing, A. M. (1950). Computing machinery and intelligence. Mind, 59(236), 433-460. https://doi.org/10.1093/mind/LIX.236.433
+
+UNESCO. (2019). Beijing Consensus on Artificial Intelligence and Education. International Conference on­ Artificial Intelligence and Education, Planning Education in the AI Era: Lead the Leap, Beijing, China. ­https://bit.ly/3n7wBIK
+
+UNESCO. (2021). Inteligencia artificial y educación: Guía para las personas a cargo de formular políticas. UNESCO. https://bit.ly/3Hl93Hj
+
+UNESCO. (2022). Recomendación sobre la ética de la inteligencia artificial. UNESCO. https://bit.ly/3nc3Yu1
+
+van der Zant, T., Kouw, M. y Schomaker, L. (2013). Generative artificial intelligence. En V. C. Müller (Ed.), Philosophy and Theory of Artificial Intelligence (107-120). Springer-Verlag. https://doi.org/10.1007/978-3-642-31674-6_8
+
+Vartiainen, H. y Tedre, M. (2023). Using artificial intelligence in craft education: crafting with text-to-image generative models. Digital Creativity, 34(1), 1-21. https://doi.org/10.1080/14626268.2023.2174557
+
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Kaiser, L. y Polosukhin, I. (2017). Attention is all you need. En Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA (pp. 5998-6008).
+Vázquez-Ingelmo, A., García-Peñalvo, F. J. y Therón, R. (2021). Towards a Technological Ecosystem to Provide Information Dashboards as a Service: A Dynamic Proposal for Supplying Dashboards Adapted to Specific Scenarios. Applied Sciences, 11(7), Article 3249. https://doi.org/10.3390/app11073249
+
+Wang, T. y Cheng, E. C. K. (2021). An investigation of barriers to Hong Kong K-12 schools incorporating Artificial Intelligence in education. Computers and Education: Artificial Intelligence, 2, Article 100031. https://doi.org/10.1016/j.caeai.2021.100031
+
+Yang, J., Jin, H., Tang, R., Han, X., Feng, Q., Jiang, H., Yin, B. y Hu, X. (2023). Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond. arXiv, Article arXiv:2304.13712v2. https://doi.org/10.48550/arXiv.2304.13712
+
+Yilmaz, R., Yurdugül, H., Karaoğlan Yilmaz, F. G., Şahi̇n, M., Sulak, S., Aydin, F., Tepgeç, M., Müftüoğlu, C. T. y Ömer, O. (2022). Smart MOOC integrated with intelligent tutoring: A system architecture and framework model proposal. Computers and Education: Artificial Intelligence, 3, Article 100092. https://doi.org/10.1016/j.caeai.2022.100092
+
+Zhang, L., Basham, J. D. y Yang, S. (2020). Understanding the implementation of personalized learning: A research synthesis. Educational Research Review, 31, Article 100339. https://doi.org/10.1016/j.edurev.2020.100339
+
+Zhang, R., Han, J., Liu, C., Gao, P., Zhou, A., Hu, X., Yan, S., Lu, P., Li, H. y Qiao, Y. (2023). LLaMA-Adapter: Efficient Fine-tuning of Language Models with Zero-init Attention. arXiv, Article arXiv:2303.16199v2. https://doi.org/10.48550/arXiv.2303.16199
+
+Zhao, W. X., Zhou, K., Li, J., Tang, T., Wang, X., Hou, Y., Min, Y., Zhang, B., Zhang, J., Dong, Z., Du, Y., Yang, C., Chen, Y., Chen, Z., Jiang, J., Ren, R., Li, Y., Tang, X., Liu, Z., … Wen, J.-R. (2023). A Survey of Large Language Models. arXiv, Article arXiv:2303.18223v10. https://doi.org/10.48550/arXiv.2303.18223
+
+Zhou, C., Liu, P., Xu, P., Iyer, S., Sun, J., Mao, Y., Ma, X., Efrat, A., Yu, P., Yu, L., Zhang, S., Ghosh, G., Lewis, M., Zettlemoyer, L. y Levy, O. (2023). LIMA: Less Is More for Alignment. arXiv, Article arXiv:2305.11206v1. https://doi.org/10.48550/arXiv.2305.11206
+
+Información adicional 
+
+Cómo citar: García Peñalvo, F. J., Llorens-Largo, F., & Vidal, J. (2024). The new reality of education in the face of advances in generative artificial intelligence. [La nueva realidad de la educación ante los avances de la inteligencia artificial generativa]. RIED-Revista Iberoamericana de Educación a Distancia, 27(1). https://doi.org/10.5944/ried.27.1.37716
+

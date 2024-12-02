@@ -1,0 +1,48 @@
+¿Cómo funciona Chat GPT? - ATRIA Innovation
+Autor desconocido
+atriainnovation.com
+
+Se está hablando mucho sobre Chat GPT desde su lanzamiento en Noviembre de 2022. Este ‘chat inteligente’ ha sorprendido incluso a los más escépticos. En este post se va comentar cómo funciona cómo se puede utilizar Chat GPT en vuestros proyectos.
+Chat GPT se define como un modelo de lenguaje generativo. Sin embargo en la práctica se entiende como un chat de inteligencia artificial que ha sido entrenado y diseñado para mantener conversaciones naturales. Chat GPT pertenece a la empresa de investigación OpenAI, fundada en San Francisco en 2015 por Sam Altman, Elon Musk, Greg Brockman, Ilya Sutskever y Wojciech Zaremba. 
+Pero, ¿cuáles son las aplicaciones de Chat GPT? Algunas de las aplicaciones para las que puedes utilizar Chat GPT (además de para pasar un rato entretenido haciéndole preguntas) se van a comentar a continuación:
+Generación de texto
+Con GPT se puede generar textos coherentes y bien escritos en una amplia gama de estilos, temas e idiomas. Además, se pueden generar resúmenes de noticias, descripciones de productos o historias.
+Resolución de problemas
+Gracias a este chat se pueden analizar problemas y generar soluciones o respuestas a preguntas.
+Generación de contenido para chatbots
+GPT se puede utilizar para generar respuestas apropiadas y coherentes para un chatbot en una amplia gama de contextos.
+Generación de contenido para redes sociales
+Se puede ser utilizar para generar publicaciones y mensajes atractivos para redes sociales.
+Generación de contenido para aplicaciones de productividad
+Con GPT se pueden generar informes, correos electrónicos y otro tipo de contenido para aplicaciones de productividad.
+Análisis de datos
+Gracias a chat GPT se pueden analizar grandes conjuntos de datos y extraer información valiosa de ellos.
+Como sus siglas indican, Generative Pre-training Transformer, Chat GPT es un modelo de lenguaje generativo basado en la arquitectura de ‘transformadores’.
+Estos modelos son capaces de procesar grandes cantidades de texto y aprender a realizar tareas de procesamiento del lenguaje natural de manera muy efectiva.
+El modelo GPT-3, en particular, tiene un tamaño de 175 mil millones de parámetros, lo que lo convierte en el modelo de lenguaje más grande jamás entrenado.
+Para funcionar, GPT necesita ser «entrenado» en una gran cantidad de texto. Por ejemplo, el modelo GPT-3 fue entrenado en un conjunto de textos que incluyó más de 8 millones de documentos y más de 10 mil millones de palabras. A partir de este texto, el modelo aprende a realizar tareas de procesamiento del lenguaje natural y a generar textos coherentes y bien escritos. Una vez el modelo está bien entrenado, GPT se puede utilizar para realizar una amplia gama de tareas, como hemos visto en la sección anterior.
+Para el entrenamiento se utilizó Aprendizaje por refuerzo, a partir de retroalimentación humana. En definitiva, mediante un ajuste fino supervisado. Los entrenadores humanos de Inteligencia Artificial proporcionaban conversaciones en las que representaban tanto al usuario, como al asistente de IA. Además, los entrenadores contaban con sugerencias escritas para, de esta manera, ayudarlos a redactar sus propuestas. Así, mezclaron este nuevo conjunto de datos con el conjunto de datos de InstructGPT que se transformó en un formato de diálogo.
+Pero, ¿cómo crearon el modelo de recompensa para el aprendizaje por refuerzo?
+Lo primero que se necesitaba era recopilar datos de comparación. Estos se componían en dos o más respuestas del modelo, clasificadas por calidad. Por ello, para poder recopilar los datos, se tomaron algunas conversaciones que los entrenadores habían tenido con Chat GPT y se seleccionaron al azar. De esta manera probaban varias finalizaciones para que los entrenadores los clasificaron.Por esta razón, estos modelos de recompensa, se pudieron ajustar utilizando la Optimización de Política Proximal. Asimismo, los entrenamientos se llevaron a cabo en una plataforma de Microsoft Azure en un supercomputador. En conclusión, para utilizar GPT en un chat, se le proporciona al modelo una entrada en forma de texto. Esta entrada puede ser en forma de una pregunta o una frase de contexto. Y, a partir de esta entrada, GPT genera una respuesta apropiada y coherente. De hecho, esta respuesta se puede utilizar en un chatbot o en cualquier otra aplicación donde sea necesario generar un texto a partir de una entrada dada. 
+Una «transformación» es un tipo de procesamiento de datos que se realiza en una secuencia de elementos, como palabras en una frase o caracteres en una palabra. Y los «transformadores» son modelos de aprendizaje automático que se han diseñado específicamente para procesar secuencias de elementos utilizando transformaciones. La arquitectura de los transformadores se basa en el uso de atención, que es una técnica que permite al modelo prestar atención a diferentes partes de la secuencia de entrada en diferentes momentos mientras procesa la secuencia. Esto permite que los transformadores procesen la información de manera más efectiva y realicen tareas de procesamiento del lenguaje natural de manera más precisa. GPT (Generative Pre-training Transformer) es un modelo de lenguaje generativo basado en la arquitectura de los transformadores. Esto significa que el modelo ha sido diseñado para procesar secuencias de elementos, como palabras en una frase, utilizando transformaciones y atención. Esta arquitectura es muy efectiva para realizar tareas de procesamiento del lenguaje natural y ha revolucionado la forma en la que se abordan muchas tareas de NLP.
+En 2019 en una entrevista al CEO de OpenAI, Sam Altman, éste dijo que cumplirían su promesa con los inversores y que encargarían a la propia IA buscar formas de generar ingresos. En ese momento la audiencia lo tomó a broma, pero observando cómo funciona el sistema, está más cerca de lo que creemos. Para comprobarlo hemos hecho la prueba.
+A continuación, se puede leer la respuesta de Chat GPT:
+“ATRIA: ¿Puedes nombrar 5 formas en la que OpenAI puede obtener beneficios económicos a través de Chat GPT?
+Chat GPT: Claro, con gusto. Aquí te presento cinco formas en las que OpenAI podría obtener beneficios económicos a través de GPT (Generative Pre-training Transformer):
+El resultado no deja de ser coherente y lógico. En nuestra opinión, estamos ante una nueva revolución de la tecnología en cuanto a modelos de lenguaje se refiere.
+Gracias a OpenAI se han desarrollado algunos de los modelos de lenguaje más avanzados y de mayor rendimiento del mundo. Algunos de los modelos de lenguaje más destacados de OpenAI incluyen:
+GPT (Generative Pre-training Transformer)
+Es un modelo de lenguaje generativo que ha sido entrenado en una gran cantidad de textos y puede generar contenido de alta calidad en una amplia gama de tareas.
+GPT-2 (Generative Pre-training Transformer 2)
+Es un modelo de lenguaje generativo aún más avanzado que GPT, con una capacidad de procesamiento y un rendimiento significativamente mayor.
+BERT (Bidirectional Encoder Representations from Transformers)
+Es un modelo de procesamiento del lenguaje natural que ha revolucionado la forma en la que se abordan muchas tareas de NLP y ha establecido nuevos estándares en el rendimiento, en una amplia gama de tareas.
+DALL-E
+Es un modelo de generación de imágenes a partir de texto que puede generar imágenes realistas a partir de descripciones en el lenguaje natural.
+GPT-3 (Generative Pre-training Transformer 3)
+Es el modelo de lenguaje más grande y avanzado que ha sido desarrollado hasta la fecha por OpenAI, con una capacidad de procesamiento y rendimiento aún mayores que la de sus predecesores.
+Estos son solo algunos ejemplos de los modelos de lenguaje desarrollados por OpenAI. La empresa ha desarrollado muchos otros modelos y ha contribuido significativamente al avance del campo de la IA a través de sus investigaciones y publicaciones.
+¿Quieres que implementemos un sistema de Inteligencia Artificial en tu empresa? ¡Contacta con nosotros!
+Tu éxito es nuestra meta. Queremos ser tu compañero en el desarrollo de tus proyectos, aprovechando el poder de la innovación, la flexibilidad y la confianza que ofrecemos. Juntos, marcamos la diferencia a través de nuevas tecnologías.
+¡Contáctanos y construyamos el futuro juntos!
+Sumérgete en el mundo de la tecnología y la sostenibilidad a través de nuestro blog, donde encontrarás nuestras últimas actualizaciones, reflexiones e ideas sobre estos apasionantes temas.

@@ -1,0 +1,31 @@
+IA generativa la clave en la eficiencia de la ciberseguridad
+Ines Aldea Blasco
+globalt4e.com
+
+Global Technology
+En la constante lucha contra las ciberamenazas, las organizaciones nos encontramos en una carrera perpetua para fortalecer nuestras defensas y proteger nuestros datos más sensibles. En este escenario, la Inteligencia Artificial (IA) ha emergido como un aliado indispensable, destacando a la IA generativa como una herramienta crucial en la ciberdefensa.
+La IA generativa es una rama de la inteligencia artificial que se centra en la creación de datos nuevos, ya sean imágenes, texto, música o incluso código, imitando patrones y características de conjuntos de datos existentes.
+A diferencia del resto de ramas de la inteligencia artificial más tradicionales, que se basan en datos existentes para tomar decisiones, la IA generativa tiene la capacidad única de crear contenido nuevo y original.
+Seguramente hayas utilizado o hayas visto en uso alguna IA generativa. Un ejemplo del que todo el mundo habla es el modelo GPT-3 de OpenAI que crea texto y podemos mantener una conversión con él a través de un chat. Modelo que, por cierto, ya tiene una reciente actualización con GPT-4o. Pero este no es el único, también hay disponibles otros modelos muy variados como DALL-E para generar imágenes o incluso otros modelos como MusicLM que están diseñados para componer música.
+¿Por qué decimos que la IA generativa se ha vuelto un aliado indispensable? Esta tecnología nos ofrece una serie de beneficios significativos para mejorar la eficiencia de la ciberseguridad:
+
+A pesar de sus beneficios, la implementación de la IA en ciberseguridad no está exenta de desafíos. Algunos de los principales retos que lleva el uso de la IA generativa incluyen:
+Desde Global Technology, reconocemos el papel fundamental que juega la IA generativa en la protección, tanto de nuestros clientes como de la nuestra propia, contra las ciberamenazas. Estamos comprometidos con la innovación continua y la adopción de tecnologías de vanguardia para fortalecer las defensas y garantizar la seguridad de los datos de las personas que confían en nosotros.
+Invertimos en investigación y desarrollo para mejorar nuestras capacidades de detección de amenazas. Desde nuestro equipo multidisciplinar que fomenta la estrecha colaboración de expertos en ciberseguridad y expertos en IA queremos aprovechar al máximo el potencial de esta tecnología.
+Además, nos comprometemos a abordar los desafíos éticos y de privacidad asociados con la IA generativa, asegurando que nuestras prácticas sean transparentes y respeten los más altos estándares.
+En definitiva, la IA generativa está transformando el panorama de la ciberseguridad, ofreciendo nuevas oportunidades para mejorar la eficiencia y la efectividad de nuestras defensas. Con un enfoque centrado en la innovación y el compromiso con la seguridad, nuestra empresa está preparada para enfrentar los desafíos del futuro de la ciberseguridad.
+Coordinadora de ciber IA y gestión del dato
+EDIFICIO ZYE, CALLE PUNTO NET, 4, 28805 -ALCALÁ DE HENARES, MADRID
+POLIGONO MALPICA, CALLE F OESTE, 73, 50016 – ZARAGOZA
+PORT TARRACO, MOLL DE LLEIDA, EDIFICIO 3, OFICINA I, 43004 – TARRAGONA
+Aviso Legal
+POLÍTICA DEL SISTEMA DE GESTIÓN
+DECLARACIÓN MEDIOAMBIENTAL
+CERTIFICADO CONFORMIDAD ENS
+POLÍTICA DE SEGURIDAD DE LA INFORMACIÓN ENS
+QUIENES SOMOS
+TRABAJA CON NOSOTROS
+SOPORTE
+KIT DIGITAL
+KIT CONSULTING
+Copyright 2024 - Global Technology | Todos los derechos reservados | Diseño web: EON Transformación Digital

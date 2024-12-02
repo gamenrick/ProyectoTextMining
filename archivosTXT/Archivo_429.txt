@@ -1,0 +1,62 @@
+Inteligencia Artificial para el diseño de prótesis biomédias - Universidad de La Rioja
+icisneros
+unirioja.es
+
+Más resultados.. 
+Más resultados.. 
+Más resultados.. 
+Grado
+Máster
+Doctorado
+Información de interés
+Actividades culturales
+Alumni
+Biblioteca
+Campus Iberus
+Comunidad universitaria
+Cursos de verano
+Deportes
+Divulgación científica
+Estudiantes
+Estudiantes extranjeros
+Formación continua
+G9 Universidades
+ICVV
+Igualdad e Inclusión
+Institucional
+Investigación
+Prácticas y empleabilidad
+UR Emplea
+Preuniversitarios
+Sostenibilidad
+Universidad de la Experiencia
+UR Saludable
+
+Filtrar por categoría
+Fátima Somovilla obtiene el grado de doctora por la UR
+La Inteligencia Artificial aplicada al diseño de prótesis para humanos y animales permite resolver problemas biomecánicos de forma eficiente, ética y a bajo coste.
+La Inteligencia Artificial aplicada al diseño de prótesis permite resolver problemas biomecánicos en humanos y animales de forma eficiente, ética y a bajo coste, mediante el uso combinado de técnicas como el ‘machine learning’ o algoritmos genéticos inspirados en la Teoría de la Evolución de Darwin.
+Este es el fruto de la tesis doctoral de Fátima Somovilla ‘Modelizado y Optimización de problemas Biomecánicos mediante la combinación del Método de los Elementos Finitos (MEF) y técnicas avanzadas de Optimización’
+Desarrollada en el Departamento de Ingeniería Mecánica de la Escuela Técnica Superior de Ingeniería Industrial, la investigación ha estado dirigida por los profesores Ana González Marcos, Rubén Lostado Lorza y Marina Corral Bobadilla, y ha logrado la calificación de sobresaliente ‘cum laude’ por parte del tribunal.
+La biomecánica estudia la respuesta del cuerpo (humano o animal) ante los esfuerzos físicos y movimientos cotidianos al que es sometido. Emplea conocimientos de anatomía, mecánica, matemáticas, ingeniería y otras disciplinas para resolver problemas que van desde la optimización de implantes dentales, prótesis en articulaciones o fijaciones externas ortopédicas, hasta la previsión del comportamiento de tejidos orgánicos o de diversas fracturas (fémur, cadera, pie), entre otros.
+Fátima Somovilla combina métodos de cálculo numérico (MEF) con técnicas avanzadas de análisis de datos -Machine Learning y MSR- para modelizar y dar soluciones optimizadas a los retos que plantea la biomecánica.
+«Esta metodología permite obtener modelos de predicción lo suficientemente precisos, fáciles de interpretar y mucho más eficientes computacionalmente que los empleados hasta ahora -señala la doctora Somovilla-. Además, tiene la ventaja de reducir la experimentación sobre cadáveres, lo que reduce significativamente el coste experimental y el problema ético».
+El sistema ha sido validado mediante su implementación en cuatro casos reales aplicados a personas y animales. En seres humanos, la metodología propuesta se ha aplicado sobre tres líneas fundamentales:
+1.-) La búsqueda de aquellos parámetros que mejor definen en comportamiento mecánico en modelos computacionales basados en el MEF de discos intervertebrales sanos.
+2.-) El estudio de cómo influye el sexo, la edad, la estatura y el peso sobre sobre unidades vertebrales funcionales lumbares.
+3.-) Y el diseño de discos intervertebrales artificiales (o prótesis lumbares), optimizando su comportamiento biomecánico, lo que evita el arduo ajuste mediante el método ensayo-error.
+«De este modo, logramos obtener los parámetros que mejor definen la geometría planteada del disco artificial lumbar para los diferentes pesos y estaturas de los pacientes» lo que permite el diseño de prótesis a medida.
+En animales, la metodología se ha aplicado para estudiar el comportamiento biomecánico de una pelvis canina con dos tipos diferentes de placas de fijación (ventral y DPO) -validadas en la Dublin City Univesrity y listas para su uso-, utilizadas para el tratamiento de la osteotomía pélvica canina.
+La combinación de las diferentes técnicas permite generar modelos de comportamiento o metamodelos. «Para obtenerlos -detalla Fátima Somovilla- usamos herramientas de Inteligencia Artificial, como las llamadas redes neuronales, que se inspiran en el comportamiento del cerebro humano para crear modelos artificiales con los que solucionar problemas complejos de resolver mediante otras técnicas más convencionales».
+«Empleamos también algoritmos genéticos (AG), inspirados en la Teoría de la Evolución de Darwin, donde se intenta replicar el comportamiento biológico de la selección natural y la genética de los organismos vivos», concreta la doctora.
+Your browser does not support iframes.
+Your browser does not support iframes.
+ Universidad de La RiojaEdificio de RectoradoAvda. de La Paz 93-10326006 Logroño, La Rioja, EspañaCIF: Q2618002F
+ Universidad de La Rioja 2023
+Esta web utiliza cookies propias y de terceros para mejorar la navegación y ajustar los contenidos que mostramos, así como para obtener estadísticas generales de uso. Puede obtener más información en la Política de Cookies. Si continúa navegando, consideramos que acepta su uso.  Configurar.
+Esta web utiliza cookies propias y de terceros para mejorar la navegación y ajustar los contenidos que mostramos, así como para obtener estadísticas generales de uso. Puede obtener más información en la Política de Cookies. Si continúa navegando, consideramos que acepta su uso.
+La cookie estrictamente necesaria debe estar habilitada en todo momento para que podamos guardar sus preferencias para la configuración de cookies.
+Si deshabilita esta cookie, no podremos guardar sus preferencias. Esto significa que cada vez que visite este sitio web deberá habilitar o deshabilitar las cookies nuevamente.
+Este sitio web utiliza Google Analytics para recopilar información anónima, como la cantidad de visitantes al sitio y las páginas más populares.
+Mantener esta cookie habilitada nos ayuda a mejorar nuestro sitio web.
+¡Habilite primero las cookies estrictamente necesarias para que podamos guardar sus preferencias!

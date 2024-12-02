@@ -1,0 +1,18 @@
+¿Cómo implementar la IA generativa en la banca? - Funcas
+Autor desconocido
+funcas.es
+
+ODF – Funcas 22 / 2024
+Fecha: 18 abril 2024
+La IA generativa en el sector bancario
+La adopción de inteligencia artificial (IA) generativa y de grandes modelos de lenguaje será un requisito para los bancos que quieran mantenerse competitivos en el nuevo entorno de negocio. El uso de la IA generativa les ayudaría a aumentar su productividad interna y a mejorar la experiencia del cliente. Los bancos están preparándose para su adopción, lo que se refleja en un aumento de las inversiones tecnológicas. Los profesionales del sector coinciden en el potencial disruptivo de la IA generativa, pero su puesta en práctica está sujeta a una serie de riesgos y consideraciones que deben de estar presentes.
+El riesgo al usar IA generativa de terceros en la banca
+Ante la tentación de que la adopción de la IA generativa se materialice mediante el uso de soluciones desarrolladas por terceros – ChatGPT de OpenAI, Bard de Google o Copilot de Microsoft –, las entidades empiezan a evaluar las implicaciones de estas prácticas. Algunas entidades financieras internacionales como JPMorgan Chase, CitiGroup, Bank of America, Deutsche Bank, Goldman Sachs o Wells Fargo han prohibido a sus empleados usar ChatGPT. No se trata de algo único del sector bancario. Otras grandes empresas como Verizon, Amazon, Apple o Spotify[ii] también han tomado medidas similares con respecto al uso de herramientas de inteligencia artificial como ChatGPT. El principal temor es que el uso de soluciones de IA externas pueda dar lugar a una posible fuga de datos. Una de las principales preocupaciones es que cuando los empleados utilizan estas herramientas externas, los datos introducidos por los empleados pasan a formar parte del dominio de conocimiento del algoritmo, y, por ende, del desarrollador. Estas situaciones podrían exponer inadvertidamente información confidencial o de propiedad exclusiva en manos de terceros.
+¿Desarrollar internamente la IA generativa o adquirir la tecnología?
+Ante este tipo de temores, los bancos se debaten entre desarrollar internamente sus soluciones propias de IA generativa, adquirirlas a empresas tecnológicas o combinar ambas estrategias. La ventaja del desarrollo interno es el control y la posibilidad de adaptar esta tecnología a las peculiaridades del modelo de negocio del banco. Sin embargo, el desarrollo de los modelos internos de IA generativa requiere de un esfuerzo tecnológico y económico importante para las entidades bancarias. Por ello, algunas entidades han establecido alianzas con proveedores tecnológicos de IA[i]. Por ejemplo, el banco americano Ally Bank se ha asociado con Microsoft para crear Ally.ai, que une GPT-3.5 con las aplicaciones internas del banco. Por otra parte, Westpac, un gran banco australiano, está utilizando Kai-GPT, un modelo de lenguaje grande de Kasisto, una FinTech que ofrece soluciones de inteligencia artificial a los bancos.
+[i] Digital Horizon: The Technology Shift in Banking From Mainframe to AI-Driven Cloud. 8 febrero 2024. NTT Data. 8 de febrero de 2024.https://uk.nttdata.com/insights/reports/ai-cloud-research-banking
+[ii] Amazon, Apple, and 12 other major companies that have restricted employees from using ChatGPT. Business Insider. 11 julio 2023.https://www.businessinsider.com/chatgpt-companies-issued-bans-restrictions-openai-ai-amazon-apple-2023-7
+[iii] How banks can adopt generative AI. American Banker. 25 agosto 2023.https://www.americanbanker.com/list/how-banks-can-adopt-generative-ai
+Descarga Newsletter (formato PDF)
+
+Think tank dedicado a la investigación económica y social

@@ -1,0 +1,52 @@
+Microsoft 365 Copilot | Todas sus funcionalidades | Plain Concepts
+jblanco
+plainconcepts.com
+
+Contar con una ayuda extra diaria para crear una presentación de diapositivas, gráficos en una hoja de cálculo o un documento de texto siempre es bien recibida. O para resumir y analizar toda la información que hay en estos archivos. Y no estamos hablando de una ayuda humana: la inteligencia artificial contribuye a que saques el máximo partido a PowerPoint, Excel o Word. Te hablamos de Microsoft Copilot.
+Ya en marzo os avanzamos las primeras funcionalidades de Microsoft Copilot 365, pero, ahora, Microsoft lanza una nueva actulización que ofrece una experiencia mucho más personal. ¡Analizamos todas las novedades!
+Copilot es una herramienta de inteligencia artificial (IA) que combina el lenguaje natural con modelos lingüísticos, datos y Microsoft Graph para mejorar la productividad de los empleados en el uso de aplicaciones diarias como Word, Excel, Outlook, Teams o PowerPoint.
+
+Como dice el propio nombre, Copilot es un copiloto, alguien que te ayuda a trabajar para que tu rendimiento sea mayor o te saque de las tareas más monótonas. Y al mismo tiempo, tú sigues siendo el piloto, es decir, que tienes el control de las operaciones business.
+Copilot ha sido desarrollada en colaboración por GitHub y OpenAI, cuya tecnología de lenguaje GPT-4 está integrada en la herramienta.
+Con cerca de 150 nuevas funcionalidades y la incorporación de la potencia de Copilot al PC, Microsoft ha lanzado una nueva actualización para ofrecer mejores experiencias de IA, como:
+Una de las novedades de Copilot es la introducción de nuevas funcionalidades en Bing y Edge, con el objetivo de potenciar la experiencia diaria de los usuarios con las capacidades más avanzadas de la IA, como:
+
+Microsoft Copilot incorpora una herramienta llamada Microsoft 365 Chat. Vinculada a las aplicaciones de Microsoft 365 y a los datos que genera cada usuario (chats, correos, notas…), ‘escucha’ el lenguaje natural para ejecutar órdenes.
+Ya pudimos ver un adelanto con Business Chat, pero ahora los rápidos avances de los últimos meses han hecho que llegue a otro nivel. Microsoft 365 Chat revisa todo el universo de datos en el trabajo, como correos electrónicos, reuniones, chats, documentos, etc., además de la web. Como un asistente, tiene un profundo conocimiento del usuario, de su trabajo y sus prioridades, así como de su organización. Va mucho más allá de las simples preguntas y respuestas para adelantar algunas de las tareas más complejas o tediosas, ya sea redactar un documento estratégico, reservar un viaje de negocios o ponerse al día con los correos electrónicos.
+
+Se trata de la última incorporación a la suite de Microsoft 365, con la que es posible crear rápidamente efectos visuales atractivos, publicaciones en redes sociales, invitaciones y mucho más.
+La expansión de la IA generativa para extender la imagen va más allá, nutriendo la experiencia de la generación de imágenes en Designer, facilitando la adición de imágenes originales de mayor calidad al diseño en cuestión de segundos.
+
+Copilot está integrado en Microsoft 365 de dos maneras. Trabaja junto al usuario, integrado en las aplicaciones de Microsoft 365 que utilizas a diario (Word, Excel, PowerPoint, Outlook, Teams…) para aumentar la productividad, el acceso a datos y, en resumen, dilatar el conocimiento del usuario.
+A continuación te dejamos algunas de las características más confirmadas que se suman al mítico paquete de Microsoft 365 con Copilot.
+La llegada de Copilot en Word significa disponer del mejor compañero para escribir, editar, acceder e incorporar información y resumir con la mayor rapidez y precisión: hacer un primer borrador, incorporar información de interés, añadir documentos relacionados… Además, es capaz de aportar un tono personalizado a cada tarea al conocer los destinatarios del documento.
+
+Copilot en Power Point te ayuda a convertir tus ideas en presentaciones asombrosas. Si la creatividad no es tu fuerte, Copilot se convierte en tu compañero ideal para contar historias de la mejor manera. Puede transformar documentos escritos en presentaciones completas, incluso con notas y fuentes, para reforzar tu presentación. O iniciar una nueva presentación desde cero a partir de una simple indicación o esquema. Condensa presentaciones largas con solo pulsar un botón y ajusta el diseño, reformatea el texto o sincroniza perfectamente las animaciones mediante tus indicaciones en lenguaje natural.
+
+Copilot en Excel llega para facilitar el análisis y exploración de datos. Olvida las fórmulas: simplemente pregunta a Copilot sobre el conjunto de datos presentados y accede a respuestas concretas, correlaciones y escenarios hipotéticos. Además, te sugerirá nuevas fórmulas basadas en tus preguntas, mediante modelos que te ayudarán a explorar tus datos.
+Identifica tendencias, crea visualizaciones y pide recomendaciones para obtener una mayor profundidad de conocimiento.
+
+El tiempo que dedicamos a la gestión de correos electrónicos es sin duda un obstáculo para nuestra máxima productividad. Copilot en Outlook es nuestra mejor ayuda para comunicarnos más, mejor y mucho más rápido. Resume largos y enrevesados hilos de mensajes de correo electrónico con varias personas para entender de un vistazo no solo lo que se ha dicho, sino también los distintos puntos de vista de cada persona y las preguntas pendientes de respuesta. Responde a un correo electrónico con una simple indicación o convierte notas rápidas en mensajes claros y definidos a partir de otros correos electrónicos o contenidos a los que ya tiene acceso desde Microsoft 365.
+https://www.youtube.com/watch?v=uI5mQjTp1fI
+En Microsoft Teams, Copilot te ayuda a organizar reuniones más eficaces y los puntos clave de esta, así como a resumir las acciones clave para que el equipo sepa qué hacer a continuación. En el chat, Copilot te da respuestas a preguntas concretas o te pone al día de cualquier cosa que te hayas perdido.
+Al añadir Copilot a tus reuniones y conversaciones, dispones de una potente herramienta para ayudarte con tareas comunes como crear agendas de reuniones basadas en el historial de chat, identificar a las personas adecuadas para el seguimiento y programar reuniones de monitorización.
+
+Copilot permitirá a los desarrolladores de aplicaciones trabajar con máquinas y humanos para crear aplicaciones de forma más rápida y sencilla. Con el uso de modelos de lenguaje natural, los desarrolladores crearán aplicaciones solo describiendo lo que necesitan a través de una conversación.
+El copiloto también permitirá a los usuarios interactuar con los datos en una experiencia de chatbot, lo que les permitirá crear consultas y refinar el análisis de manera más intuitiva.
+Además, se ha integrado el uso de chatbots de Power Virtual Agents en Power Apps. Así, los desarrolladores agregarán a sus aplicaciones chatbots de IA con mayor facilidad.
+Mediante la inclusión de estas herramientas, Microsoft espera liderar la revolución del desarrollo de aplicaciones de bajo código y avanzar hacia la creación de software transformador en un lenguaje natural que todos entiendan.
+Microsoft Power Automate ha lanzado dos nuevas funciones para mejorar la plataforma: Copilot y Create text with GPT. La función Describe it to design it, lanzada en octubre de 2022, permitía escribir una simple oración y crear un flujo de trabajo en función de esa descripción. Ahora, con Copilot, el usuario mejorará y modificará los flujos con conversaciones impulsadas por la IA. Los usuarios preguntan y reciben ayuda para realizar mejoras y cambios; el lenguaje natural sirve para crear flujos simples o procesos empresariales complejos.
+Además, Microsoft ha lanzado una nueva función llamada Create text with GPT, que permite a los usuarios generar contenido automáticamente en flujos de trabajo de escritorio. Esto puede ser útil para crear contenido diario, atender al cliente y extraer información de grandes cantidades de texto y documentos, ya que ahorra tiempo en comparación con el rastreo manual.
+En resumen, estas nuevas funciones sirven a los usuarios de Power Automate para automatizar procesos de manera más inteligente, rápida y sencilla.
+
+En Plain Concepts somos especialistas en incorporar y potenciar tus aplicaciones de negocio mediante inteligencia artificial a gran escala. Hemos diseñado un Framework de OpenAI único diseñado para asegurar la correcta aplicación de estos servicios, mejorando la eficiencia de procesos, satisfaciendo las necesidades de producción, aumentando la seguridad empresarial crítica y afianzando el cumplimiento y la disponsibilidad regional.
+Si quieres saber más sobre qué casos de uso se adaptan mejor a tus metas empresariales o cómo aprovechar las habilidades de los modelos de OpenAI en tu negocio, ¡te ayudamos a desbloquear todo el potencial de la IA generativa!
+
+ 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

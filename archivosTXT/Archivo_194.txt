@@ -1,0 +1,36 @@
+Así es cómo OpenAI, creadora de ChatGPT, planea prevenir la desinformación electoral en 2024
+Autor desconocido
+vozdeamerica.com
+
+
+
+
+Vea comentarios
+
+
+
+
+
+
+
+Print
+
+
+La tecnológica OpenAI trazó un plan para evitar que sus herramientas se usen para difundir información electoral falsa, en un año en que decenas de países tendrán comicios.
+OpenAI, la empresa creadora de ChatGPT, ha trazado un plan para evitar que sus herramientas se utilicen para difundir desinformación electoral, en un año en que los votantes de más de 50 países se preparan para depositar su voto en elecciones nacionales.
+Las medidas de protección expuestas por la startup de inteligencia artificial con sede en San Francisco incluyen una combinación de políticas preexistentes e iniciativas más recientes para evitar el uso indebido de sus populares herramientas de IA generativa. Estas herramientas pueden crear textos e imágenes inéditos en cuestión de segundos, pero también pueden emplearse para fabricar mensajes engañosos o fotografías falsas que resulten creíbles.
+Las medidas, esbozadas en su blog esta semana, se aplicarán específicamente a OpenAI, sólo una de un universo en expansión de compañías que desarrollan herramientas avanzadas de IA generativa. La empresa, que anunció estas medidas el lunes, dijo que planea continuar con su "trabajo de seguridad de la plataforma con mayor información electoral precisa, la aplicación de políticas cuidadosamente consideradas y mejorando la transparencia”.
+La compañía indicó que prohibirá el uso de su tecnología para crear chatbots que se hagan pasar por candidatos o gobiernos reales, para tergiversar el funcionamiento del sistema de votación o para disuadir a la gente de votar. Añadió que hasta que no se investigue más a fondo el poder persuasivo de su tecnología, no permitirá a sus usuarios crear aplicaciones para campañas políticas o grupos cabilderos.
+A partir de “principios de este año”, OpenAI pondrá una marca de agua digital a las imágenes de IA creadas con su generador DALL-E. Esto marcará permanentemente el contenido con información sobre su origen, lo que facilitará identificar si una imagen que aparece en otro lugar de la web se creó utilizando la herramienta de IA.
+La empresa también ha informado que está colaborando con la Asociación Nacional de Secretarios de Estado para dirigir a aquellos usuarios de ChatGPT que hagan preguntas logísticas sobre elecciones hacia la información rigurosa que se encuentra en CanIVote.org, el sitio web no partidista de ese grupo.
+Mekela Panditharatne, asesora del programa de democracia del Centro Brennan para la Justicia, dijo que los planes de OpenAI son un paso positivo hacia la lucha contra la desinformación electoral, pero dependerá de cómo se apliquen.
+“Por ejemplo, ¿hasta qué punto serán exhaustivos y completos los filtros a la hora de señalar cuestiones sobre el proceso electoral?", cuestionó. "¿Habrá elementos que se escapen?”
+ChatGPT y DALL-E de OpenAI son algunas de las herramientas de IA generativa más potentes hasta la fecha. Pero hay muchas empresas con una tecnología igual de sofisticada que no cuentan con tantos mecanismos de protección contra la desinformación electoral.
+Aunque algunas empresas de redes sociales, como YouTube y Meta, han introducido políticas de etiquetado de IA, está por verse si serán capaces de detectar a los infractores de manera sistemática.
+“Sería útil que otras empresas de IA generativa adoptaran directrices similares para que hubiera una aplicación de normas prácticas en todo el sector”, afirmó Darrell West, investigador sénior del Centro de Innovación Tecnológica de la Brooking Institution.
+Sin la adopción voluntaria de tales políticas en todo el sector, la regulación de la desinformación generada por IA en la política requeriría legislación. En Estados Unidos, el Congreso aún no ha aprobado ninguna ley que regule el papel de esta industria en la política, a pesar de contar con cierto apoyo bipartidista. Mientras tanto, más de un tercio de los estados de Estados Unidos han aprobado o presentado proyectos de ley para hacer frente a los deepfakes en las campañas políticas, mientras que la legislación federal está estancada.
+El director general de OpenAI, Sam Altman, dijo que, incluso con todas las medidas de seguridad implementadas por su empresa, no se siente tranquilo.
+“Creo que es bueno que estemos muy preocupados y que vayamos a hacer todo lo posible para que salga lo mejor posible”, dijo durante una entrevista el martes en un evento de Bloomberg durante el Foro Económico Mundial de Davos, Suiza. “Vamos a tener que vigilar esto muy de cerca este año. Un seguimiento muy estricto. Un circuito de retroalimentación muy estrecho”.
+¡Conéctate con la Voz de América! Suscríbete a nuestros canales de YouTube, WhatsApp y al newsletter. Activa las notificaciones y síguenos en Facebook, X e Instagram.
+ 
+ 

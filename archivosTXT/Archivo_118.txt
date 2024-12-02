@@ -1,0 +1,156 @@
+10 ejemplos del mundo real del machine learning | Inesdi
+Autor desconocido
+inesdi.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La Inteligencia Artificial (IA) está creciendo a pasos agigantados, con un mercado estimado de 7.350 millones de dólares estadounidenses. Así, podemos encontrar ejemplos de machine learning que mejoran nuestra vida diaria en muchos lugares. Hoy te dejamos algunos de ellos para que te hagas una idea de hasta qué punto lo que hace unos pocos años formaba parte de la ciencia ficción, hoy es realidad.
+Fue Arthur Samuel, el pionero de la inteligencia artificial en la década de 1950, quien acuñó el término ‘machine learning’. El aprendizaje automático es una rama de la informática y la IA. Se centra en el uso de datos y algoritmos para imitar la forma en que los humanos aprenden y mejorar gradualmente su precisión. 
+Hoy podemos ver muchos ejemplos de machine learning en el mundo real. Entre ellos, tecnología de búsqueda por voz, reconocimiento de imágenes, traducción automática, coches sin conductor, etc.
+
+Existen aplicaciones de machine learning en todas las industrias. De hecho, los siguientes son ejemplos de machine learning para empresas que no cubren ni una mínima parte de todo lo que el deep learning es capaz de ofrecer.
+El aprendizaje automático se ocupa de problemas de diagnóstico en medicina y atención médica. El control y la gestión de pacientes, el análisis de datos médicos y la gestión de datos médicos inapropiados son solo algunos de los muchos ejemplos de machine learning para empresas del sector médico.
+El machine learning desempeña, mediante técnicas de reconocimiento facial, un papel crucial en el fortalecimiento de las tareas de vigilancia, pues permite el seguimiento de terroristas y delincuentes.
+Cuando hablamos de deep learning y de ejemplos para la vida diaria, no podemos dejar de lado las plataformas que utilizan mapas y enrutamiento. En este contexto, las aplicaciones de machine learning aseguran la puntualidad a través de algoritmos para calcular la ruta más rápida con menos tráfico, la hora de llegada, el lugar de recogida y la mejor ruta hasta un destino. Las técnicas de aprendizaje automático han incorporado un modelo de deep learning para que vehículos especialmente sensibles, como las ambulancias, puedan encontrar el camino más corto y rápido para llegar a un hospital o a un accidente.
+El aprendizaje automático puede mejorar la seguridad pública al prevenir, reducir y responder a los delitos. Un ejemplo de esto es Safecity, una aplicación que predice puntos críticos de acoso sexual a través de mapas de calor basados ​​en aprendizaje automático.
+El machine learning en el sector agrícola permite una agricultura precisa y eficiente con menos mano de obra para una producción de alta calidad. El aprendizaje automático también proporciona información y recomendaciones de gran valor sobre los cultivos para que los agricultores puedan minimizar sus pérdidas.
+Un ejemplo de machine learning en aplicaciones agrarias es OKO, que usa imágenes tomadas vía satélite para detectar y evaluar el daño producido por determinadas plagas.
+Siri, Alexa y Cortana son solo algunos de los asistentes inteligentes que se utilizan en la vida cotidiana para realizar actividades como configurar recordatorios, alarmas, consultar el clima, etc. Los asistentes inteligentes basados ​​en la voz presentan numerosos beneficios sociales, ya que unen a las personas, mejoran la calidad de vida de personas con determinadas discapacidades e incluso brindan una sensación de compañía a las personas que viven solas.
+El uso del aprendizaje automático ayuda a las autoridades a rastrear y administrar la gran cantidad de datos generados por los dispositivos de vigilancia pública. El análisis de datos en tiempo real en busca de anomalías y amenazas por parte de las fuerzas del orden ayuda a rastrear tanto a delincuentes como a personas desaparecidas. Por su parte, los proveedores de servicios de Internet tienen más éxito en la identificación de actividad sospechosa online que apunte a hechos delictivos como la explotación infantil.
+ 
+
+ 
+Las aplicaciones de machine learning mejoran la seguridad en el lugar de trabajo. Y lo logran al reducir los accidentes y ayudar a las empresas a detectar empleados potencialmente enfermos.
+Los algoritmos de aprendizaje automático pueden ayudar a impulsar la sostenibilidad ambiental. Un buen ejemplo es el Proyecto Green Horizon de IBM, en el que se aprovechan las estadísticas ambientales de varios activos y sensores para producir pronósticos de contaminación. El objetivo es reducir el impacto en el medio ambiente.
+Aplicaciones como PayPal y Google Pay utilizan el aprendizaje automático para rastrear transacciones y diferenciar entre transacciones ilegítimas y legítimas. De esta forma, el machine learning maximiza la seguridad cibernética al prevenir el fraude monetario en línea.
+¿Te apasiona el mundo de la IA y el machine learning? Sigue aprendiendo sobre Feature Engineering en Machine Learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMPUS
+SOLICITA INFORMACIÓN
+¿Quién es el Responsable del tratamiento de sus datos?
+THREEPOINTS EDUCATION, S.L.U, con CIF B-67187906, será la responsable de los datos
+            personales facilitados a través de la presente página web, así como de los facilitados
+            telefónicamente, a través de cualquiera de nuestros formularios en formato papel, de los obtenidos como
+            consecuencia de la relación que Usted mantenga con nosotros y de los derivados de sus hábitos de navegación
+            y consumo. Dicha compañía se encuentra ubicada en Av Diagonal, 662, 08034 Barcelona, pudiendo
+            ponerse en contacto con la misma a través de la dirección electrónica info@inesdi.com.
+Igualmente, podrá ponerse en contacto con nuestro Delegado de Protección de Datos mediante escrito
+            dirigido a dpo@planeta.es o a Grupo Planeta, At.:
+            Delegado de Protección de Datos, Avda. Diagonal 662-664, 08034 Barcelona.
+¿Con qué finalidad tratamos sus datos personales?
+THREEPOINTS EDUCATION, S.L.U tratará sus datos personales con el fin de gestionar la relación que Usted
+            mantiene con nosotros, así como para enviarle comunicaciones comerciales por cualquier vía, incluso
+            finalizada la relación con usted, para mantenerle informado de aquellos de nuestros productos y servicios
+            similares a los contratados por Usted.
+Asimismo, le informamos que, con el fin de poder ofrecerle productos y servicios de THREEPOINTS
+          EDUCATION, S.L.U o de terceras empresas adecuados a sus intereses, así como para mejorar su experiencia
+            de usuario de nuestra página Web, elaboraremos un “perfil comercial” en base tanto a la información
+            facilitada por usted como a aquella otra derivada de sus hábitos de consumo y navegación y la
+            obtenida de redes sociales. 
+Adicionalmente, sus datos personales y perfil comercial serán cedidos al resto de
+            sociedades del Grupo Planeta para que éstas le remitan comunicaciones comerciales sobre sus propios
+            productos y servicios o de terceras empresas pertenecientes o ajenas al Grupo Planeta, elaborando para ello,
+            a su vez, su propio perfil comercial con dichos datos y perfiles, así como con los datos y perfiles de usted
+            que ya tuviera u obtenga, todo ello, para que dichas comunicaciones sean de su interés por adecuarse a sus
+            gustos, hábitos de consumo y navegación y preferencias comerciales. Este tratamiento implicará, por tanto,
+            el cruce de bases de datos de las distintas empresas del Grupo Planeta y enriquecimiento de las
+            mismas.
+Puede consultar el listado de empresas del Grupo Planeta en el siguiente link www.planeta.es. Dichas empresas desarrollan su actividad en
+            los sectores editorial, formación, cultura, ocio, coleccionismo, textil, seguros privados, gran consumo y
+            joyería.
+En cualquier caso, las terceras empresas ajenas a nuestro grupo de las que, en su caso, le enviaremos
+            comunicaciones comerciales serán aquellas que desarrollen su actividad en los mismos sectores que las
+            empresas del Grupo Planeta y que han sido indicados anteriormente, o en los sectores de Telecomunicaciones,
+            bancario y financiero, viajes, tecnología y actividades jurídicas.
+¿Por cuánto tiempo conservaremos sus datos?
+Tanto los datos personales proporcionados, como los obtenidos de su navegación y hábitos de consumo,
+            así como el perfil comercial obtenido se conservarán mientras Usted no solicite su supresión.
+¿Cuál es la legitimación para el tratamiento de sus datos?
+La base legal para el tratamiento de sus datos personales es la ejecución y mantenimiento de la
+            relación mantenida con Usted, así como el consentimiento expreso que, en su caso, nos haya facilitado para
+            los tratamientos adicionales consistentes en el envío de comunicaciones comerciales propias y/o de terceros,
+            la elaboración de perfiles comerciales y la cesión de dichos datos y perfiles al resto de sociedades del Grupo Planeta
+              con las finalidades indicadas en el apartado “¿Con qué finalidad tratamos sus datos personales?”
+            anterior.
+Le informamos que los datos personales que se solicitan en el momento de registrarse en la presente
+            página web, los solicitados telefónicamente o en cualquiera de nuestros formularios en formato papel, son
+            los estrictamente necesarios para formalizar y gestionar la relación con Usted, de manera que, en caso de no
+            facilitarlos, no podremos mantener dicha relación. En cualquier caso, dicha finalidad principal no está
+            supeditada al consentimiento para el tratamiento de los datos que no sean necesarios para dicha actividad
+            principal.
+Como, hemos indicado anteriormente, la oferta prospectiva de productos y servicios propios y/o de
+            terceros, así como la elaboración de perfiles comerciales y la cesión de dichos perfiles y de sus datos
+            personales a terceras empresas del Grupo Planeta, son tratamientos adicionales que están basados en el
+            consentimiento que se le solicita, sin que en ningún caso la retirada de este consentimiento condicione el
+            mantenimiento de la relación que mantiene con nosotros.
+¿A qué destinatarios se comunicarán sus datos?
+Únicamente en el caso de que nos dé su consentimiento para ello, sus datos personales y, en su caso, su
+            perfil comercial, serán comunicados al resto de empresas del Grupo Planeta con las finalidades
+            indicadas en el punto “¿Con qué finalidad tratamos sus datos personales?”
+          de la presente política de privacidad. Puede consultar el listado de empresas del Grupo Planeta
+            en el siguiente link www.planeta.es.
+
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Cualquier persona tiene derecho a obtener confirmación sobre si en THREEPOINTS EDUCATION,
+          S.L.U estamos tratando datos personales que les conciernan, o no.
+Asimismo, las personas interesadas tienen derecho a acceder a sus datos personales, así como a
+            solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros
+            motivos, los datos ya no sean necesarios para los fines que fueron recogidos.
+En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus
+            datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.
+En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán
+          oponerse al tratamiento de sus datos. THREEPOINTS EDUCATION, S.L.U dejará de tratar los
+            datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.
+
+Asimismo, los interesados tienen derecho a recibir, en un formato estructurado, de uso común y lectura
+            mecánica, los datos personales que le incumban que nos hayan facilitado, y a transmitirlos a otro
+            responsable.
+Los interesados, podrán ejercer dichos derechos y la revocación en cualquier momento de los
+            consentimientos en su caso prestados, mediante carta dirigida a THREEPOINTS EDUCATION, S.L.U,
+            Apartado de Correos 221 de Barcelona o remitiendo un email a lopd@threepoints.com. En este sentido, le informamos que tiene a su disposición
+            modelos de ejercicio de los citados derechos en la página web de la Agencia Española de Protección de Datos
+            (https://www.aepd.es/reglamento/derechos/index.html).

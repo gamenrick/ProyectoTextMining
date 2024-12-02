@@ -1,0 +1,115 @@
+Te damos la bienvenida a Microsoft Copilot en Stream - Soporte técnico de Microsoft
+Autor desconocido
+microsoft.com
+
+
+          Copilot en Microsoft Stream le ayuda a ponerse al día de forma rápida y eficaz con los vídeos de su organización. Tanto si se perdió una reunión como si está viendo la última asamblea informativa, una demostración de un producto o un vídeo de instrucciones, Copilot puede resumir y responder rápidamente a preguntas sobre cualquier vídeo con una transcripción.
+
+
+
+Para usar Copilot en Stream, debe tener una licencia de Microsoft 365 Copilot y el plan de servicio de Microsoft 365 Copilot para SharePoint.
+En Microsoft Stream, acceda a un vídeo. Si el vídeo no tiene una transcripción, primero deberá generar una transcripción.
+Busque Copilot en el lado derecho del vídeo. En la mayoría de casos en los que el tamaño de pantalla es lo suficientemente grande, Copilot se abre de forma predeterminada. En los casos en que la ventana del vídeo sea pequeña, es posible que tenga que seleccionar el icono de Copilot para abrirlo.
+Seleccione una indicación sugerida en el cuadro de Copilot, como "Resumir el vídeo".
+
+                Copilot devolverá lo que pida y mostrará las marcas de tiempo con vínculos para que pueda saltar al lugar del vídeo del que procede la información o la respuesta.
+Para obtener más información sobre un vídeo, pídasela a Copilot en el área de indicaciones. Puede pedir a Copilot que le ayude a comprender cualquier cosa de la transcripción del vídeo, incluidos temas clave, temas, tendencias y preguntas abiertas.
+
+                Copilot en Stream utiliza la transcripción del vídeo. Si el vídeo no tiene una transcripción, siga estos pasos:
+Vaya a Editar > Configuración de vídeo > Transcripción y subtítulos.
+Seleccione Generar para crear una transcripción.
+Poco después de generar la transcripción, Copilot podrá responder a las preguntas relacionadas con ella.
+Si no tiene permisos de edición, póngase en contacto con el propietario del vídeo. Para obtener más información sobre transcripciones y subtítulos, vea Ver, editar y administrar transcripciones de vídeo y subtítulos.
+
+            Copilot es su asistente de vídeo personal que lo ayuda a obtener lo que necesita de los vídeos en cuestión de segundos. Puede formular a Copilot una pregunta sobre el vídeo y responderá en función de la información de la transcripción.
+Puede usar Copilot en Stream para:
+Resuma cualquier vídeo para identificar los puntos relevantes que necesita ver.
+Formule preguntas para obtener información de vídeos largos o detallados.
+Busque dónde se tratan las personas, los equipos o los temas para que pueda saltar a ese punto en el vídeo.
+Identifique las llamadas a la acción y dónde puede participar para ayudar.
+Para empezar a trabajar rápidamente, seleccione un mensaje sugerido o escriba su pregunta en el cuadro para obtener información más específica.
+
+
+
+
+            Copilot lo ayuda a maximizar su trabajo al obtener rápidamente la información que necesita de los vídeos. Por ejemplo, si es el jefe de proyecto asignado a un nuevo proyecto de construcción, puede preguntar:
+¿Cuáles son las últimas actualizaciones y problemas del proyecto?
+¿Este proyecto se ejecuta a tiempo y en el presupuesto?
+¿Se han identificado nuevos riesgos y cómo se administran?
+¿Hay algún desafío al que se enfrenta la distribución de materiales a los sitios de trabajo dispersos?
+¿Cómo se adapta el diseño de sitio al trabajo híbrido?
+Para que Copilot funcione en Stream, debe tener habilitadas las cookies de terceros. Para obtener más información sobre cómo permitir cookies en Microsoft Edge, consulte Permitir temporalmente cookies y datos del sitio en Microsoft Edge.
+
+            Copilot requiere más de 100 palabras en la transcripción del vídeo. Si la transcripción es demasiado corta, Copilot no funcionará.
+
+            Copilot solo podrá leer la primera transcripción que se genere para el vídeo. En caso de que se hayan agregado varias transcripciones o traducciones al vídeo, Copilot solo podrá leer la transcripción original.
+
+            Copilot no genera ningún contenido nuevo ni edita el vídeo. Simplemente responde a preguntas basadas en la transcripción de vídeo existente.
+
+            Copilot funciona mejor en los idiomas admitidos para Microsoft Copilot.
+Para obtener más información sobre Copilot en Stream, consulte Preguntas más frecuentes sobre Copilot en Stream.
+Para más información sobre cómo funciona Microsoft 365 Copilot, consulta Datos, privacidad y seguridad de Copilot para Microsoft 365.
+Explore las ventajas de las suscripciones, examine los cursos de aprendizaje, aprenda a proteger su dispositivo y mucho más.
+
+
+
+
+Ventajas de la suscripción a Microsoft 365
+
+
+
+
+
+Aprendizaje de Microsoft 365
+
+
+
+
+
+Seguridad de Microsoft
+
+
+
+
+
+Centro de accesibilidad
+
+
+                Las comunidades le ayudan a formular y responder preguntas, enviar comentarios y leer a expertos con conocimientos extensos.
+            
+
+
+
+
+Pregunte en Microsoft Community
+
+
+
+
+
+Microsoft Tech Community
+
+
+
+
+
+Windows Insiders
+
+
+
+
+
+Microsoft 365 Insiders
+
+Encuentre soluciones a problemas comunes u obtenga ayuda de un agente de soporte técnico.
+
+
+
+
+Soporte en línea
+
+
+
+
+
+

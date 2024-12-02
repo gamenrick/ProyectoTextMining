@@ -1,0 +1,32 @@
+A la madre... con las extorsiones con IA en WhatsApp: Así ‘replican’ voces de familiares en mensajes de audio – El Financiero
+Autor desconocido
+com.mx
+
+“Hijo, me acabo de meter en un gran problema y necesito de tu ayuda. Te estoy marque y marque y no me contestas. Te estoy mandando mensajes porque te necesito, por favor, contéstame”, dice la voz de la supuesta mamá de un joven a quien quisieron hacer víctima de una modalidad de las estafas por WhatsApp.
+“Necesito que me mandes 3 mil pesos. No te preocupes. Llegando a la casa te explico”, continúa la voz de la supuesta madre del joven. Ese audio se envió por Whatsapp. Usaron el mismo número de celular de la madre del joven, es decir, hackearon la cuenta de WhatsApp.
+El joven se salvó porque al momento de recibir los mensajes, su madre estaba en la casa con él, lo que permitió identificar que se trataba de un fraude, de intento de extorsión.
+Con el uso de la inteligencia artificial (IA) generativa se han creado nuevas modalidades de fraudes a través de llamadas telefónicas o en plataformas de mensajería instantánea como WhatsApp, Telegram y otras.
+Uno de los tipos de fraude que se han reportado recientemente incluye el envío de mensajes de audio en los que se clona la voz de una persona para engañar más fácilmente a la víctima y pedirle dinero.
+¿Cómo emplean la inteligencia artificial para clonar voces? ¿Cómo protegerte de los delincuentes? Tan rápido como un mensaje de WhatsApp te contamos lo que debes saber.
+La inteligencia artificial, o IA, es tecnología que permite que las computadoras simulen la inteligencia humana y las capacidades de un ser humano de resolución de problemas, de acuerdo con la definición de IBM.
+Actualmente, la IA permite realizar diversas tareas como reconocimiento de voz, atención al cliente, visión artificial, pronósticos meteorológicos y detección de anomalías.
+Oli Buckley, profesor asociado de ciberseguridad, Universidad de East Anglia, detalló para The Conversation que la clonación de voz con ayuda de la inteligencia artificial es posible debido a que se trata de una tecnología capaz de crear texto, imágenes o cualquier otro medio, como videos, en función de las indicaciones de un usuario.
+Buckley señala que uno de los casos más famosos de la clonación de voz con ayuda de IA es el video que muestra al presidente de Ucrania, Volodímir Zelenski, asegurando que renunciara a las armas en la guerra contra Rusia.
+Las extorsiones por clonación de voz con IA llegan por mensajes o llamada. (Cuartoscuro). 
+Mcafee, compañía de software especializada en seguridad informática, realizó un estudio sobre la clonación de voz con IA para extorsionar a las personas.
+Los especialistas indicaron que una pequeña muestra de audio es suficiente para que los ciberdelincuentes pueden clonar la voz de casi cualquier persona. Esto les da la posibilidad de crear mensajes de voz falsos y utilizarlos en buzones, enviar audios por WhatsApp u otros servicios de mensajería.
+De acuerdo con los especialistas, el tipo de mensaje que mandan los extorsionadores es concreto: Surgió una emergencia, hay angustia y necesidad de que se deposite cierta cantidad de dinero de inmediato. Para confundir a la víctima, se hacen pasar por familiares o amigos
+“Cuantos más ejemplos de la voz de la persona puedas introducir en los algoritmos, mejor y más convincente será la copia final”, detallan los especialistas de Mcafee.
+Indican además que hay amplia accesibilidad a las herramientas de clonación de voz y al menos una docena está disponible en internet para ser usadas de manera gratuita. Son recursos bastante amigables, que requieren un nivel básico de conocimientos para su uso.
+Los intentos de extorsión con ayuda de la inteligencia artificial también ocurren por llamada telefónica. (Cuartoscuro). (Mario Jasso)
+Para que ni tú ni tu familia sean víctimas de este tipo de extorsión por clonación de voz, puedes establecer una serie de acuerdos como un código. Por ejemplo, una palabra clave cuando pidan ayuda.
+También pregúntate siempre cuál es la fuente, revisa el número de teléfono y analiza las palabras que la persona usa, ¿son las mismas que suele decir tu familiar o amigo?
+Cuida la privacidad de tus redes sociales. Se recomienda que solo compartas información con amigos y familiares.
+Por último, los expertos en ciberataques recomiendan que borres tu nombre e información de los sitios de intermediarios de datos.
+Una de las recomendaciones es analizar con calma los mensajes de auxilio que recibes. (Cuartoscuro). (Mario Jasso)
+En caso de ser víctima de extorsión por clonación de voz o cualquier otra dinámica donde te piden dinero, las autoridades mexicanas recomiendan que mantengas la calma, escuches con atención lo que te dicen y hagas el mayor tiempo posible para que localices al familiar del que te hablan.
+Puedes llamar al Locatel (*0311) para preguntar sobre información del paradero de tu familiar. De ser posible, graba la llamada de la o el extorsionador o guarda los mensajes que te envían y toma sus datos: como género y tono de voz.
+No cuestiones a la persona que te está extorsionando, si localizas a tu familiar cuelga la llamada y bloquea el número.
+
+Las noticias más importantes en Finanzas, Economía, Negocios y Política de México
+© Copyright, Grupo Multimedia Lauman, SAPI de CV

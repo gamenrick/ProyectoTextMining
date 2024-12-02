@@ -1,0 +1,42 @@
+¿Cuál es la diferencia entre el machine learning y el deep learning?
+Autor desconocido
+bismart.com
+
+
+        Presione enter para buscar o Esc para salir
+      
+Desde la aparición de la inteligencia artificial (IA) a finales de la primera mitad del siglo XX, la tecnología ha evolucionado de forma estratosférica. Durante su desarrollo ha vivido momentos de gloria, caracterizados por la convicción de que esta tecnología tenía un gran potencial y la llegada de grandes cantidades de dinero para realizar investigación, y momentos de crisis, llamados “inviernos de la AI”, en el que la falta de potencia de computación no permitía que la tecnología pudiera desarrollarse como se había esperado y los fondos para investigación desaparecían.
+Durante uno de esos momentos dorados, en la década de los 80, apareció una rama de la AI, el aprendizaje automático o machine learning (ML), que utiliza algoritmos matemáticos que permiten a las máquinas aprender. El machine learning es una forma analítica de resolver problemas mediante la identificación, la clasificación o la predicción. Los algoritmos aprenden de los datos introducidos y luego utilizan este conocimiento para sacar conclusiones de nuevos datos. 
+Si te interesan el machine learning, el deep learning y la inteligencia artificial, es probable que disfrutes leyendo el e-book The Future Computed elaborado por Microsoft, en el que se dibuja el estado actual de la inteligencia artificial, así como el papel que ha tenido y tendrá en la sociedad. Puedes descargar el libro aquí: 
+
+Ya en el siglo XXI, en el año 2011, apareció una rama del machine learning llamada aprendizaje profundo o, más comúnmente, deep learning (DL). La popularidad del machine learning y el desarrollo de la capacidad de computación de los ordenadores permitieron llegar a esta nueva tecnología. El deep learning como concepto es muy similar al machine learning, pero usa algoritmos distintos. Mientras que el machine learning trabaja con algoritmos de regresión o con árboles de decisión, el deep learning usa redes neuronales que funcionan de forma muy parecida a las conexiones neuronales biológicas de nuestro cerebro.
+ 
+En ambos casos, disponer de datos de calidad y fiables es fundamental para asegurar el funcionamiento efectivo de estas dos tipologías de inteligencia artificial. Sin una buena base apoyada en la integración de datos mediante un proceso ETL o SSIS, la consolidación de datos y el data management, el machine learning o el deep learning no resultarán eficaces.
+El aprendizaje que llevan a cabo los algoritmos puede ser supervisado o no supervisado según si requieren asistencia humana o no.
+Un sistema de aprendizaje no supervisado se basa en algoritmos que aprenden de datos con elementos no etiquetados buscando patrones o relaciones entre ellos: se facilitan los datos de entrada (no los de salida). El aprendizaje no supervisado no necesita intervención humana.
+Los algoritmos de aprendizaje no supervisado pueden ser de clustering (clusterización o agrupación), es decir, descubrimiento de grupos en los datos, como, por ejemplo, agrupación de clientes según sus compras, y de asociación, o sea el descubrimiento de reglas dentro del conjunto de datos. Por ejemplo, sirven para descubrir qué clientes de los que compran un coche también contratan un seguro.
+En cambio, un sistema supervisado se basa en algoritmos que aprenden de datos con elementos etiquetados. Se facilitan los datos de entrada y de salida esperados. Este tipo de aprendizaje necesita intervención humana.
+En este caso, los algoritmos pueden ser de clasificación, para clasificar objetos dentro de clases, como, por ejemplo, pacientes enfermos o correo spam, o de regresión, para predecir un valor numérico como puede ser el precio de una casa, la demanda de ocupación, el peso o la altura.
+La AI ha desarrollado otras ramas desde su aparición, como el procesamiento del lenguaje natural (natural language processing, NLP), la robótica o el reconocimiento de imágenes o del habla (speech and image recognition, and machine vision), entre otras.
+En Bismart, empresa partner Power BI de Microsoft, somos expertos en ayudar a las empresas a aplicar la inteligencia artificial, el machine learning y el deep learning para optimizar sus procesos. ¡Consúltanos!
+
+Los algoritmos de machine learning son algoritmos matemáticos que permiten a las máquinas aprender imitando la forma en la que aprendemos los humanos, aunque el machine learning no son solo algoritmos es también el enfoque desde el que se aborda el problema. El machine learning es básicamente una forma de conseguir inteligencia artificial.
+El deep learning (DL) forma parte del aprendizaje automático. De hecho, se puede describir como la nueva evolución del machine learning. Se trata de un algoritmo automático que imita la percepción humana inspirada en nuestro cerebro y la conexión entre neuronas. El DL es la técnica que más se acerca a la forma en la que aprendemos los humanos.
+La mayoría de los métodos de deep learning usan arquitectura de redes neuronales. Es por eso por lo que a menudo se conoce al deep learning como “redes neuronales profundas” o “deep neural networks”. Se le conoce como “deep” en referencia a las capas que tienen estas redes neuronales.
+Explicado de forma simple, tanto el machine learning como el deep learning imitan la forma de aprender del cerebro humano. Su principal diferencia es, pues, el tipo de algoritmos que se usan en cada caso, aunque el deep learning se parece más al aprendizaje humano por su funcionamiento como neuronas. El machine learning acostumbra a usar árboles de decisión y el deep learning redes neuronales, que están más evolucionadas. Además, ambos pueden aprender de forma supervisada o no supervisada.
+Antes de irte, no olvides que puedes descargar el libro The Future Computed sobre inteligencia artificial aquí: 
+
+¿Te interesa aprovechar el potencial de la inteligencia artificial para optimizar y automatizar tus procesos empresariales? ¡Podemos ayudarte!
+
+Actualmente, el deep learning sigue siendo una de las ramas de la inteligencia artificial en mayor desarrollo. Desde la aparición de chatbots de IA...
+A medida que el machine learning se populariza y su uso se generaliza, los proveedores de software van expandiendo la oferta de plataformas y...
+El machine learning es una forma analítica de resolver problemas mediante la identificación, la clasificación o la predicción. Los algoritmos...
+Barcelona
+Castella, 41-43 08018 Barcelona
+Madrid
+Poeta Joan Maragall, 23 28020 Madrid
+Andorra
+Urbanització Gran Sol AD100 Canillo
+EBOOK
+TEMAS
+© Bismart 2024 | Todos los derechos reservados | Política de Privacidad | Política de Cookies | Política de Calidad | Política de Seguriad | Condiciones de uso | FAQs

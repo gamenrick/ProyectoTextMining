@@ -1,0 +1,87 @@
+Inteligencia artificial: ampliar los límites de la ciencia y potenciar la innovación
+Autor desconocido
+europa.eu
+
+Al cerrar la sesión de EU Login, se cerrará la sesión de cualquier otro servicio que utilice su cuenta de EU Login.  Utilice el botón de cierre de sesión de CORDIS para mantener la sesión iniciada en otros servicios.
+Esta es una traducción automática generada por el servicio eTranslation de la Comisión Europea para ayudarle a entender esta página. Por favor, lea las condiciones de uso.
+Article Category
+
+								Article available in the following languages:
+							
+Investigadores financiados con fondos europeos recurren a la inteligencia artificial (IA) para hacer descubrimientos novedosos, crear inventos nuevos y garantizar que Europa siga ostentando el liderazgo mundial en el ámbito de la ciencia y la tecnología, beneficiando con ello a la sociedad europea en su conjunto
+La inteligencia artificial (IA) está transformando la forma en que vivimos y trabajamos, y la investigación científica no supone una excepción a esta norma. Ahora, estas herramientas nos permiten automatizar tareas, analizar datos y generar información de formas que antes parecían imposibles. Hoy en día, con la ayuda de la IA, los investigadores pueden avanzar a un ritmo más acelerado, lograr avances con mayor rapidez y mejorar la calidad de su trabajo. 
+
+La IA actúa como catalizadora del progreso científico, ya que propicia una mayor eficiencia y amplía los límites del conocimiento científico. Esta tecnología se adapta especialmente bien a los procesos de descubrimiento e innovación propios del ámbito de la ciencia, hasta el punto que se está convirtiendo en una herramienta indispensable para la investigación vinculada con la evaluación de grandes conjuntos de datos científicos y la generación de predicciones. La automatización de tareas tales como la recopilación y el análisis de datos también permite a los investigadores centrarse en actividades más creativas y estratégicas.
+
+Además, la IA es un motor de innovación en todos los sectores de la economía. Por todo ello, se espera que suponga un gran impulso en términos de productividad y crecimiento económico. La IA podría ayudarnos a mejorar la atención sanitaria, reducir el consumo de energía, reforzar la seguridad de los automóviles y facilitar que los agricultores hagan uso de los recursos hídricos y naturales de un modo más eficiente, al tiempo que reducen drásticamente el uso de plaguicidas.
+Dada la importancia de la IA, la Comisión Europea ha propuesto adoptar una serie de medidas destinadas a impulsar la excelencia en la IA, así como unas normas que garanticen la fiabilidad de esta tecnología. 
+
+En este sentido, el plan coordinado sobre la inteligencia artificial, elaborado por la Comisión y los Estados miembros, fomenta la excelencia en la IA desde el laboratorio hasta el mercado y presenta una visión adecuada con el fin de acelerar las inversiones en IA, actuar sobre las estrategias de IA para su oportuna ejecución y armonizar las políticas en materia de IA en el conjunto de la UE. Una parte importante del plan coordinado son las acciones financiadas por los programas marco europeos de investigación «Horizonte Europa» y «Horizonte 2020». Esta publicación presenta algunos de los proyectos más interesantes de estos programas, pues ilustran con nitidez las repercusiones de la IA en la ciencia. 
+
+La propuesta de la Comisión de instaurar un marco legislativo sobre IA (la llamada Ley de IA) constituye la piedra angular del planteamiento europeo en materia de desarrollo y uso de la IA. Su objetivo es aportar claridad y seguridad jurídicas a personas y empresas, así como garantizar que los sistemas de IA utilizados en la UE sean seguros, transparentes, éticos e imparciales y se encuentren siempre bajo control humano.
+El presente Results Pack destaca quince proyectos en curso o concluidos recientemente que han recibido financiación procedente de los fondos europeos y ponen de relieve diversas aplicaciones de la IA en la ciencia.  En particular, pretende subrayar hasta qué punto el uso responsable de técnicas como el aprendizaje automático puede ayudar a la ciencia a alcanzar nuevas cotas de innovación y a abordar problemas cuya resolución resultaría, de otro modo, demasiado larga y compleja. 
+
+Los proyectos van más allá de los ámbitos científicos asociados por lo general a la IA —ingeniería, medicina e informática— y analizan cómo esta tecnología puede ayudar a los científicos en la preservación del patrimonio cultural, la conservación digital de documentación histórica, la mejora del aprendizaje de idiomas, la predicción de catástrofes naturales o la resolución de retos medioambientales. 
+
+Algunas de las iniciativas propuestas se esfuerzan por lograr nuevos avances científicos utilizando la IA para optimizar el diseño de nuevos materiales con propiedades deseables, identificar combinaciones de fármacos para el tratamiento personalizado del cáncer y ayudar a los robots colaborativos a explorar zonas inaccesibles, como las cuevas de lava de la Luna.
+
+Otro conjunto de proyectos aprovecha la capacidad de la IA para analizar y clasificar grandes volúmenes y variedades de datos o para identificar patrones y estudiar relaciones complejas entre ellos. Estas ventajas se pueden aprovechar para ampliar los conocimientos científicos y mejorar nuestra comprensión del mundo y sus fenómenos, como el comportamiento de las fallas durante los terremotos, la formación y evolución de las estrellas o la estructura del protón. 
+
+Los resultados de los proyectos reflejan así el compromiso de la UE de financiar el desarrollo de una IA innovadora, segura y responsable en favor de la investigación.
+
+COSMIC DANCE utilizó el aprendizaje automático para entender mejor cómo se forman y evolucionan las estrellas.
+
+El proyecto COG-TOM desarrolló novedosos métodos de análisis de datos agrupados bajo el concepto de tomografía cognitiva con el fin de ahondar en nuestra comprensión de la mente humana. 
+
+CoRob-X construyó vehículos planetarios robóticos de tipo cooperativo dotados de sistemas de percepción y control del entorno para permitir a estos equipos la toma de decisiones de forma autónoma en entornos extremos.
+	
+DeepCube analizó los datos masivos del programa de observación de la Tierra Copernicus con la finalidad de mejorar nuestra comprensión de los retos medioambientales.
+
+DrugComb desarrolló herramientas matemáticas e informáticas destinadas a identificar combinaciones de fármacos para tratamientos personalizados contra el cáncer.
+
+F-IMAGE utilizó la IA para clasificar y analizar señales sísmicas y comprender el comportamiento de las fallas durante los terremotos.
+
+HYPERION creó un marco para evaluar los efectos del cambio climático y la composición atmosférica en enclaves patrimoniales de gran valor cultural.
+
+MOUSSE utilizó las similitudes existentes entre distintos idiomas con el objetivo de crear una enorme red de representaciones semánticas a partir de frases independientes de un mismo idioma y hacer frente así al reto que constituyen las alucinaciones de la IA.
+
+NNNPDF se adentró en la «vida interior» del protón y su estructura recurriendo a técnicas propias del aprendizaje automático.
+
+RD-ADVANCE utilizó el diseño de regresión discontinua para cuantificar mejor el efecto causal de distintos tipos de medidas políticas.
+
+STOP aplicó la IA a la recopilación y el análisis de datos para crear una plataforma de nutrición a medida para enfermos de obesidad.
+
+TAXINOMISIS utilizó el aprendizaje automático y las redes neuronales con el fin de crear una plataforma de estratificación del riesgo para pacientes aquejados de arteriopatía carotídea.
+
+TopMechMat creó nuevos materiales dotados de propiedades especiales, utilizando la IA para optimizar su diseño.
+
+WINDMILL utilizó el aprendizaje automático con el objetivo de optimizar las redes 5G. 
+
+VHH se centró en la conservación digital de registros cinematográficos relacionados con el descubrimiento de los campos de concentración nazis y otros escenarios de atrocidades.
+Elija una lengua
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+25 Agosto 2023
+20 Octubre 2022
+25 Agosto 2023
+
+Última actualización:  5 Septiembre 2023 
+
+Permalink: https://cordis.europa.eu/article/id/446030-artificial-intelligence-expanding-scientific-boundaries-and-enhancing-innovation/es
+European Union, 2024
+Su extracción de datos con el id. de tarea 
+					TASK_ID_PLACEHOLDER
+					 está disponible para su descarga
+Su folleto está listo.
+Su folleto {{ title }} generado en {{ timestamp }} está listo para descargar.
+El archivo estará disponible durante {{ hours }} horas o hasta que cierre el navegador.

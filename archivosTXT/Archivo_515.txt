@@ -1,0 +1,50 @@
+El profesor que fue llamado "loco y alarmista" por sus advertencias sobre la inteligencia artificial y que ha acertado en sus predicciones - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+"Algo increíble está sucediendo en el mundo de la inteligencia artificial, y no es del todo bueno", escribió hace seis meses Gary Marcus, una de las principales voces en el debate sobre la IA en la actualidad.
+A su juicio, el lanzamiento de ChatGPT nos lleva al "momento Jurassic Park" de las máquinas: la posibilidad —como en la película de Steven Spielberg— de que la situación se salga de control.
+"Cuando escribí este artículo, creo que la gente pensó que estaba loco o que era alarmista", dijo Marcus en una entrevista con la BBC.
+Pero en 2023, empezaron a proliferar serios problemas con este tipo de inteligencia artificial: en marzo, en Bélgica, un hombre que hablaba frecuentemente con el chatbot Eliza, de la empresa Chai, se suicidó.
+Fuente de la imagen, Getty Images
+La esposa del hombre sostiene que el contacto con el programa lo llevó a quitarse la vida, y para el gobierno belga, el caso es "un precedente que debe tomarse en serio" y "el peligro del uso [de la inteligencia artificial] es una realidad que debe ser considerada".
+Era un escenario posible descrito cuatro meses antes por Marcus en un artículo para la revista Wired: "¿Quizás un chatbot lastimará a alguien tan profundamente que la persona se verá impulsada a terminar con su vida? (...) En 2023, podemos ver nuestro primer asesinato por un chatbot".
+"Creo que estos sistemas pueden ser muy destructivos. Y parte de la razón del potencial de destrucción es que no son confiables. Estos programas pueden inventar algo y decirle [al usuario] que es un hecho. Y también pueden ser usados por personas para ese fin", dice Marcus.
+"Los sistemas de inteligencia artificial que tenemos ahora no están bien controlados. Todavía no es una situación terrible, pero la gente les está dando cada vez más poder. Y no sabemos qué pueden hacer esos sistemas en una situación determinada".
+Fuente de la imagen, Getty Images
+El año pasado, Marcus compiló "siete predicciones nefastas" sobre sistemas como ChatGPT, incluida que la versión más nueva del programa sería como un "toro en una tienda de porcelana, imprudente y difícil de controlar". 
+"Cometerá una cantidad significativa de errores alucinantes, en formas que son difíciles de predecir".
+A fines de marzo, un caso extraño llamó la atención de los medios. Una persona le pidió a ChatGPT que nombrara a académicos involucrados en acoso sexual.
+La lista mencionaba a un profesor de derecho estadounidense, Jonathan Turley. El programa dijo que Turley hizo comentarios sexualmente sugerentes a una estudiante durante un viaje a Alaska y trató de tocarla. En la respuesta se citaba como evidencia un informe de 2018 del Washington Post.
+Pero nada de eso pasó: ni el viaje, ni el informe ni siquiera la acusación. Es como si el robot hubiera inventado la acusación.
+Fuente de la imagen, Getty Images
+OpenAI, la empresa detrás de ChatGPT, emitió un comunicado diciendo que el programa "no siempre genera respuestas precisas".
+Para Marcus, "no tenemos ninguna garantía formal de que estos programas funcionen correctamente, incluso cuando hacen cálculos matemáticos". 
+"A veces son correctos, a veces no. La falta de control y fiabilidad son problemas que veo".
+"Tu calculadora tradicional tiene garantizada una respuesta aritmética. Pero los grandes modelos de lenguaje no la tienen".
+Se refiere al sistema detrás de ChatGPT, los LLM (modelos de lenguaje grande), que almacenan cantidades ingentes de datos y generan, a través de potentes algoritmos, respuestas de aproximación basadas en lo que ya han dicho los humanos.
+En resumen: un loro ultrasofisticado, pero que no tiene idea de lo que está hablando y, a veces, "alucina", un término de la IA que designa una respuesta fuera de lo común, fuera de línea con las expectativas de los programadores.
+Fuente de la imagen, Getty Images
+"Los LLM no son tan inteligentes, pero son peligrosos", dice Marcus, quien también incluyó el aumento de los momentos alucinatorios de la IA en su lista de "predicciones oscuras".
+Además de los generadores de texto, los programas que manipulan imágenes también evolucionan rápidamente.
+Recientemente, una foto del papa Francisco con una chaqueta plateada, realizada con el programa Midjourney, dejó confundido a internet por unas horas: ¿era real esa imagen?
+El episodio tuvo consecuencias inofensivas, pero fue una muestra del potencial para marcar el comienzo de una zona gris permanente entre los hechos y las falsificaciones.
+"Si no tomamos medidas, estamos cerca de entrar en un ambiente de posverdad", dice el profesor de la Universidad de Nueva York.
+"Eso hace que todo sea muy difícil para la democracia. Necesitamos sanciones para quienes produzcan desinformación masiva, exigir marcas de agua para identificar de dónde proviene la información y crear nuevas tecnologías para detectar falsedades. Así como hay un programa antivirus, necesitamos un software antidesinformación". 
+Fuente de la imagen, Getty Images
+Marcus, de 53 años, no se restringe al mundo académico. Le vendió una empresa a Uber y se convirtió en director de un laboratorio del departamento de inteligencia artificial del gigante de las aplicaciones de transporte. Dejó el cargo después de solo cuatro meses, en un momento en que la compañía enfrentaba acusaciones de mantener un entorno "tóxico".
+Cuando se le consultó sobre si creía que el famoso mantra de Silicon Valley "muévete rápido y rompe cosas" y la competencia desenfrenada por los mercados fomentaban circunstancias peligrosas para el desarrollo de la inteligencia artificial, dice que "no es posible esperar que el capitalismo, por sí mismo, vaya a resolver estos problemas".
+Defiende que las empresas están sujetas a regulación y cita el mercado de la aviación como ejemplo de que es algo necesario.
+"La industria de las aerolíneas en la década de 1950 era un desastre. Los aviones se estrellaban todo el tiempo. La regulación era buena para la industria de las aerolíneas. Al final hizo que la industria de las aerolíneas desarrollara un mejor producto", dice.
+"Dejar las cosas a las empresas no conduce necesariamente en la dirección correcta... Hay una razón para que existan los gobiernos, ¿verdad?".
+Entendimiento con el "padrino de la IA"
+Fuente de la imagen, University of Toronto
+La postura de cautela y de entusiasmo con desconfianza de Marcus por la rápida evolución de la IA no siempre sido bien recibida.
+Su escepticismo ha sido objeto de burlas años atrás por parte de sus compañeros (principalmente en Twitter), pero la marea ha cambiado: varias personalidades en el campo de la IA han comenzado a adoptar un tono diferente.
+Jeffrey Hinton, llamado el "padrino de la IA", anunció su salida de Google y dijo poco después que considera que los problemas de la inteligencia artificial son "quizás más urgentes que los del cambio climático".
+"Hinton y yo tenemos puntos de vista diferentes sobre algunos aspectos de la inteligencia artificial. Mantuve correspondencia con él hace un tiempo, le expliqué mi posición y estuvo de acuerdo conmigo, lo cual no siempre es el caso. Pero el tema principal en el que estamos de acuerdo es el del control", dice.
+"No estoy necesariamente de acuerdo con que la [IA] sea una amenaza mayor que el cambio climático, pero es difícil saberlo. Hay muchos datos disponibles para tratar de estimar los riesgos del cambio climático. Pero con la inteligencia artificial ni siquiera sabemos cómo calcular esos riesgos".
+"Pero para mí, la posibilidad de que estas herramientas se utilicen para socavar las democracias es esencialmente del 100%. Ahora, no sabemos si existe la posibilidad de que los robots se apoderen del planeta. Es razonable que algunas personas se planteen en este escenario. Estamos construyendo herramientas muy poderosas. Debemos considerar estas amenazas".
+Recuerda que puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

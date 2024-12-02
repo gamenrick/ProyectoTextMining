@@ -1,0 +1,34 @@
+La inteligencia artificial aplicada a los procesos de facturación - Telefónica
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ La digitalización de facturas y la propia facturación electrónica hace mucho tiempo que vinieron para quedarse. 
+José Antonio Piqueras Seguir          
+Gestor de Acuerdos de facturación en Grandes Clientes
+17/09/2024
+Ahora que la inteligencia artificial aparece a diario en los medios de comunicación y se habla de ella como herramienta para casi cualquier campo que podamos imaginar, es inevitable hacerlo también pensando en la facturación, un área clave y crítica para cualquier compañía.
+Además de las ventajas más evidentes, como puede ser la reducción de costes de impresión y de envío postal (con el consecuente menor impacto medioambiental), nos permite a su vez evitar tener que disponer de esos grandes espacios de archivo que aún siguen existiendo en muchas oficinas y tener un acceso más rápido y ágil a las facturas gestionadas. Ahora bien, no solo se trata de digitalizar:  recepcionar, procesar, validar y contabilizar correctamente dichas facturas es verdaderamente la tarea fundamental.
+Llegados a este punto, contamos con dos vertientes que van a parar a un mismo lugar.
+Por un lado, disponemos de los llamados sistemas OCR (Optical Character Recognition/Reconocimiento óptico de caracteres), capaces de convertir textos a mano o impresos a formatos digitales.
+Supongamos que recibimos cada semana decenas de facturas de proveedores y tenemos no solo que gestionarlas, sino que, algo igual de importante, conservar esos documentos en papel durante un tiempo determinado. Esta tecnología permite algo tan sencillo como escanear la factura con el propio teléfono móvil y, de este modo, pasaríamos a tener un documento digital procesable y en formato editable.
+Como decía, el OCR suele ser parte de otras soluciones de inteligencia artificial y no es raro encontrarlo de la mano de otra tecnología que cada vez gana más adeptos como es el IDP (Procesado Inteligente de documentos). Esta herramienta no sirve únicamente para facturas, sino que podemos utilizarla para cualquier proceso con documentos de por medio.
+Por otro lado, y a diferencia del OCR, que suele trabajar más bien con datos estructurados, los sistemas IDP pueden manejar datos semiestructurados que incluyen formatos más complejos, como pueden ser facturas con imágenes o con diferentes diseños.
+Los sistemas IDP son realmente interesantes, puesto que, mediante la Inteligencia Artificial que yace bajo su capa son capaces de extraer la información clave y los datos relevantes de los documentos, clasificarla y pasarla al siguiente proceso definido de forma mucho más rápida y eficiente que mediante los medios tradicionales. Si se está hablando tanto ahora de los sistemas IDP es por la potencialidad de lo ya expuesto: no solo convierten texto en formato digital, sino que están preparados para extraer los datos, clasificarlos e integrarlos allí donde sea necesario.
+En definitiva, la inteligencia artificial, como no podía ser de otro modo, está expandiendo su ámbito de actuación en la facturación y lo que es aún más importante, posee un gran margen de recorrido para mejorar todos los procesos relacionados con la misma.
+Su utilización en la gestión de facturas aporta numerosas ventajas; desde una reducción considerable en tiempo de procesamiento, a la posible detección de posibles fraudes o la toma de decisiones más ágiles y precisas, lo que finalmente debe redundar en una mejor experiencia de cliente, que, a fin de cuentas, es lo que verdaderamente importa.
+En Telefónica, la IA es un apoyo a las tareas de los empleados, bajo su supervisión.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

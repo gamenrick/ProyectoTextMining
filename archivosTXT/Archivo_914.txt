@@ -1,0 +1,75 @@
+Brecha digital: "Los países que inviertan en IA van a desarrollar las tecnologías del mañana" - Unidiversidad
+Unidiversidad
+com.ar
+
+
+
+                                                01 DE DICIEMBRE DE 2024                                            
+
+        Así lo sostuvo Jorge Núñez McLeod, docente de la cátedra de Investigación Operativa de la Facultad de Ingeniería de la UNCUYO. Aseguró que no hay que perder la “carrera” frente al desarrollo de inteligencia artificial y que se debe enfatizar en la creación de IA propias.
+    
+
+        Jorge Núñez McLeod, docente de la cátedra de Investigación Operativa de la Facultad de Ingeniería de la UNCUYO / Foto: Unidiversidad    
+
+Sociedad
+
+
+Inteligencia artificial en todos lados
+
+
+Unidiversidad
+
+Emilio Murgo
+Publicado el 14 DE SEPTIEMBRE DE 2023
+La inteligencia artificial (IA) está transformando la sociedad a un ritmo acelerado, pero esa transformación también está generando un nuevo modo de brecha digital que puede tener consecuencias significativas para el desarrollo de los países y sus comunidades. Las personas que no tienen acceso a la inteligencia artificial pueden perder oportunidades de empleo, educación y servicios, pero también existe la posibilidad de que las empresas, las instituciones científicas y las industrias pierdan una gran oportunidad de posicionarse en el mercado tecnológico que hoy el mundo está requiriendo. 
+Desde Unidiversidad dialogamos con Jorge Núñez McLeod, docente de la cátedra Investigación Operativa de la carrera de Ingeniería de la UNCUYO, para conocer los motivos por los cuales se hace difícil invertir en inteligencia artificial en Argentina, pero también por qué sería importante intentarlo. El especialista enfatizó que quienes tengan las inteligencias artificiales de su lado serán los países que desarrollarán las tecnologías del mañana y del futuro cercano.
+“La inteligencia artificial generativa tiene limitaciones en nuestro país que tienen que ver con lo presupuestario y con la adquisición de hardware específico. En la actualidad, se cuenta con plataformas y software gratuito para programar; lo que debemos hacer con él es entrenarlo, pero, además de ello, tenemos que ‘alimentarlo’ con información, lo que va a llevar un determinado tiempo para procesar toda esa información”, explicó.
+Para que nos hagamos una idea, si una persona tuviera que comprar la computadora necesaria para alimentar básicamente a una IA, necesitaría un equipo de al menos 8 GPU (tarjetas gráficas muy potentes) para que funcione en un mismo ordenador. En este caso, su valor alcanzaría los 100 mil dólares. Ahora bien, si nosotros entendemos que la construcción de ChatGPT (por poner un ejemplo) se realizó con “megacomputadoras” que tenían a su disposición 20 mil GPU para trabajar, nos damos cuenta de que el financiamiento nuestro y la brecha que se produce son un gran problema.
+“Para poner en contexto y graficarlo aún más, debemos entender que el desarrollo de ChatGPT (por parte de OpenAI) se realizó con 20 mil GPU aportadas por la empresa Microsoft. Este entrenamiento constó de millones de bases de datos basadas en libros, toda la Wikipedia y de todo lo publicado en internet, lo que le llevó a la empresa un entrenamiento total de dos años. Si nosotros, con nuestra computadora de tan solo 8 GPU, quisiéramos hacer lo mismo, tardaríamos alrededor de 5000 años, lo que es algo inviable”, destacó el ingeniero.
+Es así como la realidad marca que la barrera tecnológica que se ha ido creado es enorme y queda claramente definida por Estados Unidos, ya que es el país que maneja la existencia de esta brecha y la piensa utilizar. Por ejemplo, ha prohibido la exportación de todas estas GPU a países como China, Rusia o cualquier aliado de ellos. Su argumento es que no les tiene la suficiente confianza por el tipo de contenido que puedan llegar a desarrollar. En este caso, Núñez McLeod dijo que esta situación nos pone en un problema porque no es fácil conseguir estas GPU, pero más aún porque obtenerlas implica un gran presupuesto.
+“No obstante, esto no nos tiene que llevar a la inmovilidad. No podemos decir: '¡Ah, bueno, ya está, ya perdimos la carrera de la inteligencia artificial!', sino, por el contrario, tenemos que ver, como científicos, como investigadores y como sociedad, la posibilidad de desarrollar las alternativas que tenemos al alcance para que nuestro país tenga una posibilidad de desarrollo, porque quienes tengan las inteligencias artificiales de su lado serán los países que desarrollarán las tecnologías del mañana y del futuro cercano, mientras que todos los demás van a ser usuarios y clientes de esos productos”, expresó Núñez McLeod.
+
+En una era impulsada por la tecnología, la inteligencia artificial se ha convertido en una herramienta poderosa y ubicua que influye en múltiples aspectos de la sociedad. Aunque promete revolucionar industrias y mejorar la vida cotidiana, también está generando una creciente brecha digital. Esta brecha no se refiere solo a la falta de acceso a la tecnología, como lo hacía en el pasado, sino también a la disparidad en la comprensión y el control de la IA.
+“Uno de los casos más evidentes que produce una brecha digital es cuando una persona que trabajaba en una empresa, cualquiera sea ella, se jubila. Por lo general, ese conocimiento de tanto tiempo termina yéndose con la persona y no queda implícito en ningún lado. La nueva persona que toma el puesto tardará mucho tiempo en adaptarse y retomar todo lo aprendido por su antecesor, y ese costo de tiempo se traduce en un costo monetario”, expresó el docente.
+Por otro lado, el docente de la Facultad de Ingeniería remarcó: “Este es uno de los ejemplos más claros a la hora de entender por qué las inteligencias artificiales son necesarias en cualquier tipo de empresa, organización o institución. Lo que se necesita es una inteligencia artificial a la que uno le pueda dar toda la información necesaria para que, de esta forma, los nuevos trabajadores puedan consultar y solucionar algunos de los problemas que se les planteen y que ya fueron resueltos con anterioridad”.
+
+Jorge Núñez McLeod es docente de la cátedra de Investigación Operativa de la Facultad de Ingeniería de la UNCUYO. Foto Unidiversidad
+Para el docente de la UNCUYO, Argentina debe resolver prontamente y a corto plazo, porque no hay tiempo que perder, una inversión constante para la implementación de la inteligencia artificial en sus empresas y entidades. Sostuvo que este tren de la IA arrancó en el 2017 y, en apenas cinco años, ya aparecieron inteligencias artificiales generativas con una potencia descomunal. “Los países desarrollados tienen la infraestructura para seguir adelante con todo esto y están trabajando en estas IA, por lo que nosotros no podemos quedarnos mirando a ver si lo vamos a resolver en algún futuro, ya que en cinco o diez años, el mundo va a ser algo muy distinto. Pensemos cómo revolucionó la inteligencia artificial toda nuestra vida en meses y todo lo que puede llegar a cambiar de cara a un futuro muy cercano”.
+“Para ello, las empresas y el Estado deberían darse cuenta de que ganarían mucho más si aportaran a uno de estos desarrollos, y no me refiero a empresas que sean simplemente de alta tecnología –en el sentido técnico– como, por ejemplo, Impsa o Invap, me refiero a industrias que están compitiendo en mercados internacionales. A nosotros, en la provincia, nos toca muy de cerca la industria vitivinícola. Aquí también la inteligencia artificial puede realizar un apalancamiento para poder ganar mercados y así encontrar las brechas por las cuales ingresar en sectores que hasta el momento han sido esquivos”, continuó Núñez McLeod.
+El docente solicitó no perder la “carrera” frente al desarrollo de inteligencia artificial y enfatizar en el desarrollo de IA propias. Foto: Unidiversidad
+Las formas de realizar una investigación en la ciencia han cambiado a lo largo de las décadas. El especialista indicó que hace 50 años se tenía a un único investigador o investigadora trabajando y estudiando un tema por muchos años. Más tarde en el tiempo, se pasó a un grupo de investigadores, en el que hay un investigador o investigadora principal y después, alrededor, está el resto de los investigadores tesistas, becarios, etcétera. Entre todos dirigen la información que les llega y desarrollan el problema; pero, hoy en día, la cantidad de información que se genera supera largamente a la capacidad que ese grupo puede absorber, por lo que les toma mucho tiempo. Eso lleva a tener que aprender, leer e investigar durante muchos meses.
+El docente analizó que sería distinto si de nuestro lado existiera una inteligencia artificial que leyera por día toda la información que se generó en cuanto a ese tema de investigación específico; se le preguntara y ella respondiera a las necesidades concretas con todo el conocimiento que se creó durante su entrenamiento.
+Es allí donde Núñez McLeod afirma que aparece esta figura del "apalancamiento de la investigación". “Nosotros, como país, debemos tener la capacidad de desarrollar y entrenar una herramienta de inteligencia artificial propia. Lo que estamos haciendo nosotros ahora con nuestro trabajo de investigación es desarrollar y ver los límites necesarios del marco de información para alimentar una inteligencia artificial que pueda dar soporte en el área de Ciencia y Técnica, en el ámbito universitario, a nivel de investigación del Conicet o a nivel de cualquier tipo de empresa, no solo las de ámbito tecnológico. El problema acá no pasa por el conocimiento que nosotros tengamos, sino que viene del financiamiento necesario para poder conseguir el desarrollo y el entrenamiento de una propia IA”.
+brecha digital, inteligencia artificial, ia,
+
+Sociedad
+
+Así lo expresó Carlos Damin, toxicólogo y director del Hospital Fernández, durante el Congreso de ...
+
+                        29 DE NOVIEMBRE DE 2024                    
+
+Sociedad
+
+Los dos referentes del teatro de humor y la improvisación interpretan a una pareja empeñada en ...
+
+                        29 DE NOVIEMBRE DE 2024                    
+
+Sociedad
+
+Enterate de todo en esta nota a Guadalupe de la Iglesia, investigadora del CONICET en la Universida ...
+
+                        29 DE NOVIEMBRE DE 2024                    
+
+                    Unidiversidad
+                
+
+                    El sistema de medios de la UNCUYO
+                
+
+            Copyright 2021 Unidiversidad. Todos los derechos reservados
+        
+
+            2024-12-01 16:02:19
+            
+                | Login |
+            

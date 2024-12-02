@@ -1,0 +1,54 @@
+La Inteligencia Artificial desde las miradas de Harari y Kurzweil
+Autor desconocido
+com.mx
+
+
+Yuval Noah Harari, destacado historiador israelita, autor de best sellers, ha sido etiquetado como “la voz más influyente del siglo XXI”. Sin embargo, debemos tener presente que algunas de las principales predicciones del afamado profesor de la Universidad de Jerusalen no precisamente se han cumplido. 
+En el libro Homo Deus. Breve historia del mañana, Noah Harari anticipó un promisorio futuro para la humanidad, destacado el inminente fin de las epidemias y la eliminación de las guerras. 
+Sin embargo, pocos años después, la irrupción de una furiosa pandemia había azotado a la población mundial exhibiendo la fragilidad de la raza humana. 
+Para colmo, en años recientes la invasión de Ucrania a cargo del ejército ruso y el delicado conflicto en Medio Oriente han mantenido en vilo a la humanidad. Por ningún motivo podríamos descartar la posibilidad de que los referidos eventos detonen una gran guerra.
+A diferencia de los fallidos pronósticos de Harari, Kurzweil, el jefe de ingeniería en Google, quien propuso la ley de los rendimientos acelerados, ha acertado a más del 95 por ciento de sus predicciones.
+Los recientes libros de Yuval Noah Harari —Nexus. Una breve historia de las redes de información desde la Edad de Piedra a la IA—, y de Ray Kurweil -The singularity is nearer, centran su atención en el formidable despliegue de la inteligencia artificial (IA). 
+Si bien Noah Harari suele acaparar los reflectores, la autorizada voz de Kurzweil se fundamenta en fuentes primarias. Por esa razón Bill Gates considera a Kurzweil como la persona mejor informada en el mundo en materia de predicciones sobre el futuro de la IA.
+El título del reciente libro de Yuval Noah Harari, historiador israelí de origen judeopolaco es Nexus. Una breve historia de las redes de información desde la Edad de Piedra a la IA.
+Noah Harari es un exitoso autor de best sellers. De su primer libro —Sapiens. De animales a dioses— (2011) fueron vendidos 25 millones de ejemplares. 
+Sobre el reciente libro de Noah Harari, en un interesante artículo publicado en The New York Times en español, Denis Duncan refiere que el libro en cuestión en realidad representa dos libros separados. 
+En la primera parte, la cual comprende las primeras 200 páginas, Noah Harari ofrece al lector un interesante y detallado compendio histórico, el cual comprende desde las tablillas de arcilla asirias a un brote de cólera registrado en el siglo XIX.
+En la segunda parte del libro, Noah Harari centra su atención en el desarrollo de la inteligencia artificial (IA), confiriendo particular énfasis al reconocimiento de los posibles riesgos en puerta.
+Harari recupera algunas de las objeciones que han venido expresando un destacado grupo de científicos y líderes en la industria de la tecnología avanzada como Blake Lemoine, The Future of Life Institute, y Geoffrey Hinton —entre otros—, quienes ante el acelerado desarrollo de la IA generativa (IAG) han recomendado proceder con mayor cautela. 
+Blake Lemoine, un ingeniero especialista en IA fue despedido de Google en julio de 2022 por las declaraciones que realizó a The Washington Post en una entrevista, en la cual afirmó que LaMDA, el sistema de construcción de chatbots de Google —Language Model for Dialogue Applications— había alcanzado la sintiencia —la capacidad de sentir en los seres vivos. 
+En la mencionada entrevista, Lemoine afirmó que el modelo de lenguaje “había cobrado vida” y era capaz de sostener conversaciones como si se tratara de una persona.
+Ante la eventual posibilidad de alcanzar la superinteligencia artificial en poco tiempo, decenas de expertos en IA, Steve Wosniak y Elon Musk estamparon sus firmas en una carta abierta —Pause Giant AI Experiments, an Open Letter— que fue presentada por el Future of Life Institute en marzo de 2023: “Hacemos un llamamiento a todos los laboratorios de IA para que suspendan inmediatamente durante al menos 6 meses el entrenamiento de sistemas de IA más potentes que GPT-4”. 
+Geoffrey Hinton, quien es considerado como el “padrino de la inteligencia artificial”, renunció a su puesto en Google preocupado por el impacto negativo que podría admitir el uso de la IA, como declaró a The New York Times. 
+Harari se ha sumado a las preocupaciones vertidas por el referido grupo de expertos y reconoce que la IA transformará radicalmente la cultura en nuestras sociedades.
+En su reciente libro Noah Harari involuntariamente parece razonar como un “medioecologista”, al reconocer el impacto cultural que han observado determinadas tecnologías a través de la historia
+La Ecología de los Medios —Media Ecology— es una compleja metadisciplina que se ocupa de estudiar los efectos de los cambios que producen los medios de comunicación en el hombre y en las sociedades a través de la historia, determinando en gran medida los principales aspectos en los ambientes culturales. Entre sus principales referentes teóricos destacan Marshall McLuhan (1911-1980) y Neil Postman (1931-2003).
+Noah Harari además repara en la importancia de la información —sin reconocer la relevancia que admite la teoría matemática de la información, de Claude Shannon— para establecer que, la diferencia entre las democracias y las dictaduras radica en la forma cómo gestionan la información. 
+Sin embargo, a pesar de la importancia que Noah Harari concede a la información, desiste de la posibilidad de articular una teoría de la información en el plano del acontecer histórico. 
+El reciente libro de Ray Kurzweil, jefe de ingeniería en Google —The singularity is nearer. When we emerge with AI— (en castellano: La singularidad está más cerca. Cuando emerjamos con la IA), admite ser considerado como una confirmación y una continuación del libro The singularity is near (2005) —en castellano: La singularidad está cerca—.
+En el libro La singularidad está cerca, Kurzweil estimó que podríamos alcanzar la singularidad tecnológica a mediados de la década de 2040. En 2005, tal afirmación fue objeto de un gran número de cuestionamientos.
+Sin embargo, gracias a modelos de lenguaje como ChatGPT y Gemini ahora es posible traducir las instrucciones del lenguaje humano a códigos computacionales, situación que en gran medida ha contribuido a disipar las fronteras entre los humanos y las máquinas, sostiene Kurzweil. 
+Resulta pues factible considerar la posibilidad de conectar directamente nuestro cerebro con las computadoras. Los recién nacidos vivirán en un mundo en el cual la singularidad tecnológica será una realidad.
+Kurzweil, quien también suele razonar como medioecologista, identifica seis grandes eras. 
+La primera comprende el desarrollo de las leyes de la química y la física, cientos de miles de años después del big bang. 
+La segunda dio inicio cuando los átomos formaron las primeras moléculas, lo cual implicó complejos intercambios de información. Gracias a tales procesos la vida fue posible en el universo.
+En la tercera época, algunos animales desarrollaron sus cerebros y desplegaron la capacidad de procesar información
+En la cuarta época, los animales fueron capaces de convertir pensamientos en acciones complejas, y los seres humanos crearon tecnología para almacenar y acumular información. 
+En la quinta época fusionaremos directamente la cognición biológica humana con la velocidad y la potencia de la tecnología digital.
+En la sexta época nuestra inteligencia podrá extenderse por el universo, convirtiendo la materia ordinaria en computronio, que es la materia organizada con la máxima densidad de cálculo.
+En la década de 2030 podremos conectar nuestros neocórtex a la nube, situación que nos permitirá extender significativamente las capacidades de nuestro pensamiento.
+Kurzwreil sostiene que nos encontramos en el fin de la cuarta época y transitaremos a la quinta cuando efectivamente consigamos superar la prueba de Turing. 
+Kurzweil considera que no debemos comprender a la IA como nuestro competidor sino como una extensión de nosotros.
+Noah Harari, Kurzweil y la inteligencia artificial sencillamente confirman la pertinencia de las tesis formuladas por Marshall McLuhan en la década de 1960.
+En 1964, en las primeras líneas del libro Comprender a los medios de comunicación. Las extensiones del hombre, el profesor Marshall McLuhan afirmó:
+“Tras tres mil años de explosión, mediante tecnologías mecánicas y fragmentarias, el mundo occidental ha entrado en implosión. En las edades mecánicas extendimos nuestro cuerpo en el espacio. Hoy, tras más de un siglo de tecnología eléctrica hemos extendido nuestro sistema nervioso central hasta abarcar todo el globo, aboliendo tiempo y espacio, al menos en cuanto a este planeta se refiere. Nos estamos acercando rápidamente a la fase final de las extensiones del hombre: la simulación técnica de la conciencia, por la cual. Los procesos creativos del conocimiento se extenderán colectiva y corporativamente al conjunto de la sociedad humana, de un modo muy parecido a como ya hemos extendido nuestros sentidos y nervios con los diversos medios de comunicación". 
+Leer también: 
+
+
+MIOCARDIO
+GRAN ANGULAR
+Arnoldo Kraus
+AGENDA CIUDADANA
+LA MINISTRA DEL PUEBLO
+Miembro del Grupo de Diarios de América
+Copyright © Todos los derechos reservados | EL UNIVERSAL, Compañía Periodística Nacional. De no existir previa autorización, queda expresamente prohibida la Publicación, retransmisión, edición y cualquier otro uso de los contenidos

@@ -1,0 +1,954 @@
+Técnicas y aplicaciones del Machine Learning e Inteligencia Artificial en educación: una revisión sistemática
+Wiston Forero-Corba
+redalyc.org
+
+Estudios e Investigaciones
+Técnicas y aplicaciones del Machine Learning e Inteligencia Artificial en educación: una revisión sistemática
+Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review
+Técnicas y aplicaciones del Machine Learning e Inteligencia Artificial en educación: una revisión sistemática
+
+RIED-Revista Iberoamericana de Educación a Distancia, vol.  27, núm.  1, 2024
+
+Asociación Iberoamericana de Educación Superior a Distancia
+
+Recepción:  01 Junio  2023
+
+Aprobación:  12 Septiembre  2023
+
+Publicación:  01 Enero  2024
+
+DOI: https://doi.org/10.5944/ried.27.1.37491
+
+
+Resumen:
+							                           El Machine Learning es un campo de la inteligencia artificial que está impactando últimamente en todas las áreas del conocimiento. Las áreas de las ciencias sociales, en especial la educación, no es ajena a ella, por tanto, se realiza una revisión sistemática de la literatura sobre aquellas técnicas y aplicaciones del Machine Learning e inteligencia artificial en Educación. La falta de conocimientos y habilidades de los educadores en Machine Learning e inteligencia artificial limita la implementación óptima de estas tecnologías en la educación. El objetivo de este trabajo es identificar las oportunidades de mejora de los procesos de enseñanza-aprendizaje y la gestión educativa en todos los niveles del contexto educativo a través de la aplicación de Machine Learning e inteligencia artificial. Las bases de datos utilizadas para la búsqueda bibliográfica fueron Web of Science y Scopus, la metodología aplicada se basó en la declaración PRISMA para la obtención y análisis de 55 artículos publicados en revistas de alto impacto entre los años 2021 y 2023. Los resultados mostraron que los estudios trataron un total de 33 técnicas de Machine Learning e inteligencia artificial y múltiples aplicaciones que fueron implementadas en contextos educativos en niveles de educación primaria, secundaria y superior en 38 países. Las conclusiones mostraron el fuerte impacto que tiene el uso de Machine Learning e inteligencia artificial. Este impacto se ve reflejado en el uso de diferentes técnicas inteligentes en contextos educativos y el aumento de investigaciones en escuelas de secundaria sobre inteligencia artificial.
+
+
+Palabras clave: machine learning, inteligencia artificial, innovación educativa, tecnología emergente, revolución educativa.
+		                         
+
+Abstract:
+						                           Machine learning is a field of artificial intelligence that is impacting lately in all areas of knowledge. The areas of social sciences, especially education, are no stranger to it, so, a systematic review of the literature on the techniques and applications of machine learning and artificial intelligence in Education is performed. The lack of knowledge and skills of educators in machine learning and artificial intelligence limits the optimal implementation of these technologies in education. The objective of this research is to identify opportunities for improving teaching-learning processes and educational management at all levels of the educational context through the application of machine learning and artificial intelligence. The databases used for the bibliographic search were Web of Science and Scopus and the methodology applied is based on the PRISMA statement for obtaining and analyzing 55 articles published in high impact journals between the years 2021-2023. The results showed that the studies addressed a total of 33 machine learning and artificial intelligence techniques and multiple applications that were implemented in educational contexts at primary, secondary and higher education levels in 38 countries. The conclusions showed the strong impact of the use of machine learning and artificial intelligence. This impact is reflected in the use of different intelligent techniques in educational contexts and the increase of research in secondary schools on artificial intelligence.
+
+
+Keywords: machine learning, artificial intelligence, educational innovation, emerging technology, educational revolution.
+                                
+
+INTRODUCCIÓN
+
+
+Machine Learning (ML), también conocido como aprendizaje automático o aprendizaje de máquina, es una rama de la inteligencia artificial (IA) que ha tenido un incremento exponencial en los últimos años. La comunidad científica está prestando cada vez más atención a las herramientas educativas enriquecidas con tecnología inteligente, ya que tienen el potencial de revolucionar los procesos de enseñanza-aprendizaje.
+Actualmente, se destacan las investigaciones de ML aplicada a la educación en temáticas tales como percepción docente (Salas Rueda et al., 2022), percepción estudiantil (Demir y Güraksın, 2022), rendimiento académico (Ahajjam et al., 2022), deserción escolar (Alvarado Uribe et al., 2022), pensamiento computacional (Almeida Pereira Abar et al., 2021), entre otras, que muestran en sus resultados, la implicación que tiene el uso de técnicas inteligentes en la soluciones de problemas complejos del sector educativo.
+Diferentes tipos de investigaciones han sido recopiladas en revisiones sistemáticas sobre IA (Zawacki-Richter et al., 2019; Zhai et al., 2021; Salas-Pilco y Yang, 2022; Su et al., 2022) y revisiones sistemáticas sobre ML (Sasmita y Mulyanti, 2020; Luan y Tsai, 2021; Mittal et al., 2022). Las revisiones sobre IA se han centrado principalmente en el sector universitario, con la excepción de Su et al. (2022) que hace su estudio tomando los niveles de primaria y secundaria. Las revisiones sobre ML han identificado palabras clave comunes en las investigaciones, como predicción, identificación, rendimiento y recomendación; asimismo, han descrito el tipo de algoritmos o técnicas inteligentes utilizadas. A pesar de que estas revisiones sistemáticas se hayan realizado durante o después de la pandemia, tan solo el estudio de Mittal et al. (2022) ha abordado el COVID-19.
+En el ámbito educativo, la diferencia entre ML e IA no siempre está clara, a pesar de que ambos campos se centran en aplicar el concepto de predicción. El ML se centra en que los sistemas aprendan de los datos (Luan y Tsai, 2021), mientras que la IA permite que los sistemas realicen tareas de forma autónoma (Zhai et al., 2021). No obstante, nuestra revisión sistemática parte de analizar estudios tanto de IA como de ML aplicados al sector educativo por las siguientes razones: La IA y el ML tienen como objetivo crear sistemas que puedan ejecutar tareas que normalmente se consideran propias de los seres humanos, ambos campos utilizan técnicas matemáticas y estadísticas para analizar y procesar datos, tienen un gran potencial para revolucionar la forma en que interactuamos con el mundo, y finalmente, el período de 2021 a febrero de 2023 ha experimentado un crecimiento exponencial de las investigaciones relacionada con esta temática.
+En los últimos años, ML ha proporcionado diferentes técnicas o algoritmos para predecir situaciones de acuerdo con grandes cantidades de información que, a través de un buen procesamiento y filtrado de datos, pueden generar predicciones muy efectivas. Distintos autores han desarrollado algoritmos de ML para ayudar a los educadores (Duzhin y Gustafsson, 2018; Yu et al., 2022), lo que ha permitido que estas técnicas inteligentes se apliquen al sector educativo y sean de apoyo para combatir aquellos problemas dinámicos que aquejan todo tipo de contextos.
+La IA en las escuelas ofrece múltiples posibilidades a directivos, docentes y estudiantes. Un ejemplo es ChatGPT, la última versión, GPT-4, está integrada en softwares como Microsoft Office, Edge . Bing, optimizando tareas educativas. La IA y el ML se han orientado hacia tareas educativas (Zafari et al., 2021), lo que destaca la necesidad de fortalecer la competencia digital docente (CDD).
+Continuamente, las investigaciones en el sector educativo buscan cerrar brechas educativas, y el ML e IA emergen como un medio alternativo para lograr óptimos resultados. Un estudio de robótica con técnicas inteligentes pretende cerrar la brecha entre la robótica educativa y la profesional mediante la introducción de técnicas de ML donde las diferencias de acceso, trayectoria, progreso y resultados educativos sean mejores para los estudiantes (Dietz et al., 2022). Además de las investigaciones en educación, el avance tecnológico es un factor importante para la brecha educativa. El desarrollo tecnológico ha abierto la brecha a retos en la comprensión del uso, la aplicación y el funcionamiento interno de tecnologías, especialmente las tecnologías emergentes como la IA y el ML (Temitayo et al., 2022), lo que indica su importancia como tecnología emergente a partir de su correcto uso y aplicación para beneficio de una educación digna y de calidad.
+Los actuales planes de estudio son constantemente actualizados, en este sentido, el desarrollo curricular, para dar respuesta a las demandas que impone la sociedad del conocimiento, debe llevar a cabo, la inclusión de temáticas y la realización de algunas actividades basadas en el ML e AI en todos los niveles escolares, permitiendo dinamizar los procesos de enseñanza-aprendizaje. No obstante, la complejidad y la dinámica de la enseñanza de la IA ponen de manifiesto la necesidad de un examen detallado del proceso de elaboración de planes de estudios en un contexto determinado (Dai et al., 2022), mostrando la relevancia de evaluar planes de estudio en todas las áreas de enseñanza y cómo enfocarlas de acuerdo al contexto.
+Los procesos educativos junto con estas técnicas y herramientas inteligentes aplicadas dentro y fuera del aula, han llevado a que se trate con moderación su implementación debido a las consideraciones éticas que ello implica (Bogina et al., 2022). Tanto así, que los docentes deben capacitarse y estar actualizados para hacer frente a los procesos de enseñanza, mejorando competencias como las comunicativas, investigativas, pedagógicas, tecnológicas, de gestión, entre otras. Tal como lo refiere la UNESCO (2019) en el Consejo de Beijing sobre la IA y la educación, los sectores educativos deben afrontar la integración de la CDD sobre IA en los marcos de competencias TIC, para apoyar en la formación del personal docente en entornos educativos con fuerte presencia de la IA.
+La inclusión del ML en la educación ha hecho que la transformación digital sea de gran provecho para todos los actores educativos, generando que el sistema educativo sea más cómodo tanto para los profesores como para los alumnos (Nafea, 2018), No obstante, también sería de gran provecho para directivos docentes y familiares, quienes son un importante referente de cualquier comunidad educativa y están estrechamente relacionados en los beneficios que estas nuevas tecnologías puedan generar.
+La actualización profesional de los docentes en IA y ML es un reto para las instituciones educativas. Para que la transformación digital en las aulas sea una realidad, los profesores deben estar preparados para adaptar la tecnología a sus prácticas docentes (Almeida Pereira Abar et al., 2021), lo que requiere sólidos conocimientos en estas áreas. La falta de estos conocimientos limita la implementación óptima de las tecnologías de IA y ML en la educación. Por ello, los directivos docentes deben asumir el desafío de liderar la actualización de la CDD.
+El objetivo de este trabajo es identificar las oportunidades de mejora de los procesos de enseñanza-aprendizaje y la gestión educativa en todos los niveles del contexto educativo a través de la aplicación de Machine Learning e inteligencia artificial.
+A partir de todo ello, en este trabajo se responde a las siguientes preguntas de investigación (PI):
+
+
+
+
+PI1: ¿A qué niveles educativos se han hecho estudios de ML o IA en educación?
+
+
+PI2: ¿En qué países se ha realizado investigación de ML o IA en Educación y cuál de ellos tiene mayor influencia?
+
+
+PI3: ¿Cuáles son los temas clave y las palabras más frecuentes en los estudios?
+
+
+PI4: ¿Qué técnicas de ML se han utilizado en las investigaciones?
+
+
+PI5: ¿Cuáles fueron los resultados de la implementación del ML o IA como tecnología emergente en la educación?
+
+
+
+PI1: ¿A qué niveles educativos se han hecho estudios de ML o IA en educación?
+PI2: ¿En qué países se ha realizado investigación de ML o IA en Educación y cuál de ellos tiene mayor influencia?
+PI3: ¿Cuáles son los temas clave y las palabras más frecuentes en los estudios?
+PI4: ¿Qué técnicas de ML se han utilizado en las investigaciones?
+PI5: ¿Cuáles fueron los resultados de la implementación del ML o IA como tecnología emergente en la educación?
+
+METODOLOGÍA
+
+La metodología considerada adecuada para averiguar el estado actual de todo tipo de investigaciones es la revisión sistemática (Marín, 2022), siguiendo el protocolo PRISMA 2020 (Yepes-Nuñez et al., 2021). Se aplica la ecuación de búsqueda (Tabla 1) para la obtención de los estudios en las bases de datos Web of Science (WoS) y Scopus. De los criterios de inclusión y exclusión para el filtrado y acotamiento de estudios aplicados (Tabla 2), se pudo obtener sistemáticamente un grupo de 55 artículos (Tabla 3).
+En la Tabla 1, se presenta la ecuación de búsqueda de acuerdo con la temática, enfoque educativo, contexto y nivel. Para la búsqueda documental en ambas bases de datos se aplica dicha ecuación en los campos de título, resumen y palabras clave. En WoS se aplica “TS” a la fórmula equivalente (title, abstract, and key words) y en Scopus, el equivalente a “TITLE-ABS- KEY”. El diseño de los términos de búsqueda, así como los criterios de inclusión y exclusión (Figura 1) se basan en las recomendaciones de Zawacki-Richter et al. (2020) para revisiones sistemáticas enfocadas a la investigación educativa, así como las indicaciones de Marín (2022) para la investigación en tecnología educativa.
+La fórmula de búsqueda fue la siguiente:
+
+
+
+Tabla 1
+
+
+Ecuación de búsqueda
+
+
+
+
+
+TópicoTérminos buscados
+
+
+Temática(“machine learning”) OR (“artificial intelligence”)
+
+
+Enfoque educativo(“education”) OR (“teach*”) OR (“tutor*”) OR (“educational*”) OR (“pedagog*”) 
+
+
+Contexto(“school*”) OR (“universit*”)
+
+
+Nivel(“kindergarten”) OR (“elementary school*”) OR (“primary school*”) OR (“middle school*”) OR (“secundary school*”) OR (“Bachelor*”) OR (“high* school*”) OR (“master*”) OR (“doctora*”)
+
+
+
+
+Fuente: elaboración propia.
+
+
+Los criterios de inclusión y exclusión son los siguientes:
+
+
+
+Tabla 2
+
+
+Criterios de inclusión y exclusión
+
+
+
+
+
+Criterio de inclusiónCriterio de exclusión
+
+
+Publicadas entre 2021 a febrero de 2023Publicadas antes del 2021
+
+
+InglésDiferente a inglés
+
+
+Indexada en Web of Science o ScopusNo indexada en Web of Science o Scopus
+
+
+Publicaciones relacionadas con educaciónPublicaciones no relacionadas con educación
+
+
+No revisiones sistemáticasRevisiones sistemáticas
+
+
+Acceso abiertoNo ser de acceso abierto
+
+
+
+
+Fuente: elaboración propia.
+
+
+Teniendo en cuenta la Tabla 2, los estudios se tomaron entre 2021 y 2023 para reflejar los últimos avances en el conocimiento científico. Estas investigaciones se hicieron durante y después de la pandemia. En las revisiones sistemáticas previas (Sasmita y Mulyanti, 2020; Su et al., 2022), la selección de estudios se limitó al idioma inglés. Esto se debe a que la mayoría de las revistas de alto impacto publican sus artículos en este idioma, es por ello, que seleccionamos estudios en inglés para nuestra revisión. Esto permitió obtener estudios relevantes para nuestra investigación. Las bases de datos se limitan a WoS y Scopus ya que son valoradas como las dos herramientas bibliométricas más relevantes, siendo consideradas las dos bases de datos de artículos académicos que lideran el ranking mundial (Zhu y Liu, 2020), permitiendo identificar estudios de calidad. Para identificar las últimas investigaciones del área, seguir tendencias y relevancias de investigación, se utilizó la base de datos Core Collection de WoS.
+La Figura 1 muestra todo el procedimiento con todos los criterios de inclusión y exclusión.
+
+
+Figura 1
+Diagrama de Flujo PRISMA del estudio
+
+Fuente: elaboración propia.
+
+
+Los dos investigadores fueron participes del cribado, revisaron conjuntamente los estudios hasta los resultados. Para la revisión sistemática, se utilizó la herramienta Rayyan, que permitió codificar datos de año de publicación, nombre de la revista, países de autoría, muestra, metodología y resultados. La socialización de la muestra, metodología y resultados de cada estudio fue necesaria para unificar criterios y garantizar la calidad de la investigación.
+El análisis documental se realizó mediante estadística descriptiva y el análisis de contenido de forma sistemática. Se utilizó el software Orange Data Mining 3.35.0 para realizar la ubicación geográfica de los estudios, la nube de palabras con el que se analiza el top 20 de palabras más frecuentes en los trabajos completos seleccionados. Además, se utilizó VOSviewer 1.6.19 para realizar el mapa de red, Microsoft Excel para los gráficos estadísticos y app.diagrams.net para la clasificación de técnicas ML.
+
+RESULTADOS
+
+Los resultados de los 55 artículos que se exponen a continuación se obtuvieron de 45 revistas de alto impacto, como se muestra en la Figura 2. El número de revistas analizadas es un indicador de que el estudio fue exhaustivo, abarcando una amplia gama de perspectivas, tendencias y patrones existentes.
+
+
+Figura 2
+Revistas vs Número de estudios/revista
+
+Fuente: elaboración propia.
+
+
+Las revistas con mayor cantidad de estudios en la revisión son Applied Sciences y Education and Information Technologies con 3 artículos cada uno. La importancia de que haya 45 revistas diferentes de 55 en la revisión aumenta la probabilidad de que se incluya una gama más amplia de estudios y, por lo tanto, sea más representativa de la evidencia disponible.
+La Tabla 3 presenta los estudios seleccionados en esta revisión, especificando el título, temática central, contexto de aplicación, país o países en que se implementó la investigación, si abarcó el tema de COVID-19, nivel o niveles educativos en los que fue aplicado el estudio y el año de publicación. El criterio de orden de cada artículo está en función del nivel educativo, siendo el orden 1. (P: Primaria), 2. (P, S: Primaria, Secundaria), 3. (S: Secundaria), 4. (S, U: Secundaría, Universitaria), 5. (U: Universitaria).
+
+
+
+Tabla 3
+
+
+Estudios seleccionados
+
+
+
+
+
+NºTítuloTemática centralPaísCOVID 19Nivel EducativoAño
+
+
+1Automatic Detection of Gaze and Body Orientation in Elementary School ClassroomsOrientación de los docentes y estudiantes en claseChileNOP2021
+
+
+2Collaborative construction of artificial intelligence curriculum in primary schoolsCurrículo IAChinaSIP2022
+
+
+3Computational Thinking in Elementary School in the Age of Artificial Intelligence: Where is the Teacher?Pensamiento computacionalBrasil, Portugal, Cabo Verde y AngolaNOP2021
+
+
+4Identifying Functions and Behaviours of Social Robots for In-Class Learning Activities: Teachers’ PerspectiveRobótica socialCanadáNOP2022
+
+
+5Shyness prediction and language style model construction of elementary school studentsPredicción de la timidezChinaNOP2021
+
+
+6A machine learning approximation of the 2015 Portuguese high school student grades: A hybrid approachRendimiento académicoPortugalNOP, S2021
+
+
+7Sentiment analysis of arabic tweets regarding distance learning in saudi arabia during the covid-19 pandemicEducación a distanciaArabia SauditaSIP, S2021
+
+
+8“Alexa, Can I Program You?”: Student Perceptions of Conversational Artificial Intelligence Before and After Programming AlexaPercepción estudiantilEstados UnidosNOS2021
+
+
+9A Practical Model for the Evaluation of High School Student Performance Based on Machine LearningRendimiento académicoIránNOS2021
+
+
+10AI Curriculum for European High Schools: An Embedded Intelligence ApproachCurrículo IALituania, Finlandia, Eslovenia, Italia, EspañaNOS2022
+
+
+11An Education Tool at Supports Junior Learners in Studying Machine LearningEnseñanza de la IAJapónNOS2022
+
+
+12An Effective Decision-Making Support for Student Academic Path Selection using Machine LearningOrientación académicaBenínNOS2022
+
+
+13Artificial Intelligence and Machine Learning to Predict Student Performance during the COVID-19Rendimiento académicoMarruecosSIS2021
+
+
+14ARtonomous: Introducing Middle School Students to Reinforcement Learning Through Virtual RoboticsRobótica VirtualEstados UnidosSIS2022
+
+
+15Children as creators, thinkers and citizens in an AI-driven futureModelos generativosEstados UnidosNOP, S2021
+
+
+16Computer or teacher: Who predicts dropout best?Deserción escolarPaíses BajosNOS2022
+
+
+17Contextualizing AI Education for K‑12 Students to Enhance Their Learning of AI Literacy Through Culturally Responsive ApproachesCurrículo IAJapónSIP, S2021
+
+
+18Determining middle school students' perceptions of the concept of artificial intelligence: A metaphor analysisPercepción de la IATurquíaNOS2022
+
+
+19Early Introduction of AI in Spanish Middle Schools. A Motivational StudyCurrículo IAEspañaNOS2021
+
+
+20Exploring generative models with middle school studentsModelos generativosEstados UnidosNOS2021
+
+
+21Exploring teachers’ preconceptions of teaching machine learning in high school: A preliminary insight from AfricaEnseñanza del MLNigeria, Ghana, Tanzania, Kenia, Sudáfrica y NamibiaNOS2022
+
+
+22Formation of the Optimal Load of High School Students Using a Genetic Algorithm and a Neural NetworkEficiencia escolarRusiaNOS2021
+
+
+23From high school to postsecondary education, training, and employment: Predicting outcomes for young adults with autism spectrum disorderTEA en Educación con MLEstados UnidosNOS2022
+
+
+24Graph Neural Network for Senior High Student’s Grade PredictionRendimiento académicoChinaNOS2022
+
+
+25Identifying supportive student factors for mindset interventions: A two-model machine learning approachIntervención de mentalidadEstados UnidosNOS2021
+
+
+26Improvement and Optimization of Feature Selection Algorithm in Swarm Intelligence Algorithm Based on ComplexityEnseñanza de IAChinaNOS2021
+
+
+27Interdisciplinary K-12 Control Education in Biomedical and Public Health ApplicationsRealidad Virtual en saludEstados UnidosSIP, S2022
+
+
+28Learning Time Acceleration in Support Vector Regression: A Case Study in Educational Data MiningEficiencia computacionalBrasilNOS2021
+
+
+29Modeling English teachers’ behavioral intention to use artificial intelligence in middle schoolsEnseñanza de la IAChinaNOS2022
+
+
+30Nurturing diversity and inclusion in AI in Biomedicine through a virtual summer program for high school studentsEnseñanza IAEstados UnidosSIS2022
+
+
+31Predicting Students' Final Performance Using Artificial Neural NetworksRendimiento académicoMarruecosNOS2022
+
+
+32Prediction of differential performance between advanced placement exam scores and class grades using machine learningRendimiento académicoEstados UnidosNOS2022
+
+
+33Situation and Proposals for Implementing Artificial Intelligence-based Instructional Technology in Vietnamese Secondary SchoolsEnseñanza de la IAVietnamNOS2022
+
+
+34Stem education-career pathway for emerging forensic analytics: Innovative professional development in multimodal environmentsSTEM para análisis forenseEstados UnidosSIS2021
+
+
+35Teachers’ readiness and intention to teach artificial intelligence in schoolsEnseñanza de la IANigeriaNOS2022
+
+
+36Teaching Quantum Computing to High-School-Aged Youth: A Hands-On ApproachEnseñanza de la computa-ción cuánticaCanadá y Estados UnidosNOS2022
+
+
+37The application of artificial intelligence assistant to deep learning in teachers' teaching and students' learning processesProcesos de aprendizajeChinaNOS2022
+
+
+38The Effect of Design Classes Using Artificial Intelligence in the Era of COVID-19 on Social Responsibility of High School StudentsResponsabilidad socialCorea del SurSIS2022
+
+
+39Understanding the response to financial and non-financial incentives in education: Field experimental evidence using high-stakes assessmentsEconomíaInglaterraNOS2021
+
+
+40Urban-Rural Gradients Predict Educational Gaps: Evidence from a Machine Learning Approach Involving Academic Performance and Impervious Surfaces in EcuadorRendimiento académicoEcuadorNOS2021
+
+
+41Wearable Artificial Intelligence for Assessing Physical Activity in High School ChildrenActividad físicaQatarNOS2023
+
+
+42AI-Based Metaverse Technologies Advancement Impact on Higher educación LearnersMetaversoIndiaNOS, U2022
+
+
+43Erwhi Hedgehog: A New Learning Platform for Mobile RoboticsRobóticaItaliaNOS, U2021
+
+
+44Digital Transformation of Legal education: Problems, Risks and ProspectsMarco legal en Educación DigitalRusiaNOU2021
+
+
+45Educating Software and AI Stakeholders About Algorithmic Fairness, Accountability, Transparency and EthicsFATEIsrael y EspañaNOU2022
+
+
+46Evaluating the user’s experience, adaptivity and learning outcomes of a fuzzy-based intelligent tutoring system for computer programming for academic students in GreeceTutor inteligenteGreciaNOU2022
+
+
+47Evaluation of postgraduate academic performance using artificial intelligence modelsRendimiento académicoMalasiaNOU2022
+
+
+48Machine Learning in Clinical Psychology and Psychotherapy Education: A Mixed Methods Pilot Survey of Postgraduate Students at a Swiss UniversityML en educación clínicaSuizaSIU2021
+
+
+49Modeling deception: A case study of email phishingPhishingEstados UnidosNOU2021
+
+
+50Online English Teaching Based on Artificial Intelligence Internet Technology Embedded SystemEnseñanza de la IAChinaNOU2021
+
+
+51Predicting academic success of autistic students in higher educationAbandono escolar TEAPaíses BajosNOU2023
+
+
+52Student Dataset from Tecnológico de Monterrey in Mexico to Predict Dropout in Higher educaciónDeserción escolarMéxicoNOU2022
+
+
+53Teachers’ Opinion About Collaborative Virtual Walls and Massive Open Online Course During the COVID-19 PandemicPercepción docenteMéxicoSIU2022
+
+
+54Towards the Grade’s Prediction. A Study of Different Machine Learning Approaches to Predict Grades from Student Interaction DataRendimiento académicoEspañaNOU2022
+
+
+55Using Recommender Systems for Matching Students with Suitable Specialization: An Exploratory Study at King Abdulaziz UniversityRecomendación de estudiosArabia SauditaNOU2021
+
+
+
+
+Nota:  P: Primaria, S: Secundaria, U: Universitaria, TEA: Trastorno del Espectro Autista, FATE: fairness, accountability, transparency and ethics, STEM: Science, Technology, Engineering and Mathematics
+
+
+Para responder a la primera pregunta de investigación, con base en la Tabla 3, la Figura 3 muestra el nivel educativo aplicado en los estudios.
+PI1:   ¿A qué niveles educativos se han hecho estudios de ML o IA en educación?
+
+
+Figura 3
+Nivel educativo aplicado en los estudios
+
+Fuente: elaboración propia.
+
+
+Para responder la segunda pregunta de investigación, se tiene en cuenta que los estudios en inglés a menudo no reflejan la diversidad de la investigación mundial. Por ello, se optó por seleccionar trabajos en inglés y analizar cómo los países de habla no inglesa pueden fundamentar sus estudios en este idioma para tener un mayor alcance a nivel de investigación. La Figura 4 muestra la ubicación geográfica (países) en la cual se realizaron y/o aplicaron las investigaciones.
+PI2:  ¿En qué países se ha realizado investigación de ML o IA en Educación y cuál de ellos tiene mayor influencia?
+
+
+Figura 4
+Ubicación geográfica de los estudios
+
+Fuente: elaboración propia.
+
+
+La Figura 4 muestra que Estados Unidos (EUA) tiene la mayor cantidad de estudios. Por ello, la Figura 5 estima los estados con mayor influencia de investigación en los artículos.
+
+
+Figura 5
+Influencia de los artículos en los estados de EUA
+
+Fuente: elaboración propia.
+
+
+Para responder a la tercera pregunta de investigación, la Figura 6 muestra un mapa de red que representa las relaciones entre los temas clave de los estudios seleccionados, y la Figura 7 muestra una nube de palabras que destaca las 90 palabras más frecuentes y relevantes en estos estudios.
+PI3:  ¿Cuáles son los temas clave y las palabras más frecuentes en los estudios?
+La Figura 6 muestra un mapa de red que representa los temas clave a partir de los títulos y resúmenes de las 55 investigaciones. El mapa de red muestra cuatro subclústeres de temas clave interrelacionados, identificados por colores: verde para machine learning(ML), amarillo para artificial intelligence (IA), azul para education (educación) y rojo para prediction (predicción).
+
+
+Figura 6
+Mapa de red de las 55 investigaciones sobre ML e IA en Educación
+
+
+
+
+El subclúster verde ML está conectado con el subclúster amarillo que representa la temática de IA porque es una tecnología clave para crear herramientas inteligentes a partir del reconocimiento y aprendizaje de datos. Por otro lado, el subclúster rojo que representa la temática clave de la predicción está conectado con el subclúster del ML, debido a que las técnicas o algoritmos del ML se basan en la predicción para la toma de decisiones. Por último, tanto el subclúster ML como el IA, están conectados con el subclúster azul que representa la temática de la educación, porque tiene el potencial de mejorar el proceso de enseñanza-aprendizaje de varias maneras, como por ejemplo, enfocándose en la mejora de habilidades por parte del docente, en la predicción e identificación de fortalezas y debilidades por parte de los estudiantes para estimar su progreso académico, en apoyo a campos como la robótica educativa, la realidad aumentada, entre otros.
+
+
+Figura 7
+Nube de palabras más frecuentes
+
+Fuente: elaboración propia.
+
+
+Para establecer de forma cuantitativa el ranking de la nube de palabras, la Tabla 4 muestra las 20 palabras más frecuentes de nuestra nube. De acuerdo con el ranking, las palabras “students” (estudiantes), “learning” (aprendizaje) y “ai” (abreviatura de inteligencia artificial) son las tres más frecuentes, lo que indica que los estudios seleccionados tienen una alta relación de aplicación de herramientas inteligentes en educación.
+
+
+
+Tabla 4
+
+
+Palabras más frecuentes en los estudios
+
+
+
+
+
+RankingPalabraFrecuencia
+
+
+1students3628
+
+
+2learning2380
+
+
+3ai2034
+
+
+4education1870
+
+
+5data1631
+
+
+6school1600
+
+
+7teachers1184
+
+
+8student1175
+
+
+9high1088
+
+
+10model1012
+
+
+11research958
+
+
+12machine910
+
+
+13study878
+
+
+14teaching825
+
+
+15educational694
+
+
+16intelligence689
+
+
+17performance657
+
+
+18information639
+
+
+19models619
+
+
+20technology601
+
+
+
+
+Fuente: elaboración propia.
+
+
+PI4: ¿Qué técnicas de ML se han utilizado en las investigaciones?
+Respondiendo a la cuarta pregunta de investigación, Las Figuras 7 y 8 aportan información respecto a la cuarta pregunta.
+Las técnicas de ML se clasifican de acuerdo con el tipo de aprendizaje:
+
+
+
+
+
+Aprendizaje supervisado: aprendizaje a partir de datos etiquetados (Segura et al., 2022).
+
+
+
+Aprendizaje no supervisado: aprendizaje a partir de datos no etiquetados (Taha et al., 2018).
+
+
+
+Aprendizaje semisupervisado: aprendizaje a partir de datos etiquetados y no etiquetados (Chrysafiadi et al., 2022).
+
+
+
+Aprendizaje por refuerzo: aprendizaje a partir de las interacciones con su entorno (Dietz et al., 2022).
+
+
+
+
+Aprendizaje supervisado: aprendizaje a partir de datos etiquetados (Segura et al., 2022).
+
+Aprendizaje no supervisado: aprendizaje a partir de datos no etiquetados (Taha et al., 2018).
+
+Aprendizaje semisupervisado: aprendizaje a partir de datos etiquetados y no etiquetados (Chrysafiadi et al., 2022).
+
+Aprendizaje por refuerzo: aprendizaje a partir de las interacciones con su entorno (Dietz et al., 2022).
+En la Figura 8 se clasifican las técnicas de acuerdo con el tipo de aprendizaje: supervisado, no supervisado y por refuerzo. Se dejan en inglés los nombres de las técnicas porque muchas de ellas no tienen traducción al español y esto permite mantener una hegemonía en la lectura, manteniendo así sus iniciales en relación con otros documentos científicos.
+
+
+Figura 8
+Técnicas ML encontrada en los estudios ML (rosa: aprendizaje supervisado,  azul: aprendizaje no supervisado,  rosa-azul: aprendizaje semisupervisado, gris: aprendizaje por refuerzo)
+
+Fuente: elaboración propia.
+
+
+La Figura 9 representa la frecuencia de las técnicas de aprendizaje supervisado encontrada en los estudios. Se observa que las técnicas más usadas en los estudios son Random Forest (RF),Decision Tree (DT) y K-nearest neighbors (KNN), siendo las menos usadas Boruta Algoritm, Causal Forest (CF), Convolution Neural Networks (CNN), Back Propagation Network (BPN), Logistic Model Trees (LMT), Penalized Multinomial Regression (PMR), Graph Network Block (GNB), Multilayer Logistic regression (MLR),Gaussian Process Regression (GPR), Least Square Regression (LSR),Leasts Absolute Shrinkage and Selection Operator (LASSO), Artificial Neural Network (ANN), Stacking Emsemble Learning, Multilayer feed-fodward neural network (MFFNN) y Multilayer Linear Regression (MLR).
+
+
+Figura 9
+Técnicas de aprendizaje supervisado en los estudios
+
+Fuente: elaboración propia.
+
+
+PI5: ¿Cuáles fueron los resultados de la implementación del ML o IA como tecnología emergente en la educación?
+Respondiendo a la quinta pregunta de investigación, en el apartado principal Anexo se puede encontrar la Tabla 5. En esta tabla se presenta el estudio de investigación, la muestra, metodología y resultados. El orden está establecido de acuerdo con el criterio de orden de la Tabla 3.
+De acuerdo con los resultados de la Tabla 5, las oportunidades de mejora en los procesos de enseñanza-aprendizaje y la gestión educativa se pueden agrupar en las siguientes categorías: la predicción del rendimiento académico y abandono escolar, análisis de la percepción estudiantil y docente, desarrollo de la robótica virtual, aprendizaje sobre modelos generativos, implementación de la IA y ML, inserción del pensamiento computacional en todos los niveles, fortalecimiento del marco legal en educación, eficiencia de la gestión escolar, intervención de la robótica social, capacitación en seguridad informática, incorporación de la IA en educación clínica, STEM para análisis forense, apoyo de la IA en estudiantes con necesidades educativas especiales (NEE), entre otros. Estas oportunidades de mejora pueden ayudar a mejorar el rendimiento académico de los estudiantes, reducir el abandono escolar, fortalecer la equidad educativa y mejorar la calidad de la educación en general.
+En los estudios resaltan las predicciones a nivel institucional, no obstante, se recomienda realizar también las predicciones a nivel de aula debido a que son más precisas y se basan en datos más específicos de los estudiantes individuales. Sin embargo, las predicciones a nivel de institución pueden proporcionar una visión más general del rendimiento académico ya que se basan en datos de toda la institución, como calificaciones promedio, tasas de asistencia, tasas de graduación, tasas de deserción, etc.
+Las metodologías empleadas en los estudios se precisaron en dos niveles: el de investigación y el de docencia. A nivel de investigación, se buscaba encontrar nuevos conocimientos y comprobar hipótesis mediante métodos cuantitativos, cualitativos o mixtos. A nivel de docencia, se busca fortalecer la CDD necesaria para el desarrollo personal y profesional en pro del aprendizaje de los estudiantes.
+DISCUSIÓN Y CONCLUSIONES
+Esta revisión sistemática de la literatura analizó 55 referencias sobre el uso de ML e IA en la educación realizados en 38 países, con Estados Unidos a la cabeza, en los niveles de primaria hasta universidad. Los resultados muestran que las 33 técnicas inteligentes extraídas de los estudios pueden aplicarse en el sector educativo para:
+
+
+
+
+Detectar el rendimiento académico de los estudiantes de forma temprana.
+
+
+Mejorar las habilidades educativas de los docentes. Facilitar el aprendizaje de los estudiantes con trastornos del espectro autista (TEA).
+
+
+Predecir la deserción escolar y tomar decisiones al respecto.
+
+
+Mejorar y generar contenido educativo.
+
+
+Cerrar brechas educativas. Implementar la enseñanza de la IA en todos los niveles educativos.
+
+
+Fortalecer la seguridad de la información de la comunidad educativa. Motivar el aprendizaje a través de dispositivos móviles.
+
+
+Fortalecer el campo de la robótica.
+
+
+Mejorar la orientación académica y profesional de los estudiantes.
+
+
+Prevenir la difusión de noticias falsas en redes sociales.
+
+
+Entender y reflexionar sobre la relación entre humanos y máquinas.
+
+
+Desarrollar el pensamiento crítico a partir del pensamiento computacional.
+
+
+
+Detectar el rendimiento académico de los estudiantes de forma temprana.
+Mejorar las habilidades educativas de los docentes. Facilitar el aprendizaje de los estudiantes con trastornos del espectro autista (TEA).
+Predecir la deserción escolar y tomar decisiones al respecto.
+Mejorar y generar contenido educativo.
+Cerrar brechas educativas. Implementar la enseñanza de la IA en todos los niveles educativos.
+Fortalecer la seguridad de la información de la comunidad educativa. Motivar el aprendizaje a través de dispositivos móviles.
+Fortalecer el campo de la robótica.
+Mejorar la orientación académica y profesional de los estudiantes.
+Prevenir la difusión de noticias falsas en redes sociales.
+Entender y reflexionar sobre la relación entre humanos y máquinas.
+Desarrollar el pensamiento crítico a partir del pensamiento computacional.
+Se analiza la distribución de estudios sobre la aplicación de técnicas inteligentes en la educación. Los estudios analizados se centraron en el uso de técnicas de IA y ML. Los resultados muestran que la aplicación de técnicas inteligentes en la educación está ganando terreno en todos los niveles educativos. En el pasado, la mayoría de estas investigaciones se centraron en el sector universitario (Forero y Negre, 2022), pero el 74,6 % de los estudios analizados se aplicaron a nivel de primaria y secundaria. Nuestra revisión es más exhaustiva que otras revisiones sistemáticas, ya que analiza estudios en todos los niveles de primaria, secundaria y universitaria.
+La Tabla 3 muestra que el 20 % de los estudios seleccionados abordaban la problemática del COVID-19 de alguna forma. Este aumento significativo en comparación con otras revisiones sistemáticas se debe a que los estudios se realizaron entre 2021 y febrero de 2023, cuando muchas de estas investigaciones aún estaban en curso durante la pandemia. La pandemia de COVID-19 ha sido un evento global de gran magnitud que ha tenido un impacto significativo en todos los aspectos de la vida. Como consecuencia, no es de extrañar que muchos estudios científicos hayan centrado su atención en esta problemática. De nuestra revisión se puede inferir que uno de cada cinco estudios se centró en la enfermedad del COVID-19 y/o sus consecuencias.
+En los últimos años, ha aumentado la publicación de investigaciones de países de habla no inglesa en revistas científicas en inglés de alto impacto. Esto se debe a la creciente importancia de la ciencia y la tecnología en el mundo globalizado, al aumento de la inversión en investigación y desarrollo en países emergentes, y a la necesidad de compartir conocimientos y resultados con un alcance mayor. En Latinoamérica, Brasil, México, Chile y Ecuador son los países que han experimentado un mayor crecimiento debido a que cuentan con una importante base científica y tecnológica, y están invirtiendo cada vez más en investigación. En Europa, España, Países Bajos, Portugal, Italia, Grecia, Suiza, Lituania, Finlandia, Eslovenia, Rusia y Turquía son algunos de los países que lideran el crecimiento ya que cuentan con una larga tradición científica y están comprometidos con la investigación internacional. En África, Benín, Cabo Verde, Angola, Marruecos, Nigeria, Ghana, Tanzania, Kenia, Sudáfrica y Namibia han experimentado un aumento significativo porque están invirtiendo cada vez más en investigación para abordar los desafíos de desarrollo que enfrentan. En Asia, Japón, China, Arabia Saudita, Irán, Vietnam, Corea del Sur, Qatar, India, Israel y Malasia siempre están dando un paso adelante ya que cuentan con una fuerte economía y están invirtiendo cada vez más en investigación para impulsar el crecimiento económico. Este aumento es una tendencia positiva que está contribuyendo a la globalización de la ciencia.
+La Figura 5 muestra que California, Massachusetts y Texas son los estados con mayor concentración de investigación sobre ML e IA en educación. Esto se debe a que instituciones como la Universidad del Sur de California, el Instituto Tecnológico de Massachusetts y la Universidad del Norte de Texas están realizando un gran esfuerzo en este campo. Los autores de estas investigaciones son principalmente ingenieros, lo que destaca la necesidad de involucrar a los profesionales de la educación en el proceso de investigación.
+Tal como se puede evidenciar en la Figura 8, este estudio encontró 33 técnicas diferentes de ML, que se clasifican en las cuatro categorías principales de aprendizaje: supervisado (28), semi-supervisado (1), no supervisado (3) y por refuerzo (1), algunas técnicas son subgrupo de otras, como por ejemplo Artificial Neural Network ANN (Zafari et al., 2021) y Neural Network NN (Oskotsky et al., 2022), pero no se agrupan como una misma técnica, para dejar el nombre completo que aparece en las investigaciones. Esto indica que los expertos están convencidos cada vez más que las técnicas de ML son apropiadas y muy importantes para las investigaciones en educación ya que están reconociendo el potencial para mejorar la comprensión y practicas educativas a través de nuevos modelos y métodos de enseñanza-aprendizaje.
+En línea con lo anterior, las instituciones pueden usar técnicas y herramientas inteligentes para ayudar a sus estudiantes. La predicción de notas es una herramienta de alto impacto que puede beneficiar de forma considerable tanto a los estudiantes como a las instituciones (Gerlache et al., 2022), como por ejemplo, pueden proporcionar a los estudiantes una visión de su rendimiento actual y su potencial de éxito, ayudando a los estudiantes a identificar las áreas o asignaturas en las que necesitan mejorar y a tomar medidas para mejorar sus resultados. Además, los predictores de notas pueden ayudar a los estudiantes a tomar decisiones sobre su futuro profesional, al saber cómo les va a ir en una determinada carrera, los estudiantes pueden tomar decisiones más sólidas sobre qué estudiar y dónde querer trabajar en un futuro cercano.
+Las aplicaciones más frecuentes que usan técnicas de ML se centran en la predicción del rendimiento académico, en particular, el algoritmo de Random Forest es el más utilizado en estas investigaciones la cual es una técnica de aprendizaje supervisado con alta probabilidad de predicción. Un ejemplo de la efectividad del Random Forest para la predicción del rendimiento académico es un estudio realizado por Houngue et al. (2022) donde obtuvo un 99 de precisión en la predicción. Sin embargo, existen otras técnicas con buena probabilidad, la elección dependerá del tipo de datos disponibles y del objetivo específico del estudio. En general, los algoritmos de ML han alcanzado un mayor nivel predictivo en comparación con el modelo clásico (Costa Mendes et al., 2021), esto se debe a que los algoritmos de ML pueden aprender patrones complejos en los datos, lo que les permite generar predicciones más precisas.
+La muestra de las investigaciones maneja gran cantidad de información, ya que, para que las técnicas de ML sean efectivas en su capacidad predictiva, es necesario que los datos estén correctamente etiquetados. Por ello, el BigData entra a jugar un papel importante, donde el papel del dato debe mantener esos aspectos de integridad ética y moral en cuanto a la información tanto de los participantes (Blease et al., 2021) como del currículo (Eguchi et al., 2021). Ambos estudios coinciden en que los datos utilizados para el ML deben ser éticos y morales, ya que los sesgos en los datos pueden afectar negativamente a la precisión de los modelos.
+Los estudios sobre ML están desarrollando nuevas técnicas que pueden mejorar el sistema de predicción en el sector educativo. Por ejemplo, el estudio de Suzuki et al. (2022) utilizó un modelo de ML para predecir el rendimiento académico de los estudiantes de primaria en Japón con un error de 10 %. El estudio de Tarik et al. (2021) utilizó un modelo de ML para predecir la asistencia a clase de los estudiantes universitarios en Malasia con un error de 5 %. Con ello, poder predecir efectivamente la gestión educativa minimizando errores a nivel técnico y a nivel institucional, posibilita la solución de problemas en contextos educativos dinámicos.
+La CDD es indispensable para los docentes, ya que evalúa sus habilidades en el conocimiento y uso de tecnologías digitales. Por ello, el identificar estás oportunidades de mejora en los procesos de enseñanza-aprendizaje ayuda a transversalizar los conceptos de ML e IA en todas las áreas y niveles de conocimiento. Los docentes de distintas áreas y con diferentes niveles de formación en informática pueden tener diferentes concepciones sobre cómo integrar conceptos de ML en las escuelas (Temitayo et al., 2022). Por lo tanto, este trabajo también busca crear conciencia sobre la importancia de que los docentes, independientemente de su formación, tengan las habilidades y competencias necesarias para aplicar el ML e IA en el aula. La integración de las tecnologías inteligentes es una innovación educativa crucial en todas las áreas de estudio y niveles educativos, ya que tiene el potencial de cerrar la brecha digital y escolar que se ha convertido en un desafío para los expertos en educación.
+
+LIMITACIONES Y FUTURAS INVESTIGACIONES
+
+Esta revisión debido a su temática actual, amplio alcance y para acotar la metodología propuesta, solo se han analizado trabajos en inglés. Sin embargo, es posible que existan investigaciones en ML e IA aplicada a la educación en otros idiomas que no se han considerado y que podrían resultar interesantes.
+Si bien se han utilizado las bases de datos WoS y Scopus para acotar el estudio, se podría ampliar la investigación consultando otras bases de datos, ya que podrían arrojar resultados interesantes sobre ML e IA.
+Es necesario fortalecer los sistemas educativos de Latinoamérica, África y Oceanía con la puesta en marcha de experiencias e investigaciones de IA y ML, fortaleciendo la dotación de recursos humanos, físicos y formación docente de calidad, en especial en la CDD.
+La ecuación utilizada permite integrar implícitamente ciertos estudios con la palabra clave “K-12” (Ali, DiPaola, Lee, Sindato et al., 2021; An et al., 2022; Duncan et al., 2022; Eguchi et al., 2021; Sanusi et al., 2022), sin embargo, no incluye referencias con las palabras clave “high* education*”, “ungraduate*”, “vocational training*”, “vocational education”, “adult education” o “corporate training*”. Esto podría ser interesante para futuros trabajos, ya que estas palabras clave podrían ampliar el alcance de la investigación.
+El plan curricular de las asignaturas debe incorporar de forma transversal los conceptos de las nuevas tecnologías inteligentes. Para ello, es necesario que las gestiones educativas e institucionales fortalezcan las competencias de los docentes y estudiantes en estos nuevos ámbitos educativos.
+A pesar de la escasez de investigaciones relacionadas con la diversidad, el alumnado con necesidades educativas especiales, la discapacidad y la enfermedad, es necesario profundizar y fortalecer estos campos permitiendo generar cierres de brechas e impacto positivo en la educación y la sociedad.
+Finalmente, se espera que este trabajo contribuya a conocer y comprender las prácticas educativas con ML e IA y cómo estás pueden implementarse para fortalecer los procesos de enseñanza-aprendizaje y gestión educativa en todo tipo de contextos.
+
+REFERENCIAS
+
+Ahajjam, T., Moutaib, M., Aissa, H., Azrour, M., Farhaoui, Y. y Fattah, M. (2022). Predicting Students’ Final Performance Using Artificial Neural Networks. Big Data Mining and Analytics, 5(4), 294-301. https://doi.org/10.26599/BDMA.2021.9020030
+
+Ahmed, A., Aziz, S., Qidwai, U., Farooq, F., Shan, J., Subramanian, M., Chouchane, L., EINatour, R., Abd-Alrazaq, A., Pandas, S. y Sheikh, J. (2023). Wearable Artificial Intelligence for Assessing Physical Activity in High School Children. Sustainability (Switzerland), 15(1), 1-12. https://doi.org/10.3390/su15010638
+
+Ali, S., DiPaola, D., Lee, I., Sindato, V., Kim, G., Blumofe, R. y Breazeal, C. (2021). Children as creators, thinkers and citizens in an AI-driven future. Computers and Education: Artificial Intelligence, 2, 100040. https://doi.org/10.1016/j.caeai.2021.100040
+
+Ali, S., DiPaola, D., Lee, I., Hong, J. y Breazeal, C. (2021). Exploring generative models with middle school students. Conference on Human Factors in Computing Systems - Proceedings. https://doi.org/10.1145/3411764.3445226
+
+Aljabri, M., Chrouf, S. M. B., Alzahrani, N. A., Alghamdi, L., Alfehaid, R., Alqarawi, R., Alhuthayfi, J. y Alduhailan, N. (2021). Sentiment analysis of arabic tweets regarding distance learning in saudi arabia during the covid-19 pandemic. Sensors, 21(16). https://doi.org/10.3390/s21165431
+
+Almeida Pereira Abar, C. A., Dos Santos Dos Santos, J. M. y de Almeida, M. V. (2021). Computational Thinking in Elementary School in the Age of Artificial Intelligence: Where is the Teacher? Revista de Ensino de Ciencias y Matemática, 23(6), 270-299. https://doi.org/10.17648/acta.scientiae.6869
+
+Almoqbil, A., O’Connor, B. C., Anderson, R., Shittu, J. y McLeod, P. (2021). Modeling deception: A case study of email phishing. Proceedings from the Document Academy, 8(2). https://doi.org/10.35492/docam/8/2/8
+
+Alshaikh, K., Bahurmuz, N., Torabah, O., Alzahrani, S., Alshingiti, Z. y Meccawy, M. (2021). Using Recommender Systems for Matching Students with Suitable Specialization: An Exploratory Study at King Abdulaziz University. International Journal of Emerging Technologies in Learning, 16(3), 316-324. https://doi.org/10.3991/ijet.v16i03.17829
+
+Alvarado Uribe, J., Mejía Almada, P., Masetto Herrera, A. L., Molontay, R., Hilliger, I., Hegde, V., Montemayor Gallegos, J. E., Ramírez Díaz, R. A. y Ceballos, H. G. (2022). Student Dataset from Tecnologico de Monterrey in Mexico to Predict Dropout in Higher Education. Data, 7(9). https://doi.org/10.3390/data7090119
+
+An, X., Chai, C. S., Li, Y., Zhou, Y., Shen, X., Zheng, C. y Chen, M. (2022). Modeling English teachers’ behavioral intention to use artificial intelligence in middle schools. Education and Information Technologies. https://doi.org/10.1007/s10639-022-11286-z
+
+Angara, P. P., Stege, U., MacLean, A., Muller, H. A. y Markham, T. (2022). Teaching Quantum Computing to High-School-Aged Youth: A Hands-On Approach. IEEE Transactions on Quantum Engineering, 3. https://doi.org/10.1109/TQE.2021.3127503
+
+Araya, R. y Sossa-Rivera, J. (2021). Automatic Detection of Gaze and Body Orientation in Elementary School Classrooms. Frontiers in Robotics and AI, 8(September), 1-11. https://doi.org/10.3389/frobt.2021.729832
+
+Ayanwale, M. A., Sanusi, I. T., Adelana, O. P., Aruleba, K. D. y Oyelere, S. S. (2022). Teachers’ readiness and intention to teach artificial intelligence in schools. Computers and Education: Artificial Intelligence, 3(August), 100099. https://doi.org/10.1016/j.caeai.2022.100099
+
+Baashar, Y., Hamed, Y., Alkawsi, G., Fernando Capretz, L., Alhussian, H., Alwadain, A. y Al-amri, R. (2022). Evaluation of postgraduate academic performance using artificial intelligence models. Alexandria Engineering Journal, 61(12), 9867-9878. https://doi.org/10.1016/j.aej.2022.03.021
+
+Bakker, T., Krabbendam, L., Bhulai, S., Meeter, M. y Begeer, S. (2023). Predicting academic success of autistic students in higher education. Autism. https://doi.org/10.1177/13623613221146439
+
+Ban, H. y Ning, J. (2021). Online English Teaching Based on Artificial Intelligence Internet Technology Embedded System. Mobile Information Systems, 2021. https://doi.org/10.1155/2021/2593656
+
+Bellas, F., Guerreiro-Santalla, S., Naya, M. y Duro, R. J. (2022). AI Curriculum for European High Schools: An Embedded Intelligence Approach. International Journal of Artificial Intelligence in Education, 0123456789. https://doi.org/10.1007/s40593-022-00315-0
+
+Bhavana, S. y Vijayalakshmi, V. (2022). AI-Based Metaverse Technologies Advancement Impact on Higher Education Learners. WSEAS Transactions on Systems, 21, 178-184. https://doi.org/10.37394/23202.2022.21.19
+
+Blease, C., Kharko, A., Annoni, M., Gaab, J. y Locher, C. (2021). Machine Learning in Clinical Psychology and Psychotherapy Education: A Mixed Methods Pilot Survey of Postgraduate Students at a Swiss University. Frontiers in Public Health, 9(April). https://doi.org/10.3389/fpubh.2021.623088
+
+Bogina, V., Hartman, A., Kuflik, T. y Shulner-Tal, A. (2022). Educating Software and AI Stakeholders About Algorithmic Fairness, Accountability, Transparency and Ethics. International Journal of Artificial Intelligence in Education, 32(3), 808-833. https://doi.org/10.1007/s40593-021-00248-0
+
+Bosch, N. (2021). Identifying supportive student factors for mindset interventions: A two-model machine learning approach. Computers and Education, 167(March), 104190. https://doi.org/10.1016/j.compedu.2021.104190
+
+Bruno, G. di D. (2021). Erwhi Hedgehog: A New Learning Platform for Mobile Robotics. En Lecture Notes in Networks and Systems (Vol. 240). Springer International Publishing. https://doi.org/10.1007/978-3-030-77040-2_32
+
+Burgess, S., Metcalfe, R. y Sadoff, S. (2021). Understanding the response to financial and non-financial incentives in education: Field experimental evidence using high-stakes assessments. Economics of Education Review, 85(July), 102195. https://doi.org/10.1016/j.econedurev.2021.102195
+
+Byun, A. y Kim, H. (2022). The Effect of Design Classes Using Artificial Intelligence in the Era of COVID-19 on Social Responsibility of High School Students. Archives of Design Research, 35(4), 251-266. https://doi.org/10.15187/adr.2022.11.35.4.251
+
+Ceha, J., Law, E., Kulić, D., Oudeyer, P. Y. y Roy, D. (2022). Identifying Functions and Behaviours of Social Robots for In-Class Learning Activities: Teachers’ Perspective. International Journal of Social Robotics, 14(3), 747-761. https://doi.org/10.1007/s12369-021-00820-7
+
+Chen, B., Chen, H. y Li, M. (2021). Improvement and Optimization of Feature Selection Algorithm in Swarm Intelligence Algorithm Based on Complexity. Complexity, 2021. https://doi.org/10.1155/2021/9985185
+
+Cheng, J., Chae, M. H. C. y Feng, R. (2021). Stem education-career pathway for emerging forensic analytics: Innovative professional development in multimodal environments. Journal of Higher Education Theory and Practice, 21(8), 115-130. https://doi.org/10.33423/jhetp.v21i8.4509
+
+Chrysafiadi, K., Virvou, M., Tsihrintzis, G. A. y Hatzilygeroudis, I. (2022). Evaluating the user’s experience, adaptivity and learning outcomes of a fuzzy-based intelligent tutoring system for computer programming for academic students in Greece. En Education and Information Technologies (Issue 0123456789). Springer US. https://doi.org/10.1007/s10639-022-11444-3
+
+Costa Mendes, R., Oliveira, T., Castelli, M. y Cruz Jesus, F. (2021). A machine learning approximation of the 2015 Portuguese high school student grades: A hybrid approach. Education and Information Technologies, 26(2), 1527-1547. https://doi.org/10.1007/s10639-020-10316-y
+
+Dai, Y., Liu, A., Qin, J., Guo, Y., Jong, M. S. Y., Chai, C. S. y Lin, Z. (2022). Collaborative construction of artificial intelligence curriculum in primary schools. Journal of Engineering Education, October 2022, 23-42. https://doi.org/10.1002/jee.20503
+
+Demchenko, M. V., Gulieva, M. E., Larina, T. V. y Simaeva, E. P. (2021). Digital Transformation of Legal Education: Problems, Risks and Prospects. European Journal of Contemporary Education, 10(2), 297-307. https://doi.org/10.13187/ejced.2021.2.297
+
+Demir, K. y Güraksın, G. E. (2022). Determining middle school students’ perceptions of the concept of artificial intelligence: A metaphor analysis. Participatory Educational Research, 9(2), 297-312. https://doi.org/10.17275/per.22.41.9.2
+
+Dietz, G., Chen, J. K., Beason, J., Tarrow, M., Hilliard, A. y Shapiro, R. B. (2022). ARtonomous: Introducing Middle School Students to Reinforcement Learning Through Virtual Robotics. Proceedings of Interaction Design and Children, IDC 2022, 430-441. https://doi.org/10.1145/3501712.3529736
+
+Dogadina, E. P., Smirnov, M. V., Osipov, A. V. y Suvorov, S. V. (2021). Formation of the optimal load of high school students using a genetic algorithm and a neural network. Applied Sciences (Switzerland), 11(11). https://doi.org/10.3390/app11115263
+
+Duncan, D., Garner, R., Bennett, A., Sinclair, M., Ramirez-De La Cruz, G. y Pasik-Duncan, B. (2022). Interdisciplinary K-12 Control Education in Biomedical and Public Health Applications. IFAC-PapersOnLine, 55(17), 242-248. https://doi.org/10.1016/j.ifacol.2022.09.286
+
+Duzhin, F. y Gustafsson, A. (2018). Machine learning-based app for self-evaluation of teacher-specific instructional style and tools. Education Sciences, 8(1), 1-15. https://doi.org/10.3390/educsci8010007
+
+Eegdeman, I., Cornelisz, I., van Klaveren, C. y Meeter, M. (2022). Computer or teacher: Who predicts dropout best? Frontiers in Education, 7(November), 1-10. https://doi.org/10.3389/feduc.2022.976922
+
+Eguchi, A., Okada, H. y Muto, Y. (2021). Contextualizing AI Education for K-12 Students to Enhance Their Learning of AI Literacy Through Culturally Responsive Approaches. KI - Kunstliche Intelligenz, 35(2), 153-161. https://doi.org/10.1007/s13218-021-00737-3
+
+Fernández-Martínez, C., Hernán-Losada, I. y Fernández, A. (2021). Early Introduction of AI in Spanish Middle Schools. A Motivational Study. KI - Kunstliche Intelligenz, 35(2), 163-170. https://doi.org/10.1007/s13218-021-00735-5
+
+Forero, W. y Negre, F. (2022). Revisión sistemática de la aplicación del machine learning en la educación. En Educación Transformadora en un mundo digital: conectando paisajes de aprendizaje (pp. 416-419). EDUTEC 2022. https://edutec2022.uib.es/libro-de-actas/
+Gerlache, H. A. M., Ger, P. M. y Valentín, L. de la F. (2022). Towards the Grade’s Prediction. A Study of Different Machine Learning Approaches to Predict Grades from Student Interaction Data. International Journal of Interactive Multimedia and Artificial Intelligence, 7(4), 196-204. https://doi.org/10.9781/ijimai.2021.11.007
+
+Giam, N. M., Nam, N. T. H. y Giang, N. T. H. (2022). Situation and Proposals for Implementing Artificial Intelligence-based Instructional Technology in Vietnamese Secondary Schools. International Journal of Emerging Technologies in Learning, 17(18), 53-75. https://doi.org/10.3991/ijet.v17i18.31503
+
+Horanai, H., Maejima, Y. y Ding, L. (2022). An Education Tool at Supports Junior Learners in Studying Machine Learning. Frontiers in Artificial Intelligence and Applications, 360, 111-116. https://doi.org/10.3233/FAIA220432
+
+Houngue, P., Hountondji, M. y Dagba, T. (2022). An Effective Decision-Making Support for Student Academic Path Selection using Machine Learning. International Journal of Advanced Computer Science and Applications, 13(11), 727-734. https://doi.org/10.14569/IJACSA.2022.0131184
+
+Liu, Y., Chen, L. y Yao, Z. (2022). The application of artificial intelligence assistant to deep learning in teachers’ teaching and students’ learning processes. Frontiers in Psychology, 13. https://doi.org/10.3389/fpsyg.2022.929175
+
+Luan, H. y Tsai, C. C. (2021). A Review of Using Machine Learning Approaches for Precision Education. Educational Technology and Society, 24(1), 250–266.
+Luo, F., Jiang, L., Tian, X., Xiao, M., Ma, Y. y Zhang, S. (2021). Shyness prediction and language style model construction of elementary school students. Acta Psychologica Sinica, 53(2), 155-169. https://doi.org/10.3724/SP.J.1041.2021.00155
+
+Marín, V. I. (2022). The systematic review in Educational Technology research: observations and advice. RiiTE Revista Interuniversitaria de Investigación En Tecnología Educativa, 13, 62-79. https://doi.org/10.6018/riite.533231
+
+Mittal, S., Mahendra, S., Sanap, V. y Churi, P. (2022). International Journal of Information Management Data Insights How can machine learning be used in stress management : A systematic literature review of applications in workplaces and education. International Journal of Information Management Data Insights, 2(2), 100110. https://doi.org/10.1016/j.jjimei.2022.100110
+
+Nafea, I. T. (2018). Machine Learning in Educational Technology. Machine Learning - Advanced Techniques and Emerging Applications. https://doi.org/10.5772/intechopen.72906
+
+Oskotsky, T., Bajaj, R., Burchard, J., Cavazos, T., Chen, I., Connell, W., Eaneff, S., Grant, T., Kanungo, I., Lindquist, K., Myers-Turnbull, D., Naing, Z. Z. C., Tang, A., Vora, B., Wang, J., Karim, I., Swadling, C., Yang, J., Lindstaedt, B. y Sirota, M. (2022). Nurturing diversity and inclusion in AI in Biomedicine through a virtual summer program for high school students. PLoS Computational Biology, 18(1), 1-12. https://doi.org/10.1371/journal.pcbi.1009719
+
+Pimentel, J. S., Ospina, R. y Ara, A. (2021). Learning Time Acceleration in Support Vector Regression: A Case Study in Educational Data Mining. Stats, 4(3), 682-700. https://doi.org/10.3390/stats4030041
+
+Salas-Pilco, S. Z. y Yang, Y. (2022). Artificial intelligence applications in Latin American higher education: a systematic review. International Journal of Educational Technology in Higher Education, 19(1). https://doi.org/10.1186/s41239-022-00326-w
+
+Salas Rueda, R. A., De la cruz Martínez, G., Eslava Cervantes, A. L., Castañeda Martínez, R. y Ramírez Ortega, J. (2022). Teachers’ opinion about collaborative virtual walls and massive open online course during the COVID-19 pandemic. Online Journal of Communication and Media Technologies, 12(1), 1-13. https://doi.org/10.30935/ojcmt/11305
+
+Santos García, F., Valdivieso, K. D., Rienow, A. y Gairín, J. (2021). Urban–Rural Gradients Predict Educational Gaps: Evidence from a Machine Learning Approach Involving Academic Performance and Impervious Surfaces in Ecuador. ISPRS International Journal of Geo-Information, 10(12). https://doi.org/10.3390/ijgi10120830
+
+Sanusi, I. T., Oyelere, S. S. y Omidiora, J. O. (2022). Exploring teachers’ preconceptions of teaching machine learning in high school: A preliminary insight from Africa. Computers and Education Open, 3 (November 2021), 100072. https://doi.org/10.1016/j.caeo.2021.100072
+
+Sasmita, F. y Mulyanti, B. (2020). Development of machine learning implementation in engineering education: A literature review. IOP Conference Series: Materials Science and Engineering, 830(3). https://doi.org/10.1088/1757-899X/830/3/032061
+
+Segura, M., Mello, J. y Herná, A. (2022). Machine Learning Prediction of University Student Dropout: Does Preference Play a Key Role? 1-20. https://doi.org/10.3390/math10183359
+
+Su, J., Zhong, Y., Tsz, D. y Ng, K. (2022). Computers and Education : Artificial Intelligence A meta-review of literature on educational approaches for teaching AI at the K-12 levels in the Asia-Pacific region. Computers and Education: Artificial Intelligence, 3(March), 100065. https://doi.org/10.1016/j.caeai.2022.100065
+
+Suzuki, H., Hong, M., Ober, T. y Cheng, Y. (2022). Prediction of differential performance between advanced placement exam scores and class grades using machine learning. Frontiers in Education, 7(December). https://doi.org/10.3389/feduc.2022.1007779
+
+Taha, S. A., Shihab, R. A. y Sadik, M. C. (2018). Studying of Educational Data Mining Techniques. International Journal of Advanced Research in Science, Engineering and Technology, 5(5), 5742-5750. http://www.ijarset.com/upload/2018/may/9-IJARSET-SAJATAHA.pdf
+
+Tarik, A., Aissa, H. y Yousef, F. (2021). Artificial intelligence and machine learning to predict student performance during the COVID-19. Procedia Computer Science, 184, 835-840. https://doi.org/10.1016/j.procs.2021.03.104
+
+Temitayo, I., Sunday, S. y Olamide, J. (2022). Exploring teachers ’ preconceptions of teaching machine learning in high school : A preliminary insight from Africa. Computers and Education Open, 3(November 2021), 100072. https://doi.org/10.1016/j.caeo.2021.100072
+
+Van Brummelen, J., Tabunshchyk, V. y Heng, T. (2021). “Alexa, Can I Program You?”: Student Perceptions of Conversational Artificial Intelligence before and after Programming Alexa. Proceedings of Interaction Design and Children, IDC 2021, 305-313. https://doi.org/10.1145/3459990.3460730
+
+Yamamoto, S. H. y Alverson, C. Y. (2022). From high school to postsecondary education, training, and employment: Predicting outcomes for young adults with autism spectrum disorder. Autism and Developmental Language Impairments, 7. https://doi.org/10.1177/23969415221095019
+
+Yepes-Nuñez, J. J., Urrútia, G., Romero-García, M. y Alonso-Fernández, S. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. Revista Espanola de Cardiologia, 74(9), 790-799. https://doi.org/10.1016/j.recesp.2021.06.016
+
+Yu, Y., Fan, J., Xian, Y. y Wang, Z. (2022). Graph Neural Network for Senior High Student’s Grade Prediction. Applied Sciences (Switzerland), 12(8). https://doi.org/10.3390/app12083881
+
+Zafari, M., Sadeghi-Niaraki, A., Choi, S. M. y Esmaeily, A. (2021). A practical model for the evaluation of high school student performance based on machine learning. Applied Sciences (Switzerland), 11(23). https://doi.org/10.3390/app112311534
+
+Zawacki-Richter, O., Kerres, M., Bedenlier, S. y Buntins, K. (2020). Systematic Reviews in Educational Research. En Systematic Reviews in Educational Research. https://doi.org/10.1007/978-3-658-27602-7
+
+Zawacki-Richter, O., Marín, V. I., Bond, M. y Gouverneur, F. (2019). Systematic review of research on artificial intelligence applications in higher education – where are the educators? International Journal of Educational Technology in Higher Education, 16(1). https://doi.org/10.1186/s41239-019-0171-0
+
+Zhai, X., Chu, X., Chai, C. S., Jong, M. S. Y., Istenic, A., Spector, M., Liu, J. B., Yuan, J. y Li, Y. (2021). A Review of Artificial Intelligence (AI) in Education from 2010 to 2020. Complexity, 2021. https://doi.org/10.1155/2021/8812542
+
+Zhu, J. y Liu, W. (2020). A tale of two databases: the use of Web of Science and Scopus in academic papers. Scientometrics, 123(1), 321-335. https://doi.org/10.1007/s11192-020-03387-8
+
+ANEXO
+Tabla 5
+
+
+
+Características de los estudios revisados
+
+
+
+
+
+NºEstudioMuestraMetodologíaResultados
+
+
+1(Araya y Sossa-Rivera, 2021)4 docentes y estudiantes de primer gradoHeurística básicaEs posible estimar la dirección del maestro y la orientación de la cabeza y el cuerpo de los alumnos con ML.
+
+
+2(Dai et al., 2022)23 profesores de ciencias de la computación de escuelas primariaTriangulación entre observación etnográfica, entrevistas y artefactos con maestrosInfluencias para la incorporación curricular de la facultad de IA en una universidad asociada
+
+
+3(Almeida Pereira Abar et al., 2021)11 docentesCualitativa e investigación-acciónEl pensamiento computacional en la educación básica ayuda a los niños en la resolución de todo tipo de problemas.
+
+
+4(Ceha et al., 2022)5 maestros de primaria y secundariaDiseño participativo, método cualitativo, Modelo del sistema de actividad de EngeströmLos docentes respondieron positivamente a la idea de introducir un robot social como herramienta tecnológica para las actividades de aprendizaje.
+
+
+5(Luo et al., 2021)1,306 estudiantes de primaria de una plataforma de enseñanza onlineAplicación de algoritmos de MLLos estudiantes con comportamiento tímido, problemas cognitivos y emocionales tienen características únicas en el estilo del lenguaje.
+
+
+6(Costa Mendes et al., 2021)362,261 calificaciones de estudiantes de Preescolar, primaria y secundariaMixta (Cuantitativa y Cualitativa)Los índices socioeconómicos tienen un poder predictivo inherentemente limitado.
+
+
+7(Aljabri et al., 2021)3,200 tweets en árabeAnálisis de los tweets de las personas sobre el aprendizaje a distancia en Arabia Saudita.Este resultado puede ser utilizado por el Ministerio de Educación para mejorar aún más el sistema educativo de aprendizaje a distancia.
+
+
+8(Van Brummelen et al., 2021)47 estudiantesTalleres sobre percepción estudiantilLos estudiantes sintieron que Alexa era muy inteligente y se sintieron más cerca de ella.
+
+
+9(Zafari et al., 2021)246 estudiantes de secundaria en preguntas abiertas de física.Coeficiente de correlación para la selección de características y Aplicación de algoritmos de MLLos modelos ML son influyentes para evaluar a los estudiantes y mejorar el factor educativo.
+
+
+10(Bellas et al., 2022)30 alumnos de 6 colegiosAprendizaje proactivo (Aprender haciendo)Currículo totalmente práctico basada en el concepto de agente inteligente.
+
+
+11(Horanai et al., 2022)Una herramienta educativa con IADesarrollo de software con MLLos alumnos comprenden mejor los fundamentos de la IA y ML aumentando su interés en el desarrollo futuro de aplicaciones de IA.
+
+
+12(Houngue et al., 2022)325 calificaciones grado 6 hasta grado 9.Aplicación de algoritmos de MLSe comparó el rendimiento de cinco algoritmos de ML para predecir la capacidad científica o literaria de los estudiantes.
+
+
+13(Tarik et al., 2021)72,010 estudiantes 2,000 y 2015Aplicación de algoritmos de MLEl mejor modelo para predecir el promedio de bachillerato usando un algoritmo de regresión RF.
+
+
+14(Dietz et al., 2022)15 estudiantes con dificultades de aprendizaje o bajos recursos de 11-14 añosInvestigación Mixta (cualitativa y cuantitativa)Las herramientas de robótica educativa, el entrenamiento y la programación de robots simulados es atractivo y educativo para los participantes.
+
+
+15(Ali, DiPaola, Lee, Sindato et al., 2021)38 estudiantes secundaria de 10 a 15 años, 18 mujeres y 20 hombresTaller virtual de 5 días para enseñar sobre el aprendizaje automático generativo.Los estudiantes demostraron comprender que los Deep-fakes pueden contribuir a la difusión de información errónea.
+
+
+16(Eegdeman et al., 2022)9 docentes y 95 estudiantesCuestionario a docentes y uso de algoritmos de MLEl ML podría ayudar a avanzar en el uso de evidencia para tomar decisiones y predicciones en el sector educativo.
+
+
+17(Eguchi et al., 2021)Docentes y planes de estudioExperiencias de aprendizaje de los estudiantes de K-1270 % de los docentes se sentían inseguros acerca de la implementación de la IA en sus aulas.
+
+
+18(Demir y Güraksın, 2022)339 estudiantes séptimo y octavo grado de 4 escuelas secundariasMétodo cualitativo analizando metáforasLa mayoría de los participantes asociaron la IA con los humanos, la tecnología y el cerebro.
+
+
+19(Fernández-Martínez et al., 2021)84 estudiantesAplicación de unidad didáctica con IAEs necesario repensar la planificación para la introducción de la IA en el currículo.
+
+
+20(Ali, DiPaola, Lee, Hong y Breazeal, 2021)72 estudiantes (grados 5-9)Cuatro talleres en línea.Descubrimos que los talleres permitieron a los niños comprender qué son los modelos generativos.
+
+
+21(Temitayo et al., 2022)12 docentes de ciencias de la computación de secundariaEntrevista semiestructuradaLa necesidad de capacitar a los profesores para que utilicen introducir el ML en sus clases.
+
+
+22(Dogadina et al., 2021)Contenidos de cursos y 250 tareasConjunto de Pareto y Aplicación de algoritmos de MLMinimiza los esfuerzos de los estudiantes al tiempo que logra maximizar la eficacia del proceso educativo.
+
+
+23(Yamamoto y Alverson, 2022)393 en 2017 y 387 en 2018 estudiantes con TEADos métodos de análisis predictivo (PA): Regresión logística multinivel y MLEl modelo ML con mayor desempeño MLR en la predicción del PSO.
+
+
+24(Yu et al., 2022)Calificaciones de 100 estudiantesAplicación de algoritmos de MLEl método propuesto funciona bien en la predicción de las calificaciones de los estudiantes de secundaria.
+
+
+25(Bosch, 2021)16,310 estudiantes de 76 escuelas de 9 gradoAplicación de 2 modelos de MLLa intervención fue más efectiva para estudiantes con bajo rendimiento académico.
+
+
+26(Chen et al., 2021)68 estudiantesSeis clases en la escuela Nº 1 de la ciudadLos estudiantes y los profesores están muy satisfechos con la enseñanza basada en el algoritmo.
+
+
+27(Duncan et al., 2022)3000 participantesConferencias y Talleres (Webvinars)Los estudiantes desde el principio de su educación deben tener conocimiento y las habilidades en temas relacionados con ML e IA.
+
+
+28(Pimentel et al., 2021)5,095,270 estudiantesAnálisis de conjunto masivo de datosUtilizando siete variables de entrada, es posible predecir con precisión la nota media de un alumno.
+
+
+29(An et al., 2022)470 maestros de inglésEncuestaProporcionar a los educadores políticas para fomentar la enseñanza de la IA.
+
+
+30(Oskotsky et al., 2022)18 en 2019, 29 en 2020, 27 en 2021 estudiantes admitidos al programa UCSF AI4ALLEvaluación de las transcripciones de los estudiantes, cartas de recomendación y las respuestas de ensayos breves.Más estudiantes estaban familiarizados con trabajar con datos y evaluar y aplicar algoritmos de ML.
+
+
+31(Ahajjam et al., 2022)72,010 alumnos matriculados entre 2,000 y 2,015Predicción de calificaciones utilizando ML y técnicas de minería de datos.Los mejores resultados para una buena orientación académica y profesional fueron con el algoritmo de redes neuronales que proporcionó buenos puntajes y predicciones.
+
+
+32(Suzuki et al., 2022)381 estudiantes de 6 escuelas de secundariaAplicación de algoritmos de MLLa detección e intervención tempranas permiten la mejora del rendimiento académico de los estudiantes.
+
+
+33(Giam et al., 2022)119 maestros provenientes de escuelas intermedias pertenecientes a algunas ciudades de VietnamEncuesta tipo Likert, Análisis cuantitativoLos maestros de secundaria tienen conciencia de la necesidad de implementación de la IA en la educación de secundaria.
+
+
+34(Cheng et al., 2021)30 maestrosModelo integrado para carreras convergentes, Método MixtoPrograma STEM CareerBuilder tuvo un impacto positivo en docentes y estudiantes.
+
+
+35(Ayanwale et al., 2022)368 maestros de primaria y secundariaCuantitativa de modelado de ecuaciones estructuralesLa confianza y relevancia en la enseñanza de la IA predice la intención y preparación de enseñar IA en las instituciones.
+
+
+36(Angara et al., 2022)Estudiantes de grado 9 - 12 en Victoria y BroomfieldActividades desconectadas diseñadas para enseñar conceptos básicos de computación cuántica.La computación cuántica, a través de sus diversas vías, también es accesible para personas después de la escuela secundaria.
+
+
+37(Liu et al., 2022)80 estudiantesAnálisis comparativo de las pruebas previas y posteriores, investigación-acción.La tecnología de IA puede actuar como acompañante del aprendizaje, indicando los problemas que enfrentan los docentes durante el proceso de enseñanza.
+
+
+38(Byun y Kim, 2022)96 estudiantes de secundariaDiseño de asignatura de arte en base a las tendencias, las políticas y los casos de educación en IA debido al COVID-19Las actividades educativas que utilizan IA tuvieron un impacto positivo en la participación e interés de los estudiantes en clase.
+
+
+39(Burgess et al., 2021)10,649 estudiantes de 63 escuelasSelección aleatoria de grupos para incentivos financieros e incentivos no financieros (viajes).Incentivos en escuelas predice que podría ayudar a cerrar brechas.
+
+
+40(Santos García et al., 2021)248,252 registros de estudiantesAplicación de algoritmos de MLEl rendimiento académico alto se relacionó principalmente con las respuestas relacionadas con el entorno académico y las habilidades cognitivas.
+
+
+41(Ahmed et al., 2023)29 niños de secundaria (12 niños y 17 niñas) de 13 a 17 añosEstudio observacional transversal para evaluar la actividad física en varios momentos del día.Necesidad de diseñar programas y estrategias efectivos para mejorar la actividad física en los estudiantes
+
+
+42(Bhavana y Vijayalakshmi, 2022)597 estudiantes de secundaria y educación superiorModelo ARCS (attention, relevance, confidence, and satisfaction) para analizar la Educación de Realidad AumentadaEl uso y la aplicación de realidad para teléfonos inteligentes ayudaría a los estudiantes para aprender y estar más motivados.
+
+
+43(Bruno, 2021)Robot Erwhi HedgehogVisión por computadora y MLAcelerar y simplificar el desarrollo de la robótica. para investigadores, educadores, estudiantes y profesionales.
+
+
+44(Demchenko et al., 2021)129,666 estudiantes y 17,923 docentes de educación superiorLa prueba de chi-cuadrado se utilizó para probar hipótesis estadísticas.Se recomienda introducir en los currículos herramientas para mejorar las competencias digitales a los estudiantes de derecho
+
+
+45(Bogina et al., 2022)20 docentes de escuelas primaria y secundariasDescripción y evaluación de algunas actividades educativasNecesidades educativas de los profesionales que producen sistemas algorítmicos, deben abarcan los aspectos FATE
+
+
+46(Chrysafiadi et al., 2022)140 estudiantes de PregradoInvestigación cuasiexperimentalEl tutor inteligente mejora significativamente el desempeño de los alumnos y alcanzar las metas de aprendizaje.
+
+
+47(Baashar et al., 2022)635 estudiantes de maestríaAlgoritmos de regresión usando MATLAB, rendimiento de modelo y toma de decisiones predictivasVariables como la investigación, estado civil y condiciones de vida, habría mejorado la precisión de modelos ML.
+
+
+48(Blease et al., 2021)120 estudiantes de psicología clínica del programa de máster.Mixta (Cuantitativa y Cualitativa)La educación formal está limitada sobre cómo las herramientas de IA/ML podrían afectar a la psicoterapia.
+
+
+49(Almoqbil et al., 2021)251.000 cuentas de los estudiantes, profesores, personal, exalumnos y jubilados, todos mayores de 18 años.Información de los correos electrónicos de phishing al administrador de la red.El phishing aumentó en el verano y la temporada de vacaciones, el personal y los estudiantes eran el público objetivo principal.
+
+
+50(Ban y Ning, 2021)Estudiantes de primaria3 meses de enseñanza en 6 clases.Los datos únicos del sistema educativo incluyen no solo los datos de conversación generados por la interacción profesor-alumno, sino también los datos de gestión educativa.
+
+
+51(Bakker et al., 2023)101 estudiantes con TEA de la Vrije Universiteit AmsterdamAplicación de algoritmos de MLLas instituciones pueden reducir el riesgo de abandono escolar y aumentar la finalización de estudios para estudiantes autistas.
+
+
+52(Alvarado Uribe et al., 2022)121,584 estudiantes de secundaria y pregradoCiclo de vida de los datosUn modelo apropiado beneficiaría a los estudiantes con estrategias oportunas y personalizadas para apoyar su permanencia en la carrera.
+
+
+53(Salas Rueda et al., 2022)54 docentes de la Universidad Nacional de MéxicoInvestigación cuantitativaLos CVWs y MOOCs influyen positivamente en el aprendizaje y la participación de los estudiantes.
+
+
+54(Gerlache et al., 2022)4,522 registros con datos de los estudiantes de MásterAplicación de algoritmos de MLLa IA es capaz de predecir situaciones educativas con una precisión superior al 96%.
+
+
+55(Alshaikh et al., 2021)960 registros de estudiantes de ciencias, medicina, informática e ingenieríaSe utilizó la técnica de filtrado colaborativo para construir el sistema de recomendaciónSe predijo la especialización a estudiar para cada estudiante con buena precisión.
+
+
+
+
+Fuente: elaboración propia.Nota:  TEA: Trastorno del Espectro Autista, RF: Random Forest, FATE: fairness, accountability, transparency and ethics, MLR: multilevel logistic regression, PSO: post-high school outcomes, CVWs: Collaborative Virtual Walls (CVWs), MOOCs:    Massive Open Online Courses.
+
+
+Información adicional 
+
+Cómo citar: Forero-Corba, W., & Negre Bennasar, F. (2024). Techniques and applications of Machine Learning and Artificial Intelligence in education: a systematic review. [Técnicas y aplicaciones del Machine Learning e Inteligencia Artificial en educación: una revisión sistemática]. RIED-Revista Iberoamericana de Educación a Distancia, 27(1). https://doi.org/10.5944/ried.27.1.37491
+

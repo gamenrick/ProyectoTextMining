@@ -1,0 +1,2635 @@
+Explicación socioespacial de la brecha digital en el espacio intrametropolitano de Toluca
+Autor desconocido
+org.mx
+
+
+
+
+Artículos
+Explicación socioespacial de la brecha digital en el espacio
+					intrametropolitano de Toluca
+Socio-spatial explanation of the digital divide in the
+						intra-metropolitan area of Toluca
+Tania Chávez-Soto* 
+			http://orcid.org/0000-0002-6884-0415
+Luis Cervera-Gómez** 
+			http://orcid.org/0000-0003-0495-7590
+Iván Vilchis-Mata*** 
+			http://orcid.org/0000-0002-3275-585X
+Carlos Garrocho-Rangel* 
+			http://orcid.org/0000-0001-9181-3151
+*El Colegio Mexiquense, México
+**El Colegio de Chihuahua, México
+***Conacyt-El Colegio Mexiquense,
+					México
+
+
+Resumen
+Exploramos quiénes, dónde, cuánto y por qué
+					padecen Brecha Digital de primer nivel, en el espacio intrametropolitano de
+					Toluca: a escala global y de cada una de sus 12,307 manzanas. La literatura no
+					reporta trabajos que examinen estas preguntas con esta desagregación espacial.
+					Se construyó un Índice Socioespacial de Brecha Digital, utilizando técnicas de
+					autocorrelación espacial y un modelo de Regresión Geográficamente Ponderada, que
+					explica el fenómeno en términos estadísticos, con significancia global y de
+					manzana. Las variables explicativas más importantes fueron: escolaridad,
+					religión, densidad de población, migración y etnicidad. Educación es la variable
+					clave. Perfilamos una política de reducción de la Brecha Digital acorde a las
+					realidades socioterritoriales de la ZMT.
+Palabras clave Brecha digital de primer nivel; Zona Metropolitana de Toluca; regresión geográficamente ponderada
+Abstract
+We explore who, where, how much and why suffer
+					from the first level Digital Divide in the intra-metropolitan area of Toluca. On
+					a global scale and in each of its 12,307 blocks. The literature does not report
+					works that examine these questions with this spatial disaggregation. We use a
+					Socio-spatial Index of Digital Gap, spatial autocorrelation techniques, and a
+					Geographically Weighted Regression model, explaining the phenomenon in
+					statistical terms, with global and block significance. The most important
+					explanatory variables were: schooling, religion, population density, migration,
+					and ethnicity. Education is a crucial variable. We outline a policy to reduce
+					the Digital Divide according to the socio-territorial realities of the ZMT.
+Keywords First level digital divide; Toluca Metropolitan Area; geographically weighted regression
+Introducción
+Las Tecnologías de la Información y las Comunicaciones (TIC) juegan un rol cada vez
+				más importante en la vida de las personas (Alexander
+						et al., 2015). Son claves para aprovechar
+				oportunidades fundamentales de bienestar y desarrollo: educación, salud y empleo
+					(Hernández-García y Giménez-Júlvez,
+				2020); para realizar actividades básicas: abasto, trámites gubernamentales y
+				bancarios (Fagerstrøm et al.,
+					2020); inciden en las interacciones interpersonales significativas (Serrano-Puche, 2020); modifican la organización
+				social, económica, política de las sociedades (Khan
+						et al., 2020).1
+
+El acceso, uso y aprovechamiento de las TIC no son homogéneos, tienden a concentrarse
+				en ciertos grupos socioeconómicos, sectores de actividad, organizaciones,
+				territorios (Warf, 2020). Esto amplía las
+				desigualdades estructurales de acceso a oportunidades de bienestar y desarrollo
+					(Chiou y Tucker, 2020), que perjudican
+				mayormente a la población más vulnerable, a los sectores y empresas menos rentables,
+				a los territorios más pobres, y se manifiesta en la llamada brecha digital (Navarro et al., 2018).
+Existen diversas definiciones de brecha digital. En términos amplios, se refiere a
+				las desigualdades de acceso, uso y aprovechamiento social de los beneficios de las
+				TIC, en el contexto de la economía digital y la sociedad de la información y el
+				conocimiento. Esto se registra a diferentes escalas: individuos, hogares, países
+					(Toudert, 2019; Van Dijk, 2020; UIT,
+					2020; Pick et al.,
+					2020).
+Una de las definiciones de brecha digital más citadas en la literatura es la de la
+					OECD (2001: 9): “es la brecha entre
+				individuos, hogares, negocios y áreas geográficas de diferentes niveles
+				socioeconómicos, respecto a sus oportunidades de acceso a las TIC y su uso para una
+				amplia variedad de actividades”.2
+				Aunque esta definición no considera el tema del aprovechamiento, es interesante por
+				su contenido espacial: quien dispone de TIC domina la virtualidad del espacio,
+				reduce costos de movilidad y transporte e incrementa su accesibilidad a las
+				oportunidades que ofrece el territorio (e.g. bienes, servicios, información en la
+				ciudad, la región, el mundo) (Warf,
+				2020).
+Coincidir en espacio y tiempo implica un costo alto que tiende a disminuir con las
+				TIC (Hernández et al., 2020;
+					Schliephake, 2018). La brecha digital
+				discrimina, amplía las desigualdades sociales que se reconfiguran en el territorio,
+				generando una brecha socioespacial que fractura la sociedad, el
+				espacio, la ciudad (Pérez-Tamayo et
+						al., 2017; Mueller,
+					2017; Van Dijk, 2020). Desintegra,
+				divide, segrega a los que acceden, usan y aprovechan las TIC de los que no (Ortiz-Porras, 2021). La brecha digital está
+				inmersa en un círculo vicioso de doble causalidad; por un lado, el rezago
+				tecnológico y productivo fomenta la desigualdad; por el otro, la desigualdad
+				constituye una barrera para la propagación tecnológica (CEPAL, 2020).
+En un entorno que depende cada vez más del conocimiento y la información, la brecha
+				digital es una de las formas más crueles de discriminación socioespacial (Bekerman y Rondanini, 2020): las TIC definen
+				quién se beneficia, cuándo, cuánto, cómo y dónde de las oportunidades de bienestar y
+				desarrollo, de la información, del conocimiento (Garrocho, 2013). Este trabajo parte de la hipótesis de que existen zonas
+				intraurabanas víctimas de la brecha digital, a las que llamamos desiertos
+					digitales urbanos.
+Las TIC no sólo generan beneficios, también generan efectos negativos:
+					sicológicos (e.g. aumenta el estrés debido a la presión para
+				trabajar en casa, uso excesivo que afecta el trabajo escolar y laboral),
+					económicos y financieros (e.g. compras de impulso,
+				participación en juegos de azar), culturales (e.g. pornografía
+				infantil, acoso, robo de identidad, ciberbuling),
+					sociales (e.g. infodemia, debilitamiento de redes sociales,
+				soledad, aislamiento), personales (e.g. ansiedad, hostilidad,
+				problemas de sueño y de postura) (Ragnedda y
+					Kreitem, 2018; Scheerder et
+						al., 2019). Estos aspectos negativos de las TIC son poco
+				reportados en la literatura.
+Las perspectivas dominantes para examinar la brecha digital son (Navarro et al., 2018): i)
+					tecnológica, enfatiza la provisión de infraestructura digital;
+				ii) socioeconómica, se enfoca a las condiciones económicas de las
+				familias e individuos para acceder, usar y aprovechar las TIC; iii)
+					sociocultural, analiza los procesos implicados en el uso,
+				socialización y significados de las TIC entre grupos sociales; iv)
+					subjetivo-individual, devela las actividades individuales en su
+				interacción con las TIC: para qué se utilizan y cuán creativo es su uso; v)
+					praxiológica, examina la práctica de los usuarios: los
+				individuos no solo requieren acceso a las TIC, necesitan habilidades digitales para
+				aprovecharlas; vi) axiológica, privilegia los valores implícitos en
+				el uso de las TIC y la importancia del contexto en el que se inscriben; vii)
+					política, resalta el papel de las políticas públicas que
+				promuevan la generación, acceso, uso y aprovechamiento de las TIC (Andrés, 2014; Alva de la Selva; 2015). En este trabajo predominan las perspectivas
+				tecnológica y socioeconómica, desde un enfoque de Ciencias Sociales
+					Espacialmente Integradas (CSEI: Garrocho, 2015).
+El enfoque CSEI, permite considerar diversos enfoques analíticos, articulándolos
+				mediante dos dimensiones básicas: espacio y tiempo.3 Esto facilita escapar de las tradiciones reduccionistas
+				que fragmentan la ciencia mediante fronteras disciplinarias, a menudo arbitrarias,
+				que conducen a análisis aislados unos de otros. En el mundo real, los procesos
+				sociales interactúan dinámicamente entre sí, en entornos
+					espaciotemporales concretos.4 Además, el CSEI permite utilizar nuevos instrumentos y
+				métodos para incorporar explícitamente el espacio y el tiempo a los análisis
+				sociales (e.g. estadística espacial), lo que fortalece la comprensión integral de
+				procesos sociales interrelacionados y el diseño de políticas públicas y privadas más
+				focalizadas (Garrocho,
+				2016). Este tema es clave: los análisis sobre brecha digital apenas inician
+				en México, no se han diseñado abordajes multidisciplinarios y las investigaciones
+				publicadas no consideran el espacio intraurbano (Márquez et al., 2016; Navarro et al., 2018: 55-57).
+Nuestro enfoque permitirá cumplir los objetivos del trabajo: i) comprender las causas
+				socioeconómicas que originan, refuerzan y reproducen la exclusión a las TIC al
+				interior de la Zona Metropolitana de Toluca (ZMT); ii) identificar los grupos de
+				población y espacios micropolitanos según su intensidad de exclusión; y, iii)
+				Perfilar políticas que reduzcan la exclusión socioespacial a las TIC, uno de los
+				problemas más desafiantes que enfrenta la sociedad de la información y el
+				conocimiento, especialmente en el contexto del Covid-19. Existe evidencia de que en
+				México la brecha digital se agravó con la pandemia (Lloyd, 2020).
+La estrategia de exposición es como sigue. En la primera sección, se aborda el
+				planteamiento teórico de la desigualdad con énfasis en los niveles fundamentales de
+				brecha digital: de acceso, de uso, y de resultado. La segunda sección, describe las
+				fuentes de información y variables consideradas en este trabajo, se detalla la
+				metodología del análisis y se presenta la zona de estudio. En la tercera sección, se
+				valora la fortaleza de nuestro instrumento estadístico, y se presentan y analizan
+				los resultados. La cuarta sección, presenta las conclusiones del trabajo. Se cierra
+				con el listado de las referencias bibliográficas consultadas.
+La brecha digital
+En México, el coronavirus (Covid-19) ha mostrado la cara más descarnada de la brecha
+				digital: su relación con el beneficio desigual que obtiene la población de servicios
+				claves, como los educativos, de salud, abasto, bancarios o la posibilidad de
+				trabajar desde casa, entre otros aspectos fundamentales de la vida cotidiana (López Pérez, 2020; Haider y Al-Salman, 2020). Gran parte de la población no ha
+				podido aprovechar las oportunidades que ofrecen las TIC y mitigar los efectos de la
+				crisis causada por el Covid-19 (Ortega et
+						al., 2020). Esto ha agudizado las desigualdades sociales y
+				digitales de carácter estructural (Beaunoyer
+						et al., 2020; CEPAL,
+					2021).
+La literatura reciente distingue tres niveles de la brecha digital: i) de acceso, ii)
+				de uso, iii) de resultado (Lutz, 2019). Esto
+				ha generado dos posturas predominantes en el estudio de la brecha digital: una
+				privilegia el acceso y uso efectivo de las TIC, la otra apunta a la preponderancia
+				de las habilidades digitales que permiten un mejor aprovechamiento de las
+				tecnologías (Gladkova y Ragnedda, 2020; Van Dijk, 2020). Ambas posturas tratan de
+				identificar los factores explicativos de la brecha digital. Los más estudiados son
+				los socioeconómicos, usualmente a escalas macro: país y región (OECD, 2017; OECD et al., 2020; Berrone y Ricart, 2020). Hay muy pocos estudios publicados sobre
+				determinantes en el espacio intraurbano (e.g. Aysegul
+					y Gunes, 2016; Otioma et
+						al., 2019): hasta donde sabemos, el que aquí presentamos es
+				el primero a escala de manzana.
+Se acepta que la reducción de las desigualdades de acceso a las TIC es una condición
+					necesaria, pero no suficiente para cerrar la
+				brecha digital. Implica disminuir la desigualdad social y digital simultáneamente.
+				La razón: el desarrollo tecnológico avanza todo el tiempo y la desigualdad digital
+				refuerza la desigualdad social preexistente (Azariadis y Stachurski, 2005; Alva de la
+					Selva, 2015; Van Dijk, 2020; Van Deursen, 2020).
+Los países en desarrollo, como México, primero deben mejorar el acceso y la
+				conectividad de hogares, empresas, administraciones públicas, universidades, con el
+				fin de aprovechar al máximo las TIC e impulsar la digitalización (Navarro et al., 2018; Mariscal et al., 2016). No
+				obstante, también es importante desarrollar competencias digitales, mediante más y
+				mejor formación y capacitación en aprovechamiento de TIC (Lutz, 2019).
+Brecha digital: los tres niveles fundamentales
+La desigualdad digital existe en gran parte del mundo (Scheerder et al., 2017; Karar, 2019; Hidalgo et
+						al., 2020; Gladkova y
+					Ragnedda, 2020). Un problema para investigarla es que no existe un modelo
+				único para su análisis y es compleja y dinámica, existen diversas definiciones,
+				niveles, métricas y determinantes (Unwin,
+					2020).5
+
+Primer nivel: brecha de acceso
+La idea de brecha digital se origina en los estudios del Departamento de Comercio
+					de Estados Unidos a finales del siglo pasado. Distinguían dos grupos sociales
+					predominantes: los “info-ricos” (que tienen información) y los “info-pobres”
+					(que carecen de información). El primer grupo tenía acceso a Internet, el
+					segundo no (DC, 1995). Algunos académicos
+					también limitaron la brecha digital a la desigualdad de acceso a Internet (Castells, 2002), otros incluyeron las
+					computadoras (Van Dijk, 2006),
+					recientemente se añadieron todas las TIC (Lutz,
+						2019).
+Este primer nivel de la brecha digital se orienta a las
+					disparidades en su dimensión material: problemas de acceso y equipamiento. Si
+					este enfoque se lleva al extremo, la brecha digital se explica desde el
+					determinismo tecnológico (Mariscal et
+							al., 2016). Para evitarlo, deben considerarse las
+					desigualdades sociales estructurales, que provocan la distribución desigual de
+					los recursos y las disparidades de acceso a las TIC. Esta perspectiva se conoce
+					como teoría de los Recursos y Apropiación (Forenbacher et al., 2019; Van Deursen y Van Dijk, 2018; Van Deursen y Andrade, 2018).
+La literatura menciona factores explicativos claves del primer nivel de la brecha
+					digital: acceso a TIC, diferencias de ingresos, edad, género, escolaridad,
+					origen étnico, densidad de población (Hilbert,
+						2016, estudió 172 países; Srinuan
+							et al., 2012: Tailandia; Van Deursen y Van Dijk, 2018: Holanda; Pick et al., 2020: América
+					Latina y el Caribe).
+Sin embargo, disponibilidad de infraestructura y equipo no significa uso eficaz,
+					autónomo y eficiente de las TIC (Brotcorne y
+						Valenduc, 2009). El valor asociado a las TIC se deriva de su
+						uso: por lo regular, una persona con habilidades digitales
+					y alta formación educativa, aprovechará mejor las TIC que una persona en la
+					condición opuesta (Bowie, 2000).
+					Superadas las dificultades materiales, surgen nuevas formas de brecha digital,
+					ligadas a los modos de uso.
+En los últimos años, la literatura internacional reporta pocos estudios sobre la
+					brecha digital de primer nivel, privilegiando las desigualdades de uso y
+					habilidades digitales, que son parte del segundo nivel de la
+					brecha digital (Van Deursen y Van Dijk,
+						2018; Hilbert, 2016). La
+					explicación: gran parte de la investigación sobre la brecha digital se hace en
+					países avanzados con acceso generalizado a las TIC (OECD, 2017).
+Como lo ha mostrado la pandemia de Covid-19, México está lejos de superar la
+					brecha digital, que se deriva del acceso desigual a los elementos materiales
+					básicos (López-Pérez, 2020). En la
+					postpandemia será vital para la vida cotidiana acceder a las TIC. Por tanto, se
+					debe resolver este primer nivel como condición necesaria,
+					aunque no suficiente, para reducir la brecha digital (Navarro et al., 2018).
+					Esto justifica que en nuestro trabajo se investigue la brecha digital de primer
+					nivel, con un alto grado de desagregación: en el espacio intraurbano y a escala
+					de manzana.
+Segundo nivel: brecha de uso
+Las habilidades cognitivas y los conocimientos digitales son claves para
+					optimizar el uso y aprovechamiento de las TIC (Van Deursen y Van Dijk, 2010). Esta perspectiva de la brecha
+					digital, se denomina brecha de segundo nivel (bautizada así por
+						Hargittai, 2002). Existen dos
+					enfoques dominantes: uno se centra en las desigualdades socioeconómicas de los
+					usuarios de Internet y cómo aprovechan las TIC (Guichard, 2004), y el segundo prioriza conceptualizaciones
+					vinculadas a las habilidades digitales (Van
+						Deursen y Van Dijk, 2015). Van
+						Deursen et al. (2016) distinguen cuatro tipos de
+					habilidades digitales: i) operativas (destrezas básicas para el
+					uso de Internet), ii) informativas (capacidad de encontrar,
+					seleccionar y evaluar fuentes de información en Internet), iii)
+						sociales (habilidad para comunicar e interactuar en línea),
+					iv) creativas (pericia para crear diferentes tipos de
+					contenidos de calidad y publicarlos o compartirlos con otros usuarios de
+					Internet).
+La investigación empírica que mide la capacidad de los individuos para utilizar
+					las TIC tiene limitaciones importantes (Van
+						Deursen y Van Dijk, 2010): faltan definiciones operativas completas
+					de las habilidades digitales y su forma de medición; y usualmente requieren
+					trabajo de campo intensivo, lo que eleva el costo (Van Laar et al., 2017). Algunos estudios
+					recientes, resumen la brecha digital con indicadores sintéticos de acceso y uso
+					de las TIC. Usualmente consideran la disponibilidad de las TIC fundamentales: i)
+					teléfono celular; ii) computadora, tablet o laptop; iii) Internet (Ojo et al., 2019). Estas
+					TIC son, en términos agregados, las más relevantes para la población en México
+						(INEGI, 2020: ENDUTIH, 2019) y otras
+					partes del mundo (Van Dijk, 2017).6
+
+Tercer nivel: brecha de resultado
+Los problemas de acceso, uso y competencia digital no explican el tercer
+						nivel de la brecha digital y el impacto de resultados. El Covid-19
+					ha acelerado la necesidad de reducir las desigualdades de acceso y uso, y
+					adquirir nuevas habilidades digitales (Lloyd,
+						2020). Esto requiere nuevas competencias en Internet de las
+						cosas (IoT), inteligencia artificial (IA), Big Data, minería de
+					datos, neurociencias, biotecnología, entre otras disciplinas (Cotter y Reisdorf, 2020). La brecha digital
+					de tercer nivel deberá investigarse más a fondo, para perfilar estrategias de
+					cómo reducirla (Van Deursen et
+							al., 2019).
+A diferencia del primer y segundo nivel de la brecha digital, que se refieren al
+					acceso y uso de las TIC, el tercer nivel apunta a las diferencias en la
+					capacidad de movilizar recursos digitales, para lograr
+						objetivos específicos. Incluso si los usuarios tienen el mismo
+					nivel de acceso, equipamiento y habilidades, quizá no obtengan los mismos
+					beneficios del uso de las TIC e Internet (Van
+						Deursen y Helsper, 2015). Este tercer nivel aún carece de estudios
+					teóricos sobre los resultados tangibles de la actividad digital (Helsper et al., 2015).
+Se pueden identificar dos niveles de análisis de la brecha digital de tercer
+					nivel: el agregado y el individual (Hwang y Shin, 2017). A nivel agregado, una
+					línea de investigación se enfoca a la contribución de las TIC a la productividad
+					y el crecimiento económico, así como al problema de las divergencias
+					territoriales (Katz, 2018). A nivel
+					individual, hay dos líneas principales de investigación: una, se orienta a los
+					efectos de las TIC en la desigualdad salarial entre trabajadores calificados y
+					no calificados (Marouani y Nilsson,
+					2016); la otra, intenta comprender los efectos benéficos del uso de
+					Internet (Scheerder et al.,
+						2017), en cinco esferas de actividad: económica, social,
+					institucional, política y educativa (Van Deursen
+						y Helsper, 2015).
+La literatura sobre los factores claves de la brecha digital de tercer nivel es
+					limitada (Scheerder et al.,
+						2017). Los estudios empíricos identifican tres categorías de
+					factores: sociodemográficos, económicos y sociales (Castellaccia y Viñas-Bardolet, 2019).
+Materiales y método
+Zona de estudio
+Constituida por 16 municipios, la Zona Metropolitana de Toluca (ZMT: Figura 1 y Tabla 1) alberga 2.3 millones de habitantes, es la quinta más
+					poblada de México, y tiene un grado de urbanización de 85.1 por ciento, que
+					equivale a dos millones de habitantes asentados en 16,913 manzanas urbanas. Para
+					nuestro análisis seleccionamos únicamente 12,307 manzanas urbanas (1.7 millones
+					de habitantes: 74.1 por ciento del total de la ZMT), que cumplen con dos
+					criterios: i) contener viviendas particulares habitadas; y, ii) disponer de
+					información para el cálculo del Índice Socioespacial de Brecha Digital
+					(ISBD).
+
+
+Fuente: elaboración propia.
+Figura 1 Conformación municipal de la Zona Metropolitana de Toluca 
+
+
+Fuente: elaboración propia.
+Figura 1 Conformación municipal de la Zona Metropolitana de Toluca 
+
+
+Tabla 1 Panorama por municipio de las variables empleadas en la
+								ZMT 
+
+
+
+
+
+
+
+
+
+Municipio
+Población 
+Variables de Disponibilidad 
+
+
+Población Total
+Población analizada
+%
+Total de viviendas particulares
+										habitadas
+Porcentaje de viviendas
+										particulares habitadas con 
+
+
+Teléfono
+										celular
+Computadora,
+										tablet o laptop
+Internet
+
+
+
+
+Toluca
+910,608
+819,581
+90.0
+218,309
+90.5
+49.0
+61.8
+
+
+Metepec
+242,307
+238,449
+98.4
+67,389
+92.9
+62.3
+74.3
+
+
+Zinacantepec
+203,872
+137,872
+67.6
+33,084
+87.9
+40.0
+52.9
+
+
+Lerma
+170,327
+96,121
+56.4
+24,844
+91.1
+49.1
+61.3
+
+
+San Mateo Atenco
+97,418
+94,028
+96.5
+22,237
+90.0
+38.3
+55.3
+
+
+Tenango del Valle
+90,518
+56,278
+62.2
+13,195
+83.2
+31.8
+45.1
+
+
+Ocoyoacac
+72,103
+50,747
+70.4
+11,868
+88.2
+38.6
+53.7
+
+
+Almoloya de Juárez
+174,587
+61,044
+35.0
+15,345
+87.1
+31.6
+40.4
+
+
+Otzolotepec
+88,783
+34,168
+38.5
+7,942
+86.1
+30.1
+43.3
+
+
+Temoaya
+105,766
+29,903
+28.3
+6,942
+83.9
+28.5
+38.9
+
+
+Calimaya
+68,489
+32,720
+47.8
+7,487
+86.3
+33.0
+45.0
+
+
+San Antonio la Isla
+31,962
+28,356
+88.7
+7,545
+93.1
+46.4
+62.0
+
+
+Xonacatlán
+54,633
+34,581
+63.3
+8,105
+89.0
+37.2
+51.0
+
+
+Chapultepec
+12,772
+11,441
+89.6
+3,075
+89.9
+44.6
+63.3
+
+
+Rayón
+15,972
+9,066
+56.8
+2,125
+83.7
+36.4
+52.9
+
+
+Mexicaltzingo
+13,807
+10,727
+77.7
+2,624
+85.8
+40.9
+59.7
+
+
+Total
+2,353,924
+1,745,082
+74.1
+452,116
+88.0
+39.9
+53.8
+
+
+Municipio
+Variables Socioeconómicas
+
+
+
+Grado
+											promediode escolaridad
+
+
+Población de 3años y más
+											quehabla alguna
+lengua indígena
+
+
+Población con grupo
+religioso
+protestantes/
+cristianos
+evangélicos
+
+
+Densidad depoblación
+(hab/ha)
+
+
+Poblaciónnacida en
+											otra
+entidad
+
+
+
+Toluca
+11.4
+18,669
+56,735
+168.4
+100,794
+
+
+Metepec
+12.8
+439
+16,513
+341.4
+54,397
+
+
+Zinacantepec
+10.6
+208
+5,758
+100.7
+9,134
+
+
+Lerma
+11.1
+492
+6,592
+142.4
+19,295
+
+
+San Mateo Atenco
+10.8
+247
+5,105
+116.9
+13,775
+
+
+Tenango del Valle
+9.8
+99
+3,808
+121.9
+3,348
+
+
+Ocoyoacac
+10.3
+884
+2,499
+121.3
+4,527
+
+
+Almoloya de Juárez
+10.2
+221
+2,721
+128.8
+5,800
+
+
+Otzolotepec
+9.4
+1,184
+1,990
+133.0
+1,794
+
+
+Temoaya
+9.0
+6,659
+2,639
+83.5
+3,200
+
+
+Calimaya
+10.0
+31
+921
+109.5
+1,348
+
+
+San Antonio la Isla
+11.0
+68
+1,862
+166.3
+5,227
+
+
+Xonacatlán
+10.1
+419
+5,844
+103.2
+2,225
+
+
+Chapultepec
+10.8
+26
+687
+106.5
+2,004
+
+
+Rayón
+10.3
+3
+244
+135.5
+456
+
+
+Mexicaltzingo
+10.4
+20
+570
+118.2
+429
+
+
+Total
+10.5
+29,669
+114,488
+137.3
+227,753
+
+
+
+
+
+Tabla 1 Panorama por municipio de las variables empleadas en la
+								ZMT 
+Variables analizadas
+Nuestra principal fuente de información cartográfica y de las variables
+					empleadas, fue el Censo de Población y Vivienda 2020 del INEGI.
+Para calcular el ISBD, utilizamos tres variables de disponibilidad de TIC: i)
+					viviendas particulares habitadas que disponen de teléfono celular; ii) viviendas
+					que disponen de computadora, tablet o laptop; iii) viviendas que disponen de
+					Internet; y una cuarta variable de referencia: total de viviendas particulares
+					habitadas. Las cuatro se desagregan a escala de manzana.
+Método
+Se siguieron tres fases para develar la dimensión espacial de la brecha digital,
+					en el territorio intrametropolitano de la ZMT.
+En la primera fase se responde la pregunta: ¿Dónde ocurre la brecha
+						digital y con qué intensidades? Con información estadística y
+					cartográfica desagregada a escala de manzanas (INEGI, 2021) se diseñó el Índice Socioespacial de Brecha Digital
+					(ISBD). Su cálculo se muestra en la Ecuación 1:
+
+
+
+ISBD= 100-VPHCel + VPHPc + VPHIntTVPH3 x 100 
+(Ec. 1) 
+
+
+Dónde:
+ISBD = Índice Socioespacial de Brecha Digital.
+VPHCel = Número de viviendas particulares habitadas que disponen de teléfono
+					celular.
+VPHPc = Número de viviendas particulares habitadas que disponen de computadora,
+					tablet o laptop. 
+VPHInt = Número de viviendas particulares habitadas que disponen de Internet.
+TVPH = Número total de viviendas particulares habitadas en cada una de las
+					manzanas. 
+El ISBD es el valor promedio de viviendas que no tienen acceso a las TIC para
+					cada una de las manzanas, expresado en porcentaje. Es nuestra variable
+					dependiente a escala de cada manzana de la ZMT.7
+
+En la segunda fase se exploran los patrones de distribución y
+					aglomeración/dispersión espacial del ISBD. Así podemos contestar la pregunta:
+						¿Cuál es la prioridad de atención para los diversos espacios
+						intrametropolitanos? Estimamos los índices de Autocorrelación
+					Espacial Local de Moran y de Getis-Ord (Gi*)
+					para identificar, con significancia estadística, el grado de dependencia
+					espacial individual del ISBD por manzana, e identificamos clústers o
+					agrupamientos espaciales de manzanas. Clasificamos las áreas estadísticamente
+					significativas en cinco categorías (Lloyd,
+						2010):
+
+
+
+Alto-Alto. Grupo de manzanas con valores altos del
+								ISBD (superiores a la media) rodeadas de manzanas que también
+								registran valores altos. Se trata de espacios intraurbanos
+								segregados negativamente: prioritarios en materia de atención, por
+								su alta brecha digital. Son desiertos digitales
+									urbanos.
+Bajo-Bajo. Grupo de manzanas con valores bajos del
+								ISBD (inferiores a la media) que son vecinas de manzanas que también
+								registran valores bajos. Son espacios segregados positivamente,
+								no-prioritarios para atención, por su baja brecha digital:
+									vergeles digitales urbanos.
+Alto-Bajo. Grupo de manzanas con valores altos del
+								ISBD rodeadas de manzanas con valores bajos. Espacios de
+									segregación mixta positiva: pueden recibir
+								ventajas de manzanas vecinas de bajo ISBD.
+Bajo-Alto. Grupo de manzanas con valores bajos del
+								ISBD rodeadas de manzanas con valores altos. Espacios de
+									segregación mixta negativa: pueden recibir
+								desventajas de manzanas vecinas con alto ISBD.
+Estadísticamente no significativas. Grupo de
+								manzanas con valores no-significativos en términos estadísticos,
+								respecto a la configuración de clústers o agrupamientos.
+
+
+
+Alto-Alto. Grupo de manzanas con valores altos del
+								ISBD (superiores a la media) rodeadas de manzanas que también
+								registran valores altos. Se trata de espacios intraurbanos
+								segregados negativamente: prioritarios en materia de atención, por
+								su alta brecha digital. Son desiertos digitales
+									urbanos.
+Bajo-Bajo. Grupo de manzanas con valores bajos del
+								ISBD (inferiores a la media) que son vecinas de manzanas que también
+								registran valores bajos. Son espacios segregados positivamente,
+								no-prioritarios para atención, por su baja brecha digital:
+									vergeles digitales urbanos.
+Alto-Bajo. Grupo de manzanas con valores altos del
+								ISBD rodeadas de manzanas con valores bajos. Espacios de
+									segregación mixta positiva: pueden recibir
+								ventajas de manzanas vecinas de bajo ISBD.
+Bajo-Alto. Grupo de manzanas con valores bajos del
+								ISBD rodeadas de manzanas con valores altos. Espacios de
+									segregación mixta negativa: pueden recibir
+								desventajas de manzanas vecinas con alto ISBD.
+Estadísticamente no significativas. Grupo de
+								manzanas con valores no-significativos en términos estadísticos,
+								respecto a la configuración de clústers o agrupamientos.
+En la tercera fase, se contesta la pregunta: ¿Cómo se explica
+						estadísticamente la brecha digital desde un análisis genuinamente
+						espacial? Para esto, estimamos la Regresión Geográficamente
+						Ponderada (RGP, acrónimo en español; GWR por sus siglas en inglés).
+					La RGP es una herramienta que modela procesos heterogéneos (i.e. no
+					estacionarios): mide las variaciones espaciales de las relaciones entre
+					variables dependientes e independientes de manera local (i.e. modelo local),
+					dentro de un área determinada en función de la localización de
+					cada unidad espacial (e.g. manzana): crea una ecuación para cada una. La RGP
+					considera la heterogeneidad espacial en los modelos de regresión con datos
+					georeferenciados (Brunsdon et
+							al., 1996; Fotheringham
+							et al., 2002; Wheeler y Tiefelsdor, 2005; Charlton
+							et al., 2009; Fábián, 2014; Bivand et
+							al., 2017).
+Así, la variable dependiente utilizada fue el ISBD por manzana. Las
+					independientes: escolaridad, etnicidad, religión, densidad de población y
+					migración, que la literatura asocia a la brecha digital (ISBD) y que resultan de
+					nuestros análisis estadísticos exploratorios (ver Resultados).8 No utilizamos estadística
+					estándar, porque en este caso se violaría uno de sus supuestos fundamentales: la
+					independencia de las observaciones. La brecha digital registra al menos un tipo
+					de dependencia entre las observaciones: la dependencia espacial (ver
+					Resultados), aspecto poco considerado en la literatura nacional e
+					internacional.
+El modelo RGP local se expresa de la forma siguiente:
+
+
+
+yi = (ui, vi) + β1(ui, vi)xi1 + β2(ui, vi)xi2 + … + βn(ui, vi)xin + ei
+(Ec. 2) 
+
+
+Dónde:
+yi = Variable dependiente en la localización o manzana i.
+
+α = Valor y en la manzana i, cuando
+					todas las variables explicativas son iguales a 0. 
+xin = Valor de la variable explicativa p en la
+					manzana i.
+
+β = Coeficientes de los predictores estimados por el modelo. 
+(ui, vi) = Coordenadas de localización de la manzana i.
+ei = Error observado, debido a variables no controladas en la manzana
+						i.
+La RGP supera a la regresión tradicional (no-espacial) por su nivel de detalle y
+					precisión: ejecuta tantas ecuaciones de regresión como unidades de análisis se
+					tengan (i.e. manzanas). En este trabajo genera una regresión para cada manzana,
+					en función de su localización geográfica y los valores de las manzanas vecinas
+					dentro de un ancho de banda (i.e. número óptimo de vecinos dentro de una
+					distancia establecida: fijo o adaptativo). Por tanto, tienen mayor peso las
+					manzanas concentradas a menor distancia, que las dispersas más lejanas (Fotheringham et al.,
+					2001).
+Otra ventaja de la RGP sobre la estadística tradicional (no-espacial), es que
+					realiza un ajuste específico que permite reconocer cuánto y
+						dónde varia el poder explicativo de las variables independientes,
+					ya que estima coeficientes de determinación locales (R2) para cada
+					unidad espacial (i.e. manzana), explicando la variación según su localización
+					espacial (Fotheringham et al.,
+						2002).
+Cuando se trata de analizar procesos que operan en el territorio, la RGP ofrece
+					mejores resultados en comparación con métodos tradicionales de regresión lineal
+					múltiple (e.g. Mínimos Cuadrados Ordinarios: OLS), que omiten la heterogeneidad
+					espacial. Es decir: los métodos tradicionales no consideran la
+						estructura espacial del fenómeno al analizar las relaciones
+					entre variables. Como si ocurriera en un no-lugar: una hoja de
+					cálculo o un programa de cómputo vacíos de contenido geográfico (Zhang et al., 2017).9 En cambio, la RGP sí incluye la
+					estructura espacial de los procesos que analiza.
+Resultados
+Pregunta 1. ¿Dónde se detecta brecha digital y con qué intensidades?
+El Índice Socioespacial de Brecha Digital (ISBD) expresa el porcentaje de
+						no acceso a TIC en las viviendas, para cada una de las
+					12,307 manzanas analizadas. Es decir: es un acercamiento micro a la brecha
+					digital, que permite focalizar acciones de política pública y privada. No
+					obstante, puede resultar demasiado desagregado para ciertas acciones macro, como
+					las de conectividad, por ejemplo.
+Para facilitar el análisis, clasificamos las manzanas según su ISBD, a partir de
+					la Desviación Estándar, que es un método menos arbitrario que otros, ya que
+					genera cuatro categorías en función de la distribución estadística de sus
+					valores.
+Los rangos de valores de intensidad del ISBD son: Brecha Digital
+						Baja de 0.0 a 16.8 por ciento, con 2,313 manzanas en esta categoría
+					(equivalen a 18.8 por ciento del total); Media Baja de 16.9 a
+					33.7, con 3,902 manzanas (31.7 por ciento); Media Alta de 33.8
+					a 50.6, con 4,062 manzanas (33 por ciento); y Alta de 50.7 a
+					100, con 2,030 (16.5 por ciento) (Tabla 2
+					y Figura 2).
+
+
+Tabla 2 Clasificación de las manzanas en función de las categorías del
+								ISBD 
+
+
+
+
+
+
+
+
+Municipio
+Total de manzanas analizadas
+Categorias de Brecha Digital 
+
+
+Baja 
+Medio Baja 
+Medio Alta 
+Alta 
+
+
+Número de
+										Manzanas
+%
+Número de
+										Manzanas
+%
+Número de
+										Manzanas
+%
+Número de
+										Manzanas
+%
+
+
+
+
+Toluca
+6,097
+1,226
+20.1
+2,205
+36.2
+1,783
+29.2
+883
+14.5
+
+
+Metepec
+1,601
+635
+39.7
+622
+38.9
+302
+18.9
+42
+2.6
+
+
+Zinacantepec
+949
+134
+14.1
+250
+26.3
+348
+36.7
+217
+22.9
+
+
+Lerma
+705
+170
+24.1
+161
+22.8
+265
+37.6
+109
+15.5
+
+
+San Mateo Atenco
+543
+73
+13.4
+111
+20.4
+275
+50.6
+84
+15.5
+
+
+Tenango del Valle
+405
+11
+2.7
+80
+19.8
+159
+39.3
+155
+38.3
+
+
+Ocoyoacac
+380
+9
+2.4
+106
+27.9
+194
+51.1
+71
+18.7
+
+
+Almoloya de Juárez
+367
+15
+4.1
+96
+26.2
+142
+38.7
+114
+31.1
+
+
+Otzolotepec
+233
+5
+2.1
+38
+16.3
+108
+46.4
+82
+35.2
+
+
+Temoaya
+225
+12
+5.3
+26
+11.6
+49
+21.8
+138
+61.3
+
+
+Calimaya
+209
+3
+1.4
+26
+12.4
+125
+59.8
+55
+26.3
+
+
+San Antonio la Isla
+206
+17
+8.3
+82
+39.8
+85
+41.3
+22
+10.7
+
+
+Xonacatlán
+173
+0
+0.0
+36
+20.8
+107
+61.8
+30
+17.3
+
+
+Chapultepec
+89
+1
+1.1
+35
+39.3
+44
+49.4
+9
+10.1
+
+
+Rayón
+67
+1
+1.5
+12
+17.9
+40
+59.7
+14
+20.9
+
+
+Mexicaltzingo
+58
+1
+1.7
+16
+27.6
+36
+62.1
+5
+8.6
+
+
+Total
+12,307
+2,313
+18.8
+3,902
+31.7
+4,062
+33.0
+2,030
+16.5
+
+
+
+Fuente: elaboración propia.
+
+
+Tabla 2 Clasificación de las manzanas en función de las categorías del
+								ISBD 
+Fuente: elaboración propia.
+
+
+ Fuente: elaboración propia. 
+Figura 2 Intensidades del Índice Socioespacial de Brecha Digital
+								(ISBD) 
+
+
+ Fuente: elaboración propia. 
+Figura 2 Intensidades del Índice Socioespacial de Brecha Digital
+								(ISBD) 
+En una primera aproximación visual del ISBD, observamos un patrón espacial
+						Centro-Periferia, que vincula el crecimiento histórico de
+					la ciudad con la distribución de manzanas por categoría de Brecha
+						Digital:
+Baja. Manzanas con distribución Poniente-Centro-Oriente,
+					predominan en cuatro municipios donde se concentra 93.6 por ciento del total de
+					esta categoría: Toluca (1,226 manzanas, sobre todo en las colonias Colón,
+					Morelos, Ciprés, La Mora, Independencia), Metepec (635: San Carlos, La Virgen,
+					La Asunción), Lerma (170: Los Encinos, El Cerrillo, La Merced), y Zinacantepec
+					(134: Zamarrero, Nueva Serratón, San Jorge). Se caracterizan por su alto nivel
+					socioeconómico y educativo. Llama la atención que el municipio de Xonacatlán no
+					registra ninguna manzana en este rango.
+Medio Baja. El patrón de distribución de manzanas se expande en
+					dirección Poniente-Centro-Oriente, predominan en seis municipios que agrupan
+					88.5 por ciento del total de esta categoría, cuatro de ellos también aparecían
+					en la categoría Brecha Digital Baja: Toluca (2,205 manzanas, sobre todo en
+					colonias como El Calvario, Universidad), Metepec (622 manzanas: Casa Blanca, La
+					Pilita, Barrio San Miguel), Zinacantepec (250: Transfiguración, Lindavista), y
+					Lerma (161: Valle de Lerma, La Ciénega); aparecen dos municipios: San Mateo
+					Atenco (111 manzanas: Santa Elena, Barrios Santa María, San Isidro y La
+					Magdalena), y Ocoyoacac (106 manzanas: Santiaguito, Santa María). Estas manzanas
+					también presentan condiciones socioeconómicas favorables.
+Estas categorías de Brecha Digital Baja y Medio
+						Baja, son inferiores a la media metropolitana, concentran 50.5 por
+					ciento del total de manzanas (6,215) y se localizan principalmente en los
+					municipios de Toluca y Metepec (75.4 por ciento). Este patrón espacial se
+					vincula al núcleo central de Toluca: la parte de la ciudad más antigua y
+						consolidada, y con Metepec, donde se concentra la expansión
+					moderna de la metrópoli.
+Medio Alta. Con la mayor cantidad de manzanas (33 por ciento),
+					se distribuye en once municipios que aglomeran 93.7 por ciento del total de este
+					rango: tiene un patrón Poniente-Centro-Oriente, repiten seis municipios que
+					aparecían en las categorías de Brecha Digital Baja y
+						Muy Baja: Toluca (1,783: sobre todo en las colonias La
+					Teresona, Santa Cruz Azcapotzaltongo), Zinacantepec (348: San Luis Mextepec),
+					Metepec (302: La Unión, Ocotitlán), San Mateo Atenco (275: Barrios La Concepción
+					y San Juan), Lerma (265: Adolfo López Mateos, San Pedro Tultepec) y Ocoyoacac
+					(194: San Pedro Cholula). Se suma el municipio de Almoloya de Juárez (142: San
+					Francisco Tlalcilalcalpan). Con patrón Norte-Sur se detectan cuatro municipios:
+					dos al Norte, Otzolotepec (108: Santa María Tetitla) y Xonacatlán (107: Santa
+					María Zolotepec); y dos al Sur, Calimaya (125: Santa María Nativitas, San
+					Lorenzo Cuauhtenco) y Tenango del Valle (159: Santiaguito Cuaxustenco).
+					Predominan las condiciones socioeconómicas bajas y medio bajas.
+Alta. Las manzanas en esta categoría predominan en seis
+					municipios (79.6 por ciento del total de esta categoría), con distribución
+					Poniente-Centro-Oriente: repiten cuatro de las categorías anteriores, Toluca
+					(883: San Cristóbal Huichochitlán, San Andrés Cuexcontitlán, San Pablo Autopan
+					que tiene la mayor población hablante de lengua indígena de la ZMT),
+					Zinacantepec (217: Santa María del Monte, San Antonio Acahualco), Almoloya de
+					Juárez (114: Santiaguito Tlalcilalcalli, San Miguel Almoloyan, Mayorazgo de
+					León) y Lerma (109: San Nicolás Peralta). Con patrón Norte-Sur hay dos
+					municipios, Temoaya (138: San Pedro de Arriba, San Pedro de Abajo que ocupa el
+					segundo sitio en población hablante de lengua indígena de la ZMT); y Tenango del
+					Valle (155: Santa María Jajalpa, San Bartolomé Atlatlahuca). En estos las
+					condiciones socioeconómicas son desfavorables.
+Las categorías de Brecha Digital Medio Alta y
+						Alta, se ubican por encima de la media, concentran 49.5 por
+					ciento del total de manzanas de la ZMT (6,092) y predominan en el espacio
+					intrametropolitano. Los patrones espaciales se vinculan con el crecimiento y
+					expansión hacia las periferias, donde se integran-absorben pueblos originarios,
+					lo que genera una estructura periurbana
+					segregada-fragmentada.
+Pregunta 2. ¿Cuál es la prioridad de atención para los diversos espacios
+					intrametropolitanos?
+La intensidad del ISBD por manzana, ofrece información para alimentar políticas
+					microfocalizadas. Sin embargo, puede ser demasiado fina para políticas de amplio
+					espectro, lo que justifica clasificar las manzanas por prioridad de
+					atención.
+Para establecer prioridades de atención en el territorio, aplicamos la técnica de
+					autocorrelación espacial local Getis-Ord (Gi*), que identifica clústers o
+					agrupamientos de manzanas y los clasifica por categorías de atención (ver
+					metodología) (Tabla 3 y Figura 3):
+
+
+Tabla 3 Clústers de manzanas clasificadas por categorías de atención de
+								Brecha Digital 
+
+
+
+
+
+
+
+
+Municipio
+Total de manzanas analizadas
+Clústers de manzanas 
+
+
+Alto-Alto (Desiertos Digitales)
+										Prioridad de atención 1 
+Alto-Bajo (Segregación Mixta
+										Positiva) Prioridad de atención 2 
+Estadísticamente No
+										Significativos
+
+
+Número de
+										Manzanas
+%
+Número de
+										Manzanas
+%
+Número de
+										Manzanas
+%
+
+
+
+
+Toluca
+6,097
+1,496
+24.5
+171
+2.8
+858
+14.1
+
+
+Metepec
+1,601
+114
+7.1
+90
+5.6
+86
+5.4
+
+
+Zinacantepec
+949
+387
+40.8
+65
+6.8
+250
+26.3
+
+
+Lerma
+705
+259
+36.7
+110
+15.6
+60
+8.5
+
+
+San Mateo Atenco
+543
+208
+38.3
+52
+9.6
+112
+20.6
+
+
+Tenango del Valle
+405
+205
+50.6
+9
+2.2
+191
+47.2
+
+
+Ocoyoacac
+380
+148
+38.9
+98
+25.8
+134
+35.3
+
+
+Almoloya de Juárez
+367
+205
+55.9
+19
+5.2
+101
+27.5
+
+
+Otzolotepec
+233
+127
+54.5
+44
+18.9
+60
+25.8
+
+
+Temoaya
+225
+190
+84.4
+3
+1.3
+3
+1.3
+
+
+Calimaya
+209
+161
+77.0
+24
+11.5
+24
+11.5
+
+
+San Antonio la Isla
+206
+88
+42.7
+31
+15.0
+12
+5.8
+
+
+Xonacatlán
+173
+92
+53.2
+2
+1.2
+79
+45.7
+
+
+Chapultepec
+89
+0
+0.0
+63
+70.8
+15
+16.9
+
+
+Rayón
+67
+55
+82.1
+8
+11.9
+4
+6.0
+
+
+Mexicaltzingo
+58
+1
+1.7
+52
+89.7
+5
+8.6
+
+
+Total
+12,307
+3,736
+30.4
+841
+6.8
+1,994
+16.2
+
+
+Municipio
+
+Total demanzanas
+analizadas
+
+
+Clústers de manzanas
+
+
+
+
+Bajo-Alto(Segregación Mixta
+											Negativa)Prioridad de atención
+											3
+
+
+Bajo-Bajo(Aventajados)
+Prioridad de atención 4
+
+
+EstadísticamenteNo
+											Significativos
+
+
+
+
+Número de
+Manzanas
+
+%
+
+Número de
+Manzanas
+
+%
+
+Número de
+Manzanas
+
+%
+
+
+Toluca
+6,097
+283
+4.6
+3,289
+53.9
+858
+14.1
+
+
+Metepec
+1,601
+53
+3.3
+1,258
+78.6
+86
+5.4
+
+
+Zinacantepec
+949
+13
+1.4
+234
+24.7
+250
+26.3
+
+
+Lerma
+705
+7
+1.0
+269
+38.2
+60
+8.5
+
+
+San Mateo Atenco
+543
+23
+4.2
+148
+27.3
+112
+20.6
+
+
+Tenango del Valle
+405
+0
+0.0
+0
+0.0
+191
+47.2
+
+
+Ocoyoacac
+380
+0
+0.0
+0
+0.0
+134
+35.3
+
+
+Almoloya de Juárez
+367
+41
+11.2
+1
+0.3
+101
+27.5
+
+
+Otzolotepec
+233
+2
+0.9
+0
+0.0
+60
+25.8
+
+
+Temoaya
+225
+0
+0.0
+29
+12.9
+3
+1.3
+
+
+Calimaya
+209
+0
+0.0
+0
+0.0
+24
+11.5
+
+
+San Antonio la Isla
+206
+3
+1.5
+72
+35.0
+12
+5.8
+
+
+Xonacatlán
+173
+0
+0.0
+0
+0.0
+79
+45.7
+
+
+Chapultepec
+89
+11
+12.4
+0
+0.0
+15
+16.9
+
+
+Rayón
+67
+0
+0.0
+0
+0.0
+4
+6.0
+
+
+Mexicaltzingo
+58
+0
+0.0
+0
+0.0
+5
+8.6
+
+
+Total
+12,307
+436
+3.5
+5,300
+43.1
+1,994
+16.2
+
+
+
+
+
+Tabla 3 Clústers de manzanas clasificadas por categorías de atención de
+								Brecha Digital 
+
+
+Fuente: elaboración propia.
+Figura 3 Clústers del ISBD clasificado por categorías de atención de
+								Brecha Digital 
+
+
+Fuente: elaboración propia.
+Figura 3 Clústers del ISBD clasificado por categorías de atención de
+								Brecha Digital 
+Alto-Alto (Desiertos Digitales)
+Prioridad de atención 1: máxima prioridad. Son áreas integradas por manzanas con
+					Alta Brecha Digital, rodeadas de manzanas que presentan también Brecha Digital
+					Alta. Lo conforman 3,736 manzanas (30.4 por ciento del total de la ZMT). Tienden
+					a localizarse en las periferias de la ciudad y sus condiciones socioeconómicas
+					son las más desfavorables y de mayor exclusión.
+Alto-Bajo (Clústers con Segregación Mixta Positiva)
+Prioridad de atención 2. Son agrupamientos de manzanas con Alta Brecha Digital,
+					rodeadas de manzanas con Brecha Digital Baja. Los llamamos de segregación mixta
+						positiva, porque las manzanas de Brecha Digital Baja (en
+					estos entornos son más numerosas) pueden trasladar ventajas o externalidades
+						positivas a las que registran Brecha Digital Alta (e.g.
+					conectividad). Estos clústers suman 841 manzanas (6.8 por ciento de la ZMT), se
+					distribuyen de manera dispersa hacia periferias de la ciudad.
+Bajo-Alto (Clústers con Segregación Mixta Negativa)
+Prioridad de atención 3. Son entornos de manzanas con Baja Brecha Digital,
+					rodeadas de manzanas con Alta Brecha Digital. Los llamamos de segregación mixta
+						negativa, porque las manzanas de Brecha Digital Alta (que
+					son más numerosas en estos clústers) pueden trasladar desventajas o
+					externalidades negativas a las de Brecha Digital Baja (e.g.
+					robo de señal, daños a la red de conectividad), suman 436 manzanas (3.5 por
+					ciento de la ZMT), que tienden a aglomerarse en dirección
+					Poniente-Centro-Oriente.
+Bajo-Bajo (Clústers Aventajados)
+Prioridad de atención 4. Entornos privilegiados no-prioritarios por su Baja
+					Brecha Digital, constituidos por 5,300 manzanas (43.1 por ciento de la ZMT: poco
+					menos de la mitad del espacio intrametropolitano). Su localización predominante
+					es Poniente-Centro-Oriente: Toluca, Metepec, Lerma, San Mateo Atenco,
+					Zinacantepec.
+Clústers estadísticamente no significativos
+Estas manzanas no se agrupan en forma estadísticamente significativa. Sin
+					embargo, muchas requieren atención. La intensidad de las acciones las define el
+					ISBD de cada manzana, que se estimó para responder la pregunta 1. Suman 1,994
+					manzanas, 16.2 por ciento de la ZMT (Tabla
+						3 y Figura 3).
+Pregunta 3. ¿Cómo se explica estadísticamente la brecha digital con un modelo
+					RGP?
+Selección de las variables independientes. Se realizaron análisis estadísticos
+					espaciales y no espaciales para seleccionar las variables. Los criterios de
+					selección fueron diversos, destacan: pruebas de no
+						multicolinearidad, de homocedasticidad en
+					los valores residuales, de heterogeneidad, dependencia espacial
+					(I de Morán y Gi* de Getis-Ord: incluyendo la variable dependiente) y capacidad
+					de explicación (R2) (Anselin,
+						1995, 2017). Todas las
+					variables explicativas del ISBD presentaron autocorrelación espacial
+					estadísticamente significativa (99 por ciento). Las variables que integran el
+					modelo RGP son: escolaridad, etnicidad, religión, densidad de población y
+					migración.
+Fortaleza del Modelo RGP
+Se construyeron cinco modelos RGP y se eligió el que registró el Criterio
+						de Información de Akaike (AIC, por sus siglas en inglés) más bajo:
+					indica el mejor ajuste a los datos de modelos con la misma variable
+					independiente (Fotheringham et
+							al., 2002; Martínez
+							et al., 2009). Se registra una leve diferencia
+					de la bondad de ajuste entre el modelo RGP que seleccionamos (R2 =
+					0.77) y el modelo global de Mínimos Cuadrados Ordinarios (MCO:
+						R2 = 0.75). Sin embargo, el modelo RGP ofrece información
+						local a escala de manzana, considera procesos no
+					estacionarios y la estructura espacial de la Brecha Digital (ISBD) en la ZMT, lo
+					que lo hace superior al modelo (MCO) que es no-espacial: no
+					considera la heterogeneidad de la Brecha Digital en el territorio (Fotheringham et al.,
+						2002).10
+
+Los residuales del modelo RGP seleccionado muestran que se cumple el supuesto de
+						homocedasticidad (i.e. cualquier muestra al azar de los
+					residuales tendrá la misma media y varianza). Esto lo indican los valores bajos
+					de: Índice de Moran (0.143), Z (1.61) y
+						p (0.106). Se acepta la hipótesis de que la autocorrelación
+					espacial no radica en los valores de los residuales. Además, el valor del
+					estadístico P de Jarque-Bera es 0.00, lo que confirma que los
+					residuales están normalmente distribuidos. Esto implica que nuestro modelo RGP
+					de la Brecha Digital en la ZMT, sí incluye la heterogeneidad espacial del
+					fenómeno.
+El modelo RGP que seleccionamos tiene un nivel de significancia de 99.0 por
+					ciento, para cada variable independiente, lo que revela que la heterogeneidad
+					espacial es significativa para los parámetros de las variables explicatorias
+					(para explicar el fenómeno de la Brecha Digital en el territorio). Lo mismo
+					indican los interceptos locales, de acuerdo a los valores p
+					derivados del test formal de Montecarlo (Wheeler
+						y Tiefelsdor, 2005; Sánchez-Peña,
+						2012).
+No existen problemas de multicolinearidad o conflicto entre las
+					variables que explican el ISBD. Lo corroboran valores menores a 10.0 del
+						factor de inflación de la varianza (VIF por sus siglas en
+					inglés), que indica la fortaleza de la correlación entre el ISBD y las variables
+					explicatorias: escolaridad (1.68), etnicidad (1.13), religión (1.03), densidad
+					de población (1.04) y migración (1.58).
+Bondad de ajuste Global y Local del modelo RGP
+La bondad de ajuste global del modelo RGP arroja un coeficiente de determinación
+						(R2) de 0.78, indica un alto nivel explicativo de la brecha
+					digital con las cinco variables seleccionadas. El mapa de los ajustes locales
+						(R2), permite visualizar la variación espacial del poder
+					explicativo del modelo. 
+Respecto al ajuste local, la variabilidad del coeficiente R2 oscila
+					entre 0.88 y 0.33, refleja que de las 12,307 unidades espaciales analizadas
+					(i.e. manzanas): 11,654 manzanas presentan un buen nivel explicativo
+						(R2 entre 0.88 y 0.50); 620 manzanas regular (R2 entre
+					0.49 y 0.40); y 33 manzanas malo (R2 entre 0.39 y 0.33). Es muy
+					importante interpretar el comportamiento y significado espacial del ajuste
+						(R2) entre las variables explicativas y el ISBD observado en la
+						Figura 4.
+
+
+Fuente: elaboración propia.
+Figura 4 Bondad de ajuste local (R2) del modelo RGP 
+
+
+Fuente: elaboración propia.
+Figura 4 Bondad de ajuste local (R2) del modelo RGP 
+Explicar la variabilidad espacial de la R2 local es complicado, ya que
+					las relaciones entre la variable dependiente y las independientes no es
+					constante ni homogénea en el territorio: las relaciones son
+						no-estacionarias con cambios de magnitud para cada unidad
+					espacial (e.g. manzanas) en función de su ubicación geográfica y los valores o
+					condiciones de las unidades vecinas, que influyen de manera positiva
+					(disminuyen) o negativa (incrementan) la brecha digital de cada unidad espacial
+					en el espacio intrametropolitano. De cualquier manera, se puede concluir que la
+						R2 se incrementa con la distancia, partiendo de la parte central
+					del municipio de Toluca hacia el noroeste y suroeste donde los niveles
+					explicativos más bajos corresponden a regiones rurales. 
+La alternativa para explicar estadísticamente la variabilidad espacial de la
+						R2 local, consiste en aprovechar el modelo RGP y analizar el
+					efecto de cada una de las variables independientes en el ISBD.
+Explicación estadística del modelo RGP
+Explicamos la influencia de las variables independientes y la dirección de la
+					relación (i.e. signo positivo o negativo), respecto del comportamiento de la
+					variable dependiente ISBD en el espacio intrametropolitano, a escala de
+						manzana.11
+
+Escolaridad
+La variable grado promedio de escolaridad resultó ser la más
+					significativa. Los coeficientes presentan valores entre -11.98 y -4.38 (rango de
+					elasticidad: 7.6), ambos con signo negativo. Es decir, la escolaridad es el
+					mayor contrapeso de la brecha digital, su comportamiento siempre tiende a
+					reducir el ISBD: a mayor grado de escolaridad, menor brecha
+						digital (Figura
+						5a).
+
+
+Fuente: elaboración propia.
+Figura 5a Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+
+
+Fuente: elaboración propia.
+Figura 5a Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+El modelo RGP muestra que la influencia de la variable escolaridad afecta de
+					manera diferencial cada localización. Con mayor efecto a reducir el ISBD en
+					Metepec (12.8 años: Licenciatura) y Toluca (11.4 años: Preparatoria). Menor
+					efecto de reducción en Otzolotepec (9.4 años: Secundaria) y Temoaya (9.0 años:
+					Secundaria). La variabilidad espacial respecto a unidades vecinas, enfatiza
+					diferencias territoriales: segregación mixta negativa o positiva a las TIC, una
+					delgada línea entre las categorías de Brecha Digital (ver pregunta 2).
+Por tanto, para el espacio intrametropolitano de la ZMT: el incremento en
+						un nivel de escolaridad (i.e. primaria, secundaria, preparatoria,
+					licenciatura, y posgrado), equivale a reducir en 17 por ciento, en
+						promedio, la brecha digital. Esto varía para cada manzana.
+Etnicidad
+El porcentaje de población de tres años o más que habla alguna lengua
+						indígena es muy significativo, ya que es la única variable que
+					afecta positivamente el modelo RGP. Los coeficientes presentan valores entre
+					-2.21 y 2.49 (rango: 4.69), ambos extremos con signo diferente, la relación
+					etnicidad y Brecha Digital puede incrementar o reducir el ISBD a escala de
+					manzana. Como lo indica su coeficiente positivo, en general: a mayor
+						porcentaje de población hablante de lengua indígena, mayor brecha
+						digital (Figura 5b).
+
+
+Fuente: elaboración propia.
+Figura 5b Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+
+
+Fuente: elaboración propia.
+Figura 5b Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+La influencia de la población hablante de lengua indígena se concentra en Toluca
+					(18,669 habitantes: San Pedro, Santa María y San Miguel Totoltepec) que se
+					ubican en la categoría Alta Brecha Digital. Temoaya (6,659
+					habitantes: San Pedro de Arriba, San Pedro de Abajo) y Otzolotepec (1,184
+					habitantes: San Mateo Capulhuac, Santa Ana Jilotzingo) clasifican en la
+					categoría Media Alta, ambos con notable población hablante de
+					lengua indígena. 
+La influencia de esta variable se revela incluso en municipios con poca población
+					indígena: Almoloya de Juárez (221 habitantes: Mayorazgo de León) y Tenango del
+					Valle (99 hablantes: San Bartolomé Atlatlahuca, San Francisco Tepexoxuca), que
+					están en la categoría de Alta Brecha Digital. Aunque la
+					población hablante de lengua indígena se ha asociado con exclusión,
+					analfabetismo y bajo nivel educativo, no registra correlación significativa al
+					interior de la ZMT.
+La escala de análisis revela que una cuarta parte de población hablante
+						de lengua indígena en una manzana, incrementa en 10.6 por ciento la brecha
+						digital.
+Religión
+El porcentaje de población perteneciente a grupos religiosos
+						protestantes/cristianos evangélicos, es una variable que no ha sido
+					considerada en trabajos sobre Brecha Digital. Los coeficientes de este predictor
+					registran valores entre -0.20 y 0.46 (rango: 0.66), ambos con signo diferente,
+					esta relación puede incrementar o reducir el ISBD a escala de manzana. En
+					general: a mayor porcentaje de población perteneciente a grupos
+					religiosos protestantes/cristianos evangélicos, menor brecha
+						digital (Figura 5c).
+
+
+Fuente: elaboración propia.
+Figura 5c Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+
+
+Fuente: elaboración propia.
+Figura 5c Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+La mayor cantidad de población identificada con estos grupos religiosos, se
+					encuentra en: Toluca (56,735: Capultitlán, Santa María Totoltepec), Metepec
+					(16,513: San Bartolomé Tlaltelulco), Lerma (6,592: Santiago Analco), Xonacatlán
+					(5,844: San Francisco Xonacatlán), Zinacantepec (5,758: San Luis Mextepec) y San
+					Mateo Atenco (5,105: Santa María la Asunción). Almoloya de Juárez (2,721:
+					Mayorazgo de León) llama la atención, por ser el único espacio que presenta la
+					mayor reducción de brecha digital asociada a esta variable: esta comunidad
+					merece un análisis más profundo.
+La escala del modelo RGP permite asumir que una cuarta parte de la
+						población perteneciente a grupos religiosos protestantes/cristianos
+						evangélicos en una manzana, disminuye en 5.7 por ciento la brecha
+						digital.
+Densidad de población
+La variable densidad de población también es importante, por
+					razones técnicas de conectividad y de difusión de valores e ideas. Los
+					coeficientes tienen valores entre -0.10 y 0.009 (rango: 0.11), ambos con signo
+					diferente, esta relación puede incrementar o reducir el ISBD. No obstante, en
+					general: a mayor densidad de población, menor brecha digital
+						(Figura 5d).
+
+
+Fuente: elaboración propia.
+Figura 5d Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+
+
+Fuente: elaboración propia.
+Figura 5d Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+Manzanas con una densidad de población mayor a mil habitantes por hectárea, se
+					localizan en los municipios de: Metepec, Toluca, Otzolotepec, San Mateo Atenco,
+					Tenango del Valle y Lerma. Esto es atribuible al crecimiento poblacional de la
+					ciudad en las últimas cuatro décadas. El resto de los municipios posee una
+					estructura poblacional menos aglomerada. 
+A escala intrametropolitana se aprecia que las variaciones de densidad se
+					asemejan a las disparidades entre zonas rurales y urbanas. De acuerdo al modelo
+					RGP: una densidad promedio de población de mil habitantes por hectárea,
+						puede reducir hasta en 5.0 por ciento la brecha digital. 
+Migración
+La variable población nacida en otra entidad también es
+					significativa. Los coeficientes tienen valores entre -0.49 y 1.52 (rango: 2.01),
+					ambos con signo diferente, la relación puede incrementar o reducir el ISBD. De
+					acuerdo al modelo RGP: a mayor porcentaje de población nacida en otra
+						entidad, menor brecha digital (Figura
+						5e).
+
+
+Fuente: elaboración propia.
+Figura 5e Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+
+
+Fuente: elaboración propia.
+Figura 5e Comportamiento y relación de influencia de las variables en la
+								brecha digital 
+La mayor cantidad de población nacida en otra entidad, se ubica en los municipios
+					de: Toluca (100,794 personas: Sauces, San Pedro Totoltepec), Metepec (54,397:
+					San Salvador Tizatlalli, San Francisco Coaxusco), Lerma (19,295: Lerma de
+					Villada, Los Cedros), San Mateo Atenco (13,775: Santa María la Asunción),
+					Zinacantepec (9,134: San Luis Mextepec) y Almoloya de Juárez (5,800: Conjunto
+					SUTEYM).
+La atracción poblacional de la ZMT es alta desde el sismo de 1985 en la Ciudad de
+					México. Actualmente, el principal atractor de población de la ZMT es su cercanía
+					a la CDMX (40 kilómetros) y la oferta de vivienda. Entre los inmigrantes
+					predomina la población con alto nivel de escolaridad, sobre todo al municipio de
+					Metepec.
+El modelo RGP indica que a escala de manzana: una cuarta parte de la
+						población nacida en otra entidad, que migre a la ZMT y
+					además cuente con altos niveles educativos, disminuye en un 4.5 por
+						ciento la brecha digital.
+Conclusiones
+Este texto ofrece información sobre quiénes, cuánto, dónde y por qué
+				padecen Brecha Digital en el espacio interior de la ZMT, a escala de manzana. Hasta
+				donde sabemos, la literatura no reporta trabajos que exploren la brecha digital con
+				esta desagregación espacial.
+Nuestro trabajo se orienta a la brecha digital de primer nivel que se deriva de la
+				falta de acceso a TIC básicas. La pandemia de Covid-19 ha demostrado que México está
+				lejos de superar este nivel de la brecha digital (López-Pérez, 2020). En la pospandemia será clave mejorar el acceso a las
+				TIC. Resolver este primer nivel es condición necesaria, aunque
+					no suficiente, para reducir la brecha digital (Navarro et al., 2018).
+Reducir la brecha digital no es la panacea para disminuir desigualdades e impulsar el
+				desarrollo personal y colectivo. Incluso, puede generar consecuencias negativas
+				inesperadas (e.g. favorecer el ocio de baja calidad, degradar el aprendizaje,
+				trasladar costos de operación a los trabajadores). Para lograr los impactos
+				deseados, la reducción de la brecha digital debe apoyarse en una mejor educación, el
+				desarrollo de competencias digitales y capacitación en aprovechamiento de TIC. 
+El análisis empírico para la ZMT se organizó en torno a tres preguntas: ¿Dónde se
+				detecta recha digital y con qué intensidades? ¿Cuál es la prioridad de atención para
+				los espacios intrametropolitanos? ¿Cómo se explica estadísticamente la brecha
+				digital?
+La primera pregunta se respondió con un Índice Socioespacial de Brecha Digital
+				(ISBD), que expresa el porcentaje de no acceso a TIC en las
+				viviendas, para cada una de las 12,307 manzanas analizadas. Es un acercamiento micro
+				a la brecha digital, que permite focalizar acciones de política pública y privada.
+				La segunda pregunta se examinó con técnicas de autocorrelación espacial, que
+				identifican clústers de manzanas y los clasifica según su necesidad de atención.
+				Finalmente, explicamos la brecha digital de primer nivel en la ZMT y exploramos la
+				tercera pregunta, mediante un modelo RGP que considera la heterogeneidad espacial en
+				los modelos de regresión con datos georreferenciados.
+Explicamos cómo seleccionamos las variables independientes del modelo, demostramos su
+				fortaleza, estimamos su bondad de ajuste (R2) global y local (a escala de
+				manzana) y analizamos el peso, influencia y patrón espacial de la bondad de ajuste
+				de las cinco variables claves. Cuatro variables con correlación global negativa:
+				Escolaridad (siempre tiende reducir la exclusión de las TIC), Religión (variable
+				poco explorada en la literatura), Densidad de Población (variable netamente
+				intraurbana) y Migración (muy importante en la ZMT); y una variable con signo
+				positivo, Etnicidad (porcentaje de población hablante de lengua indígena, grupo en
+				gran desventaja que sistemáticamente tiende a incrementar la exclusión). Sin duda,
+				Educación (i.e. grado promedio de escolaridad) es la variable clave, que puede
+				marcar la diferencia en la reducción de la brecha digital.
+Desde nuestro enfoque de Ciencias Sociales Espacialmente Integradas,
+				se acepta que lo único que refleja exactamente la realidad es la realidad misma. El
+				modelo RGP, como todos los modelos, está lejos de ser perfecto: no captura el
+				proceso completo o todas las variables explicativas (Fotheringham et al., 2002). No obstante, nuestro modelo
+				mostró ser robusto, tiene una elevada bondad de ajuste y genera resultados
+				consistentes, sistemáticos y útiles. 
+De acuerdo a sus realidades socioterritoriales, los ejes de una política de reducción
+				integral de la brecha digital en la ZMT, son, al menos:
+Elevar la escolaridad de la población. Cumplir la reforma
+				constitucional del 2021 en materia educativa, de fomento al derecho de inclusión,
+				permanecían y continuidad de la educación superior, gradual y gratuita en México, a
+				partir del año 2022.12 Equipar los
+				centros de todos los niveles educativos con TIC, elevar las habilidades cognitivas y
+				los conocimientos digitales de los estudiantes y los docentes para optimizar el uso
+				y aprovechamiento de las TIC, movilizar recursos digitales, lograr objetivos
+				específicos de impacto. Este y los demás ejes de la política de reducción de la
+				brecha digital, deberían tener en el centro la igualdad e inclusión de las
+				comunidades indígenas.
+Incrementar la asequibilidad de las TIC. Para amplios grupos de
+				población de la ZMT, las TIC son costosas. Una alternativa es formar alianzas entre
+				organizaciones privadas y públicas, para financiar a la población con ingresos más
+				bajos para adquirir o actualizar sus herramientas tecnológicas. También se deberían
+				explorar las compras consolidadas y los microcréditos para TIC.
+Desarrollar infraestructura. Las alianzas público-privadas serían
+				útiles para contar con infraestructura de internet adecuada: ampliar y mejorar la
+				conectividad, ofrecer internet de mayor ancho de banda, velocidad y
+				confiabilidad.
+Reducir las diferencias socioespaciales. La brecha digital se
+				registra entre grupos de población y territorios. Afecta grupos sociales, ocurre en
+				territorios concretos. No basta un enfoque social, se requiere incluir la dimensión
+				territorial. Es clave pensar la inclusión digital de forma más holística, donde se
+				fortalezcan tanto las capacidades individuales y colectivas, como las territoriales.
+				Debe adoptarse un enfoque socioespacial de políticas públicas y privadas, que genere
+				capital sinérgico y social en los territorios para reducir la brecha digital.
+Mejorar los contenidos y aplicaciones en internet. Desarrollar
+				contenidos y aplicaciones con relevancia local, entendibles y útiles para la
+				población de la ZMT. Impulsar iniciativas de protección de datos y actividad en
+				línea. Mejorar la privacidad, seguridad y confianza de los usuarios con el manejo de
+				sus datos.
+Empoderar a los usuarios. Todos los programas de reducción de brecha
+				digital, deben de contar con el acompañamiento de la población: participación de
+				actores claves de cada territorio, toma de decisión consensuada, visión de largo
+				plazo, acciones orientadas las necesidades propias de cada territorio. 
+Aunque el reto para la ZMT es complejo, puede verse como una oportunidad de
+				desarrollo que sube en la agenda de prioridades público-privadas, en la postpandemia
+				del Covid-19.
+Referencias bibliográficas
+Referencias bibliográficas
+Alexander, J.A., van Deursen, A.J. and Helsper, E.J., 2015, “The
+					third-level digital divide: who benefits most from being online?”, in
+						Communication and Information Technologies Annual, vol. 10,
+					pp. 29-52.
+			
+			[ Links ] 
+Alva de la Selva, R., 2015, “Los nuevos rostros de la desigualdad en
+					el siglo XXI: la brecha digital”, en Revista Mexicana de Ciencias
+						Políticas y Sociales, 60(223), 265-285.
+			
+			[ Links ] 
+Andrés, G., 2014, “Una aproximación conceptual a la “apropiación
+					social” de TIC”, en Question, 1 (43), 17-31.
+			
+			[ Links ] 
+Anselin, L., 2017, A local indicator of Multivariate Spatial
+						Association: Extending Geary´s c.*. Center for Spatial Data
+					Science, University of Chicago.
+			
+			[ Links ] 
+Anselin, L., 1995, “Local indicators of spatial association LISA”,
+					in Geographical Analysis, 27(2). 93-115. Disponible en
+					https://doi.org/10.1111/j.1538-4632.1995.tb00 338.x
+			
+			[ Links ] 
+Aroca, M., and Osma, J. F., 2015, “Metodologías para el desarrollo
+					de grupos de investigación multidisciplinares”, en Novos
+						Saberes (2).
+			
+			[ Links ] 
+Aysegul, O. B., and Gunes, K. K., 2016, Spatial Distribution
+						of Intra-Urban Digital Divide in Istanbul, 2nd International
+					Congress of Technology, Management and Social Sciences, 25th to 26th June 2016.
+					Toronto, Ontario, Canadá.
+			
+			[ Links ] 
+Azariadis, C., and Stachurski, J., 2005, “Poverty traps”, in
+						Handbook of economic growth, 1, pp.
+					295-384.
+			
+			[ Links ] 
+Beaunoyer, E., Dupéré, S. and Guitton, M., 2020, “Covid-19 and
+					digital inequalities: reciprocal impacts and mitigation strategies”, in
+						Computers in Human Behavior, vol. 111,
+					106424.
+			
+			[ Links ] 
+Bekerman, U., and Rondanini, A., 2020, “El Acceso a Internet como
+					garantía del derecho a la educación (Internet Access as a Guarantee of the Right
+					to Education)”, en Diario DPI Suplemento Salud Nro,
+					58-14.
+			
+			[ Links ] 
+Berrone, P. y Ricart, J. E., 2020, Índice IESE Cities in
+						Motion 2020. IESE Business School, Universidad de Navarra.
+					Disponible en DOI: Disponible en DOI: https://media.iese.edu/research/pdfs/ST-0542.pdf
+					, consultado el 18/02/2021.
+			
+			[ Links ] 
+Bivand, R., Yu, D., Nakaya, T., and Garcia-Lopez, M. A., 2017,
+						spgwr: Geographically weighted regression. R package
+					version 0.6-32.
+			
+			[ Links ] 
+Bowie, N.A., 2000, “The digital divide: making knowledge available
+					in a global context”, in Schooling for Tomorrow: learning to Bridge the
+						Digital Divide, OECD, París, Francia.
+			
+			[ Links ] 
+Brotcorne, P. and Valenduc, G., 2009, “Les compétences numériques et
+					les inégalités dans les usages d’Internet. Comment réduire ces inégalités?”, in
+						Les Cahiers du Numérique, vol. 5 No. 1, pp.
+					45-68.
+			
+			[ Links ] 
+Brunsdon, C., Fotheringham, A. S., and Charlton, M. E., 1996,
+					“Geographically weighted regression: a method for exploring spatial
+					nonstationarity”, in Geographical analysis, 28(4), pp.
+					281-298.
+			
+			[ Links ] 
+Castellaccia, F. and Viñas-Bardolet, C., 2019, “Internet use and job
+					satisfaction”, in Computers in Human Behavior, vol. 90, pp.
+					141-152.
+			
+			[ Links ] 
+Castells, M., 2002, The Internet Galaxy: Reﬂections on the
+						Internet, Business, and Society, Oxford University Press,
+					Oxford.
+			
+			[ Links ] 
+CEPAL, 2020, Construir un nuevo futuro: una recuperación
+						transformadora con igualdad y sostenibilidad. Santiago de Chile,
+					Comisión Económica para América Latina y el Caribe.
+			
+			[ Links ] 
+CEPAL, 2021, Panorama Social de América Latina,
+						2020. Santiago de Chile, Comisión Económica para América Latina y
+					el Caribe .
+			
+			[ Links ] 
+Charlton, M., Fotheringham, A. S., and Brunsdon, C., 2009,
+					“Geographically weighted regression white paper”, in Kildare: National
+						University of Ireland Maynooth, pp. 1-14.
+			
+			[ Links ] 
+Chiou, L., and Tucker, C., 2020, Social distancing, internet
+						access and inequality. National Bureau of Economic
+					Research.
+			
+			[ Links ] 
+Cotter, K. and Reisdorf, B., 2020, “Algorithmic knowledge gaps: a
+					new dimension of (digital) inequality”, in International Journal of
+						Communication, vol. 14, pp. 745-765.
+			
+			[ Links ] 
+Crovi, D., 2008, “Dimensión social del acceso, uso y apropiación de
+					las TIC”, in Contratexto, 16, 65-79.
+			
+			[ Links ] 
+Department of Commerce, 1995, Falling Through the Net: A
+						Survey of the 'Have Nots' in Rural and Urban America, Department of
+					Commerce, National Telecommunications and Information Administration (DOC),
+					Washington, USA.
+			
+			[ Links ] 
+Fábián, Z., 2014, “Method of the Geographically Weighted Regression
+					and an example for its application”, in Regional Statistics: journal of
+						the Hungarian Central Statistical Office, 4(1),
+					61-75.
+			
+			[ Links ] 
+Fagerstrøm, A., Eriksson, N., & Sigurdsson, V., 2020,
+					“Investigating the impact of Internet of Things services from a smartphone app
+					on grocery shopping”, inJournal of Retailing and Consumer
+						Services, 52, 101927.
+			
+			[ Links ] 
+Forenbacher, I., Husnjak, S., Cvitic, I. and Jovovic, I., 2019,
+					“Determinants of mobile phone ownership in Nigeria”, in
+						Telecommunication Policy, vol. 43 No. 7.
+			
+			[ Links ] 
+Fotheringham, A. S., Brunsdon, C., and Charlton, M., 2002,
+						Geographically weighted regression: the analysis of spatially
+						varying relationships. John Wiley and Sons.
+			
+			[ Links ] 
+Fotheringham, A. S., Charlton, M. E., and Brunsdon, C., 2001,
+					“Spatial variations in school performance: a local analysis using geographically
+					weighted regression”, in Geographical and environmental
+						Modelling, 5(1), pp. 43-66.
+			
+			[ Links ] 
+Garrocho, C., 2013, Dinámica de las ciudades de México en el
+						siglo XXI: cinco vectores clave para el desarrollo sostenible,
+					United Nations Population Fund-Conapo-El Colegio Mexiquense, Ciudad de
+					México.
+			
+			[ Links ] 
+Garrocho, Carlos, 2015, “Ciencias sociales espacialmente
+					integradas”, en Economía, Sociedad y Territorio, 16(50), pp.
+					1-20.
+			
+			[ Links ] 
+Garrocho, C., 2016, “Ciencias sociales espacialmente integradas: la
+					tendencia de Economía, Sociedad y Territorio”, enEconomía, Sociedad y
+						Territorio, 16(50), i-xx.
+			
+			[ Links ] 
+Gladkova, A. and Ragnedda, M., 2020, “Exploring digital inequalities
+					in Russia: an interregional comparative analysis”, in Online Information
+						Review, vol. 44 No. 4, pp. 767-786.
+			
+			[ Links ] 
+Guichard, E., 2004, Mesures de L’Internet,
+						Les Canadiens en Europe, París.
+			
+			[ Links ] 
+Haider, A. S., and Al-Salman, S., 2020, “Dataset of Jordanian
+					university students’ psychological health impacted by using e-learning tools
+					during Covid-19”, in Data in Brief, 32,
+					106104.
+			
+			[ Links ] 
+Hargittai, E., 2002, “Second-level digital divide: differences in
+					people’s online skills”, in First Monday, vol. 7, No.
+					4
+			
+			[ Links ] 
+Helsper, E.J., van Deursen, A.J. and Eynon, R., 2015,
+						Tangible Outcomes of Internet Use. From Digital Skills to Tangible
+						Outcomes Project Report, Oxford Internet Institute,
+					Oxford.
+			
+			[ Links ] 
+Hernández, F. A. L., Ortiz, P. J. M., and Navarro, J. G. C., 2020,
+					“Spatial Interaction in Spending on Public Services by Local Governments. A
+					Panel Approach Using SUR Models”, inStudies of Applied
+						Economics, 33(1), pp. 81-100.
+			
+			[ Links ] 
+Hernández-García, I., and Giménez-Júlvez, T., 2020, “Assessment of
+					health information about Covid-19 prevention on the internet: infodemiological
+					study”, in JMIR public health and surveillance, 6(2),
+					e18717.
+			
+			[ Links ] 
+Hidalgo, A., Gabaly, S., Alonso, G. and Uruena, A., 2020, “The
+					digital divide in light of sustainable development: an approach through advanced
+					machine learning techniques”, in Technological Forecastiong and Scial
+						Change, Vol. 150.
+			
+			[ Links ] 
+Hilbert, M., 2016, “The bad news is that the digital access divide
+					is here to stay: domestically installed bandwidths among 172 countries for
+					1986-2014”, in Telecommunications Policy, 40(6), pp. 567-581. 
+			
+			[ Links ] 
+Hwang, W.S. and Shin, J., 2017, “ICT-speciﬁc technological change
+					and economic growth in Korea”, inTelecommunications Policy ,
+					41(4), pp. 282-294.
+			
+			[ Links ] 
+INEGI, 2020, Encuesta Nacional sobre Disponibilidad y Uso de
+						Tecnologías de la Información en los Hogares (ENDUTIH) 2019, INEGI,
+					México.
+			
+			[ Links ] 
+INEGI, 2021, Censo de Población y Vivienda, 2020.
+					Disponible en Disponible en https://www.inegi.org.mx/app/scitel/Default?ev=10
+					 , consultado el 18/02/2021.
+			
+			[ Links ] 
+Karar, H., 2019, “Algorithmic capitalism and the digital divide in
+					the digital divide in sub-Saharan Africa”, in Journal of Developing
+						Societies, 35(4), pp. 514-537.
+			
+			[ Links ] 
+Katz, R., 2018, “The impact of the broadband internet on
+					employment”, in Pupillo, L., Noam, E. and Waverman, L. (eds.), Digitized
+						Labor, Springer, NY, pp. 95-108
+			
+			[ Links ] 
+Khan, M. L., Welser, H. T., Cisneros, C., Manatong, G., and Idris,
+					I. K., 2020, “Digital inequality in the Appalachian Ohio: Understanding how
+					demographics, internet access, and skills can shape vital information use
+					(VIU)”, in Telematics and Informatics, 50,
+					pp.101-380.
+			
+			[ Links ] 
+Lloyd, C. D., 2010, “Exploring population spatial concentrations in
+					Northern Ireland by community background and other characteristics: an
+					application of geographically weighted spatial statistics”,
+						inInternational Journal of Geographical Information
+					Science, 24(8), pp. 1193-1221.
+			
+			[ Links ] 
+Lloyd, M., 2020, “Desigualdades educativas y la brecha digital en
+					tiempos de Covid-19”, en Casanova Cardiel, H. (coord.), Educación y
+						pandemia: una visión académica (pp. 115-121). Ciudad de México:
+					Universidad Nacional Autónoma de México, Instituto de Investigaciones sobre la
+					Universidad y la Educación.
+			
+			[ Links ] 
+López Pérez, E., 2020, “La industria 4.0 y las nuevas formas de
+					trabajar: una perspectiva desde el caso mexicano en tiempos del Covid-19”, en
+						Lan Harremanak: Revista de Relaciones Laborales, 43, pp.
+					244-263.
+			
+			[ Links ] 
+Lutz, C., 2019, “Digital inequalities in the age of artiﬁcial
+					intelligence and big data”, in Human Behavior and Emerging
+						Technologies, vol. 1, pp. 141-148.
+			
+			[ Links ] 
+Mariscal, J., Larghi, B., y Aguayo, M., 2016, “The informational
+					life of the poor: A study of digital access in three Mexican towns”,
+						inTelecommunications Policy , 40(7), pp.
+					661-672.
+			
+			[ Links ] 
+Marouani, M.A. and Nilsson, B., 2016, “The labor market effects of
+					skill-biased technological change in Malaysia”, in Economic
+						Modelling, vol. 57, pp. 55-75.
+			
+			[ Links ] 
+Márquez, M., Acevedo, A., y Castro, D., 2016, “Brecha digital y
+					desigualdad social en México”, en Economía coyuntural, Revista de temas
+						de coyuntura y perspectivas, 1(2), pp. 89-136.
+			
+			[ Links ] 
+Martínez, D. R., Albın, J., Cabaleiro, J., Pena, T., Rivera, F., and
+					Blanco, V., 2009, “El Criterio de Información de Akaike en la Obtención de
+					Modelos Estadísticos de Rendimiento”, en Conference:
+XX
+Jornadas de Paralelismo.
+			
+			[ Links ] 
+Mitchell, Andy, 2005, The ESRI Guide to GIS
+						Analysis
+, Volume 2: Spatial Measurements and Statistics, CA. ESRI
+					Press, Redlands.
+			
+			[ Links ] 
+Mueller, M., 2017, Will the Internet fragment? John
+					Wiley and Sons.
+			
+			[ Links ] 
+Navarro, D. A. G., López, R. A. A., Domínguez, M. M., y de León
+					Castañeda, C. D., 2018, “La brecha digital una revisión conceptual y
+					aportaciones metodológicas para su estudio en México”, en Entreciencias:
+						diálogos en la sociedad del conocimiento, 6(16), pp.
+					49-64.
+			
+			[ Links ] 
+OECD, 2001, Understanding the digital divide.
+					Organization for Economic Cooperation and Development (OECD), París, Francia. 
+			
+			[ Links ] 
+OECD, 2009, Guide for Measuring Information
+					Society, Organization for Economic Cooperation and Development (OECD),
+					París, Francia.
+			
+			[ Links ] 
+OECD, 2017, Aid for Trade at a Glance 2017-Promoting Trade,
+						Inclusiveness and Connectivity for Sustainable Development,
+					Organization for Economic Cooperation and Development (OECD), París,
+					Francia.
+			
+			[ Links ] 
+OECD et al., 2020, Perspectivas económicas
+						de América Latina 2020: Transformación digital para una mejor
+						reconstrucción, OECD Publishing, Paris,
+					https://doi.org/10.1787/f2fdced2-es.OCDE/NACIONESUNIDAS/CAF/UNIÓNEUROPEA.
+			
+			[ Links ] 
+Ojo, A.O., Arasanmi, C.N., Raman, N. and Tan, C.N., 2019, “Ability,
+					motivation, opportunity and sociodemographic determinants of internet usage in
+					Malaysia”, in Information Development, 35(5), pp.
+					819-830.
+			
+			[ Links ] 
+Ortega, G., Rodriguez, A., Maurer, R., Witt, E., Perez, N., Reich,
+					A. and Bates, W., 2020, “Telemedicine, Covid-19, and disparities: policy
+					implications”, in Health Policy and Technology, 9(33), pp.
+					368-371,
+			
+			[ Links ] 
+Ortiz-Porras, S., 2021, Comunidad postmoderna.
+					Trabajo Fin de Grado.
+			
+			[ Links ] 
+Otioma, C., Madureira, A. M., and Martinez, J., 2019, “Spatial
+					analysis of urban digital divide in Kigali, Rwanda”, in
+						GeoJournal, 84(3), pp. 719-741.
+			
+			[ Links ] 
+Pérez-Tamayo, B. N., Gil-Alonso, F., y Bayona-i-Carrasco, J., 2017,
+					“La segregación socioespacial en Culiacán, México (2000-2010): ¿de la ciudad
+					dual a la ciudad fragmentada?”, en Estudios demográficos y
+						urbanos, 32(3), pp. 547-591.
+			
+			[ Links ] 
+Pick, J. B., Sarkar, A., and Parrish, E., 2020, “The Latin American
+					and Caribbean digital divide: a geospatial and multivariate analysis”, in
+						Information Technology for Development, pp.
+					1-28.
+			
+			[ Links ] 
+Ragnedda, M., and Kreitem, H., 2018, “The three levels of digital
+					divide in East EU countries”, in World of Media. Journal of Russian
+						Media and Journalism Studies, 1(4), pp. 5-26.
+			
+			[ Links ] 
+Rallet, A. and Rochelandet, F., 2004, “La fracture numérique: une
+					faille sans fondement?”, en Réseaux, 5(127-128), pp.
+					19-54
+			
+			[ Links ] 
+Sánchez-Peña, L. L., 2012, “Alcances y límites de los métodos de
+					análisis espacial para el estudio de la pobreza urbana”, en Papeles de
+						Población, 18(72), pp. 147-180.
+			
+			[ Links ] 
+Scheerder, A., van Deursen, A. and van Dijk, J., 2017, “Determinants
+					of internet skills, use and outcomes. A systematic review of the second- and
+					third-level digital divide”, inTelematics and Informatics , 34
+					(8), pp. 1607-1624
+			
+			[ Links ] 
+Scheerder, A., van Deursen, A.J. and van Dijk, A.G., 2019, “Negative
+					outcomes of internet use: a qualitative analysis in the homes of families with
+					different educational backgrounds”, in The Information Society,
+					35 (5), pp. 286-298.
+			
+			[ Links ] 
+Schliephake, K., 2018, “Transport Costs in Space-Geographical Models
+					and Contradictions”, inLocational Analysis of Firms’ Activities from a
+						Strategic Perspective (pp. 3-18). Springer,
+					Singapore.
+			
+			[ Links ] 
+Serrano-Puche, J., 2020, “Affect and the expression of emotions on
+					the Internet: an overview of current research”, in Second international
+						handbook of internet research, pp. 529-547.
+			
+			[ Links ] 
+Srinuan, C., Srinuan, P. and Bohlin, E., 2012, “An analysis of
+					mobile internet access in Thailand: implications for bridging the digital
+					divide”, in Telematics and Informatics , 29 (3), pp. 254-262. 
+			
+			[ Links ] 
+Sunkel, G., 2006, Las tecnologías de la información y la
+						comunicación (TIC) en la educación en América Latina: una exploración de
+						indicadores. Santiago de Chile: Naciones Unidas.
+			
+			[ Links ] 
+Tapscott, D., 1995, La Economía Digital. NY,
+					McGraw-Hill.
+			
+			[ Links ] 
+Toudert, D., 2019, “Brecha digital, uso frecuente y aprovechamiento
+					de Internet en México”, en Convergencia,
+					26(79).
+			
+			[ Links ] 
+UIT, 2020, Manual para la medición del acceso y el uso de
+						las TIC en los hogares y por las personas. Unión Internacional de
+					Telecomunicaciones, Ginebra, Suiza.
+			
+			[ Links ] 
+Unwin, T., 2020, “Digital inequalities”, in Kobayashi, A. (ed.),
+						International Encyclopedia of Human Geography, Elsevier,
+					New York, NY, pp. 347-355.
+			
+			[ Links ] 
+Van Deursen, A. J., and Helsper, E. J., 2015, “The third-level
+					digital divide: Who benefits most from being online?”, en Communication
+						and Information Technologies Annual, Digital Distinctions and
+						Inequalities. Studies in Media and Communications, 10, 29-53.
+					Emerald Group Publishing Limited.
+			
+			[ Links ] 
+Van Deursen, A.J. and Andrade, L.S., 2018, “First- and second-level
+					digital divides in Cuba: differences in the internet motivation, access, skills
+					and usage”, in Peer-Reviewed Journal of the Internet, 23 (8). 
+			
+			[ Links ] 
+Van Deursen, A.J. and Van Dijk, J.A., 2010, “Measuring internet
+					skills”, in International Journal of Human-Computer
+					Interaction, 26 (10), pp. 891-916.
+			
+			[ Links ] 
+Van Deursen, A.J. and Van Dijk, J.A., 2015, “Internet skill levels
+					increase, but gaps widen: a longitudinal cross-sectional analysis (2010-2013)
+					among the Dutch population”, in Information, Communication and
+						Society, 18 (7), pp. 782-797.
+			
+			[ Links ] 
+Van Deursen, A.J. and Van Dijk, J.A., 2018, “The first-level digital
+					divide shifts from inequalities in physical access to inequalities in material
+					access”, in New Media and Society, 21(2), pp.
+					354-375.
+			
+			[ Links ] 
+Van Deursen, A.J., 2020, “Digital Inequality During a Pandemic:
+					Differences in COVID-19-Related Internet Uses and Outcomes among the General
+					Population”, in Journal of Medical Internet Research (in
+					press). Disponible en doi:10.2196/20073
+			
+			[ Links ] 
+Van Deursen, A.J., Helsper, E.J. and Eynonc, R., 2016, “Development
+					and validation of the internet skills scale (ISS)”, in Information,
+						Communication and Society, 19 (6), pp. 804-823
+			
+			[ Links ] 
+Van Deursen, J.A., Van der Zeeuw, A., Boer, P., Jansen, G. and Van
+					Rompay, T., 2019, “Digital inequalities in the internet of things: differences
+					in attitudes, material access, skills, and usage”, in Information,
+						Communication and Society , 24(2), pp. 258-276.
+			
+			[ Links ] 
+Van Dijk, J., 2006, “Digital divide research, achievements and
+					shortcomings”, in Poetics, 34(4-5), pp.
+					221-235.
+			
+			[ Links ] 
+Van Dijk, J. A., 2017, “Digital divide: Impact of access”, in
+						The international encyclopedia of media effects,
+					1-11.
+			
+			[ Links ] 
+Van Dijk, J., 2020, The digital divide. John Wiley
+					& Sons.
+			
+			[ Links ] 
+Van Laar, E., Van Deursen, A.J., Van Dijk, J.A. and De Haan, J.,
+					2017, “The relation between 21stcentury skills and digital skills: a systematic
+					literature review”, in Computers in Human Behavior, 72, pp.
+					577-588
+			
+			[ Links ] 
+Warf, B., 2020, Geographies of the Internet.
+					Routledge.
+			
+			[ Links ] 
+Wheeler, D., and Tiefelsdorf, M., 2005, “Multicollinearity and
+					correlation among local regression coefficients in geographically weighted
+					regression”, in Journal of Geographical Systems, 7(2),
+					161-187.
+			
+			[ Links ] 
+Zhang, Z., Chen, R. J., Han, L. D., and Yang, L., 2017, “Key factors
+					affecting the price of Airbnb listings: A geographically weighted approach”,
+						inSustainability, 9(9), 1635.
+			
+			[ Links ] 
+1 Las TIC son herramientas y procesos que permiten acceder, manejar, modificar,
+					guardar, recuperar, organizar, producir, intercambiar, presentar, generar
+					información por medios electrónicos. Incluyen hardware,
+						software y telecomunicaciones, (e.g. sistemas de
+					información geográfica, aplicaciones multimedia, sistemas de bases de datos)
+						(Sunkel, 2006: 8; Navarro et
+						al., 2018: 50).
+2 El concepto sociedad de la información proviene de finales de
+					la década de los sesenta, el de sociedad del conocimiento de la
+					de los años noventa y el de sociedad de la información y el
+						conocimiento de principio del siglo XXI (Crovi, 2008). La economía digital
+					(“economía en Internet” o “economía web”) es la que se basa en tecnología o
+					dispositivos digitales: el terminó lo acuñó Don
+						Tapscott (1995). Actualmente la mayor parte de la economía del mundo
+					es digital.
+3 Nuestro enfoque es multidisciplinario (en el sentido de Andrés, 2014; Alva de la
+					Selva, 2015; Aroca y Osma, 2015; Navarro
+						et al., 2018: 56-57): “permite conjuntar múltiples visiones
+					disciplinares y métodos cualitativos, cuantitativos y mixtos que abordan el
+					objeto de estudio en su contexto y complejidad, respetando cada uno sus marcos
+					teórico-conceptuales y metodológicos… La visión y trabajo multidisciplinario de
+					investigación y desarrollo sustentada en la colaboración de conocimiento como
+					una fuente de competitividad y respuesta a las complejas exigencias del mundo
+					moderno, es un fenómeno que a la fecha se ha extendido a los distintos campos de
+					la sociedad, de la ciencia y de la tecnología”.
+4 De alguna manera lo anticipaba la OECD
+						(2009) cuando recomendaba estudiar la brecha digital en el marco de
+					múltiples variables, tecnologías y territorios.
+5 Problema ya señalado por Rallet y Rochelandet
+						(2004).
+6 El celular puede ser vital para un trabajador independiente (e.g. albañil,
+					profesionista liberal) o una persona mayor; la computadora para un profesor,
+					estudiante de cualquier nivel educativo o para alguien que trabaje desde casa;
+					el Internet en el hogar facilita la conectividad y ahorra costos.
+7 Estas TIC son las más relevantes en México y, en términos agregados, igualmente
+					importantes para la población (INEGI, 2020: ENDUTIH, 2019). Además, el Censo
+					2020 informa su disponibilidad en el hogar a escala de manzana (INEGI,
+					2021).
+8 i) Escolaridad: Grado promedio de escolaridad; ii)
+						Etnicidad: Porcentaje de población de tres años y más que
+					habla alguna lengua indígena; iii) Religión: Porcentaje de
+					población con grupo religioso protestantes/cristianos evangélicos; iv)
+						Densidad de población (calculada en habitantes/hectárea); y
+					v) Migración: Porcentaje de población nacida en otra entidad.
+					Todo a escala de manzana.
+9 La Regresión Geográficamente Ponderada no se debe considerar una panacea, y por
+					lo tanto, como primera opción en un ejercicio de modelación, se recomienda
+					explorar el ajuste con Mínimos Cuadrados Ordinarios: OLS (Charlton et
+						al., 2009)
+10 El modelo RGP es local y se enfoca en medir las relaciones
+					entre variables dependientes e independientes de unidades espaciales (e.g.
+					manzanas) dentro de un área de estudio determinada (e.g. ZMT). Es apropiado para
+					incluir en la correlación la variación espacial de los procesos a analizar
+					(Fábián, 2014; Mitchell, 2005).
+11Respecto al sentido de la regresión, el modelo arroja que es negativo para cuatro
+					variables: escolaridad, religión, densidad de población y migración, es decir, a
+					mayor valor de la variable independiente, mayor será el ISBD; y positivo para
+					una variable: etnicidad, a mayor valor, menor será el ISBD.
+12 Publicada en el Diario Oficial de la Federación el 20 de abril de 2021.
+Recibido:
+				23 de Junio de 2021; Aprobado:
+				25 de Octubre de 2021
+Tania Chávez Soto Doctora en Ciencias de la Educación por el
+						Centro de Estudios Superiores en Educación, profesora investigadora de medio
+						tiempo / Jefa de la Unidad de Tecnologías de Información y Comunicaciones de
+						El Colegio Mexiquense A.C., es miembro del SNI. Dirección electrónica:
+						tchavez@cmq.edu.mx Registro ORCID: https://orcid.org/0000-0002-6884-0415
+Luis Cervera Gómez Doctor en Investigación por El Colegio de
+						Chihuahua, profesor investigador de El Colegio de Chihuahua, es miembro del
+						SNI. Dirección electrónica: lcervera@colechedu.onmicrosoft.com Registro
+						ORCID: https://orcid.org/0000-0003-0495-7590
+Iván Vilchis Mata Doctor en Ciencias del Agua por la UAEMéx.
+						Investigador Cátedras Conacyt adscrito a El Colegio Mexiquense A.C., es
+						miembro del SNI. Dirección electrónica: ivilchis@cmq.edu.mx Registro ORCID:
+						https://orcid.org/0000-0002-3275-585X
+Carlos Garrocho Rangel Doctor en Geografía Social por la
+						Universidad de Exeter Inglaterra, profesor investigador de El Colegio
+						Mexiquense A.C. Es miembro del SNI. Dirección electrónica:
+						cfgarrocho@gmail.com Registro ORCID:
+						https://orcid.org/0000-0001-9181-3151
+ Este es un artículo publicado en acceso abierto bajo una licencia
+						Creative Commons

@@ -1,0 +1,59 @@
+Todo lo que debes saber de GEMINI, la nueva inteligencia artificial de Google | EDteam
+Autor desconocido
+ed.team
+
+Google presentó hace poco su modelo de IA más avanzado: Gemini, que según ellos, supera a GPT-3.5 y a GPT-4. ¿Será verdad o solo es marketing? Descúbrelo en este blog.
+¡Accede a cientos de cursoscon solo un pago al año!
+En el mundo de la Inteligencia Artificial (IA), las innovaciones y avances no cesan. Recientemente, Google presentó su modelo de IA más avanzado: Gemini, que según ellos, es superior a GPT-3.5 y GPT-4. ¿Será este el inicio de una nueva era en IA o solo un intento más de Google por reclamar su liderazgo perdido ante OpenAI? Analizaremos esto y más en este blog porque tú sabes que en español, #NadieExplicaMejor que EDteam.
+Para entender qué es Gemini, primero debes recordar que Google está metida en una guerra por la Inteligencia Artificial porque OpenAI y ChatGPT lo sorprendieron con los pantalones abajo. En enero del 2023, activaron código rojo y llamaron a sus fundadores de regreso a la compañía para diseñar una estrategia de respuesta a ChatGPT. De esas reuniones salió Bard, que fue lanzado en febrero y usaba LaMDA, un modelo de lenguaje tan avanzado que en 2022 un ingeniero creyó que tenía vida propia. Pero, Bard solo estaba disponible en inglés, por lo que no tuvo gran impacto.
+En mayo lanzaron PaLM-2, un nuevo modelo de lenguaje más avanzado que LaMDA y que se empezó a usar en Bard. Gracias a PaLM-2, Bard dejó de estar limitado al inglés y al fin podías hablarle en cualquier idioma. Pero tal vez era muy tarde, porque ni con esta mejora Bard despegó.
+Y el mismo día que lanzaron PaLM-2, en el Google I/O de 2023, anunciaron Gemini, su mayor apuesta para volver a liderar la inteligencia artificial. Para desarrollar Gemini, unieron a los equipos de Google Brain y Deepmind en uno solo llamado Google Deepmind.
+¿Y por qué Google tenía dos equipos de IA trabajando separados? Como verás más adelante, esto explica muchas cosas.
+Durante 2023, los clientes de Microsoft y de las tecnologías de OpenAI crecieron, mientras que los clientes de Google Cloud disminuyeron. La situación era tan crítica, que Sergey Brin, uno de los fundadores de Google, ha salido del retiro y hoy trabaja 5 días a la semana en las oficinas de Google.
+La presión de clientes e inversionistas por tener listo a Gemini y al fin tener un rival digno para GPT-4 y ChatGPT ha sido tanta que en Google han hecho todo lo posible por lanzarlo este año. La primera fecha fue noviembre, pero tuvo que ser aplazada porque Gemini no estaba listo. La siguiente fecha fue diciembre y ya tenían eventos presenciales programados para hacer un lanzamiento a lo grande, pero, Gemini aún no estaba listo. Así que silenciosamente cancelaron esos eventos.
+Además, según el Wall Street Journal, durante la crisis de OpenAI, cuando despidieron a su CEO y lo recontrataron a los tres días, Google intentó con su equipo de ventas llevarse a los clientes de OpenAI igualando los precios, dándoles créditos en Google Cloud y asistencia para la migración. Esto es normal en los negocios, pero es interesante tenerlo en cuenta para entender bien el contexto en el que se lanza Gemini.
+Y así llegamos al 6 de diciembre cuando se lanza Gemini. Sin un gran evento presencial detrás, pero con mucho ruido en internet, y con muchas personas diciendo que la inteligencia artificial ya superó a la inteligencia humana.
+Pero pasado el hype inicial y todo el show de los “influencers” de tecnología haciendo video reacciones y no análisis, lo que quedó claro (para quienes sí analizamos) es que Gemini no está listo. Y que Google necesitaba desesperadamente lanzarlo antes de que acabe el año para que no parezca que desperdiciaron el 2023.
+Ahora que ya tienes el contexto, ¿qué es exactamente Gemini y por qué tanto ruido alrededor de su lanzamiento?
+Gemini es el nuevo y más potente modelo de Inteligencia Artificial creado por Google Deepmind. Ha sido desarrollado desde cero y a diferencia de GPT-4, LLaMA 2 o Claude 2 es multimodal, es decir que no solo procesa texto, sino también imágenes, audio y video.
+Sin embargo, aunque GPT-4 no es multimodal, dentro de ChatGPT ya están integrados Whisper, Vision y Dall-E, con lo cual, la experiencia para un usuario de ChatGPT es multimodal. Sin importar como esté construido por debajo.
+Gemini viene en tres versiones, desde la más pequeña a la más potente:
+
+Gemini ha sido desarrollado desde cero y optimizado para ser ejecutado en los TPU de Google, sus chips propios para procesamiento de Inteligencia Artificial.
+Es superinteresante, pero hasta aquí, nada revolucionario. ¿Entonces por qué todo el hype? Porque Google presentó dos cositas:
+Y si eso fuera poco, las tablas comparativas comenzaban con esta frase que más que presentación científica era un truco de marketing:
+"Gemini es el primer modelo que supera a los humanos expertos en MMLU (Comprensión masiva de lenguaje multitarea), uno de los métodos más populares para probar el conocimiento y habilidad para solucionar problemas de los modelos de Inteligencia Artificial".
+
+Dicho así suena a que los humanos ya quedamos atrás y en cualquier momento las máquinas se rebelarán contra nosotros. ¿Pero qué son esas pruebas MMLU? Son un conjunto de pruebas de conocimiento de diferentes materias universitarias, como ciencias, matemática, derecho o historia, desde niveles básicos hasta avanzados. Cuando se lanzó GPT-4, en marzo, obtuvo un 86.4%, mientras que Gemini Ultra (que no está listo) lo supera con 90% de puntaje.
+
+Ten en cuenta que se está comparando una tecnología recién lanzada frente a una que se lanzó hace 9 meses, que en los tiempos de la IA es como decir hace años. Además, que se usaron pruebas diferentes. Para GPT-4 se hizo una prueba de 5 disparos (o 5-shot) que consiste en entrenar al modelo con 5 preguntas similares antes de hacerle la pregunta final. Mientras que Gemini se evaluó con CoT@32 que significa que el modelo va mostrando una cadena de pensamiento (Chain of Though) de 32 tokens mientras va generando la respuesta. O mejor dicho, que va generando su respuesta de a pocos y evaluándose a sí mismo en cada paso para ajustar su respuesta.
+Son tests diferentes, aunque en el paper técnico de Gemini, dicen que con la misma prueba GPT-4 (probado vía API) obtiene 87.29% (mejor, pero aún por debajo de Gemini Ultra).
+
+¿Y qué es eso de que supera a expertos humanos? Según el paper de las pruebas MMLU (de 2021), el puntaje de referencia que se le da a los humanos es de 89.9% basado en aproximaciones y promedios. Por ejemplo, del 5% de los mejores médicos se saca el promedio de sus calificaciones en los tests y luego se promedia con los de otras áreas (abogados, científicos, matemáticos), y de las áreas que no se tienen datos, se saca un estimado. Así que es cierto que Gemini Ultra sí supera el promedio del MMLU para humanos, pero ten en cuenta dos cosas:
+Luego presentaron algunas tablas comparativas más en las que Gemini Ultra superaba en casi todo a GPT-4. Y si esto no era suficientemente sorprendente, la demo de video fue una cosa de otro mundo, ya que Gemini era capaz de entender video en tiempo real y mantener una conversación acerca de dicho video. Por ejemplo, le mostrabas el clásico juego de “adivina donde está la pelotita” y lo resolvía.
+Hay que reconocer que esto le vuela la cabeza a cualquiera. Pero, había gato encerrado.
+En la demo, se dibuja una linea curva que al inicio no significa nada y que poco a poco se va transformando en un pato y Gemini mantiene una conversación (de voz) sobre lo que ve.
+Luego se le pide que invente un juego con un mapa usando emojis, y es capaz de entender a qué parte del mapa ha señalado la persona. Entiende los gestos de las manos jugando piedra papel y tijera, e incluso trucos de magia como desaparecer una moneda.
+Y lo más impresionante es la fluidez de la conversación, porque parece que habláramos con una persona que reacciona ante lo que ve y lo que oye.
+Así que parecía que Google había dado el siguiente gran paso en la IA e iniciar “La era Gemini”. Un año después de que OpenAI les quitará el liderazgo, Google volvía a reinar en el mundo de la Inteligencia Artificial. ¿O no?
+El truco de magia duró poco ya que la descripción del video tiene un disclaimer:
+"Para propósitos de esta demostración, la latencia ha sido reducida y las salidas de Gemini han sido acortadas por brevedad".
+
+Es decir, que la conversación no es tan fluida como se ve en el video.  Esto desilusiona un poco pero es comprensible que tarde en responder. Hasta ChatGPT lo hace.
+Pero el problema es mayor. El profesor de Inteligencia Artificial de Wharton, Ethan Mollick publicó en X que le costaba creer que no haya alguna indicación detrás de la demo de Gemini y mostró que ChatGPT da resultados muy parecidos usando imágenes (no video). Por ejemplo aquí con la imagen del pato en el mapa o aquí cuando entiende que se está dibujando un pato. Y se pregunta si el video es real o ha sido ensamblado a partir de múltiples prompts.
+Y tu dirás: sí, pero ChatGPT usa imágenes y Gemini video. Peeeero al inicio del demo de Gemini, aparece un anuncio al que pocos prestaron atención y que dice:
+
+"Hemos estado capturando imágenes para probarlas en una amplia gama de desafíos, mostrándole una serie de imágenes y pidiéndole que razone sobre lo que ve".
+O sea que Gemini no recibe y entiende videos, sino imágenes individuales, lo mismo que hace ChatGPT meses atrás. Incluso, en el blog de desarrolladores de Google se explican los experimentos que hicieron con Gemini y se confirma que no recibe video, sino imágenes sueltas.
+Si hasta aquí no la captaste, te estoy diciendo que el video que vimos no es real, es fake, fabricado a partir de fotos y texto, agregándole el video y los audios encima para que creamos que Gemini hace lo que no es capaz de hacer. Una estrategia sucia de marketing sacada del mismito libro de jugadas de Apple: lanza un producto incompleto, exagera sus capacidades y di que estará disponible en el futuro.
+Pero Google no es Apple y el tiro les salió por la culata, porque si pensaban cerrar el año a lo grande con este anuncio, solo han conseguido sembrar más dudas y que medio internet esté hablando de como Google mintió.
+La pregunta que nos queda después de todo es: ¿Google volverá a liderar la IA o ese puesto se queda con OpenAI? Yo creo que Google será un jugador muy relevante pero han dejado pasar un año enterito sin sacar algo contundente, por lo que el liderazgo seguirá con OpenAI.
+Además que Gemini Ultra, el modelo que promete ser superior a GPT-4 aún no está listo y quizás cuando salga al público, OpenAI ya habrá lanzado GPT-5. Con lo cual, todos esos benchmarks que presentó Google perderán valor.
+Ahora te toca a ti: ¿crees que Google recuperará el liderazgo que le arrebató OpenAI?, ¿crees que cuando salga Gemini superará a GPT-4 o crees que Google está dando manotazos de ahogado porque se quedó sin ideas? Déjalo en los comentarios para seguir con el chisme.
+Y recuerda seguirnos aquí en YouTube y todas nuestras redes sociales para mantenerte informado en el mundo de la programación y la inteligencia artificial. Además visítanos en ed.team para que comiences cualquier curso gratis y compruebes por qué en español, nadie explica mejor que EDteam.
+Y si no sabías exactamente qué es Gemini porque internet está lleno de video reacciones y no de análisis, recuerda que hoy #LoAprendisteEnEDteam.
+Alvaro Felipe Chávez
+@alvaro Ver perfil
+Crack, idolo, máquina, artista, inigualable, fiera y CEO de EDteam.
+Pregunta a ChatEDT
+Estás usando EDteam en

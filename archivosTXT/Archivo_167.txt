@@ -1,0 +1,197 @@
+Chat GPT, guía completa, usos y controversias
+Autor desconocido
+impactotic.co
+
+Actualizado el 12 Dic 2023
+
+El modelo de lenguaje ChatGPT revolucionó el planeta. Ha batido todos los records de adopción, con más de 100 millones de usuarios, genera grandes expectativas y temores, y también mitos y controversias. Aquí, compartimos detalles sobre su presente, su futuro, los usos principales y más.
+ChatGPT, creado por OpenAI y presentado públicamente el 30 de noviembre de 2022 es una tecnología emergente que llamó la atención de inmediato por sus respuestas detalladas y articuladas en muchos campos del conocimiento, al punto que ha marcado hitos y ha dado inicio a una nueva era, una ‘fiebre’ que no se veía desde la primera década del siglo, la de las aplicaciones móviles.
+La confianza con la que proporciona respuestas erróneas –y a veces, tan salidas de la realidad que se les conoce como alucinaciones– es probablemente su mayor punto débil, al menos desde el punto de vista de los usuarios.
+Desde su lanzamiento, ChatGPT ha revolucionado la forma como los usuarios interactúan con sus dispositivos, y el voz a voz, las tendencias en redes sociales y los medios de comunicación le dieron tanta visibilidad, que a los 5 días se convirtió en la aplicación o herramienta que llegaba al millón de usuarios más rápido en la historia, superando a Instagram, que había tardado 2,5 meses en lograrlo.
+Y en febrero se consolidó como la aplicación de mayor crecimiento de la historia, al alcanzar los 100 millones de usuarios, desplazando a TikTok, que lo había logrado en 9 meses.
+Pese a la explosión en el uso de ChatGPT, para OpenAI esta no fue del todo sorpresiva. Si bien su sitio web ha sufrido caídas e intermitencias debido a la alta demanda, esto no ha sido algo permanente ni que frene su adopción. Y es que ChatGPT es solo la punta de lanza de un arsenal de herramientas de Inteligencia Artificial de OpenAI, como la de creación de imágenes DALL-E, la red neural de reconocimiento de imágenes CLIP, el sistema que lleva el lenguaje natural a código de software Codex y, por supuesto, el modelo GPT (Generative Pretrained Transformer), en el que se basa el propio ChatGPT.
+Pero la visión de OpenAI, una empresa fundada en diciembre de 2015 por Sam Altman, actual CEO, y Elon Musk –quien se retiraría de esta en 2018 para evitar conflictos de intereses con su compañía Tesla, que también hace investigación en Inteligencia Artificial– va mucho más allá.
+Esta visión apunta a crear una Inteligencia Artificial General (AGI), que a diferencia de ChatGPT y las más de 3.000 herramientas de Inteligencia Artificial actuales, consiste en una IA altamente autónoma que supera a los humanos en la mayoría de las tareas, y que beneficie a la humanidad. Por lo pronto, aún parece lejano ese momento en el que exista una verdadera AGI, pero ChatGPT sin duda ha marcado un salto cualitativo inmenso en ese camino.
+En este contenido de Impacto TIC profundizaremos sobre este modelo de Inteligencia Artificial Generativa, con todas sus posibilidades, sus puntos débiles, las críticas y controversias, los principales usos que se le están dando y lo que podría venir en el futuro, entre otros aspectos.
+Índice de temas
+En su sitio web, y pese a las múltiples posibilidades de ChatGPT, OpenAI describe de forma muy simple lo que hace ChatGPT:
+“Hemos entrenado un modelo llamado ChatGPT que interactúa de forma conversacional. El formato de diálogo hace posible que ChatGPT responda a preguntas de seguimiento, admita sus errores, cuestione premisas incorrectas y rechace peticiones inapropiadas”.
+En otras palabras, ChatGPT es un modelo de lenguaje avanzado (un sistema capaz de comprender y generar texto en lenguaje natural) que utiliza Inteligencia Artificial para generar texto coherente, relevante, adaptable a numerosos contextos y usos, versátil y… sorprendentemente ‘humano’.
+Esta fluidez, ‘creatividad’ y coherencia casi humanas hacen de ChatGPT, a mayo de 2023 y aun después del lanzamiento público de su competidor Google Bard, en el caso más exitoso en Inteligencia Artificial Generativa, un subcampo de la Inteligencia Artificial que se centra en el desarrollo de sistemas capaces de generar contenido original y creativo, como texto, imágenes o música.
+Midjourney, Stable Difussion, Perplexity, Tome, Bing Chat, Microsoft 365 Copilot y Fliki, además de los ya mencionados DALL-E y Google Bard, son otros de los representantes de esta camada de aplicaciones, de las que ya se cuentan por centenares.
+La primera versión pública de ChatGPT se basó en la tercera versión de la tecnología GPT, más exactamente en la 3.5, y a esta le siguió, a mediados de marzo pasado, ChatGPT con el modelo GPT-4. Ambas coexisten y tienen sus ventajas y desventajas, pero claramente la mejor versión es la más reciente, y desde ya se espera una versión con GPT-5 para 2024, la cual por lo pronto ha sido negada por OpenAI.
+ChatGPT is incredibly limited, but good enough at some things to create a misleading impression of greatness.it's a mistake to be relying on it for anything important right now. it’s a preview of progress; we have lots of work to do on robustness and truthfulness.
+Sam Altman, ‘padre’ de ChatGPT, describe con humildad esta herramienta, a la que algunos observadores y también divulgadores de tecnología y medios de comunicación ávidos de visibilidad, sintonía o tráfico le han dado poderes casi sobrenaturales, para bien o para mal.
+Altman publicó, pocos días después del lanzamiento de ChatGPT, un tuit en el que dijo que “ChatGPT es increíblemente limitado, pero lo suficientemente bueno en algunas cosas como para crear una impresión engañosa de grandeza. Es un error confiar en él para algo importante en este momento. Es una vista previa del progreso; tenemos mucho trabajo por hacer en cuanto a solidez y veracidad”.
+ChatGPT fue desarrollado por OpenAI, una organización de investigación en inteligencia artificial con sede en San Francisco, California. Fue lanzado como una versión de GPT-3.5 y se basa en la arquitectura GPT-3, que es parte de la serie de modelos de lenguaje desarrollados por OpenAI. La organización tiene como objetivo avanzar en la investigación en inteligencia artificial y desarrollar modelos de lenguaje de vanguardia como GPT-3 y ChatGPT.
+El modelo de lenguaje de ChatGPT utiliza una arquitectura de codificador-decodificador, en la que el codificador analiza el texto de entrada y el decodificador genera respuestas basadas en ese contexto. Esta arquitectura, llamada Transformer, ha demostrado ser superior a otras arquitecturas de procesamiento de lenguaje natural, y su flexibilidad permite a ChatGPT entender y contextualizar los textos que le dan sus usuarios de manera inmediata y eficiente.
+ChatGPT ha sido entrenado con una amplia gama de textos disponibles en Internet, en inglés y otros idiomas, hasta septiembre de 2021 (lo que significa que no puede usar o proveer información más reciente, salvo con una nueva opción exclusiva y de prueba para los usuarios Plus, que permite navegar en la Web). Este proceso de aprendizaje no supervisado le permite comprender patrones lingüísticos y contextualizar la información.
+OpenAI no ha revelado datos oficiales de este proceso de entrenamiento ni del número de datos con que ha entrenado a ChatGPT o GPT, aunque distintas fuentes estiman que la versión 3.5 fue entrenada con 175.000 millones de parámetros, y la 4, con entre 1 y 20 billones de parámetros y 300.000 millones de palabras, con lo que alcanza 570 gigabytes (GB) de datos de texto.
+A ChatGPT no necesariamente se le hacen preguntas o se le escriben palabras clave, como las que se le dan a Google, sino que se le da una instrucción o entrada, también llamada ‘prompt’. Cuando se le da un ‘prompt’, ChatGPT genera una respuesta basándose en el contexto y en el patrón de lenguaje que ha aprendido. Durante su entrenamiento, el modelo aprende a predecir la siguiente palabra en una secuencia de texto, lo que le permite comprender y generar texto coherente.
+La capacidad de ChatGPT para generar respuestas contextualmente relevantes se debe a su capacidad para captar la estructura y las conexiones semánticas del lenguaje. Esto le permite comprender preguntas complejas y proporcionar respuestas detalladas y precisas.
+Es importante destacar que ChatGPT no tiene conocimiento previo de hechos o información específica, sino que se basa en los patrones y la información aprendida durante el entrenamiento. Por ello, si se le da información incorrecta o sesgada, puede generar respuestas que reflejen esos sesgos –o una gran imaginación–.
+Las respuestas de ChatGPT se generan en función de un amplio conjunto de datos utilizados durante su entrenamiento. Durante ese proceso, se expuso a ChatGPT a diversas fuentes, como libros, artículos y páginas web públicas, para adquirir conocimientos en una variedad de temas y lenguaje. Sin embargo, ChatGPT no tiene acceso directo a internet ni a fuentes específicas, y su conocimiento está limitado a la información disponible hasta enero de 2022.
+Para acceder a la plataforma de ChatGPT, el usuario debe abrir su navegador web y buscar el servicio. Si es necesario, se registrará o iniciará sesión, luego encontrará el espacio de chat dentro de la plataforma para comenzar la interacción. Al introducir preguntas o mensajes, el usuario puede interactuar con ChatGPT.
+Se pueden hacer una amplia variedad de preguntas a ChatGPT en una variedad de temas, como:
+Sin embargo, es importante recordar que ChatGPT se basa en datos hasta septiembre de 2021, por lo que su conocimiento está limitado a esa fecha.
+“Para utilizar ChatGPT, simplemente necesitas proporcionarle una entrada en forma de texto. Esta entrada puede ser una pregunta, una declaración o cualquier otra forma de comunicación escrita. ChatGPT procesará tu entrada y generará una respuesta adecuada”.
+Esa es la respuesta que da el propio ChatGPT cuando se le pregunta cómo usarlo. Y sí, con darle una entrada (una instrucción) es suficiente. O no.
+ChatGPT tiene un problema. Es el mismo de Google, el buscador: es tan fácil de usar, resulta tan eficiente y tan creíble, que ‘no hay que saber usarlo’. Mauricio Jaramillo Marín, director editorial de Impacto TIC, señala que la facilidad de uso es algo positivo para los usuarios en general, pero es un freno a los usuarios que usan o deben usar estas herramientas profesionalmente.
+“Desde 2009 capacito periodistas y otros profesionales en Colombia y Latinoamérica sobre herramientas digitales, y aun hoy la gran mayoría no sabe buscar –de forma avanzada– en Google. Con ChatGPT y los demás modelos de Inteligencia Artificial Generativa podría ocurrir lo mismo, que los usuarios se queden en un uso superficial de ellos, se pierdan de sus mayores beneficios y se expongan a sus fallas”, dice.
+Y es que hacerle una pregunta a ChatGPT puede ser útil en tareas sencillas –tal como escribir unas palabras lo es para buscar en Google–, pero para tareas más avanzadas o necesidades más sofisticadas eso no basta: se requiere saber crear ‘prompts’ o, en otras palabras, saber dar instrucciones explícitas, detalladas y precisas.
+La plataforma ya está disponible en español. De hecho, ella misma verificó que puede responder en una amplia variedad de idiomas como: inglés, español, francés, alemán, portugués, italiano, holandés, ruso, árabe y chino.
+Una vez dentro de la plataforma de ChatGPT se recomienda seguir las instrucciones proporcionadas para un acceso y uso eficaces. Los pasos son:
+Son entradas de texto o una instrucción que un usuario proporciona al modelo de lenguaje ChatGPT para solicitar una respuesta o generar un diálogo. Estos prompts se utilizan para interactuar con ChatGPT y obtener respuestas o conversaciones específicas. Por ejemplo, un prompt de ChatGPT podría ser: “Dime cómo funciona la energía solar” o “Simula una conversación entre un cliente y un representante de servicio al cliente”. El modelo utiliza el prompt como punto de partida para generar respuestas coherentes y relevantes en función de la entrada proporcionada.
+Incluso, ya se habla de una nueva profesión: Ingeniería de Prompts, que en algunos medios de comunicación ha sido presentada como una carrera del futuro altamente rentable, aunque estos omiten que también tiene un futuro incierto, pues no se puede saber cómo evolucionen los modelos de Inteligencia Artificial y qué tanto se requiera dominar la ciencia de darles instrucciones.
+Lo cierto, hoy y en el futuro, es que los ‘prompts’ son el corazón de la interacción con ChatGPT –y con las demás herramientas de Inteligencia Artificial Generativa–.
+Su calidad, claridad y nivel de detalle pueden afectar enormemente la calidad de las respuestas que entrega ChatGPT, y esto es crucial cuando se trata de usuarios y aplicaciones en contextos profesionales.
+Por esta razón, en tan poco tiempo han surgido decenas de opciones –sitios web, extensiones de navegadores y otros servicios en línea– que permiten acceder a ‘prompts’ creados por expertos o miembros de una comunidad, como FlowGPT y AIPRM; crear ‘prompts’ de forma más esquemática o automatizada, o acceder a ChatGPT desde distintos sitios web.
+Como pauta adicional de cómo usar ChatGPT, más allá de la técnica de dar instrucciones, es imprescindible usar el pensamiento crítico. Aunque la herramienta intenta dar respuestas precisas, puede –y suele– cometer errores o dar datos inexactos o incluso inventados. Por esto, es fundamental aplicar los mismos principios vigentes para las redes sociales, los medios de comunicación, el propio Google e incluso fuentes académicas y bibliográficas: verificar siempre la información obtenida con fuentes adicionales confiables. 
+Además, no sobra la recomendación, para usuarios –y también para empresarios– de usar ChatGPT como complemento en lugar de sustituto, o como dice Freddy Vega, CEO de Platzi, para referirse a la Inteligencia Artificial en general, verlo como“el copiloto de nuestras mentes”.
+En línea con esa reflexión de Vega, cabe esta reflexión: “Si solo haces cosas básicas, ChatGPT puede reemplazarte. Si aportas valor en lo que hace, ChatGPT puede ser tu mejor aliado”.
+ChatGPT ofrece una amplia gama de beneficios, incluyendo la automatización de tareas repetitivas, soporte al cliente las 24 horas, generación de contenido eficiente, asistencia en la toma de decisiones, traducción automática, tutoría en línea, generación de código y mejora de la productividad en diversas aplicaciones. Además, proporciona una interfaz de usuario natural y la capacidad de personalizar las respuestas para satisfacer las necesidades individuales. Sin embargo, su uso también plantea desafíos éticos y técnicos, como la supervisión, la mitigación de sesgos y la seguridad de los datos, que deben gestionarse de manera cuidadosa y responsable en su implementación para aprovechar al máximo sus ventajas.
+Los inconvenientes del uso de ChatGPT incluyen la generación de contenido erróneo o engañoso, así como la propagación de sesgos contenidos en los datos de entrenamiento. Esto puede resultar en respuestas incorrectas o discriminatorias, planteando preocupaciones éticas y de confiabilidad. Además, la falta de contexto en las interacciones y las preocupaciones sobre privacidad y seguridad de datos son desafíos importantes a considerar. También existe inquietud sobre el impacto en el empleo, ya que la automatización impulsada por ChatGPT podría llevar a la reducción de puestos de trabajo en industrias que dependen de la comunicación y el procesamiento de texto, lo que requiere una gestión y regulación cuidadosa para abordar estos problemas de manera efectiva y responsable.
+ChatGPT pueden saturarse o dejar de funcionar por varias razones:
+Para mitigar estos problemas, los usuarios y los proveedores de servicios suelen implementar soluciones como la optimización de las solicitudes, el monitoreo y la administración de la demanda, y la mejora de la infraestructura subyacente. También es importante tener en cuenta las políticas de uso y los límites establecidos por el proveedor para evitar problemas de acceso.
+
+Una de las ventajas de Google Bard, presentada en el pasado Google I/O, es la de conectarse a algunos servicios de terceros. Esta ventaja ya no existe más.
+Los progresos de ChatGPT avanzan a todo vapor, y este 17 de mayo OpenAI liberó la opción de utilizar plugins que se conectan a aplicaciones y servicios de terceros.
+Esta opción, disponible solo para los usuarios Plus (que pagan por la suscripción), cuenta desde el día 1 con 85 plugins, marca el inicio de un cambio de paradigma, pues permite expandir las funciones del chatbot –por ejemplo, haciendo cálculos científicos, automatizando tareas operativas e integrándolo con herramientas de productividad.
+En esta tabla destacamos algunos de los plugins que ya se posicionan como populares, alguno de ellos están presentes en la página de plugins de ChatGPT, aunque la lista de 85 seguramente tendrá un crecimiento explosivo en las próximas semanas:
+Parte de la magia de ChatGPT es su versatilidad: es capaz de escribir un libro y luego, sin despeinarse, dar un consejo familiar, escribir un poema, traducir un texto, crear una receta o diseñar una prueba de conocimientos. Este modelo de lenguaje tiene una amplia gama de usos y aplicaciones en casi todos los campos.
+Sus posibilidades son prácticamente ilimitadas, aunque para usuarios más avanzados ya existen aplicaciones de Inteligencia Artificial altamente especializadas que son capaces de brindar resultados superiores, por ejemplo en traducción, corrección gramatical, redacción de contenidos para blogs o desarrollo de código de software.
+Aún así, hoy por hoy ChatGPT es el rey, y así solo lo llegara a ser por poco tiempo, nadie debería perderse la oportunidad de usarlo para su trabajo, su estudio o su vida personal, siempre con el pensamiento crítico activado para desconfiar de la veracidad o precisión de las respuestas.
+Esta es una lista de solo 20 de los centenares de usos de ChatGPT, pero que puede dar una idea de sus múltiples posibilidades:
+El modelo de lenguaje ChatGPT ha experimentado una serie de transformaciones a lo largo de su evolución. Cada versión ha superado a la anterior en términos de capacidades y características, aunque públicamente solo han estado disponibles las versiones 3.5 y 4.
+GPT-1 y GPT-2: Fueron las versiones iniciales, que solo se usaron internamente y sentaron las bases de lo que hoy es GPT.
+GPT-3: Fue la primera versión práctica y con la que se inició la construcción de ChatGPT y otras herramientas de OpenAI.
+GPT-3.5: Esta versión, con la que nació públicamente ChatGPT en 2022, representa una mejora significativa respecto a su predecesora, ya que ofrece una mayor precisión y eficiencia en la generación de texto. Esta es la primera pública, la cual está disponible gratuitamente para los usuarios en el sitio web (chat.openai.com). Se caracteriza por dar respuestas muy rápidas. Para usos generales, aún es la versión recomendada por OpenAI.
+Publicada en marzo de 2023, esta versión GPT-4 eleva aún más las capacidades de comprensión y generación de texto de GPT-3.5. GPT-4 reduce las ‘alucinaciones’ –así que da respuestas más confiables–, aumenta sus capacidades de entender y responder a distintos contextos, es más ‘creativo’, aunque es menos rápido. Es la versión pública más avanzada de ChatGPT, mucho más poderosa, ‘inteligente’ y creativa, con mejores capacidades de comprensión y generación de texto, por lo que es la ideal para usos y aplicaciones más complejos. Esta versión no es gratuita: solo está disponible para usuarios Plus –como los llama OpenAI–, que son quienes pagan por la suscripción mensual, que vale 20 dólares.
+Y estas son las versiones de GPT (Generative Pretrained Transformer: Transformador Preentrenado Generativo), la tecnología que está detrás del chatbot y de muchas herramientas de Inteligencia Artificial de otras empresas, que la usan como su ‘motor’.
+Se da por sentado, aunque OpenAI lo niegue, que ya está trabajando en GPT-5, la cual prometería avances en las mismas direcciones de GPT-4, además de ser más multimodal (no solo texto e imágenes).
+ChatGPT –como cualquier modelo de Inteligencia Artificial Generativa– no está exento de limitaciones y desafíos, como su uso para hacer mal, generar mensajes de odio o noticias falsas. Por ello, OpenAI ha implementado ciertos controles y restricciones para garantizar un uso responsable y ético, lo que ha llevado a debates sobre la libertad de expresión y la transparencia en el ámbito de la Inteligencia Artificial.
+OpenAI reconoce la importancia de evitar la generación de contenido perjudicial o engañoso por parte de ChatGPT. Por lo tanto, ha implementado mecanismos de control para evitar la divulgación de información falsa, la promoción de discursos de odio o cualquier forma de contenido inapropiado.
+Estos controles incluyen la revisión y la supervisión constante por parte de moderadores humanos, así como el uso de filtros y reglas preestablecidas para bloquear ciertas palabras o temas sensibles, y de aprendizaje automático. Sin embargo, esta medida de autocensura ha generado preocupaciones en relación a los sesgos de OpenAI y la posible supresión de opiniones y perspectivas legítimas, en parte debido a la falta de claridad en cuanto a los criterios utilizados.
+Las limitaciones –o la autocensura– de ChatGPT no son del gusto de todos los usuarios, y por eso no tardaron en aparecer herramientas y ‘prompts’ que desbloquean algunas o todas las restricciones. Este proceso se ha empezado a denominar ‘jailbreak’, tal como cuando desarrolladores logran superar limitaciones en el iPhone y su sistema iOS para instalar aplicaciones fuera de la App Store o ejecutar tareas para las que no están creados.
+Con estas alternativas de ‘jailbreak’, por ejemplo, usuarios han logrado que ChatGPT dé consejos de cómo ganar dinero ilegalmente, brinde ideas de cómo causar pánico en la población, escriba textos con discursos de odio o simples insultos.
+Más allá de esto, que por ahora es inevitable, el reto para OpenAI reside en encontrar un equilibrio entre garantizar la seguridad y la ética en el uso de ChatGPT y mantener la libertad de expresión y la diversidad de ideas. Es importante tener en cuenta que este chatbot aún es muy joven y está en plena evolución, así que hay lugar para el optimismo y se puede prever que en próximas versiones ChatGPT se acerque a ese deseado equilibrio.
+Como ya mencionábamos, ChatGPT no está exento de errores y alucinaciones. De alguna forma, la capacidad de decir mentiras también es un atributo humano, y esa capacidad de emular a las personas hace que hoy se empiece a hablar de ‘humanos digitales’ o ‘metahumanos’. A continuación, enumeramos algunos casos en los que este sistema puede ser más propenso a fallar y en los que conviene ser aún más cuidadosos en la verificación de sus respuestas:
+Las controversias, críticas y preocupaciones que rodean a ChatGPT son una muestra de los desafíos que enfrenta el desarrollo y la implementación de la Inteligencia Artificial en general. Es fundamental abordar estos problemas de manera responsable y ética –por lo tanto, este debate no debe dejarse solo en manos de los políticos, sino que se debe fomentar la diversidad de voces y la participación de la comunidad en la toma de decisiones sobre estas tecnologías–.
+Estos son algunos de los puntos polémicos alrededor de ChatGPT, además de la autocensura y las respuestas fallidas, ya mencionadas:
+Se argumenta que ChatGPT podría perpetuar prejuicios y discriminación si los datos usados para entrenarlo contienen sesgos implícitos. Esta cuestión realza la importancia de la equidad y la diversidad en el uso de la Inteligencia Artificial.
+La creación y mantenimiento de modelos de lenguaje como ChatGPT requieren recursos computacionales y energía significativos, lo que despierta preocupaciones sobre el impacto ecológico de la Inteligencia Artificial a gran escala. Este hecho refuerza la necesidad de explorar formas más sostenibles de desarrollar y utilizar dicha tecnología. El uso de ChatGPT y modelos similares puede tener un impacto ambiental significativo debido al alto consumo de energía necesario para entrenar y mantener estos sistemas, así como al requerimiento de hardware costoso. Los centros de datos que alojan estos modelos operan continuamente, aumentando la demanda de electricidad y contribuyendo a las emisiones de gases de efecto invernadero, especialmente cuando se utiliza energía no renovable. Además, la refrigeración de estos centros de datos también consume energía adicional. Para abordar estos problemas, es importante que las organizaciones que emplean estos modelos busquen soluciones de eficiencia energética y consideren fuentes de energía más limpias, así como la inversión en hardware más eficiente desde el punto de vista energético.
+Con el uso creciente de ChatGPT en diversos contextos, aumenta el debate sobre la responsabilidad y transparencia en el empleo de esta tecnología. Se argumenta la necesidad de establecer límites claros y mecanismos de rendición de cuentas para evitar su uso irresponsable o perjudicial. También se destaca la importancia de una mayor transparencia en los datos de entrenamiento y los procesos de toma de decisiones del modelo.
+Se trata del punto más crítico y que genera más temores alrededor de ChatGPT y la IA en general: que eliminaría millones de empleos. Existe el temor de que pueda desplazar a millones de trabajadores en muchas áreas, especialmente del conocimiento. Aunque en un comienzo esto podría ocurrir –como ha sucedido con numerosos avances tecnológicos a lo largo de la historia–, también se estima que habrá un reacomodo en el mundo laboral y en la formación de los trabajadores, que también abra espacio para millones de empleos que hoy no existen –o que ya se vislumbran, como el de ‘prompt engineer’–.
+ChatGPT ha sido prohibido en varios países por razones relaciónela la censura y el control de la información, por regulación de protección de datos y por regulaciones locales, junto con restricciones de internet.
+Determinar en cuáles pases no se puede usar ChatGPT es una tarea de constante verificación, ya que la plataforma tiene pública la informaciones de cuáles son los países donde se puede usar, la cual excluye a los siguientes:
+1. Bahamas
+2. Barbados
+3. Belize
+4. Bután
+5. Brunei
+6. Burundi
+7. Cabo Verde
+8. Comoros
+9. Dominica
+10. Guinea Ecuatorial
+11. Eswatini (Swaziland)
+12. Fiji
+13. Granada
+14. Guinea-Bissau
+15. Kiribati
+16. Lesoto
+17. Liechtenstein
+18. Maldivas
+19. Islas Marshall
+20. Micronesia
+21. Monaco
+22. Nauru
+23. Palau
+24. Samoa
+25. San Marino
+26. San Tomé y Príncipe
+27. Islas Salomón
+28. Suriname
+29. Tonga
+30. Tuvalu
+31. Vanuatu
+Sin embargo, al preguntarle específicamente a la plataforma: ¿en cuáles países no se puede usar ChatGPT?, esta es la respuesta:
+Sin embargo uno de los desafíos legales y éticos  más grandes que enfrenta ChatGPT radica en la propiedad intelectual. Surge la pregunta de quién posee la información generada por el sistema y si se necesita permiso o reconocimiento de los derechos de autor de los datos usados en su entrenamiento. Aunque no es el punto de mayor preocupación, es el que impulsó el bloqueo temporal de ChatGPT en Italia, que amenazaba con extenderse a España, Alemania y otros países europeos, y que obligó a OpenAI a hacer ajustes.
+OpenAI ha tomado medidas para garantizar la seguridad y la privacidad de los usuarios de ChatGPT. Según su política de privacidad,  las interacciones con el modelo se mantienen privadas y no se utilizan para entrenarlo, como se llegó a temer tras su lanzamiento. Sin embargo, hay que tener en cuenta que, como con toda herramienta, su uso responsable recae en los usuarios, por lo que es necesario que estos se preparen para aprovechar al máximo sus beneficios y para reducir los riesgos.
+Por otro lado, en cuanto al uso de la información, pero especialmente frente a la seguridad y la privacidad en ChatGPT estos son algunos de sus compromisos:
+OpenAI se compromete a proteger la privacidad y la confidencialidad de los usuarios. Durante las interacciones con ChatGPT, OpenAI tiene en cuenta las preocupaciones sobre la privacidad y toma medidas para salvaguardar los datos personales de los usuarios. Es importante revisar y comprender las políticas de privacidad y los términos de servicio al utilizar la plataforma.
+Aunque OpenAI se esfuerza por garantizar la privacidad de las interacciones, existe el riesgo potencial de divulgación no deseada de información confidencial. Se recomienda evitar compartir información sensible o personal durante las interacciones con ChatGPT para minimizar cualquier riesgo de exposición no deseada. (A pesar de las promesas de OpenAI en este sentido, empresas como Samsung, por ejemplo, han prohibido a sus empleados usar ChatGPT, por el temor de que secretos industriales o comerciales sean revelados a OpenAI).
+OpenAI implementa rigurosos protocolos de seguridad durante el desarrollo y la implementación de ChatGPT. Esto incluye prácticas de seguridad en la gestión de datos y la protección contra posibles ciberataques. OpenAI está comprometida en mantener altos estándares de seguridad para proteger la confidencialidad de los usuarios.
+OpenAI ha reconocido la importancia de la transparencia y la auditoría en el contexto de la inteligencia artificial. Se están llevando a cabo investigaciones y esfuerzos para mejorar la capacidad de auditoría de los sistemas de inteligencia artificial, lo que permitirá una mayor visibilidad y comprensión de cómo se generan los resultados.
+Entre noviembre y marzo, muchos analistas y ‘gurús’ de Inteligencia Artificial dieron por hecho que ChatGPT será el rey en el campo de la Inteligencia Artificial Generativa, e incluso en medios de comunicación y redes sociales fueron frecuentes expresiones como que ChatGPT acabaría con Google, o que es la única opción de herramientas conversacionales.
+Con la presentación y disponibilidad pública de Google Bard, ahora el péndulo se mueve al otro lado entre los medios de comunicación no expertos y creadores de contenido virales, quienes han llegado a ‘desahuciar’ a ChatGPT, lo han dado la corona a la herramienta de Google AI.
+Pero no: ni lo uno, ni lo otro. ChatGPT es hoy por hoy la herramienta más exitosa, con más usuarios y más sorprendente del momento, pero no es la única ni tampoco puede sentarse sobre sus laureles, porque la carrera apenas comienza y en el mundo de la tecnología la competencia no es de 100 metros planos sino que es una verdadera maratón.
+En el primer semestre de 2023, estos son los principales rivales de ChatGPT:
+Ernie Bot: Se trata de la apuesta china en el campo de ChatGPT y sus rivales occidentales. El gigante chino Baidu lo presentó públicamente en marzo de 2023, así que apenas está despegando.
+Mitsuku (Kuki): Fue muy popular y ganó el Premio Loebner 4 veces entre 2013 y 2018 como el chatbot más inteligente del momento. Es un chatbot ‘amistoso’ personificado en una jovencita de 18 años en estilo anime, que busca entablar conversaciones sobre temas cotidianos y de ocio y entretenimiento, música y arte, que puede generar fácilmente interacciones con juegos, quices, lecturas y hasta chats de voz.
+ChatGPT tiene un gran potencial para el futuro. Su capacidad para aprender y adaptarse a patrones lingüísticos promete mantenerlo en la cresta de la ola de la Inteligencia Artificial, a pesar de lo competitivo de este campo y a que además de Google, otros gigantes tecnológicos, como Meta y Amazon, también avanzan en este campo.
+La versatilidad de ChatGPT garantiza su aplicabilidad en muchos sectores económicos, sociales y culturales. En el corto y mediano plazos, podríamos verlo desempeñar un papel aún más destacado en la educación, el comercio electrónico, el servicio al cliente y muchos otros campos. 
+Aunque ChatGPT es una herramienta increíblemente poderosa, también presenta los riesgos y desafíos ya mencionados, que exigen a OpenAI –tal como a los demás jugadores de IA– ser responsable, sin necesidad de frenos externos, como la pausa de 6 meses que que proponía la famosa carta de expertos (que analizamos y criticamos en Impacto TIC).
+No se puede saber si en un año o en 10 ChatGPT seguirá siendo el líder en cuanto a chatbots conversacionales, o si su fuerza realmente reduzca las búsquedas en Google y cambie la forma como los usuarios de Internet han obtenido respuestas durante poco más de 2 décadas. Pero, sin duda, la visión de OpenAI es de largo aliento y podemos esperar que ChatGPT –como sus otras apuestas en IA Generativa– siga creciendo en inteligencia, versatilidad, confiabilidad y, por supuesto, número de usuarios.
+Al igual que otros servicios, ChatGPT tiene versión gratuita y una paga.
+Estos precios son válidos para 2024 y pueden estar sujetos a cambios en el futuro.
+
+        ¿Qué te ha parecido este artículo?
+
+
+
+
+Una de las disrupciones digitales en el periodismo es la visión colaborativa. Muchos de nuestros contenidos y procesos periodísticos y editoriales, como este, se cocinan y se desarrollan en equipo.
+Temas
+Canales
+
+5G
+
+24 Jul 2024
+por Sandra Defelipe Díaz
+
+inteligencia Artificial
+
+13 Ago 2024
+por Sandra Defelipe Díaz
+
+EVENTO
+
+17 Abr 2024
+por Jorge Hernández
+
+Inteligencia Artificial
+
+23 Ago 2024
+por Sandra Defelipe Díaz
+
+Siguiente
+
+Artículos relacionados
+
+Artículo 1 de
+5
+Tu contenido, tu privacidad!
+En esta página web utilizamos cookies técnicas que son necesarias para la navegación y la prestación del servicio.
+También utilizamos cookies para ofrecerle una mejor experiencia de navegación, para facilitar la interacción con nuestras funciones sociales y para permitirle recibir comunicaciones de marketing que coincidan con sus hábitos de navegación e intereses.
+Puede expresar su consentimiento haciendo clic en ACEPTAR TODAS LAS COOKIES. Al cerrar esta nota informativa, usted continúa sin aceptar.
+Siempre puede gestionar sus preferencias entrando en nuestro CENTRO DE COOKIES y obtener más información sobre las cookies que utilizamos visitando nuestra POLÍTICA DE COOKIES.
+Cookie Center
+A través de nuestro Centro de cookies, tiene la posibilidad de seleccionar o deseleccionar las categoriad individuales de cookies que se utilizan en los sitios web.
+Para saber más sobre las cookies que utilizamos, puedes profundizar en la Politica de Cookies.
+COOKIES TÉCNICAS
+
+Cookies necesarias para el funcionamiento del sitio web porque permiten funciones que facilitan la navegación del usuario, por ejemplo, el usuario puede acceder a su perfil sin tener que iniciar sesión cada vez o puede seleccionar el idioma que desea utilizar para navegar en la web sin tener que configurarlo cada vez.
+COOKIES ANALÍTICAS
+
+Cookies que, tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio ofrecido. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta de productos o servicios que le ofrecemos.
+COOKIES DE PERFIL Y PLUGINS DE REDES SOCIALES
+
+Cookies que, tratadas por nosotros o por terceros, nos permiten analizar sus hábitos de navegación en Internet para que podamos mostrarle publicidad relacionada con su perfil de navegación.
+
+Impacto TIC SAS. Bogotá, Colombia. Derechos Reservados.
+
+
+Mapa del Sitio					
+Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+Para copiar el enlace RSS en el portapapeles, haga clic en el botón.

@@ -1,0 +1,69 @@
+ChatGPT y por qué no puedes fiarte de lo que te dice
+Marilín Gonzalo
+newtral.es
+
+
+Interesa
+ChatGPT, la inteligencia artificial conversacional más sofisticada se ha hecho viral, pero tiene un riesgo: no es confiable para obtener datos veraces.
+
+Hemos creído que podíamos preguntarle cualquier cosa, pero no podemos pedirle veracidad. La inteligencia artificial más sofisticada en modelos de lenguaje natural, nos recuerda que la verdad no se consigue gratis. Como aquella robot que sólo miraba a los ojos de humanos, ChatGPT ha venido a seducirnos. ChatGPT es un chatbot, un robot que desde detrás de un chat puede responder todo tipo de preguntas con una elocuencia sin precedentes. Desde hace un par de semanas es el último juguete de internet. 
+ChatGPT es la versión mejorada de un modelo de inteligencia artificial llamado GPT-3, uno de los más avanzados en la actualidad, creado por OpenAI y que sorprendió cuando fue lanzado en 2020. 
+Estos sistemas de inteligencia artificial, llamados Large Language Models (grandes modelos de lenguaje) y basados en aprendizaje automático, pueden leer, resumir, traducir textos y predecir palabras futuras en una frase, lo que les permite generar discursos similares a cómo hablan y escriben los humanos. GPT-3 se basa en patrones obtenidos a través de grandes cantidades de textos que existen en la web, incluso conversaciones de personas. 
+today we launched ChatGPT. try talking with it here: https://t.co/uWra8LKFMN
+¿Cómo funciona? Una vez que creas tu usuario (previa introducción de tu email y teléfono móvil), se abre un chat en el que puedes pedirle a ChatGPT que genere textos muy diversos. Puedes pegar un artículo y pedirle que lo resuma de forma que lo entienda un estudiante de primaria, y también puede desarrollar una narración o un texto dándole una serie de puntos; puedes pedirle que te explique un concepto complejo en un párrafo, que escriba la historia de Humphrey Bogart en verso, que escriba guiones con el estilo o la longitud que quieras, que haga letras de canciones, que cuente un chiste, que escriba código informático, que juegue contigo a adivinar series de televisión a partir de emojis. 
+
+
+’Deepfakes’: cuando la desinformación pasa por un laboratorio
+
+
+’Deepfakes’: cuando la desinformación pasa por un laboratorio
+El formato de diálogo hace posible que ChatGPT responda a las repreguntas, que admita sus errores (e incluso se disculpe por ellos) y que pueda rechazar pedidos que considere inapropiados. ChatGPT es un modelo hermano de InstructGPT, otra IA de OpenAI, que está entrenado para seguir instrucciones y proveer respuestas detalladas. 
+Este tipo de inteligencias artificiales son conocidas desde hace tiempo. Ariel Guersenzvaig, profesor e investigador en ELISAVA, investiga los impactos socio-éticos de la IA, y dice que ChatGPT no le ha planteado nuevas preguntas. “Funciona mejor que otros sistemas que he probado anteriormente y en ese sentido no es algo totalmente novedoso, es una interación brutal de cosas que ya se conocían. Lo que sí me sorprendió es el hype (entusiasmo) de un montón de gente que se ha metido a probarlo; gente que normalmente no habla de estos temas, ahora lo hace”, señala. 
+
+
+Cómo funcionan los modelos de lenguaje: así traduce la IA el lenguaje humano
+
+
+Cómo funcionan los modelos de lenguaje: así traduce la IA el lenguaje humano
+Lo que hace a ChatGPT diferente de otros sistemas son fundamentalmente dos aspectos: por un lado, ha incorporado ajustes que la hacen más conversacional y por lo tanto, más “humana”. Ha sido optimizada para el diálogo usando un método que llaman Aprendizaje Reforzado con Respuesta Humana (RLHF por sus siglas en inglés), que utiliza respuestas humanas para guiar al modelo hacia los comportamientos esperados. 
+Es la primera vez que una herramienta tan sofisticada como esta es accesible por cualquier persona, gratuitamente y con una interfaz familiar, en varios idiomas que en los que contesta con coherencia. 
+Su formato ha sido clave: alcanzó un millón de suscriptores en los primeros 5 días. Las redes se han llenado de capturas de pantallas de textos de los usuarios que la están probando. Y esto está relacionado con el segundo aspecto. 
+El campo de personas que está accediendo a la interacción con este tipo de inteligencia artificial se ha ampliado con ChatGPT. “Tenemos aquí algo que se nos presenta en una interfaz familiar, esto hace que le apliques un modelo mental similar al que usas con otros agentes -humanos- con los que interactúas”, ha explicado Jacob Andreas, profesor de IA y lenguaje dell MIT en Wired. 
+Como ya hemos contado en Newtral, los riesgos de las inteligencias artificiales siempre caen hacia el lado de los sesgos. Un robot que se entrena con cantidades masivas de textos producidos por humanos tiende a multiplicar los sesgos sexistas o racistas con los que fue alimentado, y este es un gran problema de los algoritmos de caja oscura actualmente. 
+Probablemente para evitar problemas, sus creadores la han limitado en varios sentidos. ChatGPT no hace búsquedas en la web para tener información de acontecimientos recientes, no resuelve cuestiones de actualidad y sus conocimientos llegan hasta un corte de tiempo específico, el año 2021. 
+Tampoco contesta a ciertos requerimientos por una cuestión de principios, y OpenAI la ha programado para rechazar “peticiones inapropiadas”. La experimentación a gran escala que está haciendo OpenAI con millones de usuarios entrenando a la máquina en estos momentos probablemente sea una de las causas por las que la ha puesto a disposición pública gratuita por el momento. De esta manera puede detectar más rápido los fallos de la herramienta y detectar los posibles usos nocivos de ChatGPT.  
+Aunque parezca que lo hace, ChatGPT no razona. No tiene la habilidad de entender verdaderamente la complejidad del lenguaje humano. Está entrenada simplemente para generar palabras que se basan en patrones estadísticos, por lo que concuerdan en sentido y gramática, pero no tiene la capacidad de comprender el significado de esas palabras. David Karpf, investigador en la Universidad George Washington la ha llamado un “generador de clichés”. 
+En cierto sentido, ChatGPT está programada para ser conversacional, no para ser veraz, y hace muy bien lo primero. Los usuarios han encontrado rápidamente varios casos en los que ChatGPT inventa hechos, personas, datos, y los mezcla en textos muy bien redactados y convincentes. Guersenzvaig dice que “se inventa fuentes, se inventa personas que no existen, les atribuye libros que no han escrito y si le pides que cite, lo hace con textos que se refieren a otra cosa”. 
+Julio Gonzalo, vicerrector de investigación de la UNED, también pudo comprobarlo. Le pidió una lista de poetas españolas del siglo XX, lo que hizo correctamente. Luego al decirle que se había equivocado en una (lo que no era cierto), ChatGPT lo admitió, se disculpó y se inventó sus fechas de nacimiento y muerte para encajar con lo que le señalan.  
+ChatGPT produce una ilusión de pensamiento racional irresistible. Pero no deja de ser un modelo de lenguaje que *no razona* ni dispone de *conocimiento fiable* sobre el mundo. Aquí un ejemplo de cómo se deja llevar por el interlocutor y empieza a desbarrar. pic.twitter.com/jITyRA3sz7
+No es un secreto que ChatGPT se inventa cosas. En OpenAI lo admiten y dicen que hay mucha tarea aún por hacer. “ChatGPT a veces escribe respuestas plausibles pero incorrectas o sin sentido. Solucionar este problema es complicado, ya que (1) durante el entrenamiento, actualmente no hay una fuente de verdad; (2) entrenar al modelo para que sea más cauteloso hace que rechace preguntas que puede responder correctamente; y (3) el entrenamiento supervisado engaña al modelo porque la respuesta ideal depende de lo que sabe el modelo, en lugar de lo que sabe el demostrador humano”, señalan en su sitio web.
+Esto podría ser un riesgo para quien tome a ChatGPT como algo más que un juego, algo que ha advertido Sam Altman, CEO de OpenAI en Twitter y también está por escrito en su web, que advierte del carácter experimental del sistema. 
+Guersenzvaig ve lo que llama “las alucinaciones” de ChatGPT como un fallo y un gran problema. “Los textos que genera son prima facie coherentes, y esto está muy logrado. La gramática tiene unas reglas y en ese sentido tiene un campo importante para jugar. Pero la otra cuestión que tiene el lenguaje es la aplicabilidad práctica. Que una frase sea coherente o gramaticalmente correcta no dice mucho del contenido de verdad que tiene esa frase, y ahí está el problema”, señala. 
+“Si sabes del tema lo puedes verificar pero si le pides algo sobre un tema que no conoces es muy difícil verificarlo por la coherencia con la que te responde. Ahí hay un peligro que no es propio de este sistema pero que lo agrava, que es la información falsa”. Para Guersenzvaig, “ChatGPT es una máquina de generar información falsa, y esto es un gran problema. Cuando hay mucha información sobre el tema, encuentra más, cuando hay poca es cuando empieza a descarriar”.
+
+Ariel Guersenzvaig, profesor e investigador en ELISAVA
+
+Blog de OpenAI, ChatGPT: Optimizing Language Models for Dialogue
+
+FAQ ChatGPT
+
+Wired, ChatGPT’s Most Charming Trick Is Also Its Biggest Flaw
+
+MIT Technology Review, ChatGPT is OpenAI’s latest fix for GPT-3. It’s slick but still spews nonsense
+Lo cierto es que es un alivio que realmente no comprenda la intención de la pregunta y que simplemente se límite a generar una respuesta coherente pero carente en gran parte de los casos de validez.,
+Ya que de otra forma podríamos hacer que nos proporcionase información sensible…Y peligrosa de manera rebuscada.
+Como ayudarnos a crear un arma casera,ayudarnos a conseguir un veneno o fabricar un explosivo.
+me dan asco los negros
+Yo intenté hacer un exámen usando chatgpt y casi suspendo. Es más inútil que un peine para un calvo. Y la gente está engañada creyéndose que eso es inteligencia artificial. No es más que un bluf, un truco de prestidigitador para hacer creer al populacho lo que no es. No es confiable en absoluto. Y nunca lo va a ser. Pues se basa en asociaciones de datos y hechos. Y eso no es inteligencia.
+entonces no sabes usarlo para nada jajaja
+Tampoco es veraz en su información respecto a temas de derecho. Le solicité datos de sentencias sobre un tema y me dió numerosos roles de sentencias, los cuales eran todos falsos, no existían dichas sentencias o eran sobre materias distintas.
+también cuando le preguntas por articulo, su base legal es inventada
+
+
+He leído y acepto la Política de privacidad
+ *
+
+ 
+
+
+Δ

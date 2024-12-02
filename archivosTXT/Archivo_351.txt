@@ -1,0 +1,58 @@
+El potencial de la IA Generativa en el sector sanitario y farma - Keepler | The AI Enabler Partner
+Sofía Zurro
+keepler.io
+
+La industria farmacéutica y sanitaria, junto con la alimentaria, es uno de los sectores más grandes y avanzados del mundo, lo que hace que esté más dispuesta a integrar los nuevos elementos tecnológicos disruptivos.
+Como todas las industrias del mundo, estos sectores se han visto afectados por la digitalización y los avances tecnológicos. La digitalización especialmente ha transformado de lleno la atención médica gracias a tecnologías como el Big Data y la Inteligencia Artificial. El uso de éstas para la analítica avanzada de datos ha facilitado enormemente tanto el procesamiento, como el caso de análisis de cantidades ingentes de información generada por los pacientes. La implementación de estas técnicas en la atención médica permitirá la transformación de la forma de diagnosticar, además de personalizar tratamientos, ayudar a identificar factores de riesgo y, en general, mejorará los resultados y la productividad del sector sanitario.
+En este artículo nos centraremos en el potencial de la Inteligencia Artificial, y en especial en la Inteligencia Artificial Generativa, en estos sectores.
+El brote de la pandemia de COVID-19 puso en jaque al sector sanitario en todo el mundo. Fue necesario desarrollar soluciones rápidas y efectivas para frenar la emergencia sanitaria que durante más de tres años azotó al mundo entero. En este contexto, el desarrollo de tecnologías como la IA Generativa se vio impactado de manera positiva.
+En el ámbito laboral, todas las compañías tuvieron la necesidad de implementar otras formas de trabajar que no fueran de manera presencial, ya que el mundo entero se encontraba de cuarentena. En el ámbito social, la gente tuvo que inventarse nuevas formas de encontrarse con sus seres queridos, la mayoría lo hizo a través de internet y una pantalla. En el ámbito sanitario, fue necesario que se adoptaran rápidamente herramientas de diagnóstico para detectar el virus. Algunas de estas herramientas funcionaban con inteligencia artificial. Esto, junto con que muchos sistemas de imagen necesitaban una mayor precisión, ayudó a impulsar el crecimiento del mercado.
+Un ejemplo de los avances que se consiguieron gracias a la investigación de IA Generativa fue llevado a cabo por equipos de la universidad de Oxford e IBM. Estos científicos se aliaron para desplegar un método de desarrollo de una nueva clase de antivirales para hacer frente al virus basado en IA Generativa. La IA generativa tenía la capacidad de procesar cantidades masivas de datos y de generar nuevos conocimientos que permitiría crear nuevas moléculas que no se encuentran actualmente en la naturaleza y que podrían utilizarse para apoyar el descubrimiento de nuevos fármacos. Finalmente, el equipo dio con 4 posibles antivirales para el COVID en mucho menos tiempo del que habrían tardado si hubieran utilizado los métodos convencionales. Esto no solo ayudó de cara a la pandemia vivida en estos últimos años, sino que también nos sirve para estar preparados de cara a posibles futuras pandemias.
+
+La IA Generativa se está usando en el sector farmacológico para reducir el coste medio de producción de un medicamento. Este es un proceso que va desde el descubrimiento del fármaco hasta su comercialización y que puede ascender a miles de millones de euros. Solo un tercio de este dinero invertido iba destinado a costes de descubrimiento, siendo además la fase más larga del proceso (de 3 a 6 años de media). El proceso de descubrimiento de un fármaco cada vez es más complejo y requiere de herramientas y técnicas avanzadas.
+También está ayudando a reducir el tiempo de este proceso, diseñando fármacos en solo meses, una reducción considerable del tiempo de descubrimiento medio. Para la industria farmacéutica especialmente, esto supone importantes cambios a la hora de reducir costes y tiempo.
+Esta tecnología también aborda este proceso al analizar grandes cantidades de datos, extraer patrones complejos e incluso generar nuevas moléculas con las propiedades deseadas. De esta forma podemos extraer la información más relevante de manera rápida y eficiente, automatizando y agilizando el proceso que conlleva el análisis de datos.
+Los ensayos clínicos también se ven acelerados y mejorados gracias a la AI Generativa, pudiendo ayudar a que los investigadores a diseñar ensayos clínicos más eficaces prediciendo e identificando qué pacientes tendrán más probabilidades de responder a un tratamiento concreto. Esto permitiría que los ensayos clínicos fueran más rápidos y pequeños, redujeran sus costes, y que las nuevas terapias llegasen antes al mercado. La medicina sería mucho más personalizada y adaptada a las características de los pacientes y que los tratamientos fueran más eficaces.
+Gracias a la IA Generativa, el descubrimiento de fármacos se vuelve un proceso más eficiente y rentable.
+Se esperan prometedores beneficios al implementar la IA Generativa en relación con la mejora de la experiencia clínica para los pacientes. Se están mostrando los primeros éxitos de esta tecnología en la atención sanitaria en diferentes casos de uso.
+El sector sanitario es una de las industrias que cuentan con una gran cantidad de datos, y una creciente demanda de automatización en su tratamiento. La IA Generativa parece que marcará un antes y un después en los avances en medicina de precisión. Esta tecnología ayudaría a analizar las notas de los médicos, las imágenes médicas y otros datos no estructurados. Gracias a este análisis se podrían elaborar recomendaciones no solo de diagnóstico, sino también de tratamiento.
+La IA Generativa también puede compartir consejos médicos e información basada en datos, haciendo que los pacientes tengan mayor acceso al conocimiento de su estado de salud. Mejoraría la experiencia de los médicos automatizando tareas administrativas como la redacción de cartas de derivación o codificación clínica.
+Con el uso de la IA Generativa podemos obtener diagnósticos precisos y seguros favoreciendo la toma de decisiones. Estas técnicas también se pueden aplicar para trabajar en medicina preventiva: gracias a la información extraída, podemos anticiparnos a las necesidades del paciente.
+En definitiva, la IA Generativa está transformando el sector sanitario y trayendo avances tecnológicos para garantizar un futuro positivo y enriquecedor para la industria.
+ 
+Imagen: Unsplash | James Yarema
+Marketing Assistant at Keepler. "My work is oriented to the planning and organization of events. What I like the most about Keepler is to be able to work in an international environment and to learn from people from all over the world."
+Sep 27, 2024
+Del mismo modo que la computación en la nube ha transformado la infraestructura de TI, los datos y el mercado de aplicaciones en los últimos 15 años, los avances tecnológicos en las plataformas de IA y datos están alterando el status quo actual. Esto está generando...
+Sep 24, 2024
+Una encuesta reciente de Gartner ha revelado que el 47% de los trabajadores digitales enfrentan serios problemas a la hora de buscar información relevante en sus proyectos para desarrollar sus responsabilidades de forma efectiva. Y llevado al terreno de proyectos...
+Sep 3, 2024
+En el mundo actual, impulsado por los datos, las organizaciones de todos los sectores están recurriendo cada vez más a la inteligencia artificial (IA) y al análisis avanzado de datos para impulsar la transformación empresarial. Sin embargo, muchas empresas comienzan...
+Created with ♡ by Keepler’s crew 2024 © Keepler Data Tech S.L.
+Legal Disclaimer   |  Privacy Policy  |  Cookies Policy  |  Information Security Policy  | Whistleblower Channel
+Utilizamos cookies para ofrecerte la mejor experiencia en nuestra web.
+Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+Suscríbete ahora para seguir leyendo y obtener acceso al archivo completo.
+
+
+								Escribe tu correo electrónico…							
+ 
+
+
+
+
+
+
+
+
+ 
+								Suscribirse							
+
+Seguir leyendo
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias! 
+Más información sobre nuestra política de cookies

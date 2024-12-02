@@ -1,0 +1,80 @@
+Gestión de los riesgos de la IA generativa
+
+PricewaterhouseCoopers
+pwc.com
+
+More
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+Featured
+La Nueva Ecuación
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+ Menu
+Loading Results
+No Match Found
+Un manual para ejecutivos de riesgos: comenzando con la gobernanza
+El uso de la inteligencia artificial generativa (GenAI) demanda cambios y adaptaciones constantes y ágiles por parte de desarrolladores de IA, usuarios comerciales, inversionistas, legisladores y ciudadanos.
+Para obtener los máximos beneficios de esta tecnología innovadora, es importante gestionar de manera integral la amplia gama de riesgos que se presentan, considerando el negocio en su conjunto. Ya han surgido riesgos en áreas como la privacidad, la ciberseguridad, el cumplimiento normativo, las relaciones con terceros, las obligaciones legales y la propiedad intelectual.
+El nuevo reto será demostrar un equilibrio entre los riesgos y las recompensas de la innovación, lo cual, será crucial para garantizar la confianza en las empresas y obtener una ventaja competitiva.
+Los profesionales en gestión de riesgos pueden ayudar a las empresas a utilizar la IA generativa de manera segura y resiliente. Pueden asegurarse de que se garantice adecuadamente la privacidad, que se manejen los sesgos perjudiciales de manera justa, que sea válido y confiable, responsable y transparente, y que sea explicable e interpretable. En otras palabras, que sea digna de confianza.
+A pesar de que cada ejecutivo y usuario desempeñan un papel importante, son estos los líderes clave de la alta dirección (C-suite) quienes activarán la Inteligencia Artificial de manera responsable. Su enfoque se centrará en ofrecer confianza desde la planeación, no solo centrándose en la velocidad, convirtiéndola así  en una propuesta de valor para clientes, inversionistas, socios comerciales, colaboradores y la sociedad en general.
+A continuación, se presenta una descripción general de los riesgos en los que cada líder podrá enfocarse. 
+La IA generativa puede reducir las barreras de entrada que tienen los actores de amenazas. ¿Cuál es el riesgo más inmediato a tener en cuenta? El phishing, es una amenaza constante que se vuelve  más sofisticada al utilizar señuelos personalizados sumamente convincentes en chats, videos o incluso audios falsos generados en tiempo real, donde los ciberdelincuentes pretenden ser personas familiares o figuras de autoridad.
+Para el CISO, la GenAI representa un activo valioso que puede hacerle frente a estas amenazas y gestionarlas eficazmente dentro de la organización. Existe la posibilidad de que los actores manipulen los sistemas de inteligencia artificial para generar predicciones incorrectas o negar el servicio a los clientes. Por ello, es crucial contar con sólidas protecciones de ciberdefensa que salvaguarden el lenguaje patentado, modelos fundamentales, datos y contenido nuevo.
+El panorama de  ciberseguridad  demanda una respuesta proactiva y sólidamente respaldada, y GenAI puede convertirse en una herramienta fundamental en la protección de los recursos y la garantía de la confianza hacia los clientes.
+Estos líderes deberían prestar especial atención a cómo GenAI puede exarcebar los riesgos relacionados con datos y privacidad. Después de todo, la promesa de los grandes modelos de lenguaje radica en su capacidad para utilizar una gran cantidad de datos y generar incluso más información nueva, lo cual los hace vulnerables a problemas como el sesgo, la baja calidad, el acceso no autorizado y la pérdida de datos.
+Un dilema que algunas empresas ya enfrentan es el ingreso de datos confidenciales por parte de empleados en modelos de IA generativos de acceso público. GenAI, al poder almacenar indefinidamente información de entrada y utilizarla para entrenar otros modelos, podría infringir las normas de privacidad que restringen los usos secundarios de datos personales.
+Para mitigar estos riesgos, es crucial que el equipo de datos y privacidad establezca salvaguardias y controles sólidos, asegurando el cumplimiento de las regulaciones y la protección adecuada de la información sensible. La implementación de políticas claras y una capacitación efectiva para los empleados sobre el manejo responsable de datos se vuelve imprescindible para garantizar la confianza y el cumplimiento de las normas de privacidad en el entorno de GenAI.
+Se está desarrollando un enfoque ágil, colaborativo, regulatorio y de respuesta con la IA generativa, lo que podría implicar un ajuste significativo para los oficiales de cumplimiento. Es crucial mantenerse al día con las nuevas regulaciones y aplicar de manera más estricta las normativas existentes que se aplican a la IA generativa.
+Sin un gobierno y supervisión adecuados, el uso de la IA generativa por parte de una empresa puede generar o agravar riesgos legales. Por ejemplo, las medidas de seguridad de datos deficientes podrían exponer públicamente secretos comerciales, información de propiedad y datos de clientes. Además, una revisión insuficiente de los resultados generativos de IA podría dar lugar a imprecisiones, incumplimiento de normativas, contratos vulnerados, infracción de derechos de autor, alertas de fraude erróneas, investigaciones internas defectuosas, comunicaciones perjudiciales con los clientes y daños a la reputación.
+Para abordar y defenderse de los problemas relacionados con GenAI, los equipos legales deberán adquirir una comprensión técnica más profunda y un conocimiento que normalmente los abogados no suelen tener.
+La auditoría se convertirá en un mecanismo clave de gobierno para garantizar que los sistemas de IA sean diseñados e implementados de acuerdo con los objetivos de la empresa. Sin embargo, para elaborar un plan de auditoría centrado en los riesgos específicos de la IA generativa, el equipo de Auditoría Interna debe desarrollar e implementar nuevas metodologías, técnicas de supervisión y conjuntos de habilidades.
+Algunas de las habilidades que se requerirán para responder a las demandas de la IA generativa serán tener una mentalidad ágil, una disposición a aprender y crecer continuamente. Esto permitirá a la Auditoría Interna desempeñar un papel crucial en el gobierno efectivo de la IA generativa dentro de la organización.
+Es necesario evaluar los riesgos que plantean los sistemas de IA generativa, ya que puede ser complicado e ineficaz si se hace sin considerar el contexto en el que se implementan. Por lo tanto, comprender el problema que la empresa busca resolver con GenAI se convierte en un punto de partida fundamental para abordar adecuadamente estos desafíos.
+Sin un gobierno y supervisión adecuados, el uso de GenAI por parte de una empresa puede generar o agravar los riesgos financieros. Si no se utiliza correctamente esta tecnología se expone a la empresa al riesgo de cometer errores de razonamiento y una dependencia excesiva en los resultados que requieren cálculos numéricos. Estos riesgos de alto impacto son desafíos a los que los Directores financieros se enfrentan en el curso de sus funciones normales, especialmente en un entorno regulado.
+Los errores altamente visibles e involuntarios en los informes financieros resultan en la pérdida de confianza de clientes, inversionistas, reguladores y otras partes interesadas. Por lo tanto, provoca graves daños a la reputación de la empresa, y su recuperación puede ser altamente costosa y prolongada.
+Es vital que los Directores financieros y otros líderes de la línea financiera establezcan una rigurosa gobernanza y supervisión en el uso de GenAI. Esto implica la implementación de controles y verificaciones exhaustivas para garantizar la precisión y confiabilidad de los resultados generados por la IA. Asimismo, la capacitación y actualización constante del personal sobre el manejo adecuado de GenAI son fundamentales para mitigar los riesgos financieros asociados.
+Será vital contar con una estrategia eficaz de gobernanza de la IA, dado que diversas personas, tanto dentro como fuera de la organización, pueden influir en su capacidad para utilizar la IA generativa de manera responsable. Estos actores clave incluyen científicos e ingenieros de datos, proveedores de datos, especialistas en el campo de la diversidad, la equidad, la inclusión y la accesibilidad, diseñadores de experiencia de usuario, líderes funcionales y gerentes de producto.
+Las partes interesadas deben trabajar en conjunto para tener en mente todos los efectos y desafíos para incorporar innovadoras soluciones de esta nueva tecnología.
+En última instancia, la promesa de la IA generativa recae en su gente. Invierta en ellos para que comprendan los límites del uso de esta tecnología como asistente, copiloto o tutor, mientras aprovechan y realizan su potencial. Permita que su personal aplique su conocimiento y experiencia para evaluar críticamente los resultados de los modelos generativos de IA después de haber implementado las medidas de seguridad y riesgo adecuadas para su empresa. Cada usuario inteligente puede convertirse en un administrador de confianza.
+Este artículo se basa en el artículo “Managing the risks of generative AI” de PwC US. Esta versión es organizada y revisada por PwC Interamericas.
+Dora Orizábal
+
+                        
+                             Socia Líder Regional de Assurance, PwC Interaméricas
+                        
+                        
+                    
+Email
+© 2017
+							
+							 - 2024 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see www.pwc.com/structure for further details.
+						

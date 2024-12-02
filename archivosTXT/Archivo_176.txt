@@ -1,0 +1,51 @@
+Qué es el ChatGPT y qué oportunidades y desafíos genera - Chequeado
+Autor desconocido
+chequeado.com
+
+La inteligencia artificial no es un fenómeno nuevo, pero sí está dando que hablar en los últimos días, sobre todo en redes sociales. En especial, por el desarrollo del ChatGPT, un chatbot (programa informático que simula y procesa conversaciones humanas) entrenado para responder a casi cualquier pregunta o consigna que se le dé, desde escribir un poema hasta generar código de software, con mucha naturalidad y de forma detallada. 
+Esta herramienta es de lo que más se habla en este momento, pero no es la única plataforma de inteligencia artificial que sorprende: existen otras, como Dall-E, Midjourney y Stable Diffusion, que crean ilustraciones e imágenes realistas a partir de oraciones que se le propongan, como contamos en esta nota.
+Pero, ¿qué avances y oportunidades trae el ChatGPT? ¿Cuáles son los desafíos? ¿Qué implica en términos de desinformación? Te lo contamos en esta nota.
+El ChatGPT es una herramienta de inteligencia artificial desarrollada por la empresa OpenAI, cuya versión beta (es decir, de prueba) gratuita fue lanzada en noviembre de 2022. A grandes rasgos es un programa informático con el que podemos conversar, como pueden ser los asistentes de voz Alexa o Siri, salvo que nos contesta con texto.
+Puede responder casi cualquier pregunta o consigna que se le dé, desde crear una poesía, la letra de una canción o un código fuente, de forma natural y con un lenguaje bien construido. En redes sociales se comparten cientos de capturas de los pedidos de los usuarios al chat, que van desde escribir una historia como si fuese el escritor Jorge Luis Borges, “chatear” con el prócer José de San Martín o crear chistes con conceptos disímiles.
+
+¿Cómo funciona? “El ChatGPT está basado en otro modelo previo que se llama GPT-3, entrenado para modelar lenguaje usando enormes cantidades de texto. Se lo entrena para predecir la siguiente palabra dado un texto; es decir, predecir qué palabra es la más probable dado el contexto de una frase o texto más largo incompletos”, explicó a Chequeado Luciana Ferrer, investigadora independiente del Instituto de Ciencias de la Computación de la Universidad de Buenos Aires (UBA) y del Conicet.
+El ChatGPT usa este modelo como base. “Lo que hicieron fue tomar GPT-3 y ‘refinarlo’ para una función específica, la de contestar preguntas o pedidos (lo que llaman prompt en inglés). Para eso, le dieron al modelo un montón de ejemplos de preguntas y respuestas, escritas por gente, y lo entrenaron para que produzca las respuestas deseadas. Entonces, ahora ese nuevo modelo sabe contestar pedidos del estilo de los que le dieron como ejemplo al entrenarlo”, detalló la especialista.
+Pero que el ChatGPT pueda responder no significa que entienda. “La inteligencia artificial no tiene razonamiento, no puede hacer inferencias causales y no hace comprensión contextual del mundo, sino que hace probabilística. En un montón de usos donde la inferencia es clave, necesito entender las causas, no que me diga cosas probabilísticas. Las respuestas del ChatGPT sobre temas complejos que requieren análisis causal del mundo, necesitan revisión humana”, sostuvo a este medio Juan Corvalán, cofundador y director del Laboratorio de Innovación e Inteligencia Artificial de la Facultad de Derecho de la UBA. 
+Las aplicaciones del ChatGPT son múltiples, y la herramienta se puede utilizar para acelerar tareas simples cotidianas, realizar cálculos y resolver problemas matemáticos, traducir textos, escribir códigos y programar, usarla como inspiración para la escritura de textos formales o dar coherencia a ideas propias en notas sueltas.
+
+Pero, al contrario de lo que se cree, para los especialistas no reemplaza al ser humano sino que automatiza tareas. “La máquina empieza a tomar tareas más rutinarias y los humanos empezamos a focalizarnos en tareas mucho más creativas”, opinó Corvalán, quien, junto con su equipo, realizó una investigación de la herramienta con más de 500 pruebas.
+De todos modos, el especialista explicó que hay problemas más sofisticados, como decisiones judiciales o médicas, en las que el ChatGPT suele generar respuestas incorrectas, incompletas o sesgadas, por lo que se necesita de “un filtro humano que razone con emociones”.
+El chat también plantea oportunidades y desafíos dentro del ámbito educativo. “Su potencial es evidente, en especial para los docentes. No sólo sobre contenidos, que es lo primero que se nos viene a la mente, sino porque podría ser un auxiliar, un apoyo, para elaborar sus propuestas de enseñanza”, escribieron en este blog Alejandro Morduchowicz, especialista en Educación del Banco Interamericano de Desarrollo, y Juan Manuel Suasnábar, docente e investigador de la Universidad Nacional del Centro de la Provincia de Buenos Aires.
+Dentro de las inquietudes, uno de los temores más extendidos es que el ChatGPT sea utilizado por los estudiantes para resolver las tareas escolares, y las respuestas luego copiadas y pegadas sin que los docentes puedan tener control sobre ello.
+
+“Esto se basa en supuestos tales como que la tarea de enseñar se limita a repetir contenidos y la de los estudiantes en aprender a repetirlos. Si esto fuera así, el ChatGPT sería el mejor docente y, al mismo tiempo, el mejor de los alumnos. Lejos de ello, docentes y estudiantes bien pueden potenciar sus capacidades y posibilidades por el apoyo de tecnologías como la IA, del mismo modo que lo hicieron en su momento las calculadoras respecto de las matemáticas”, manifestaron los especialistas.
+Y agregaron: “Su existencia no neutralizó ni amenazó la tarea docente sino que, considerando estos riesgos, se buscaron alternativas y estrategias para incorporar a los procesos de enseñanza y aprendizaje el uso de la tecnología y el desarrollo del pensamiento crítico y la creatividad”.
+Una de las desventajas del ChatGPT es que puede producir desinformación sin intención. La propia empresa aclara en las preguntas y respuestas frecuentes de su página web que el ChatGPT no está conectado a internet, lo que ocasionalmente puede producir respuestas incorrectas y desactualizadas. Tiene conocimiento limitado del mundo después de 2021 y puede, ocasionalmente, producir respuestas dañinas o sesgadas. Es por eso que OpenAI recomienda verificar con otras fuentes las respuestas de la herramienta.
+
+Javier Pallero, director de Políticas Públicas de la organización internacional Access Now, señaló a Chequeado que el chatbot “también puede tener falta de moderación, información mal contextualizada a propósito o maliciosamente contextualizada para generar confusión, aunque no sea en los hechos errónea”. 
+Por otro lado, este medio pudo comprobar que el chatbot no aclara la fuente de la información que brinda, lo que hace imposible contrastar las respuestas con la fuente original. “Al ser una herramienta tan directa, adaptable y familiar -que es una ventaja- no hay mucho contexto, no hay incentivo para que la persona que lo lee busque información extra, es mucho más fácil creer la primera respuesta que muestra. Al menos en un buscador, uno encuentra en la primera página más de un resultado. Acá es un solo resultado y adiós”, manifestó Pallero.
+A pesar de los intentos de OpenAI por evitar contestar ciertos temas, en algunas oportunidades el chat contesta con respuestas sesgadas o dañinas. Esto no es la primera vez que ocurre. El grupo Meta recientemente removió una versión preliminar de su chatbot, Galactica, porque repetidamente generaba información sesgada e incorrecta.
+“Estos modelos probablemente tengan sesgos no deseados, porque aprenden de datos que están sesgados. El riesgo enorme es que el uso masivo de estas herramientas amplíe y perpetúe esos sesgos aprendidos de los datos. Este no es un problema exclusivo del ChatGPT ni del procesamiento de lenguaje natural (PNL, por sus siglas en inglés) sino que aplica a muchas herramientas modernas de inteligencia artificial”, reflexionó Ferrer.
+Según la especialista, para evitar la proliferación de herramientas de PNL sesgadas o con otros problemas es necesario un proceso de validación o certificación, independiente, legislado y regulado por el Estado. “Para eso, entre otras cosas, hace falta entender cómo evaluar estos modelos para poder certificarlos, una tarea nada fácil y no resuelta”, concluyó.
+
+
+
+
+													Fecha de publicación original:
+														21/01/2023													
+
+
+Valoramos mucho la opinión de nuestra comunidad de lectores y siempre estamos a favor del debate y del intercambio. Por eso es importante para nosotros generar un espacio de respeto y cuidado, por lo que por favor tené en cuenta que no
+			publicaremos comentarios con insultos, agresiones o mensajes de odio, desinformaciones que pudieran resultar peligrosas para otros, información personal, o promoción o venta de productos.
+		
+Muchas gracias
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+Comentario *
+Nombre * 
+Correo electrónico * 
+Web 
+ 
+
+
+
+Δ

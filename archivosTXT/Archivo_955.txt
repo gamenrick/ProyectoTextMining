@@ -1,0 +1,60 @@
+Red neuronal en Deep Learning: Guía completa [2024]
+Autor desconocido
+keepcoding.io
+
+ +34 916 331 779
+
+		Algunos de nuestros reconocimientos:
+	
+Home » Blog » ¿Qué es una red neuronal en Deep Learning?
+Saber qué es una red neuronal en Deep Learning es de suma importancia en este campo del procesamiento de los macrodatos, puesto que a partir de las redes neuronales se establecen los diferentes tipos de análisis. En efecto, un data scientist debe saber manipular este factor con gran destreza y habilidad, de manera que su desarrollo sea ágil y precisos sus resultados.
+Por esta razón, en el transcurso de este post, te explicamos qué es una red neuronal en Deep Learning, de manera que puedas implementarla efectivamente y comprendas a qué se refiere.
+¿Qué encontrarás en este post?
+Como todos sabéis, una red neuronal en Deep Learning es el corazón de los algoritmos basados en el manejo de los macrodatos dentro del Deep Learning. De forma sencilla, una red neuronal no es más que un método de aproximación de funciones. De hecho, según el teorema de aproximación universal:
+Una red neuronal con una sola capa oculta es suficiente para representar cualquier función en un determinado rango de valores, aunque es posible que dicha capa oculta sea tan grande que haga su implementación imposible o que no sea posible encontrar los pesos adecuados.
+Si tenemos en cuenta que normalmente cualquier problema que se os ocurra puede ser descompuesto y modelado en forma de funciones matemáticas, de acuerdo con este teorema, una red neuronal en Deep Learning debería ser capaz de resolver cualquier problema.
+Sin embargo, hay dos limitaciones importantes de las redes neuronales:
+Una red neuronal en Deep Learning está formada por nodos de procesamiento densamente conectados (veremos posteriormente su similitud con las neuronas cerebrales). Cada nodo puede estar conectado a diferentes nodos en múltiples capas por encima y por debajo de él. Una red neuronal simple tiene una capa de entrada, una capa de salida y una capa oculta entre ellas. Una red con más de tres capas, incluyendo la de entrada y la de salida, se conoce como red de aprendizaje profundo.
+Cuantas más capas, mayor es la capacidad de reconocer información más compleja. En este tipo de arquitecturas, cada neurona de la capa i se conecta con todas las neuronas de la capa i+1. Es decir, a las neuronas de una capa determinada solo se les permite conectarse a las neuronas de la siguiente capa.
+Las capas que componen una red neuronal se conocen como capas densas o fully connected. Cuando las conexiones hacia detrás están permitidas, se llaman redes recurrentes.
+Como podéis comprobar, la unidad básica de las redes neuronales es la neurona. De hecho, las redes neuronales están inspiradas en el cerebro humano, donde disponemos de más o menos 10 billones de neuronas, cada una conectada con otras 10.000 neuronas.
+La forma de funcionar es que cada neurona recibe un impulso electroquímico de otras neuronas a través de sus dendritas (entradas). Si estos impulsos son lo suficientemente intensos para activar la neurona, esta neurona pasa el impulso a sus conexiones. Al hacer esto, cada una de las neuronas conectadas vuelve a comprobar si el impulso que le llega al soma a partir de las dendritas es lo suficientemente fuerte como para activar la neurona y expandirse por más neuronas.
+Teniendo en cuenta este modo de funcionamiento, nos damos cuenta de que realmente las neuronas son como un interruptor: o pasan el mensaje o no. Es muy importante entender que las redes neuronales no se basan en sus compañeras biológicas, sino que se inspiran en ellas.Por último, te si quieres ver un ejemplo de una neurona en Deep Learning, te recomendamos visitar nuestro artículo “Ejemplo de una neurona en Deep Learning“.
+En este post, te hemos expuesto qué es una red neuronal en Deep Learning, sin embargo, este es un conocimiento que se fundamenta mucho más en la práctica que en la teoría; por ello, te aconsejamos llevar este post al ensayo para comprenderlo todo con mayor profundidad.
+Desde KeepCoding, sabemos que instruirte por tu cuenta puede resultar complicado y aburrido, por lo que te presentamos el Bootcamp Big Data. Por medio de esta formación, podrás contar con todos los conocimientos necesarios para ser un experto en el ecosistema de sistemas, lenguajes y herramientas del Big Data, a la par que los llevas a la práctica guiado por un grupo de grandes profesionales. ¡No esperes más para inscribirte!
+Business Intelligence & Big Data Advisor & Coordinadora del Bootcamp en Data Science, Big Data & Machine Learning.
+
+	Posts más leídos
+
+
+
+				¿Qué es un bootcamp y cuáles son sus beneficios?			
+
+
+
+				Menú de navegación en HTML: Guía paso a paso			
+
+
+
+				Los 5 lenguajes de programación más usados en 2024			
+
+Bootcamps
+Bootcamp de Programación desde Cero – Full Stack Jr. 
+Bootcamp Java Full StackBootcamp en Data Science, Big Data & Machine LearningBootcamp CiberseguridadBootcamp DevOps & Cloud Computing
+Bootcamp en Desarrollo de Apps Móviles iOS Full Stack Bootcamp en Desarrollo WebBootcamp Marketing Digital y Análisis de DatosBootcamp en Blockchain y CriptoactivosBootcamp de UX/UI IA Driven
+
+Síguenos
+  
+
+Código de honor | Política de cookies | Política de Privacidad | Aviso legal | Condiciones de Contratación
+Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios, ofrecer marketing personalizado y mejorar nuestros servicios. Tienes más información en nuestra Política de Cookies. Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+¡CONVOCATORIA ABIERTA!
+Big Data, IA & Machine Learning
+Full Stack Bootcamp
+Clases en Directo | Profesores en Activo | Temario 100% actualizado
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias!

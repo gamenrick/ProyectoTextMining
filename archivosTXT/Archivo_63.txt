@@ -1,0 +1,67 @@
+Deep Learning: Guía completa [2024] | KeepCoding Bootcamps
+Autor desconocido
+keepcoding.io
+
+ +34 916 331 779
+
+		Algunos de nuestros reconocimientos:
+	
+Home » Blog » ¿Qué es Deep Learning?
+¿Sabes qué es Deep Learning y en qué sectores o elementos se aplica? Si aún no conoces este término o te gustaría saber más sobre los conceptos y herramientas que trae consigo el uso de la Inteligencia Artificial y el Deep Learning, te interesará este artículo. A continuación, te traemos la respuesta sobre qué es de DeepLearning y sus diferencias con las redes neuronales, así como las ventajas del uso de este campo en muchos sectores de la vida diaria.
+¿Qué encontrarás en este post?
+Existen dos campos importantes antes de saber qué es el Deep Learning: la Inteligencia Artificial y el Machine Learning.
+Inteligencia Artificial (IA) es un conjunto de algoritmos y técnicas que pueden usarse para resolver problemas que los humanos realizamos intuitivamente, pero que son realmente difíciles para un ordenador. Se puede dividir en dos campos:
+El Machine Learning (ML) o aprendizaje máquina es un subcampo dentro de la Inteligencia Artificial. De forma general, podríamos decir que consiste en utilizar una gran cantidad de datos para extraer información útil para las personas.
+Por ejemplo, imagínate que disponemos de los últimos resultados de La Liga y queremos ser capaces de predecir el resultado del próximo Clásico. Primero, necesitaríamos parsear los datos, limpiarlos, eliminar las entradas incompletas, estudiar la distribución de las variables y elegir las características o atributos (feature engineering) que nos permitieran predecir este resultado con la mayor precisión posible.
+Una vez tuviésemos claro cuáles son las mejores características a utilizar, necesitaríamos encontrar el mejor algoritmo posible para nuestro dataset. La elección de las características, que a priori puede llegar a parecer sencilla, es el paso más complicado y costoso y, además, requiere de un alto grado de conocimientos sobre el problema en cuestión y sobre técnicas de extracción de características.
+🔴 ¿Quieres formarte en Inteligencia Artificial a un nivel avanzado? 🔴
+Descubre nuestro Inteligencia Artificial Full Stack Bootcamp. La formación más completa del mercado y con empleabilidad garantizada
+Dentro de la Inteligencia Artificial, el concepto de Deep Learning está construyendo un camino cada vez más importante y atractivo para los programadores. En términos conceptuales, Deep Learning es un concepto que se refiere al proceso computacional en el que se están desarrollando programas que imitan el comportamiento neuronal de un ser humano. Este concepto se encuentra arraigado al Machine Learning y permite desarrollar proyectos de Inteligencia Artificial.  
+Por tanto, la red neuronal permite que los programas u ordenadores aprendan desde grandes volúmenes de datos. De esta manera, el deep learning añade características especiales a un proyecto de IA, pues hace que los programas aprendan a realizar actividades psicológicas y analíticas por sí solas.
+Asimismo, como te habrás dado cuenta, el deep learning existe en muchos elementos que hoy en día utilizamos, dada su posibilidad de trabajar y procesar diferentes capas de datos dentro de un solo programa. 
+Es por eso que la influencia más grandes del uso del Deep Learning en programas informáticos está en el reconocimiento de varios formatos, tal como el reconocimiento de discursos, el reconocimiento visual de objetos y la detección de los mismos. Se sitúan sobre todo, como investigadores de la revista Nature mencionan, en el trato con drogas y la genómica.Por último, cabe destacar la importancia de tener una gran cantidad de datos para poder utilizar técnicas de ML o DL. Además, cuanta más calidad tengan esos datos, mejor se comportaran nuestros modelos.
+Estas frases, dichas por Andrew Ng (fuente: Wired), las podemos traducir de la siguiente forma: «Creo que la IA se parece a construir un cohete espacial. Necesitas un motor enorme y mucho combustible. Si tienes un motor enorme, pero poco combustible, no conseguirás poner el cohete en órbita. Si tienes un motor pequeño y un montón de combustible, no podrás ni despegar. Para construir un cohete espacial necesitas un motor enorme y un montón de combustible».
+Así que ya sabéis, no solo es importante el algoritmo que utilicemos, sino los datos de los que dispongamos.
+
+Una diferenciación que consideramos importante de acentuar en la explicación sobre el concepto de qué es Deep Learning es su comparación con las redes neuronales. La diferencia más importante recae en que el Deep Learning abarca mucho más espacio y funcionalidad, pues trabaja con 3 o más capas de redes neuronales, lo que la hace mucho más poderosa. El DP clasifica diferentes capas de información y de redes neuronales.
+Aunque ya sabes qué es Deep Learning y cómo ha revolucionado con los campos a los que pertenece, aún debemos repasar todas las ventajas y desventajas que trae estas herramienta en el desarrollo de cualquier programa de código para la Inteligencia Artificial.
+Las ventajas que trae el Deep Learning son varias. A continuación, te presentamos las más relevantes:
+En cuanto a las desventajas del uso de Deep Learning encontramos las que te presentaremos a continuación:
+SI bien ya entiendes el concepto de qué es Deep Learning, cómo se compara con las redes neuronales y cuáles son sus ventajas, aún falta mucho por aprender para dominar este sector. Por eso, te queremos recomendar nuestro Bootcamp Big Data.
+Se trata de una formación intensiva, con una duración de 8 meses, que te permitirá repasar cada uno de los conceptos que rodean al Big Data y la IA, así como realizar ejercicios prácticos que te permitirán obtener experiencia para entrar preparado al mercado laboral. ¡Anímate y apúntate pronto!
+Business Intelligence & Big Data Advisor & Coordinadora del Bootcamp en Data Science, Big Data & Machine Learning.
+
+	Posts más leídos
+
+
+
+				¿Qué es un bootcamp y cuáles son sus beneficios?			
+
+
+
+				Los 5 lenguajes de programación más usados en 2024			
+
+
+
+				Menú de navegación en HTML: Guía paso a paso			
+
+Bootcamps
+Bootcamp de Programación desde Cero – Full Stack Jr. 
+Bootcamp Java Full StackBootcamp en Data Science, Big Data & Machine LearningBootcamp CiberseguridadBootcamp DevOps & Cloud Computing
+Bootcamp en Desarrollo de Apps Móviles iOS Full Stack Bootcamp en Desarrollo WebBootcamp Marketing Digital y Análisis de DatosBootcamp en Blockchain y CriptoactivosBootcamp de UX/UI IA Driven
+
+Síguenos
+  
+
+Código de honor | Política de cookies | Política de Privacidad | Aviso legal | Condiciones de Contratación
+Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios, ofrecer marketing personalizado y mejorar nuestros servicios. Tienes más información en nuestra Política de Cookies. Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+¡CONVOCATORIA ABIERTA!
+Inteligencia Artificial
+Full Stack Bootcamp
+Clases en Directo | Profesores en Activo | Temario 100% actualizado
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias!

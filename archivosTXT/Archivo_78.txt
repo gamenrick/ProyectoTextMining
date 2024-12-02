@@ -1,0 +1,73 @@
+
+	Reconocimiento y clasificación de imágenes con Deep Learning | campusMVP.es
+
+David Charte 
+campusmvp.es
+
+La mejor forma de Aprender Programación online y en español www.campusmvp.es
+
+¿Cómo procesar imágenes con machine learning para reconocimiento y clasificación de objetos? La identificación de objetos en imágenes tiene múltiples aplicaciones: desde algo tan prosaico como identificar gatos o perros en fotografías, hasta la detección de tumores en pruebas diagnósticas o clasificar las piezas de una línea de producción según su calidad. En este vídeo práctico, nuestro tutor David Charte te explica desde cero cómo funcionan las técnicas de Deep Learning (redes convolucionales profundas) para clasificación automática de imágenes y cómo podemos utilizar Python y el paquete de Deep Learning Tensorflow (creado por Google) para lograrlo.
+
+El proceso general se llama clasificación automática, y es algo extremadamente complejo de realizar con programación convencional, pero relativamente sencillo de conseguir con técnicas avanzadas de Inteligencia Artificial / Machine Learning, y en particular gracias al uso de redes neuronales profundas, también conocidas como técnicas de Deep Learning.
+Con este vídeo entenderás cómo funcionan, qué técnicas de Python puedes utilizar para ordenar las imágenes de origen (por ejemplo los generadores), cómo realizar la carga de datos de entrenamiento sin consumir memoria, crear el modelo a partir de uno preentrenado particularizándolo con tus propios datos, entrenarlo y obtener un nuevo modelo para tu necesidad particular que, aunque en el ejemplo sirve para clasificar perros y gatos, te serviría para cualquiera de los casos de uso mencionados más arriba.
+Este vídeo forma parte de nuestro Máster de Machine Learning y Ciencia de Datos con Python y R, no es un video para corazones débiles, y deberías tener unos conocimientos mínimos de Python, Machine Learning en general y Redes Neuronales en particular, pero si quieres aprender bien estas técnicas te ayudará mucho. Además, al final del post encontrarás los ejemplos de código y enlaces de referencia útiles para poder seguir el ejemplo del vídeo.
+A lo largo del vídeo, seguiremos los siguientes pasos para llevar a cabo el ejemplo de clasificación de imágenes de mascotas que nos propone nuestro tutor David Charte:
+El objetivo principal en un modelo de clasificación es disponer de una función que sepa decirnos, dado un nuevo caso del problema, a qué categoría pertenece la foto, de forma que a partir de ahí podríamos clasificar miles de imágenes de una forma lo suficientemente rápida.
+Para construir este sistema, primero necesitaremos un conjunto de datos ya clasificados para entrenar este modelo y que sepa en qué detalles tiene que fijarse.
+Para el ejemplo utilizaremos un conjunto de datos que ya existe y está accesible de forma pública, el "Oxford-IIIT Pet Dataset", que está preparado para tareas de clasificación, detección y segmentación, que básicamente se diferencian en el nivel de detalle de los datos devueltos.
+Este modelo también nos permite distintos niveles de granularidad. Por ejemplo, no solo identificar si la imagen es perro o gato, sino también clasificar por razas.
+Con nuestro cuaderno de Jupyter clasificaremos de forma automática si una imagen es de un perro o un gato, pero primero debemos asegurarnos de que estamos trabajando en un entorno de Python en el tengamos instalada la dependencia necesaria, que es TensorFlow. En este post te explicamos cómo poder disponer de diversos entornos de trabajo con Python utilizando conda.
+En Jupyter veremos cómo organizamos con una función las imágenes para tener clasificadas las imágenes de entrenamiento y las que usaremos como test.
+A continuación utilizaremos la clase de TensorFlow ImageDataGenerator, un generador que nos ahorrará tener todas las imágenes cargadas en memoria porque es capaz de ir escaneando las carpetas y recuperando los archivos por lotes a medida que se necesiten.
+Una vez capturadas las imágenes con el generador, podremos visualizarlas utilizando la biblioteca matplotlib de Python
+El siguiente paso será cargar el modelo. No crearemos un modelo desde cero porque necesitaríamos muchísimas más imágenes, así que partiremos de un modelo ya entrenado para identificar formas sencillas y que reajustaremos para nuestra tarea específica. Esta estrategia se conoce como transfer learning y en nuestro caso partiremos de la red neuronal InceptionV3 que es una de las más populares para clasificación de imágenes.
+Gracias a hacerlo de esta manera podremos hacer la clasificación en una máquina mucho menos potente que si partiésemos de cero.
+Básicamente sustituimos la última capa de esta red, que es la que hace la clasificación final, por nuestras propias capas para que simplemente clasifique las imágenes en perros o gatos (o lo que nos interese según el caso) con un par de funciones de activación que nos darán unos ajustes muy interesantes para afinar mejor los resultados.
+Ahora ya solo nos queda entrenar la red. Cargamos Inception y le enganchamos nuestras capas. Para entrenarla, cargamos las imágenes llamando a nuestro generador y se las pasamos al método fit ajustando el parámetro epochs (épocas). Una época es cada pasada que hacen los datos a través de la red. Por lo general, una red neuronal necesita hacer varias pasadas para entrenarse y optimizarse correctamente.
+Cuando termine el entrenamiento, se nos generarán varias filas de datos, una por cada época. En cada fila se nos indicará el progreso y el tiempo que ha llevado el procesado y el valor de la función objetivo. Cuanto más pequeño sea este valor, será mucho mejor.
+Ahora es el momento de poner a prueba nuestra red. Generaremos una predicción y veremos si nuestra red es capaz de clasificar correctamente con el método predict nuestro lote de imágenes de test, que son imágenes que nuestra red todavía no ha "visto".
+Nuestra red nos dará el porcentaje de probabilidades de que sea gato o perro, y con la función argmax de la biblioteca numérica de Python NumPy, calcularemos cuál es la más probable.
+Finalmente visualizaremos un lote con la imagen y la predicción de cada caso para comprobar que funciona correctamente. Según lo exigente que seamos con nuestro modelo en función de la finalidad que persigamos, necesitaremos un nivel de acierto mayor (o no) y deberemos ajustar la precisión de las probabilidades.
+Ten en cuenta que, al fin y al cabo, este es solamente un ejemplo con fines didácticos.
+Recursos de código, datos y tutoriales que te resultarán útiles para poder seguir el vídeo
+Boletín campusMVP.es
+🚀 Únete a miles de desarrolladores
+
+x No me interesa
+                |
+                x Ya soy suscriptor
+
+¿Te ha gustado este artículo? ¡Compártelo!
+
+Nombre*
+
+
+
+Correo Electrónico*
+
+
+
+
+Sitio Web
+
+
+
+Comentario*
+
+
+
+
+Notificarme cuando se publiquen nuevos comentarios
+
+Los datos anteriores se utilizarán exclusivamente para permitirte hacer el comentario y, si lo seleccionas, notificarte de nuevos comentarios en este artículo, pero no se procesarán ni se utilizarán para ningún otro propósito. Lee nuestra política de privacidad.
+    
+
+
+
+
+Cancelar respuesta al comentario
+
+Huevo, perro, abeja o viernes, ¿cuál es un día de la semana?The captcha value you provided is incorrect.
+
+© Krasis Consulting S.L.U.  -    Aviso Legal y Política de privacidad
+                - Política de Cookies - Gestionar cookies

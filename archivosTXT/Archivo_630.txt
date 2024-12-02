@@ -1,0 +1,32 @@
+Cómo utilizar ChatGPT3, la inteligencia artificial de la que todo el mundo habla - Plain Concepts
+ecanorea
+plainconcepts.com
+
+ChatGPT es la IA que ha venido para quedarse y que, sin duda, cambiará las reglas del juego. Se trata de una de las mejores aplicaciones de la IA jamás vista, lanzada el 30 de noviembre de 2022 y que, en tan solo 4 días, ChatGPT ya tenía acumulado más de un millón de usuarios. No es para menos, pues su forma de expresarse es realmente excelente y cuenta con una capacidad de comprensión increíble.
+Es una gran revolución tecnológica con un potencial infinito y, en este artículo, vamos a ver cómo podemos aprovechar la tecnología en la que se basa ChatGPT para aplicarla en nuestro negocio o empresa.
+ChatGPT es el chatbot de inteligencia artificial desarrollado por OpenAI que está basado en el modelo GPT-3.5, es decir, es un software al que le puedes hablar y preguntar sobre prácticamente cualquier tema utilizando tu propio lenguaje natural.
+GPT-3.5 (Generative Pre-trained Transformer) es un modelo de generación de lenguaje desarrollado por OpenAI basado en aprendizaje automático, caracterizado principalmente por la generación de texto en lenguaje natural asombrosamente similar a la escritura humana.
+El modelo se ha entrenado con un gran conjunto de datos de texto generado por humanos y puede crear texto para diversas tareas lingüísticas, como traducción, resumen y generación de lenguaje.
+Para utilizar el chat es tan sencillo como dar de alta tu usuario en la web de chat Open IA y comenzar a usar la interfaz conversacional generalista para preguntarle o pedirle prácticamente cualquier cosa.
+Aplicaciones tiene infinitas, tantas como tu imaginación alcance. Lo podemos usar como un asistente personal inteligente que nos va a ayudar a ser mucho más eficientes en nuestro día a día: resumir textos, consultar información, traducir, construir textos…
+Pero lo realmente interesante es cómo podemos usar GPT3 a través de su API. Es ahí donde podrías integrarla con otros productos y sacarle un mayor provecho al asistente virtual en tu negocio.
+Para utilizar la API solo tienes que crearte una api key y puedes llamarla utilizando este código JavaScript, pasarle como parámetro una consulta y trabajar sobre el JSON de respuesta obtenido.
+ 
+Ejemplo código JavaScript que llama a la API de GPT3
+ 
+Hay que tener en cuenta que dependiendo del número de llamadas a la API en un determinado periodo de tiempo, no te servirá con la free trial y será necesario pagar por su uso. Serían unos 2 céntimos por cada 700 palabras generadas por la IA. Puedes ver el precio completo en esta url.
+A continuación, listo algunos posibles casos de uso de GPT3 que pueden ayudar a nuestro negocio:
+ 
+GPT es una gran herramienta con infinidad de aplicaciones, pero la IA no es perfecta y hay ocasiones en las que puede generar contenido no fiable 100%, por lo tanto sería conveniente que un humano revise el contenido que genera. Y además, por sí solo hay escenarios a los que chatGPT no llega y será necesario desarrollar integraciones con otros productos o bases de datos realizando desarrollos a medida.
+Recopilamos algunos casos de ejemplo en las que sería necesario realizar un desarrollo de IA a medida:
+ 
+Si quieres descubrir más sobre las posibilidades que la inteligencia artificial y GPT pueden brindarle a tu empresa, ¡no dudes en conocer nuestro Azure OpenAI framework!
+ 
+ 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

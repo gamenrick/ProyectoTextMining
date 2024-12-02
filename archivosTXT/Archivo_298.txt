@@ -1,0 +1,47 @@
+Introducción a la Inteligencia Artificial Generativa - Aprender BIG DATA
+Oscar Fernandez
+aprenderbigdata.com
+
+La inteligencia artificial (IA) ha tenido un gran impacto en campos como la medicina o el arte. En los últimos años, ha surgido un subcampo de la IA conocido como inteligencia artificial generativa que con el éxito de herramientas como ChatGPT no podemos pasar por alto.
+En este artículo, exploraremos qué es la inteligencia artificial generativa y cómo ha revolucionado la forma en que las máquinas pueden aprender y ofrecer respuestas.
+Contenidos
+La inteligencia artificial generativa, abreviada como GAI (Generative Artificial Intelligence), es un subcampo de la inteligencia artificial que se centra en la capacidad de las máquinas para aprender y generar contenido original de forma autónoma.
+A diferencia de los enfoques tradicionales de la IA, que se basan en datos preexistentes para realizar tareas específicas, la IA generativa es capaz de crear nuevas imágenes, audio, texto y otros tipos de contenido.
+La Inteligencia Artificial Generativaes un subcampo de la inteligencia artificial que se centra en desarrollar sistemas capaces de generar contenido de manera autónoma y creativa, para crear datos que pueden incluir texto, imágenes, audio y más.
+Los sistemas de Inteligencia Artificial Generativa utilizan técnicas de aprendizaje profundo, como redes neuronales generativas o Redes Generativas Adversariales (GANs).
+Una Red Generativa Adversarial o GAN (Generative Adversarial Network), es un modelo de deep learning no supervisado que consta de dos redes neuronales, el generador y el discriminador, que funcionan en conjunto.
+El generador crea datos, como imágenes, texto o audio, mientras que el discriminador evalúa si esos datos son genuinos o falsos. Este proceso de competencia entre el generador y el discriminador es lo que permite a una GAN crear contenido cada vez más realista.
+Este proceso de competencia y retroalimentación continua entre el generador y el discriminador permite a una GAN crear datos artificiales de alta calidad que a menudo son indistinguibles de los datos reales.
+Aquí tienes un ejemplo de código para Generative AI utilizando la biblioteca de Hugging Face con un modelo preentrenado como GPT-2 en Python. Este código genera texto a partir de una frase inicial, lo que es típico en estas aplicaciones.
+Para este ejemplo, necesitaremos instalar las librerías transformers y torch:
+Con el siguiente código, puedes ver cómo podemos generar texto fácilmente con GPT-2:
+Lo primero que hacemos es cargar GPT-2, un modelo generativo preentrenado, junto con su tokenizador para preparar el texto de entrada. El modelo empieza generando texto a partir de un prompt dado, en este caso: "La ia generativa es capaz de".
+Aquí generamos hasta 100 tokens, que son palabras o partes de palabras. El argumento no_repeat_ngram_size=2 evita que el modelo repita frases.
+También decodificamos el texto desde su forma numérica para hacerlo legible.
+La inteligencia artificial generativa se usa en ámbitos en los que existe una gran cantidad de datos de entrada y se benefician de la generación de contenido.
+Diseño de productos: Las empresas pueden utilizar la IA generativa para diseñar nuevos productos. Al alimentar el sistema con ejemplos de productos existentes y especificaciones adicionales, la IA generativa puede generar diseños únicos y creativos que cumplen con los requisitos establecidos.
+Medicina: En el campo de la medicina, la inteligencia artificial generativa se utiliza para descubrir nuevas moléculas y medicamentos. Los algoritmos generativos pueden explorar millones de combinaciones posibles y generar estructuras moleculares prometedoras para su posterior análisis y desarrollo.
+Arte y música: Los artistas pueden utilizar algoritmos generativos para crear obras de arte únicas, mientras que los compositores pueden generar música original basada en ciertos estilos o géneros. La IA generativa puede generar arte único y sorprendente que desafía las nociones tradicionales de creatividad.
+Los debates sobre derechos de autor y responsabilidad moral son cada vez más relevantes en torno a la IA. Los desarrolladores de IA generativa pueden optar por licenciar sus modelos o las obras generadas bajo ciertas condiciones. Estas licencias pueden permitir diferentes grados de uso y modificación.
+En algunos países, los derechos morales de los artistas humanos pueden aplicarse a las obras generadas por IA. Esto podría implicar el derecho a ser reconocido como el autor o a oponerse a cambios en la obra generada.
+A medida que la tecnología continúa avanzando, es probable que las leyes y normativas se adapten para abordar los derechos de autor.
+Además, la discriminación algorítmica y la manipulación de la información también son preocupaciones importantes que deben abordarse.
+Los modelos de IA generativa, aprenden a partir de grandes conjuntos de datos. Si estos datos de entrenamiento contienen sesgos o discriminación, es probable que el modelo los reproduzca en sus resultados. Por ejemplo, si se entrena un modelo de generación de imágenes en una base de datos que tiende a representar ciertos grupos de manera negativa, el modelo podría generar imágenes discriminatorias.
+Si te interesa la Inteligencia artificial y estás buscando formación, te recomiendo mi comparativa de los mejores Másteres de Machine Learning en calidad-precio. Aquí tienes los primeros de la lista:
+La IA Generativa es un campo en explosión y la demanda de profesionales no para de crecer. A continuación te recomiendo uno de los mejores cursos para iniciarse en este sector y conseguir un empleo.
+Este curso está ofrecido por DeepLearning.ai en Coursera e impartido por el famoso instructor Andrew Ng. Es un curso de iniciación, de unas 6 horas de duración. Aprenderás cómo funciona la IA generativa, el potencial y riesgos que supone y cómo construir el ciclo de vida de un proyecto. Es una oportunidad genial para conseguir un certificado que muestre tus conocimientos.
+Los modelos de lenguaje GPT son una familia de modelos de IA generativa desarrollados por OpenAI. Utilizan arquitecturas de transformadores preentrenadas para tareas de generación de lenguaje natural, como responder preguntas, escribir textos coherentes y generar contenido creativo.
+Para mitigar el sesgo en los modelos generativos, debemos utilizar conjuntos de datos representativos y equilibrados. También, debemos aplicar técnicas de preprocesamiento para detectar y corregir sesgos, y evaluar constantemente los resultados generados para detectar posibles problemas.
+La IA Generativa se enfoca en crear nuevo contenido a partir de datos existentes, mientras que la IA Discriminativa se centra en clasificar y etiquetar datos según categorías predefinidas. Ambos enfoques son complementarios y se utilizan en conjunto en muchos sistemas de IA.
+Sí, al entrenar modelos con grandes conjuntos de datos de obras de arte previas, las redes neuronales generativas pueden producir nuevas piezas artísticas que imitan estilos reconocidos o incluso desarrollan estilos únicos.
+Únete a la Comunidad Big Data
+Tu conocimiento es la herramienta más potente. Suscríbete a la lista de correo para mantenerte al día con los artículos más útiles para tu carrera en Big Data y Cloud. Sin spam, nunca.
+Acepto la política de privacidad
+Arquitecto de Datos con más de 6 años de experiencia en el sector del Big Data. Autor de cursos de formación en tecnologías Big Data, Cloud y Streaming completados por más de 5000 alumnos en Udemy y otras plataformas. Miembro de la Apache Software Foundation desde 2019.
+ 
+
+ Quiero comparar con otra formación.
+  Acepto la Política de Privacidad
+ Información básica sobre el tratamiento de datos personales conforme al RGPD (UE) 2016/679 y a la LOPDGDD 3/2018. Responsable: Kore Venture, S.L. Finalidad: Contactar con el interesado. Atender las peticiones de información recibidas y responder las consultas planteadas. Enviar comunicaciones comerciales electrónicas sobre másters o programas de posgrado. Legitimación: Consentimiento del interesado. Destinatarios: Escuelas de negocios y universidades que ofrecen formación de máster o cualquier otro programa de posgrado. Instituciones públicas y/o privadas que ofrecen becas para máster o posgrado. No se cederán datos a otros terceros, salvo obligación legal. Derechos: Tiene derecho a acceder, rectificar y suprimir sus datos, así como otros derechos, indicados en la información adicional, que puede ejercer dirigiéndose a la dirección del responsable del tratamiento en [email protected] Información adicional: Puede consultar la información adicional y detallada sobre Protección de Datos en las cláusulas anexas que se encuentran en
+https://dondeestudiar.eu/politica-privacidad
+No volver a mostrar este mensaje

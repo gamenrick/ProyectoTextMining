@@ -1,0 +1,98 @@
+Caso de éxito: implantación de sensores con IA, sistemas MES e IO-Link en HENNEO Print - Blog de hiberus
+Carlos Bello
+hiberus.com
+
+HENNEO es uno de los grupos españoles líderes en los sectores de medios de comunicación y tecnología. Desde su fundación en el año 1895, ha sido referente en la industria de impresión de periódicos, estando siempre a la vanguardia de la tecnología y la transformación digital. Actualmente, cuenta con más de 25 millones de lectores digitales.
+HENNEO Print es la división de HENNEO dedicada al desarrollo, impresión y manipulación de diferentes productos. Actúa como proveedor global de servicios de impresión, ofreciendo soluciones integrales de impresión para el diseño y desarrollo de productos editoriales y publicaciones, grandes formatos y artes gráficas: publicaciones diarias, semanales, quincenales y mensuales, revistas, catálogos, folletos, vinilos, expositores, lonas, carteles, etc.
+Hasta 2020, la planta solo podía realizar trabajos de coldset (calidad de periódico) porque no disponía de la maquinaria y tecnología necesarias, pero quería entrar en el negocio de la edición heatset para poder ofrecer nuevos servicios de impresión a grandes clientes que demandan grandes volúmenes comerciales con la máxima calidad y eficiencia.
+Este ambicioso proyecto pasaba por crear una nueva línea de negocio, con la consiguiente inversión en maquinaria y la incorporación de nuevas tecnologías como inteligencia artificial, Big Data y automatización de procesos para la mejora de la gestión de la producción, la optimización de fallos y el mantenimiento preventivo. Y ahí es precisamente donde entra hiberus. A continuación, te contamos todos los detalles sobre el proyecto.
+
+En este caso, HENNEO Print buscaba, por un lado, optimizar sus procesos productivos y, por otro lado, digitalizarlos, pero no tenían muy claro qué tecnologías debían implementar.
+Desde el departamento de industria de hiberus nos pusimos manos a la obra y, para el primer hito basado en la optimización de los procesos productivos, propuso la implementación de un sistema MES (Manufacturing Execution System), el cual recopila datos en tiempo real para posteriormente poder analizar el OEE (Overall Equipment Effectiveness), un indicador clave de rendimiento utilizado en la gestión de la producción para medir la eficiencia global de un equipo o sistema de producción.
+En cuanto a la digitalización, se optó por implementar tecnología IO-Link, la cual será descrita más adelante.
+En hiberus contamos con un software MES del fabricante Zeo Technology que, gracias a sus diferentes módulos, consigue cubrir todas las necesidades del cliente con un despliegue rápido. Los módulos implantados en HENNEO Print han sido:
+ 
+
+ 
+En cuanto a la digitalización de procesos, hemos realizado las siguientes implementaciones:
+La eficiencia energética se está volviendo cada vez más importante en el proceso productivo de las empresas. Por ello, hemos instalado analizadores de red para captar tanto información del rendimiento de la máquina como información específica, ya que miden de forma exhaustiva hasta 100 parámetros, desde la tensión, la velocidad de los motores, la corriente, la temperatura de los componentes o la potencia consumida hasta los molestos armónicos que producen interferencias en la red, las cuales pueden provocar averías en otros equipos, saltos intempestivos de circuitos de protección y sobrecostes en la factura de electricidad.
+Hasta ese momento, la planta de impresión dependía de sistemas legados que ofrecían información limitada sobre el estado de las rotativas. La introducción de sensores especializados de última generación ha permitido a HENNEO Print:
+El avance sustancial viene dado cuando estos datos son integrados de manera inteligente. La información proveniente de los sensores se fusiona con los datos del sistema ERP y del sistema de fabricación, generando una sinergia que potencia la eficiencia operativa de la planta. Un software de inteligencia artificial, que está siendo cuidadosamente diseñado en colaboración con el Grupo SID de la Universidad de Zaragoza, se convierte en el conductor de esta orquesta digital, permitiendo la toma de decisiones más informada y estratégica.
+ 
+
+
+  Sensorización
+En este cliente se optó por la instalación de bobinas de tipo Rogowsky, las cuales, a diferencia de las bobinas toroidales, permiten abrazar la línea de fuerza a medir sin necesidad de abrir el circuito abrazando el cable como si fuera una pulsera. Esto en redes de alta potencia resulta muy recomendable al no tener que realizar paradas de producción, evitando tiempos de inactividad y pérdida de eficiencia.
+Los datos extraídos de este analizador son volcados al sistema Zero Deffects, donde los usuarios, además de visualizarlos, pueden interrelacionar el consumo eléctrico con cada orden de fabricación. De esta manera, el cliente sabe con exactitud el coste energético de cada elemento producido pudiendo de esta manera optimizar sus costes.
+La última digitalización de procesos realizada ha sido mediante la adquisición tanto de la señal de alta velocidad de la máquina como de la temperatura de los motores. Esto se ha realizado mediante el protocolo IO-Link.
+
+Datos de temperatura del motor principal y de la velocidad de la máquina correspondientes a un día
+ 
+
+Paradas en las máquinas por descansos semanales de los trabajadores y paradas no programadas debidas a incidentes de producción
+ 
+
+Informe para los departamentos de mantenimiento y producción
+ 
+En este caso, mediante la implementación de esta tecnología conseguimos convertir una señal analógica de 0-10v a velocidad para posteriormente introducirla en el módulo de Zero Deffects. Además de esta señal, introducimos la señal de temperatura de los motores de la rotativa al mismo módulo.
+Gracias a IO-Link, HENNEO Print ha podido beneficiarse de ventajas como:
+El proyecto ha resultado un éxito gracias, por un lado, al conocimiento multidisciplinar del área de IoT junto con los compañeros de data y, por otro lado, a la colaboración del cliente durante todas las fases del proyecto y su predisposición desde el primer momento a la implantación de las tecnologías punteras que desde hiberus desarrollamos y promocionamos día a día.
+Una vez realizada toda la integración tanto de hardware como de software y la simulación de procesos de impresión Heatset con las tecnologías habilitadoras IoT y Big Data, se han alcanzado los siguientes hitos:
+Además de las mejoras operativas, se ha brindado a HENNEO Print la capacidad de medir el rendimiento a través de Key Performance Indicators (KPIs). Estos indicadores proporcionan una visión clara y cuantificable del éxito, permitiendo a la planta evaluar y ajustar continuamente sus operaciones para lograr la excelencia.
+El trabajo realizado ha sido recientemente seleccionado y presentado en el Congreso Internacional IARIA 2023, celebrado en 2023 en Valencia, validándose de esta manera su aportación no solamente industrial, sino también en lo referente a innovación. La presentación, ubicada en una serie de exposiciones dedicadas a sensorización, Internet of Things (IoT) y sistemas de tiempo real, tuvo muy buena acogida y motivó un interesante debate sobre el futuro de este tipo de intervenciones sobre maquinaria legada, que se está demostrando que aportan grandes ventajas en la gestión de los procesos internos.
+La implementación exitosa de un sistema MES y la digitalización de procesos en HENNEO Print han mejorado la eficiencia operativa y la gestión de la producción. Se ha logrado una optimización de procesos mediante la visualización en tiempo real y el análisis del OEE. Además, la digitalización permite un control preciso de los costos de producción, promoviendo prácticas sostenibles al medir detalladamente la energía.
+La obtención de datos en tiempo real proporcionada por los sensores y su interconexión, especialmente a través de la tecnología IO-Link, facilitó la toma de decisiones informadas y la predicción de posibles averías. De esta manera, el equipo de mantenimiento puede anticipar problemas, realizar mantenimiento predictivo y reducir el tiempo de inactividad de las máquinas.
+La planta ahora también tiene la capacidad de realizar simulaciones de planificación de trabajos en función de los datos recopilados. Esto no solo mejora la eficiencia en la asignación de recursos, sino que permite una planificación más precisa y flexible.
+Así pues, gracias a la instalación de sensores y a la integración de inteligencia artificial, esta planta de impresión ha dado un paso firme hacia el futuro. La modernización de sus operaciones no solo mejora la eficiencia y reduce los costos, sino que también posiciona a la empresa en la vanguardia de la innovación en la industria de la impresión. Este caso ejemplar demuestra cómo la adopción estratégica de tecnologías emergentes puede transformar por completo la forma en que se gestionan y llevan a cabo las operaciones comerciales.
+ 
+En hiberus disponemos de las mejores soluciones para el sector industrial. Aplicamos tecnologías basadas en Industria 4.0 para impulsar la productividad industrial con el fin de mejorar la eficiencia y la calidad de los procesos y las operaciones de nuestros clientes. ¡Contacta con nosotros si quieres saber más!
+ 
+ 
+El proyecto “Plataforma avanzada de simulación de procesos de impresión Heatset basada en tecnologías habilitadoras IoT y Big Data” ha sido cofinanciado por red.es y el Fondo Europeo de Desarrollo Regional (FEDER) con el objetivo de promover el desarrollo tecnológico, la innovación y una investigación de calidad.
+
+ 
+Contacta con nuestro equipo de expertos en industria
+
+
+
+
+
+
+
+
+
+
+
+
+
+He leído y acepto la Política de privacidad
+
+Me gustaría recibir comunicaciones de marketing de Hiberus y sobre sus productos, servicios y eventos.
+
+
+
+
+
+
+
+
+
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+
+Nombre*
+Email*
+Website
+ Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.
+ 
+
+
+Te mantenemos al dia de tendencias y novedades sobre el futuro del trabajo, formas de hacer crecer tu negocio, liderazgo digital y muchas cosas más..
+Newsletter
+
+
+
+
+
+He leído y acepto la Política de privacidad
+
+

@@ -1,0 +1,124 @@
+El Futuro de la Inteligencia Artificial (IA) en el Gobierno - Intel
+Autor desconocido
+intel.la
+
+Puede buscar fácilmente en todo el sitio web de Intel.com de varias maneras.
+También puede probar los enlaces rápidos a continuación para ver los resultados de las búsquedas más populares.
+La versión del navegador que esta usando no es la recomendada para este sitio.Para actualizar la última versión de su navegador haga clic en alguno de los siguientes enlaces.
+
+La IA permite a las organizaciones gubernamentales lograr más con presupuestos ajustados, automatizar tareas tediosas, mejorar las capacidades críticas de misión y lograr avances en investigación.
+Una amplia cartera de soluciones Intel® de hardware, software y de socios habilitados por Intel ayuda a los equipos de misión a almacenar, procesar y entregar datos para respaldar la IA desde el edge hasta la nube, y todo lo que hay en el medio.
+Las tecnologías Intel® para IA permiten a los equipos seleccionar el mejor hardware para cada trabajo, mientras que las optimizaciones Intel® para el software de código abierto permiten un alto desempeño para obtener resultados rápidos y de bajo costo.
+
+
+
+Por
+
+La IA en el gobierno permite a los equipos de misión, mediante el análisis acelerado de datos, el aumento de la eficiencia en todos los sistemas de misión y la obtención de información casi en tiempo real, tomar decisiones más rápidas y fundamentadas dondequiera que estén, desde el terreno hasta el centro de mando, la oficina o el laboratorio.
+La IA en el gobierno permite a los equipos de misión, mediante el análisis acelerado de datos, el aumento de la eficiencia en todos los sistemas de misión y la obtención de información casi en tiempo real, tomar decisiones más rápidas y fundamentadas dondequiera que estén, desde el terreno hasta el centro de mando, la oficina o el laboratorio.
+Desde el frente de batalla hasta el centro de mando, y desde las calles de la ciudad hasta los laboratorios de investigación, las agencias del sector público trabajan en problemas complejos que ayudan a mejorar la seguridad, la calidad de vida y la productividad. La inteligencia artificial (IA) se ha convertido en una herramienta integral para ayudar a satisfacer estas necesidades mediante la automatización de tareas tediosas, dejando tiempo libre a los trabajadores para que puedan centrarse en objetivos más importantes y acelerando el análisis de datos.
+La tecnología Intel® puede ayudar a los organismos gubernamentales a implementar de forma rápida y sencilla modelos sofisticados de IA en hardware de alto desempeño para liberar el valor y el potencial extremos de la IA, incluso con presupuestos ajustados.
+
+Desde el frente de batalla hasta el centro de mando, y desde las calles de la ciudad hasta los laboratorios de investigación, las agencias del sector público trabajan en problemas complejos que ayudan a mejorar la seguridad, la calidad de vida y la productividad. La inteligencia artificial (IA) se ha convertido en una herramienta integral para ayudar a satisfacer estas necesidades mediante la automatización de tareas tediosas, dejando tiempo libre a los trabajadores para que puedan centrarse en objetivos más importantes y acelerando el análisis de datos.
+La tecnología Intel® puede ayudar a los organismos gubernamentales a implementar de forma rápida y sencilla modelos sofisticados de IA en hardware de alto desempeño para liberar el valor y el potencial extremos de la IA, incluso con presupuestos ajustados.
+Beneficios de la IA en el Gobierno
+La IA para los servicios gubernamentales implica técnicas como el aprendizaje automático, el aprendizaje profundo, la visión artificial, el reconocimiento de voz, el procesamiento del lenguaje natural (NLP) y la robótica. Estas técnicas se traducen en beneficios reales y tangibles cuando son puestas a trabajar. Según el informe Velocity 2023 de Booz Allen Hamilton, dos tercios de los líderes tecnológicos federales creen que la IA tendrá el mayor impacto en la ejecución de las misiones hasta 2027.1
+
+Automatice las tareas rutinarias: la IA puede procesar y analizar grandes cantidades de datos de forma más rápida y coherente que los operadores humanos por sí solos, especialmente cuando se trata de tareas repetitivas y tediosas. Como resultado, la automatización mediante IA libera a los trabajadores para que se centren en tareas más importantes. Por ejemplo, el Servicio de Ciudadanía e Inmigración de Estados Unidos (USCIS) utiliza un asistente virtual de IA llamado Emma para responder a preguntas básicas y ayudar a las personas a navegar por el sitio web de la agencia, mientras que los expertos pueden explicar mejor las decisiones del USCIS y orientar a una persona sobre los siguientes pasos.
+Realice tareas fundamentales para la misión: la IA ayuda a los expertos y especialistas humanos a tomar decisiones mejor informadas con mayor rapidez. Por ejemplo, el mantenimiento predictivo basado en IA puede informar a las organizaciones sobre el estado de los recursos clave y ayudar a prevenir fallos en los equipos. La IA también mejora las gráficas náuticas, de terrenos y aeronáuticas, lo que permite una navegación precisa y un mejor reconocimiento. Las innovaciones de la IA, como la tecnología de gemelos digitales, pueden automatizar la percepción situacional y alertar al personal clave sobre comportamientos o patrones inusuales a medida que se producen en un entorno real.
+Acelere la investigación y el desarrollo: la informática de alto desempeño (HPC) basada en IA impulsa la investigación en medicina, genómica, ingeniería, sismología, astrofísica y muchas otras áreas. Por ejemplo, los algoritmos de IA permiten predicciones más rápidas y rentables de estructuras 3D de proteínas a partir de secuencias de aminoácidos.2 Este conocimiento ayuda a los investigadores a acelerar el desarrollo farmacéutico para tratar enfermedades más rápido.
+
+
+La IA para los servicios gubernamentales implica técnicas como el aprendizaje automático, el aprendizaje profundo, la visión artificial, el reconocimiento de voz, el procesamiento del lenguaje natural (NLP) y la robótica. Estas técnicas se traducen en beneficios reales y tangibles cuando son puestas a trabajar. Según el informe Velocity 2023 de Booz Allen Hamilton, dos tercios de los líderes tecnológicos federales creen que la IA tendrá el mayor impacto en la ejecución de las misiones hasta 2027.1
+Casos de Uso de la IA en el Gobierno
+Desde la estrategia de datos hasta la implementación a escala empresarial, la IA ayuda a acelerar el tiempo de obtención de valor en un número cada vez mayor de casos de uso. Estos son solo algunos ejemplos de lo prometedora que es la IA para el sector público.
+
+La IA ayuda al FBI a encontrar más rápido a niños desaparecidos agregando millones de ciberconsejos y difundiendo rápidamente la información a las fuerzas de seguridad locales.
+La IA ayuda a una agencia de agua y alcantarillado a gestionar 1.800 millas de tuberías de alcantarillado, lo que reduce los costos y mejora la eficiencia del mantenimiento.
+La IA ayuda a una autoridad de tránsito a administrar la flota de autobuses de la ciudad de Chicago mediante el análisis de los patrones de desplazamiento y la predicción de la demanda de pasajeros casi en tiempo real.
+
+
+Desde la estrategia de datos hasta la implementación a escala empresarial, la IA ayuda a acelerar el tiempo de obtención de valor en un número cada vez mayor de casos de uso. Estos son solo algunos ejemplos de lo prometedora que es la IA para el sector público.
+Riesgos de la IA y Necesidad de Seguridad de los Datos
+A medida que la tecnología de IA prolifera desde el núcleo del centro de datos hasta los dispositivos de edge sobre el terreno, uno de los mayores desafíos es superar un perímetro de seguridad de datos más complicado. Para ayudar con este desafío, las organizaciones del sector público pueden aprovechar las funciones de seguridad de datos que ofrece el hardware y que complementan las conocidas estrategias basadas en software.
+
+Intel® Threat Detection Technology (Intel® TDT) en determinados procesadores Intel® aprovecha la telemetría basada en hardware para informar las contramedidas basadas en software. Al detectar cargas de trabajo anómalas a nivel de hardware, Intel® TDT puede ayudar a evitar el acceso no autorizado y el malware.
+Intel® Software Guard Extensions (Intel® SGX) crea enclaves de memoria seguros para procesar cargas de trabajo confidenciales en un entorno aislado.
+
+Características como estas pueden ayudar a proteger las cargas de trabajo de IA en el endpoint, ya sea una laptop robusta, un dron o un satélite, para lograr un perímetro más seguro.
+
+A medida que la tecnología de IA prolifera desde el núcleo del centro de datos hasta los dispositivos de edge sobre el terreno, uno de los mayores desafíos es superar un perímetro de seguridad de datos más complicado. Para ayudar con este desafío, las organizaciones del sector público pueden aprovechar las funciones de seguridad de datos que ofrece el hardware y que complementan las conocidas estrategias basadas en software.
+Características como estas pueden ayudar a proteger las cargas de trabajo de IA en el endpoint, ya sea una laptop robusta, un dron o un satélite, para lograr un perímetro más seguro.
+“Las funciones de seguridad basadas en hardware, incluidas las disponibles con determinadas tecnologías Intel®, facilitan que las organizaciones gubernamentales aprovechen los beneficios de la IA”.
+Las Soluciones de Intel® AI Ofrecen un Enfoque de Misión Prioritaria a Nivel de Sistemas
+Aprovechar la IA en toda su extensión requiere un enfoque a nivel de sistemas, por lo que Intel cuenta con un hardware personalizado que comprende las necesidades tecnológicas en todas las jerarquías del sector público. Intel lidera la colaboración con proveedores de tecnología para crear soluciones que aborden los objetivos únicos de misión y las necesidades de equipo exclusivas de cada organismo gubernamental, a la vez que se adhiere a los requisitos de tamaño, peso, potencia y costo (SWaP-C).
+Hardware de Alto Desempeño
+La escalabilidad y el costo total de propiedad (TCO) son cruciales para ayudar a satisfacer los presupuestos del sector público. Los procesadores Intel® personalizados ofrecen el desempeño necesario para las exigentes cargas de trabajo de IA y, al mismo tiempo, admiten tareas de uso general para una mejor consolidación de la plataforma.
+
+Aprovechar la IA en toda su extensión requiere un enfoque a nivel de sistemas, por lo que Intel cuenta con un hardware personalizado que comprende las necesidades tecnológicas en todas las jerarquías del sector público. Intel lidera la colaboración con proveedores de tecnología para crear soluciones que aborden los objetivos únicos de misión y las necesidades de equipo exclusivas de cada organismo gubernamental, a la vez que se adhiere a los requisitos de tamaño, peso, potencia y costo (SWaP-C).
+La escalabilidad y el costo total de propiedad (TCO) son cruciales para ayudar a satisfacer los presupuestos del sector público. Los procesadores Intel® personalizados ofrecen el desempeño necesario para las exigentes cargas de trabajo de IA y, al mismo tiempo, admiten tareas de uso general para una mejor consolidación de la plataforma.
+CPUs
+Los procesadores escalables Intel® Xeon® de 4ᵃ Generación ofrecen la mayor cantidad de aceleradores integrados que cualquier CPU del mercado, incluidos los aceleradores para la transmisión de datos, el equilibrio de carga de datos, el cifrado y el análisis en memoria, para ayudar a mejorar la eficiencia del desempeño de las cargas de trabajo emergentes impulsadas por la IA.
+Los procesadores Intel® para aplicaciones de edge e integradas se diseñaron específicamente para ofrecer un desempeño de bajo consumo energético y preparado para IA en casos de uso de edge y de campo con limitaciones de espacio.
+Los productos Intel® Habana para cargas de trabajo de aprendizaje profundo, como el NLP, ofrecen una arquitectura personalizada que logra un desempeño hasta un 40 % mejor en la nube y en las instalaciones con el servidor de entrenamiento de IA Gaudi2.3
+Aceleradores
+Las FPGAs Intel® para el centro de datos, la red o el edge están diseñadas para acelerar cargas de trabajo, incluidas la IA, el cifrado y la compresión, para obtener resultados rápidos y una mejor rentabilidad.
+Las unidades de procesamiento gráfico (GPUs) Intel® son una parte importante de la cartera Intel® Xe, integradas en los dispositivos de edge y disponibles como GPUs independientes para el centro de datos y la nube. Las GPUs Intel® basadas en la microarquitectura Xe HPG aprovechan plenamente los nuevos núcleos Xe con capacidades de IA, unidades de trazado de rayos, hardware avanzado de aceleración de gráficos 3D, un motor gráfico altamente escalable, compatibilidad total con DirectX 12 Ultimate y VulkanRT, y más.
+Software y Herramientas de Desarrollo
+El software Intel® se desarrolla con métodos de programación abiertos, lo que les ofrece a los desarrolladores de IA la flexibilidad necesaria para reutilizar el código en entornos heterogéneos y optimizar la IA para obtener resultados más rápidos en el hardware Intel®.
+
+El software Intel® se desarrolla con métodos de programación abiertos, lo que les ofrece a los desarrolladores de IA la flexibilidad necesaria para reutilizar el código en entornos heterogéneos y optimizar la IA para obtener resultados más rápidos en el hardware Intel®.
+Las optimizaciones para marcos de trabajo populares como TensorFlow, PyTorch, ONNIX, la ciencia de datos de Red Hat Enterprise Linux y Caffe pueden ayudar a los desarrolladores a aumentar el desempeño de la IA en la arquitectura Intel®.
+Bibliotecas de software
+Las bibliotecas de software, incluidas Intel® Math Kernel Library for Deep Neural Networks (Intel® MKL-DNN) e Intel® Data Analytics Acceleration Library (Intel® DAAL), ayudan a optimizar el desarrollo de la IA.
+Kits de herramientas de software
+La Distribución Intel® del kit de herramientas OpenVINO™, el kit de herramientas Intel® AI Analytics y oneAPI facilitan a los desarrolladores de IA la creación e implementación de modelos en diferentes tipos de hardware Intel® en el edge y en el centro de datos.
+“Intel adopta un enfoque holístico y a nivel de sistemas para la IA que incluye la seguridad. Esta perspectiva ayuda a garantizar que las organizaciones implementen el sistema adecuado con el desempeño necesario ahora y en el futuro”.
+Innovación y Desarrollo Responsable de la IA
+En Intel, nos dedicamos a apoyar a la comunidad en general para seguir desarrollando la potencia y la aplicación de la IA para resolver desafíos complejos.
+Intel Labs
+Intel Labs es una organización de investigación líder en el sector que ofrece tecnologías innovadoras para la industria en general, con un alcance que abarca hardware, software, redes, seguridad, nuevos modelos informáticos y arquitecturas para tecnologías de última generación.
+Intel Labs mantiene desde hace tiempo una asociación con la Fundación Nacional de Ciencia (NSF), que incluye varios programas destinados a hacer avanzar la tecnología y la innovación de la IA, incluida la creación de dos institutos de investigación en IA centrados en los avances en la optimización y en la optimización a escala basada en el aprendizaje, respectivamente.
+IA Responsable
+Intel reconoce desde hace tiempo la importancia de las implicaciones éticas y de derechos humanos asociadas con el desarrollo de la tecnología de IA. Obtenga más información sobre nuestro compromiso, nuestras iniciativas y lo que estamos haciendo para ayudar a permitir el uso ético y equitativo de la IA.
+
+En Intel, nos dedicamos a apoyar a la comunidad en general para seguir desarrollando la potencia y la aplicación de la IA para resolver desafíos complejos.
+Intel Labs es una organización de investigación líder en el sector que ofrece tecnologías innovadoras para la industria en general, con un alcance que abarca hardware, software, redes, seguridad, nuevos modelos informáticos y arquitecturas para tecnologías de última generación.
+Intel Labs mantiene desde hace tiempo una asociación con la Fundación Nacional de Ciencia (NSF), que incluye varios programas destinados a hacer avanzar la tecnología y la innovación de la IA, incluida la creación de dos institutos de investigación en IA centrados en los avances en la optimización y en la optimización a escala basada en el aprendizaje, respectivamente.
+Intel reconoce desde hace tiempo la importancia de las implicaciones éticas y de derechos humanos asociadas con el desarrollo de la tecnología de IA. Obtenga más información sobre nuestro compromiso, nuestras iniciativas y lo que estamos haciendo para ayudar a permitir el uso ético y equitativo de la IA.
+Ponga en Marcha la IA en el Gobierno con Intel
+La IA es un viaje para cada organización. Pero la IA ofrece innumerables beneficios al sector público para aumentar la seguridad y la productividad. Intel puede ayudar a acelerar la implementación y el tiempo de obtención de valor con innovaciones clave de software y hardware listas para la IA. Comience su viaje hoy mismo explorando soluciones probadas, accediendo a la orientación líder en la industria y uniéndose a una comunidad mundial de creadores de IA:
+
+Explore la cartera completa de la tecnología Intel® AI para obtener una gama de hardware, herramientas, kits de desarrollo, soluciones listas para la nube y experiencia líder en la industria.
+Suscríbase al boletín de tecnología Intel® para el gobierno para obtener las últimas noticias e información sobre soluciones de IA para el sector público.
+
+
+La IA es un viaje para cada organización. Pero la IA ofrece innumerables beneficios al sector público para aumentar la seguridad y la productividad. Intel puede ayudar a acelerar la implementación y el tiempo de obtención de valor con innovaciones clave de software y hardware listas para la IA. Comience su viaje hoy mismo explorando soluciones probadas, accediendo a la orientación líder en la industria y uniéndose a una comunidad mundial de creadores de IA:
+Intel ofrece los bloques de construcción para soluciones de alto desempeño con características de seguridad habilitadas por hardware en el gobierno y el sector público.
+Explore las tecnologías
+
+Para ofrecer servicios esenciales, el sector público necesita un ciberespacio que esté diseñado con seguridad en mente, desde el perímetro hasta la nube, e incluya también la cadena de suministro.
+Lea sobre ciberseguridad en el gobierno
+
+Encuentre herramientas de software, bibliotecas y SDKs para soluciones de aprendizaje profundo.
+Encuentre herramientas de software, bibliotecas y SDKs para soluciones de aprendizaje profundo.
+Encuentre recursos
+
+El Dr. Melvin Greer, científico de datos en jefe de Intel, analiza las recomendaciones para ayudar a los organismos federales a abordar los problemas nacionales.
+El Dr. Melvin Greer, científico de datos en jefe de Intel, analiza las recomendaciones para ayudar a los organismos federales a abordar los problemas nacionales.
+Ver el video
+
+Intel ofrece recomendaciones para una estrategia que mantenga el liderazgo en la IA en Estados Unidos.
+Intel ofrece recomendaciones para una estrategia que mantenga el liderazgo en la IA en Estados Unidos.
+Lea la documentación técnica
+
+
+
+                
+    
+        Todos los campos son obligatorios, a menos que estén marcados como opcionales.
+    
+
+            
+La IA se utiliza en el gobierno para agilizar el análisis de datos y aumentar la eficiencia de los sistemas de misión, con el fin de obtener una información más profunda y casi en tiempo real que permita a los equipos tomar decisiones más rápidas y más informadas dondequiera que estén, desde el terreno hasta el centro de mando, la oficina o el laboratorio.
+Las tecnologías Intel podrían requerir hardware y software habilitados o la activación de servicios. // Ningún producto o componente puede ser absolutamente seguro. // Sus costos y resultados pueden variar. // El desempeño varía según el uso, la configuración y otros factores. // Consulte nuestros avisos legales y descargos de responsabilidad completos. // Intel se ha comprometido a respetar los derechos humanos y a evitar la complicidad en los abusos de los derechos humanos. Consulte los Principios Globales sobre Derechos Humanos de Intel. Los productos y el software de Intel están destinados a ser usados solamente en aplicaciones que no causan o contribuyen a una violación de un derecho humano reconocido internacionalmente.

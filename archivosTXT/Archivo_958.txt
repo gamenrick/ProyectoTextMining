@@ -1,0 +1,112 @@
+¿Qué es una red neuronal? - MATLAB & Simulink
+Autor desconocido
+mathworks.com
+
+Formación
+Eventos
+Recursos de aprendizaje
+Visite el Centro de ayuda para explorar la documentación de nuestros productos, cooperar con la comunidad usuaria, consultar notas de versión y mucho más.
+Vídeos de MATLAB y Simulink
+Explore productos, vea demostraciones y descubra las novedades de productos.
+Empresa
+Ofertas de empleo
+
+Descarbonización en MathWorks
+Descubra cómo MathWorks protege y restablece los recursos naturales.
+Buscar
+Una red neuronal es un modelo de computación cuya estructura de capas se asemeja a la estructura interconectada de las neuronas en el cerebro, con capas de nodos conectados. Una red neuronal puede aprender de los datos, de manera que se puede entrenar para que reconozca patrones, clasifique datos y pronostique eventos futuros.
+Las redes neuronales descomponen las entradas en capas de abstracción. Se pueden entrenar con muchos ejemplos para que reconozcan patrones de voz o en imágenes, por ejemplo, igual que el cerebro humano. Su comportamiento está definido por la forma en que se conectan sus elementos individuales, así como por la importancia (o ponderación) de dichas conexiones. Estas ponderaciones se ajustan automáticamente durante el entrenamiento de acuerdo con una regla de aprendizaje especificada hasta que la red neuronal lleva a cabo la tarea deseada correctamente.
+Las redes neuronales resultan especialmente adecuadas para llevar a cabo el reconocimiento de patrones a fin de identificar y clasificar objetos o señales en sistemas de voz, visión y control. También se pueden emplear para el modelado y la predicción de series temporales.
+Estos son algunos ejemplos de uso de las redes neuronales:
+
+
+
+		
+
+		
+			
+			Descripción general de deep learning
+
+
+
+
+		
+
+		
+			
+			Deep Learning y Machine Learning tradicional: cómo elegir el enfoque correcto
+
+Las redes neuronales que operan en dos o tres capas de neuronas conectadas se conocen como redes neuronales superficiales. Las redes de deep learning pueden tener muchas capas, incluso cientos de ellas. Ambas son técnicas de machine learning que aprenden directamente de los datos introducidos.
+El deep learning atrae mucha atención últimamente, y hay razones de peso para ello. Está consiguiendo resultados que antes no eran posibles.
+El deep learning se adapta especialmente bien a aplicaciones de identificación complejas, tales como el reconocimiento facial, la traducción de textos y el reconocimiento de voz. También es una tecnología clave utilizada en sistemas y tareas avanzados de conducción asistida, que incluyen la asignación de carriles y el reconocimiento de señales de tráfico.
+Una red neuronal combina diversas capas de procesamiento y utiliza elementos simples que operan en paralelo, y están inspiradas en los sistemas nerviosos biológicos. Consta de una capa de entrada, una o varias capas ocultas y una capa de salida. Las capas están interconectadas mediante nodos, o neuronas; cada capa utiliza la salida de la capa anterior como entrada.
+Arquitectura típica de una red neuronal.
+Algunas técnicas habituales de machine learning para diseñar aplicaciones de redes neuronales son el aprendizaje supervisado y no supervisado, la clasificación, la regresión, el reconocimiento de patrones y el clustering.
+Las redes neuronales supervisadas se entrenan para producir las salidas deseadas como respuesta a entradas de muestra, por lo que resultan idóneas para modelar y controlar sistemas dinámicos, clasificar datos con ruido y predecir eventos futuros. Deep Learning Toolbox™ incluye cuatro tipos de redes supervisadas: feedforward, de base radial, dinámicas y de cuantificación vectorial de aprendizaje.
+La clasificación es un tipo de machine learning supervisado en el que un algoritmo “aprende” a clasificar nuevas observaciones a partir de ejemplos de datos etiquetados.
+Los modelos de regresión describen la relación entre una variable de respuesta (salida) y una o varias variables de predicción (entrada).
+El reconocimiento de patrones es un componente importante de las aplicaciones de redes neuronales en visión artificial, procesamiento de radar, reconocimiento de voz y clasificación textual. Funciona mediante la clasificación de los datos de entrada en objetos o clases en función de características clave, ya sea mediante la clasificación supervisada o no supervisada.
+Por ejemplo, en la visión artificial, se emplean técnicas de reconocimiento de patrones supervisado para el reconocimiento óptico de caracteres (OCR), la detección facial, el reconocimiento facial, la detección de objetos y la clasificación de objetos. En el procesamiento de imágenes y la visión artificial, se emplean técnicas de reconocimiento de patrones no supervisado para la detección de objetos y la segmentación de imágenes.
+Las redes neuronales no supervisadas se entrenan permitiendo que la red neuronal se autoajuste continuamente a las nuevas entradas. Se emplean para inferir información a partir de conjuntos de datos que constan de datos de entrada sin respuestas etiquetadas. Se pueden utilizar para descubrir distribuciones naturales, categorías y relaciones entre categorías en los datos.
+Deep Learning Toolbox incluye dos tipos de redes no supervisadas: capas competitivas y mapas de organización automática.
+El clustering es un enfoque de aprendizaje no supervisado en el cual se pueden emplear redes neuronales para el análisis de datos exploratorio a fin de localizar patrones ocultos o agrupaciones de datos. Este proceso implica la agrupación de datos por similitud. Entre las aplicaciones del análisis de clusters están el análisis de secuencias genéticas, la investigación de mercados y el reconocimiento de objetos.
+Con herramientas y funciones para administrar grandes conjuntos de datos, MATLAB® ofrece toolboxes especializadas para trabajar con machine learning, redes neuronales, deep learning, visión artificial y conducción autónoma.
+Con unas pocas líneas de código, MATLAB permite desarrollar redes neuronales sin ser un experto. Podrá ponerse en marcha rápidamente, crear y visualizar modelos o desplegar modelos en servidores y dispositivos embebidos.
+MATLAB permite integrar los resultados en sus aplicaciones existentes. MATLAB automatiza la implementación de sus modelos de redes neuronales en sistemas de empresa, clusters, nubes y dispositivos embebidos.
+Cada aplicación de red neuronal es única, pero el desarrollo de la red suele implicar los pasos siguientes:
+MATLAB y Deep Learning Toolbox proporcionan funciones de línea de comandos y apps para crear, entrenar y simular redes neuronales superficiales. Las apps facilitan el desarrollo de redes neuronales para tareas tales como la clasificación, la regresión (incluida la regresión de series temporales) y el clustering. Tras crear las redes con estas herramientas, es posible generar automáticamente código de MATLAB para capturar el trabajo y automatizar las tareas.
+El preprocesamiento de las entradas y los objetivos de la red aumenta la eficiencia del entrenamiento de redes neuronales superficiales. El posprocesamiento permite el análisis detallado del rendimiento de la red. MATLAB y Simulink® proporcionan herramientas para ayudarle a:
+El perfeccionamiento de la capacidad de la red para generalizar contribuye a evitar el sobreajuste, un problema habitual en el diseño de redes neuronales. El sobreajuste se produce cuando una red ha memorizado el conjunto de entrenamiento pero no ha aprendido a generalizar cuando hay entradas nuevas. El sobreajuste produce un error relativamente pequeño en el conjunto de entrenamiento, pero un error mucho mayor cuando se presentan datos nuevos a la red.
+Dos soluciones posibles para mejorar la generalización son:
+Gráficos de posprocesamiento para analizar el rendimiento de la red, incluidos el rendimiento de validación del error cuadrático medio para etapas de entrenamiento sucesivas (arriba a la izquierda), un histograma de errores (arriba a la derecha) y matrices de confusión (abajo) para las fases de entrenamiento, validación y prueba.
+Gráficos de posprocesamiento para analizar el rendimiento de la red, incluidos el rendimiento de validación del error cuadrático medio para etapas de entrenamiento sucesivas (arriba a la izquierda), un histograma de errores (arriba a la derecha) y matrices de confusión (abajo) para las fases de entrenamiento, validación y prueba.
+Mediante Deep Learning Toolbox con MATLAB Coder™, GPU Coder™ y MATLAB Compiler™, es posible desplegar redes entrenadas en sistemas embebidos o integrarlas en una amplia gama de entornos de producción. Puede utilizar MATLAB Coder a fin de generar código C y C++ para su red entrenada, lo cual permite simular una red entrenada en hardware de PCs y, posteriormente, desplegar la red en sistemas embebidos. Puede utilizar MATLAB Compiler y MATLAB Compiler SDK™ para desplegar redes entrenadas como librerías C/C++ compartidas, ensamblados de Microsoft®. NET, clases de Java® y paquetes de Python® a partir de programas de MATLAB. También puede entrenar un modelo de red en la aplicación desplegada o en un componente.
+Deep Learning Toolbox proporciona un conjunto de bloques para crear redes neuronales superficiales en Simulink. Todos los bloques son compatibles con Simulink Coder™. Estos bloques se dividen en cuatro librerías:
+Si lo prefiere, puede crear y entrenar sus redes en el entorno de MATLAB y generar automáticamente bloques de simulación de red para usarlos con Simulink. Este enfoque también permite ver las redes de forma gráfica.
+
+
+
+		
+
+		
+			
+			La Universidad de Lund desarrolla una red neuronal artificial a fin de vincular a los donantes de corazón para trasplantes con los receptores
+
+
+
+
+		
+
+		
+			
+			Utilización de redes neuronales para la detección del cáncer
+
+
+
+
+		
+
+		
+			
+			Entrenamiento de autocodificadores apilados para la clasificación de imágenes
+
+Seleccione un país/idioma
+Seleccione un país/idioma para obtener contenido traducido, si está disponible, y ver eventos y ofertas de productos y servicios locales. Según su ubicación geográfica, recomendamos que seleccione: .
+
+También puede seleccionar uno de estos países/idiomas:
+Cómo obtener el mejor rendimiento
+Seleccione China (en idioma chino o inglés) para obtener el mejor rendimiento. Los sitios web de otros países no están optimizados para ser accedidos desde su ubicación geográfica.
+América
+Europa
+Asia-Pacífico
+Comuníquese con su oficina local
+MathWorks
+Accelerating the pace of engineering and science
+MathWorks es el líder en el desarrollo de software de cálculo matemático para ingenieros y científicos.
+Descubra…
+Explorar productos
+Probar o comprar
+Aprender a utilizar
+Obtener soporte
+Acerca de MathWorks
+© 1994-2024 The MathWorks, Inc.

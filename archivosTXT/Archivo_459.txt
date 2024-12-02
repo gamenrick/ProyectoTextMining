@@ -1,0 +1,38 @@
+Google Gemini: qué es y porqué ChatGPT podría ser sucedido
+Ángel Aller
+profesionalreview.com
+
+Google se sube al carro de la IA con Gemini, definido como un modelo que mejora a ChatGPT. ¿Lo hará?
+
+Cuando se mete Google todos tiemblan porque es un gigante tecnológico que sabe hacer muy bien las cosas. OpenAI parecía nadar tranquilo en las aguas de la IA, pero se están metiendo todos: Microsoft con Bing, Google con Bard y un sinfín de opciones. Vamos a acercarnos un poco más a lo que es Google Gemini, el modelo que busca hipnotizarnos.
+Índice de contenidos
+
+Dicho por Google, Google Gemini es un modelo de IA flexible, multimodal y el más potente que han desarrollado que es capaz de comprender, operar y combinar distintos contenidos como texto, imagen, vídeo, audio o, incluso, código. Dicen que es flexible porque se puede ejecutar en datacenters o en smartphones, además de ser construido desde cero.
+Se presenta con 3 «tamaños» distintos:
+Ya sabéis que en todo lo que sea IA, todos los desarrolladores evalúan continuamente su rendimiento. Para ello, tienen en cuenta la comprensión de imágenes, audio, vídeo, razonamiento matemático y otros puntos de referencia académicos para desarrollo de modelos de lenguaje grande (LLM).
+En los benchmarks de texto como son MMLU, Big-Bench Hard, DROP o Hella Swag, Google Gemini supera a GPT-4; eso sí, la versión Gemini Ultra. En matemáticas y código también logra superar a GPT-4, lo que no es ninguna tontería, ¡parece qué hace lo mismo en audio, vídeo e imagen!
+
+Por otro lado, Google apunta a que los modelos multimodales que pululan por el mercado de la IA están desarrollados a base de entrenar componentes separados en distintas modalidades (audio, texto, imagen, etc.) para, luego, unirlos. Gemini es multimodal nativamente, siendo entrenado desde el primer momento en distintas modalidades. ¿Para qué? Para que comprenda y razone sobre todos los prompts desde el minuto 1. ¡Muy interesante!
+Otra característica interesante es que la primera versión de Gemini puede reconocer y comprender contenido multimodal al mismo tiempo. Es decir, texto, imágenes, vídeo, audio y mucho más todo mezclado, ¿por qué? Parece que los de Mountain View lo pensaron para materias como física o matemáticas, debido a que trabajan sobre varios campos.
+Han querido darle un giro de tuerca a este modelo para darle capacidades de codificación más avanzadas, pudiendo comprender y generar código en lenguajes como Python, Java, C++ y Go. Google ha hablado en numerosas ocasiones de su modelo Gemini Ultra, que sería el usado para labores de codificación avanzada.
+Para ello, han desarrollado AlphaCode 2, ideado para resolver problemas de programación que involucran matemáticas complejas o informática teórica. Ya presentaron AlphaCode como sistema de generaciónd e código IA, pero la segunda versión está especializada para funcionar en Gemini.
+Las TPU (Tensor Processing Units) son una especie de motores o aceleradores IA diseñados para impulsar las tareas de inteligencia artificial. Ya sabéis que Google tiene su propio SoC en los Pixel, así que su idea es llevar la IA integrada en chip a todos los lugares.
+Primero, anunciaron el «hyperordenador IA» TPU v5p para cargas de trabajo de inteligencia artificial, especialmente de Machine Learning. Resumidamente, se trata de una especie de unos servidores cloud potenciados por hardware especializado para prestar servicio a usuarios, como para que las empresas entrenen modelos IA.
+La cosa está en que este Cloud TPU está desarrollado no solo para entrenar modelos IA, sino para acelerar el desarrollo de Gemini.
+
+Vayamos por partes:
+Por lo tanto, Gemini se integra en Bard para mejorar a éste, especialmente en la precisión de las respuestas, o en la comprensión de imágenes, vídeo, código o texto. Lo que celebra Google cuando lo anuncia, no es más que la creación de un modelo de inteligencia artificial que mejora, principalmente, a lo que propone OpenAI con GPT-4.
+No obstante, Google parece aplicar la misma «política» de ofrecer distintos rendimientos mediante planes. Recuerdo que GPT-4 es de pago porque se usa con ChatGPT Plus (suscripción), y parece que Gemini Ultra no será gratuito.
+Con todo esto, Google no deja especialmente claro qué es Gemini mucho más allá de decir que es un modelo de inteligencia artificial.
+Toda la propaganda de Google está genial, pero hay contradicciones en la práctica. Efectivamente, Gemini Pro se lanza en Bard en formato de texto y ciertas investigaciones corroboraron que era mejor que GPT-3.5. Ahora bien, tuvo problemas con ciertos problemas matemáticos, habiendo malos razonamientos y errores, ¡cómo en todos!
+Respecto a la versión Gemini Nano, parece algo súper reducido que se resume en la aplicación de Grabación y el teclado Gboard de Android. Digo esto porque Galaxy AI y Samsung Gauss pueden comerle la tostada a Google en smartphones como no se pongan «las pilas».
+Por lo tanto, no, no es la IA definitiva, pero puede llegar a serlo.
+Google Gemini Pro ha sido lanzado integrándolo en Bard, el famoso chatbot de los de Mountain View; de igual manera, tendremos Gemini Nano en los Google Pixel 8 Pro con funciones en la grabadora, respuestas inteligentes en What’sApp, etc.
+Sin embargo, Google afirma que «en los próximos meses», estará disponible en Google Chrome, Google Ads y en el cuadro de búsqueda. Cierto es que los desarrolladores y empresas pudieron acceder el 13 de diciembre de 2023 a la API de Gemini con AI Studio o Cloud Vertex AI.
+Oficialmente, parece que Gemini Nano será para Android, especialmente para tablets, smartphones y televisores. La versión que no ha sido lanzada es Gemini Ultra, la más prometedora de todas y que vendrá con Bard Extended.
+Según aseguró Sissie Hsiao, la Vicepresidenta de Google Assistant y Bard, Google Gemini Ultra vendría con Bard a principios de 2024. Estamos a mediados de febrero y todavía no hay noticia de esta IA tan prometedora que bate a GPT-4 en casi todos los benchmarks anunciados.
+Así que, las únicas versiones disponibles de Google Gemini son la Nano y la Pro.
+Te recomendamos los mejores smartphones de gama alta
+¿Consideráis qué lograrán superar a OpenAI?
+
+En Profesional Review encontrarás todos los análisis, noticias y tutoriales más interesantes. Especialistas en hardware, configuraciones de PC, periféricos, software, smartphone y cualquier producto tecnológico que veamos interesante. ¡Únete a nuestra comunidad!

@@ -1,0 +1,39 @@
+Duelo de IA: ChatGPT contra Microsoft Copilot. Misma inteligencia con distinto envoltorio
+Autor desconocido
+xatakandroid.com
+
+Iván Linares
+Con la salida de la aplicación Copilot para Android, y tras el esfuerzo de Microsoft por migrar de denominación a Bing Chat para centralizar toda la Inteligencia Artificial en el citado Copilot, nos hemos decidido a comparar esta aplicación con ChatGPT para ver en qué se diferencian y cuando vale la pena elegir una u otra.
+Es la tecnología actual con mayor impacto y uno de los peajes por los que va a pasar cada fabricante de smartphones: la IA generativa está conquistando hasta las áreas más insospechadas. ¿Hacer un Gif para felicitar por mensajería instantánea? Es posible. También crear aplicaciones para el móvil, desarrollar de cero fondos de pantalla o modificar las fotos ya hechas. Con todo este potencial, resulta lógico que las empresas pretendan sobresalir. Y ninguna lo está haciendo como Microsoft.
+Las aplicaciones disponibles para Android ofrecen un funcionamiento básico similar y basado en los mismos modelos de lenguaje: o GPT-3.5 o GPT-4; aunque para este último se necesita una suscripción a ChatGPT Plus si quieres acceder desde la app de ChatGPT. Por tanto, ésta es una clara ventaja de Copilot, que es completamente gratuito: te permite acceder al modelo más actualizado sin ningún tipo de coste.
+Dado que Microsoft ha invertido en Open AI, y que dicha inversión es muy alta, la empresa ha introducido ChatGPT hasta en la cocina. De hecho, puedes probar su Copilot, la IA generativa basada en ChatGPT, hasta en siete aplicaciones Android; con una app destinada en exclusiva al asistente, la denominada como Copilot. Es la que vamos a utilizar para enfrentarla a su contrincante, ChatGPT; un combate algo extraño, ya que ambas son familia.
+Con ChatGPT y Copilot puedes hacer consultas, crear textos, solicitar código y la mayoría de opciones habituales de la IA generativa. También puedes crear imágenes de cero en ambas, pero, como ocurre con GPT-4, en ChatGPT sólo puedes habilitar DALL-E 3 si pagas. Copilot es más versátil, de ahí el título que le hemos puesto a este apartado, aunque la app de Open AI es más potente: no tiene las limitaciones de Microsoft, la generación es mucho más creativa, de mayor calidad y puedes elegir el ratio de las imágenes. Esto último si pagas ChatGPT Plus.
+Si no quieres pagar por hacer uso de la IA generativa, nuestra recomendación es que utilices Copilot: ofrece muchas más características sin pasar por caja. En el caso de que prefieras disfrutar de las máximas capacidades, la app de ChatGPT con la suscripción es lo que te recomendamos: sus capacidades son sorprendentes. Aparte, puedes crear tus propios programas con los GPTs y tienes un modo de conversación que es sorprendente. No obstante, Copilot gratuito va a colmar la mayoría de tus necesidades.
+La comparativa anterior es sobre ambas aplicaciones en su forma gratuita. Copilot no tiene más alternativas, todo lo contrario que ChatGPT: si pagas por el Plus (unos 20 euros al mes), te llevas una mejor IA generativa con más potencia para todo lo que desees pedirle. No tiene límite de intervenciones dentro de una misma conversación, incluso puedes retomar los chats pasados sin que la IA pierda el hilo de los mensajes anteriores. Aunque eso sí, ChatGPT Plus pone frontera al uso del modelo GPT-4: 40 mensajes cada 3 horas.
+En Xataka Móvil | Cómo probar Gemini, la nueva IA de Google, paso a paso desde tu móvil Android
+En Xataka Android hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

@@ -1,0 +1,103 @@
+ChatGPT: qué es, cómo usarlo y consejos de comandos para el día a día | Alura Cursos Online
+Autor desconocido
+aluracursos.com
+
+30%Off
+¡Se está acabando el tiempo!
+¡Comenzó!
+
+HORAS
+
+MIN
+
+SEG
+¿Podrías contar con los dedos cuántas veces has leído u oído el nombre ChatGPT solo en esta semana? Así es. Si eres una de esas personas que está escuchando y viendo a otros hablar sobre el tema, en este artículo conocerás un poco más sobre este modelo de Inteligencia Artificial Generativa, algunas formas de cómo utilizarlo y qué comandos pueden resultar útiles en la vida cotidiana al utilizar el famoso Chat.
+ChatGPT es un modelo de lenguaje avanzado desarrollado por OpenAI. Está basado en la arquitectura GPT, que significa Generative Pre-trained Transformer en inglés.
+Basado en la arquitectura GPT-3.5, ha sido entrenado con una gran cantidad de datos textuales para generar respuestas relevantes y coherentes en una amplia variedad de temas. Está diseñado para conversar e interactuar con personas usuarias, proporcionando información, aclarando dudas, ofreciendo sugerencias y ayudando en diversas tareas. En otras palabras, el chat tiene la capacidad de generar respuestas en lenguaje natural, de manera similar a una conversación.
+En resumen, la relevancia de ChatGPT en el campo de la Inteligencia Artificial radica en su capacidad para comprender y responder preguntas, así como proporcionar información y llevar a cabo tareas basadas en texto de manera eficiente. Utiliza técnicas de aprendizaje automático, Machine Learning, y ha sido entrenado en una amplia variedad de datos, que incluyen textos de la web, lo que le proporciona una comprensión razonable del lenguaje humano."
+Como una IA Generativa, es capaz de:
+Esto lo hace extremadamente útil para una variedad de aplicaciones, como:
+Dicho de otra manera, ChatGPT tiene aplicaciones en el soporte automatizado del viaje del cliente, respondiendo preguntas comunes, brindando orientación para la resolución de problemas; ayuda en la búsqueda de información, proporcionando respuestas a preguntas específicas, resumiendo documentos extensos y ayudando en el análisis de datos.
+En el soporte técnico automatizado, puede ayudar a los usuarios a resolver problemas con productos o servicios, proporciona instrucciones paso a paso y contribuye a la solución de preguntas técnicas.
+Además de todo esto, existen directrices éticas para Chat. Consulta:
+Respeto e imparcialidad: ChatGPT está diseñado para tratar a todos los usuarios con respeto e imparcialidad, independientemente de su origen, raza, género, religión u orientación sexual. El objetivo es promover una interacción inclusiva y no discriminatoria;
+Responsabilidad: ChatGPT debe ser responsable de sus respuestas y acciones, proporcionando información precisa y relevante, evitando la difusión de desinformación y asumiendo la responsabilidad por cualquier error o limitación en su conocimiento;
+Privacidad y seguridad: ChatGPT debe proteger la privacidad de los usuarios, no recopilando ni compartiendo información personal sin el consentimiento adecuado. También debe evitar fomentar comportamientos perjudiciales o ilegales;
+Transparencia: ChatGPT debe ser transparente acerca de su naturaleza como un modelo de inteligencia artificial, dejándolo claro para las personas que interactúan con una máquina. Esto ayuda a evitar malentendidos y expectativas incorrectas.
+OpenAI alienta a los usuarios a proporcionar feedback sobre ChatGPT, lo que puede ayudar a identificar áreas en las que el modelo puede mejorarse. Por lo tanto, es importante usarlo de manera responsable, respetando las directrices éticas, evitando compartir información personal sensible y no dependiendo exclusivamente de las respuestas del modelo para decisiones críticas.
+A pesar de su versatilidad en su uso, existen algunas limitaciones que es importante mencionar. Estas incluyen respuestas largas y excesivas, así como la posibilidad de respuestas incorrectas, ya que su conocimiento externo, hasta la redacción de este artículo (mayo de 2023), está restringido a su corte de conocimiento en septiembre de 2021, lo que significa que no tiene conocimiento de eventos recientes o información específica después de ese período.
+Milan Milanović, Chief Technology Officer (CTO) en 3MD Inc, hizo una publicación en su cuenta de Twitter diciendo que "para reemplazar a los programadores por inteligencias artificiales, los clientes necesitarán describir lo que quieren con precisión. Estamos a salvo". El tono jocoso del CTO señala un elemento fundamental en la utilización de las IAs: para usarlas adecuadamente, debemos saber cómo hacerlo. ¡Así que vamos allá!
+Cuando se trata de facilitar nuestras tareas diarias, ChatGPT se destaca como un asistente virtual indispensable. Con su amplia gama de habilidades y conocimiento completo, está listo para brindarnos apoyo en diversas áreas del conocimiento. Ya sea programación, investigación o planificación, ChatGPT se destaca por su capacidad de comprensión, generación de texto coherente y suministro de información valiosa.
+Para aprovechar al máximo esta herramienta, es importante seguir algunos consejos fundamentales que nos ayudarán a utilizar el asistente virtual de manera más eficiente. A continuación, compartiremos algunas pautas que pueden mejorar aún más su experiencia con ChatGPT:
+Excel es una herramienta muy conocida y utilizada por muchos. Y en el video de hoy vamos a comentarte como puedes conectar esta herramienta con Chat GPT.
+De hecho, ChatGPT es una herramienta versátil que brinda apoyo en la generación de textos, proporciona información y asistencia en las actividades diarias. Entre las principales funciones que podemos obtener de él, se destacan:
+ChatGPT es capaz de proporcionar respuestas rápidas y precisas a una amplia variedad de preguntas. Debemos tener en cuenta que su base de datos solo llega hasta 2021, por lo que es importante prestar atención a la información generada, ya que podría estar desactualizada. La diferencia de otros motores de búsqueda en línea, como Google y Bing, ChatGPT nos proporciona una respuesta original basada en la formulación de nuestra pregunta. Esto puede ayudarnos a ahorrar tiempo en nuestras tareas diarias. Entre las respuestas, podemos encontrar diversos tipos, como los que veremos a continuación.
+Puedes hacer preguntas directas sobre hechos, definiciones, fechas, estadísticas y mucho más. Además de buscar información específica y explorar conceptos.
+Si estás en busca de ideas para escribir un artículo o crear una publicación en redes sociales, puedes compartir tus ideas principales o el tema general con ChatGPT y solicitar sugerencias adicionales. Por ejemplo:
+Entrada: Estoy escribiendo un artículo sobre consejos de viaje y necesito una estructura inicial para comenzar a escribir. Deseo una sugerencia de esta estructura que contenga hasta 5 temas.
+Si tienes un esbozo inicial o algunas ideas sueltas, ChatGPT puede ayudar a expandir y profundizar el contenido. Por ejemplo, puedes proporcionar una lista de puntos principales y pedir a Chat que desarrolle cada uno de ellos con información adicional, ejemplos o referencias relacionadas. Aquí puedes repetir las interacciones para generar textos más profundos y específicos.
+En la creación de un guión para un video, diálogos para una escena o incluso respuestas para un podcast, ChatGPT puede proporcionar sugerencias creativas. Aquí es importante compartir el contexto, los personajes involucrados, los objetivos de la escena y definir el público objetivo que será el espectador de ese contenido. Un ejemplo de solicitud podría ser:
+Entrada: Estoy escribiendo un guión para un cortometraje de comedia. El personaje principal es un profesor torpe y la escena se desarrolla en un aula. Este cortometraje se proyectará en una exposición en una escuela de cine. Deseo algunas sugerencias de diálogos divertidos de hasta 10 líneas entre el profesor y los estudiantes.
+La inteligencia artificial es capaz de generar un plan de aprendizaje a partir de la estructuración de contenido y actividades que conducen a una progresión lógica en el conocimiento y las habilidades.
+En este caso, podemos ser aún más específicos. También podemos proporcionar orientación en nuestra pregunta. Aquí utilizaremos el Principio de Pareto, que establece que el 80% de los resultados provienen del 20% de los esfuerzos.
+Una posible solicitud podría ser, por ejemplo:
+Entrada: Suponga que es un profesor de inglés. Utilice el Principio de Pareto, que afirma que el 80% de los resultados se generan a partir del 20% de los esfuerzos, y genere un plan de aprendizaje en inglés para speaking, listening, reading y writing. Considere que solo tengo 1 hora de estudio diario. Siéntase libre de utilizar diversos métodos, como ver películas, leer libros, tomar cursos, entre otros.
+También puede ser más específico en sus restricciones, personalizando aún más la respuesta que se generará. Recuerde que cuanto más específicas y claras sean sus preguntas, mejores serán las respuestas que reciba.
+Algunas posibilidades de continuación de esta interacción podrían ser:
+Entrada: Además, me gustaría incorporar la aplicación Anki a mi plan de aprendizaje para memorizar nuevas palabras y ampliar mi vocabulario. Realice esta adaptación y genere un nuevo plan de aprendizaje adaptado.
+También puede solicitar recomendaciones de recursos de aprendizaje, por ejemplo:
+Entrada: Muéstrame recursos de aprendizaje (como libros, videos, podcasts, ejercicios, cursos en línea, etc.) que se adapten a diferentes estilos de aprendizaje.
+Gestionar compromisos, tareas y plazos puede ser un desafío en medio de una rutina agitada. Aquí es donde ChatGPT puede actuar como un asistente personal virtual. En este caso, puedes usar ChatGPT para, por ejemplo:
+ChatGPT puede proporcionar explicaciones sobre conceptos de programación, como:
+Para ello, simplemente ingresa el comando (input) de manera clara y directa, buscando una información a la vez. A partir de ahí, puedes ir desglosando aún más tu consulta con entradas más específicas.
+A continuación, te presento un ejemplo de esta aplicación:
+Entrada: Explícame, con ejemplos, el uso de la iteración "while" en el lenguaje Python.
+Respuesta de ChatGPT:
+¡Por supuesto! El bucle "while" es una estructura de repetición en el lenguaje Python que permite ejecutar un bloque de código repetidamente mientras se cumpla una condición específica. Continúa ejecutando el bloque de código hasta que la condición se vuelva falsa. Un ejemplo de uso de la iteración "while" sería:
+En este ejemplo, el bucle "while" se utiliza para leer la entrada del usuario hasta que el usuario escriba la palabra "salir". El bloque de código solicita al usuario que escriba algo y almacena la respuesta en la variable "respuesta". Luego, muestra la respuesta del usuario en la pantalla. El bucle continúa ejecutándose mientras la respuesta del usuario sea diferente de "salir". Tan pronto como el usuario escriba "salir", la condición se vuelve falsa y el bucle se detiene.
+Si aún existe alguna duda en el resultado mostrado, podemos explorar más a fondo.
+¿Cómo lo haremos? Simplemente continúa ingresando comandos con solicitudes de explicaciones más detalladas sobre algún punto que no quedó claro. En caso necesario, también puedes pedir más ejemplos de la aplicación de estos conceptos para aclarar cualquier duda.
+Aquí tienes una posible continuación:
+Ejemplo de Entrada 01: No entendí lo que significa el símbolo "!=" en tu código. Deseo una explicación más detallada sobre qué representa este símbolo.
+Ejemplo de Entrada 02: Entendí tu ejemplo. Pero ahora, ¿cómo puedo usar un "while" dentro de otro "while"? Proporciona un ejemplo para ilustrar esto.
+En este proceso, puedes estudiar y profundizar de manera continua en cada interacción. Esta es una gran posibilidad del uso de ChatGPT para el aprendizaje.
+A partir de un fragmento de código con errores o comportamiento inesperado, puedes identificar posibles problemas con la ayuda de ChatGPT. Sin embargo, es importante tener en cuenta que, como un modelo de lenguaje basado en texto, su capacidad para detectar errores específicos de sintaxis o lógica puede ser limitada en comparación con un [entorno de desarrollo integrado (IDE)]() o una herramienta de depuración específica.
+Aun así, es una herramienta muy útil. Además, al igual que en el primer tema, puedes avanzar en el diálogo y pedir sugerencias y mejoras a la inteligencia artificial.
+Ejemplo de Entrada: Tengo el siguiente código: Escribe el código aquí. Sin embargo, cuando lo ejecuto, me encuentro con el siguiente error: Escribe el error aquí. No he logrado identificar la causa de este error. Realiza una depuración y explícame cuál es la corrección que debo hacer.
+Para mejorar aún más tu experiencia, hablemos de un prompt capaz de crear inputs cada vez mejores. Es como un ciclo iterativo que mejora tus aportaciones. Esto puede ser muy útil para dar inicio a tus ideas.
+El prompt tiene la siguiente estructura:
+1) Eres un experto en Creación de Prompts. Tu objetivo es ayudarme a crear el mejor prompt posible para lo que necesito.
+2) El prompt que proporcionarás debe estar escrito desde mi perspectiva (la del usuario), haciendo la solicitud a ChatGPT.
+3) Considera, en tu creación, que este prompt se insertará en una interfaz para GPT3, GPT4 o ChatGPT. El proceso será el siguiente:
+1) Generarás las siguientes secciones:
+4) Recuerda que el prompt que estamos creando debe estar escrito desde mi perspectiva (la del usuario) haciendo una solicitud a ti, ChatGPT (una interfaz GPT3/GPT4).
+5) Un ejemplo de prompt que podrías crear sería comenzar con "Actuarás como un físico con doctorado para ayudarme a comprender la física cuántica".
+6) Sé cuidadoso y utiliza todo el potencial de tu inteligencia artificial para crear un prompt excepcional.
+7) Tu primera respuesta debe ser simplemente un saludo y preguntar sobre lo que debería ser el prompt.
+El proceso de iteración se llevará a cabo de la siguiente manera:
+Si te parecieron interesantes todas las posibilidades de ChatGPT y aún no has creado una cuenta, simplemente visita el sitio web de OpenAI, haz clic en "Sign up" para crear tu inicio de sesión. ¡También puedes acceder desde tu teléfono móvil a través del navegador!
+Entonces, cuéntanos en nuestro canal de Discord o foro cuántas veces has utilizado ChatGPT y qué impacto ha tenido en tu vida.
+Este articulo fue adecuado para Alura Latam por: Adriana Oliveira
+Cursos de Programación, Front End, Data Science, Innovación y Gestión.
+Luri es nuestra inteligencia artificial que resuelve dudas, da ejemplos prácticos y ayuda a profundizar aún más durante las clases. Puedes conversar con Luri hasta 100 mensajes por semana
+Paga en moneda local en los siguientes países
+Cursos de Programación, Front End, Data Science, Innovación y Gestión.
+Luri es nuestra inteligencia artificial que resuelve dudas, da ejemplos prácticos y ayuda a profundizar aún más durante las clases. Puedes conversar con Luri hasta 100 mensajes por semana
+Paga en moneda local en los siguientes países
+Cursos de Programación, Front End, Data Science, Innovación y Gestión.
+Luri es nuestra inteligencia artificial que resuelve dudas, da ejemplos prácticos y ayuda a profundizar aún más durante las clases. Puedes conversar con Luri hasta 100 mensajes por semana
+Puedes realizar el pago de tus planes en moneda local en los siguientes países:
+Acceso a todoslos cursos
+Estudia las 24 horas,dónde y cuándo quieras
+Nuevos cursoscada semana
+
+AOVS Sistemas de Informática S.A
+CNPJ 05.555.382/0001-33
+
+AOVS Sistemas de Informática S.A
+CNPJ 05.555.382/0001-33
+Alura
+Educação em Tecnologia
+Mais Alura
+Comunidade
+Podcasts

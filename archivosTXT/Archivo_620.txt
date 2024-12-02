@@ -1,0 +1,32 @@
+La importancia de una IA centrada en el ser humano - Plain Concepts
+ecanorea
+plainconcepts.com
+
+La inteligencia artificial se ha convertido en una compañera diaria en nuestras vidas, pero depender únicamente de enfoques tradicionales impulsados por la tecnología no será suficiente para desarrollar e implementar esta tecnología que realmente tenga impacto positivo en la humanidad.
+Avanzar hacia nuevos conceptos y enfoques será la clave para mejorar la experiencia humana, y esto pasa por el concepto de Human-Centered AI (HCAI). Te explicamos en qué consiste y cómo aplicarlo en tu empresa.
+A pesar de los crecientes niveles de automatización que permite la IA, el hilo conductor de todos sus casos de uso es el factor humano. Por ello, el éxito a largo plazo de la IA depende de que reconozcamos que las personas son fundamentales en su diseño, operación y uso.
+Según IBM, la Human-Centered AI (HCAI) es una disciplina emergente que intenta crear sistemas de IA que amplifiquen y aumenten, en lugar de desplazar, las capacidades humanas. Lo que busca es preservar el control humano de una manera que garantice que la IA satisfaga nuestras necesidades, a la par que opera de manera transparente, da resultados equitativos y respeta la privacidad.
+Este tipo de IA aprende de la aportación y colaboración humanas, lo que le permite mejorar continuamente, al tiempo que proporciona una experiencia eficaz para ambas partes.
+Al desarrollar IA cuyo objetivo es comprender el lenguaje, las emociones y el comportamiento humanos, la HCAI tiene la finalidad última de cerrar la brecha entre la máquina y el ser humano.
+Si analizamos este enfoque desde un punto de vista empresarial, estas soluciones aprovechan la ciencia humana y datos cualitativamente gruesos para comprender las necesidades, aspiraciones e impulsos que subyacen en los comportamientos de los clientes en su mercado.
+Estos análisis contextuales avanzados combinan datos y ciencia humana para aportar información de comportamiento específica. Cuando esto ocurre, aparecen patrones con los que se pueden crear experiencias de cliente personalizadas y mejoradas.
+Con todo ello, se pueden desarrollar estrategias comerciales claras e informadas con las que las empresas pueden sacar numerosos beneficios, como:
+Crear una IA funcional y confiable requiere de profesionales en el sector, así como un enfoque que ponga especial atención en una IA responsable y ética. Es muy importante aplicar una perspectiva que ponga como pilar fundamental la educación y concienciación sobre los aspectos éticos y el uso responsable de la tecnología.
+En este punto es importante promover un entendimiento profundo de los desafíos y las mejores prácticas, poniendo foco en el ámbito legal y la responsabilidad, así como el asesoramiento de los clientes, proporcionándoles información clara y precisa sobre los aspectos éticos y el uso responsable, guiándoles en la toma de decisiones en sus proyectos.
+Por ello, para mantener una IA centrada en el ser humano, los clientes se deben agregar al “circuito” de retroalimentación” del proceso, lo que permite optimizar la tecnología continuamente y adaptarla a los nuevos desafíos.
+El periodo posterior al lanzamiento de un proyecto se puede dividir en 5 fases que afiancen una IA eficaz:
+En resumen, lo fundamental será hacer que las personas participen proactivamente en el desarrollo y mantenimiento de la IA para que pueda ser realmente útil y se minimicen las preocupaciones surgidas alrededor de ella.
+
+Siguiendo el valor fundamental de que humano+IA es una combinación mucho mejor que cualquiera de las dos de forma individual, se pueden desarrollar visualizaciones y experiencias de usuario que fomenten la colaboración entre ambas partes.
+Otra opción es crear marcos para diseñar o evaluar modelos de interacción entre humanos e IA y realizar trabajos teóricos que desarrollen y amplíen teorías de colaboración o co-creación entre humanos e IA.
+Uno de los mayores desafíos para los científicos de datos es identificar y analizar conjuntos de datos grandes y dispares de manera que se obtengan nuevos conocimientos que ayuden a resolver problemas complejos. Utilizando un enfoque centrado en el ser humano, lo primero que se busca es comprender las actitudes que tenían los científicos de datos al automatizar las tareas. Así se podrán crear modelos de ML de mayor calidad, más rápidos y con menos errores.
+En Plain Concepts buscamos nuevas formas de investigación que diseñen rigurosamente formas de interacciones y experiencias entre humanos e IA que mejoren y amplíen las capacidades humanas. Esto se traducirá en mejores productos, clientes más contentos y una sociedad con una calidad de vida mejorada.
+Adoptamos un enfoque interdisciplinario que incluye a investigadores especializados en esta interacción entre persona-computadora, visualización de datos, diseño en el contexto de la IA, análisis de seguridad, etc.
+Si quieres saber más sobre lo que hacemos, ¡no dudes en contactarnos!
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

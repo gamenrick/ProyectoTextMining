@@ -1,0 +1,87 @@
+Introducción a Machine Learning - MATLAB & Simulink
+Autor desconocido
+mathworks.com
+
+Formación
+Eventos
+Recursos de aprendizaje
+Visite el Centro de ayuda para explorar la documentación de nuestros productos, cooperar con la comunidad usuaria, consultar notas de versión y mucho más.
+Vídeos de MATLAB y Simulink
+Explore productos, vea demostraciones y descubra las novedades de productos.
+Empresa
+Ofertas de empleo
+
+Descarbonización en MathWorks
+Descubra cómo MathWorks protege y restablece los recursos naturales.
+Buscar
+Machine Learning es una técnica de IA que enseña a los equipos informáticos a aprender de la experiencia. Los algoritmos de Machine Learning recurren a métodos computacionales para “aprender” información directamente a partir de datos, sin depender de una ecuación predeterminada como modelo. Los algoritmos mejoran su rendimiento de manera adaptativa a medida que aumenta el número de muestras disponibles para el aprendizaje. Deep Learning es una variedad especializada de Machine Learning.
+Índice de contenido
+Machine Learning emplea dos tipos de técnicas: aprendizaje supervisado, que entrena un modelo con datos de entrada y salida conocidos para predecir salidas futuras, y aprendizaje no supervisado, que identifica patrones ocultos o estructuras intrínsecas en los datos de entrada.
+Figura 1. Las técnicas de Machine Learning incluyen el aprendizaje supervisado y el aprendizaje no supervisado. 
+Machine Learning supervisado crea un modelo que realiza predicciones basadas en pruebas en presencia de incertidumbre. Un algoritmo de aprendizaje supervisado toma un conjunto conocido de datos de entrada y respuestas conocidas sobre esos datos (salidas), y entrena un modelo para generar predicciones razonables como respuesta a datos nuevos. Utilice el aprendizaje supervisado si dispone de datos conocidos para la salida que desea predecir.
+El aprendizaje supervisado emplea técnicas de clasificación y regresión para desarrollar modelos de Machine Learning.
+Técnicas de clasificación: Estas técnicas predicen respuestas discretas; por ejemplo, si un email es genuino o spam, o si un tumor es maligno o benigno. Los modelos de clasificación clasifican los datos de entrada en categorías. Entre sus aplicaciones típicas se incluyen captura de imágenes médicas, reconocimiento de voz y puntuación crediticia.
+Utilice la clasificación si los datos se pueden etiquetar, categorizar o dividir en clases o grupos específicos. Por ejemplo, las aplicaciones de reconocimiento de escritura manual emplean la clasificación para reconocer letras y números. En procesamiento de imágenes y visión artificial, se emplean técnicas de reconocimiento de patrones no supervisado para detectar objetos y segmentar imágenes. Aquí puede ver los algoritmos de clasificación más comunes.
+Técnicas de regresión: Estas técnicas predicen respuestas continuas; por ejemplo, cantidades físicas difíciles de medir, tales como estado de carga de una batería, carga eléctrica de la red o precios de activos financieros. Entre sus aplicaciones típicas se incluyen sensorización virtual, predicción de carga eléctrica y trading algorítmico.
+Utilice técnicas de regresión si trabaja con un intervalo de datos o la respuesta es un número real, como los grados de temperatura o el tiempo hasta el fallo de una pieza electrónica. Aquí puede ver los algoritmos de regresión más comunes.
+
+
+
+			Machine Learning supervisado
+
+Aprenda a utilizar Machine Learning supervisado y entrenar un modelo para establecer correspondencias entre entradas y salidas, y predecir la respuesta a datos nuevos.
+El aprendizaje no supervisado identifica patrones ocultos o estructuras intrínsecas en los datos. Se emplea para sacar conclusiones sobre conjuntos de datos de entrada sin respuestas etiquetadas.
+La agrupación en clusters es la técnica de aprendizaje no supervisado más común. Se emplea para análisis de datos exploratorio, a fin de identificar patrones o grupos ocultos en los datos. Entre sus aplicaciones típicas se incluyen análisis de secuencias genéticas, estudios de mercado y reconocimiento de objetos.
+Por ejemplo, si una empresa de telefonía móvil desea optimizar la ubicación de torres de telefonía, puede recurrir a Machine Learning para estimar el número de grupos de personas que utilizan las torres. Un teléfono solo puede comunicarse con una torre a la vez, de modo que se emplean algoritmos de agrupación en clusters para diseñar la mejor ubicación de las torres y optimizar la recepción de la señal para grupos - clusters - de clientes. Aquí puede ver los algoritmos de agrupación en clusters más comunes.
+Figura 2. La agrupación en clusters detecta patrones ocultos en los datos. 
+
+
+
+			Machine Learning no supervisado
+
+Obtenga una visión general sobre Machine Learning no supervisado. Este enfoque busca patrones en conjuntos de datos cuyas respuestas no están etiquetadas y permite explorar los datos cuando no se sabe qué información contienen.
+Seleccionar el algoritmo adecuado puede resultar abrumador: existen infinidad de algoritmos de Machine Learning supervisado y no supervisado, y cada uno adopta un enfoque de aprendizaje distinto.
+No existe un método universal que se aplique a todas las situaciones. Encontrar el algoritmo adecuado es una cuestión de prueba y error; ni los analistas de datos más experimentados pueden saber si un determinado algoritmo funcionará sin probarlo antes. Pero seleccionar el algoritmo también depende del tamaño y tipo de datos con que se trabaje, la información que se desee obtener de los datos y cómo se vaya a emplear la información.
+Figura 3. Técnicas de Machine Learning.
+Utilice estas pautas para elegir entre Machine Learning supervisado y no supervisado:
+Con el aumento de macrodatos, Machine Learning se ha convertido en una técnica clave para resolver problemas en diferentes áreas, tales como:
+Los algoritmos de Machine Learning identifican patrones naturales en los datos, que generan conocimiento, ayudan a tomar mejores decisiones y realizar predicciones más acertadas. Se utilizan a diario para tomar decisiones cruciales en diagnósticos médicos, inversiones, predicción de carga energética y otros ámbitos. Por ejemplo, las plataformas de streaming dependen de Machine Learning para filtrar millones de opciones y ofrecer recomendaciones sobre canciones o películas. Los comerciantes lo utilizan para obtener información sobre el comportamiento de compra de sus clientes.
+Utilice Machine Learning cuando se enfrente a tareas o problemas complejos que impliquen una gran cantidad de datos y variables, pero no disponga de fórmulas o ecuaciones para solucionarlos.
+Deep Learning es una variedad especializada de Machine Learning. En el contexto de análisis de imágenes, el flujo de trabajo de Machine Learning comienza con la extracción manual de características relevantes de imágenes. Estas características se utilizan luego para crear un modelo que categoriza los objetos presentes en la imagen. El flujo de trabajo de Deep Learning extrae las características relevantes directamente de las imágenes. Además, Deep Learning realiza un “aprendizaje de extremo a extremo”: se proporciona una tarea y datos sin procesar a una red, que aprende a realizar la tarea automáticamente.
+Figura 4. Comparación de enfoques para categorizar vehículos con Machine Learning (izquierda) y Deep Learning (derecha).
+Con Machine Learning, la selección de características y un clasificador para organizarlas se realiza manualmente. Con Deep Learning, los pasos de extracción de características y modelado son automáticos.
+Machine Learning ofrece una serie de técnicas y modelos que se pueden seleccionar en función de la aplicación, el tamaño de los datos que se van a procesar y el tipo de problema que desea resolver. Una aplicación de Deep Learning requiere una cantidad de datos muy grande (miles de imágenes) para entrenar el modelo, además de GPU para procesar los datos rápidamente.
+A la hora de decidir entre Machine Learning y Deep Learning, confirme si dispone de GPU de alto rendimiento y una gran cantidad de datos etiquetados. Si no cuenta con ellos, puede ser más apropiado utilizar Machine Learning en lugar de Deep Learning. La complejidad de Deep Learning suele ser mayor, de modo que necesitará al menos unos miles de imágenes para obtener resultados fiables.
+Si decide utilizar Machine Learning, tendrá la opción de entrenar el modelo con varios clasificadores distintos. Además, si sabe qué características extraer para obtener los mejores resultados, tendrá la posibilidad de elegir una combinación de enfoques que utilicen diferentes clasificadores y características para determinar qué combinación de opciones es la más adecuada para sus datos.
+
+
+
+			Comparación entre Machine Learning y Deep Learning | Introducción a Deep Learning
+
+Descubra las diferencias entre Deep Learning y Machine Learning en esta charla técnica de MATLAB Tech Talk. Observe varios ejemplos y aprenda cómo elegir el método adecuado.
+MATLAB facilita las tareas de Machine Learning. Con herramientas y funciones para manejar grandes cantidades de datos y apps que facilitan el uso de Machine Learning, MATLAB es el entorno ideal para aplicar Machine Learning al análisis de datos.
+Con MATLAB, los equipos de ingeniería y análisis de datos tienen acceso inmediato a funciones predefinidas, múltiples toolboxes, apps especializadas en clasificación, regresión y agrupación en clusters, y datos para tomar decisiones acertadas.
+MATLAB permite:
+Amplíe sus conocimientos con documentación, ejemplos, vídeos y mucho más.
+Explore áreas temáticas similares comúnmente asociadas con productos de MATLAB y Simulink.
+30 días de exploración a su alcance
+Seleccione un país/idioma
+Seleccione un país/idioma para obtener contenido traducido, si está disponible, y ver eventos y ofertas de productos y servicios locales. Según su ubicación geográfica, recomendamos que seleccione: .
+
+También puede seleccionar uno de estos países/idiomas:
+Cómo obtener el mejor rendimiento
+Seleccione China (en idioma chino o inglés) para obtener el mejor rendimiento. Los sitios web de otros países no están optimizados para ser accedidos desde su ubicación geográfica.
+América
+Europa
+Asia-Pacífico
+Comuníquese con su oficina local
+MathWorks
+Accelerating the pace of engineering and science
+MathWorks es el líder en el desarrollo de software de cálculo matemático para ingenieros y científicos.
+Descubra…
+Explorar productos
+Probar o comprar
+Aprender a utilizar
+Obtener soporte
+Acerca de MathWorks
+© 1994-2024 The MathWorks, Inc.

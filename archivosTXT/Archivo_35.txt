@@ -1,0 +1,66 @@
+Deep learning o aprendizaje profundo | Qué es y cómo funciona
+Yilda Morillo
+futuroelectrico.com
+
+Vivimos una época donde se busca que las máquinas estén dotadas de mayor inteligencia, logren tener un pensamiento autónomo y gran capacidad de aprendizaje. El deep learning o aprendizaje profundo es un concepto relativamente nuevo que nace bajo esta perspectiva.
+El aprendizaje profundo guarda una estrecha relación con la inteligencia artificial y forma parte de amplios métodos de machine learning. En Futuro Eléctrico estamos consciente de que este concepto es clave para las inteligencias que se desarrollarán en un futuro. Ante esto, hemos preparado este artículo donde encontrarás información sobre qué es el deep learning, diferencias con el machine learning y sus aplicaciones.
+Tabla de contenidos
+
+El deep learning o aprendizaje profundo se define como el conjunto de algoritmos que se inspira en las redes neuronales humanas. En ese sentido, se considera como un subcampo del machine learning. El deep learning guarda relaciones con los patrones de comunicación de un cerebro biológico; así como con la forma de estructurar y procesar la información.
+Una de las características principales del deep learning es que puede aprender en diferentes niveles de abstracción. Es decir, puede jerarquizar la información en conceptos. Asimismo, para la extracción y transformación de la información se emplea una cascada de múltiples capas de unidades de procesamiento no lineales.
+Este tipo de aprendizaje profundo puede aprender de dos formas, bien sea de manera supervisada o no supervisada. Esto permite que el proceso sea mucho más rápido y preciso. Al deep learning en algunos casos se le conoce como aprendizaje neuronal profundo o redes neuronales profundas. Esto se debe a que la definición más exacta nos habla de que el aprendizaje profundo imita a los humanos.
+Lectura recomendada: Aprendizaje supervisado | Qué es y en qué se diferencia del aprendizaje no supervisado
+Gracias a la era de la computación en la nube y los grandes datos, el deep learning ha tenido un crecimiento significativo. Con él se ha logrado un alto nivel de precisión porque las máquinas han tenido datos para entrenar. Y, de hecho, ha causado tanto asombroso porque cada día se acerca más a la potencia perceptiva humana.
+El término deep learning así como se conoce hoy en día es relativamente nuevo. La verdad es que anteriormente hubo varias etapas que permitieron su desarrollo. Todo comenzó con la etapa cibernética que se desarrolló entre los años 40 y los 60. Uno de los estudios más importante que se llevó a cabo fueron relacionados con el aprendizaje biológico. También se presentó un prototipo que permitía el entrenamiento de una sola neurona.
+Entre los 80 y 95 llega lo que se conoce como etapa del conexionismo. En la misma, se implementó el backpropagation, como una forma de entrenar redes neuronales. Lo que se buscaba en esta etapa era conocer los pesos de las neuronas correspondientes a las distintas capas.
+A partir del 2006 nace la etapa conocida como deep learning. Al principio se pretendía imitar con exactitud el aprendizaje humano, pero ha evolucionado hasta ser una representación menos realista. En esta etapa, el tipo de aprendizaje que se propone es a través de múltiples niveles de composición. Además, ha dejado de lado la perspectiva neurocientífica.
+
+El aprendizaje profundo o deep learning funciona mediante redes neuronales profundas. Las mismas hacen uso de un gran número de procesadores funcionando en paralelo.
+Las redes neuronales se agrupan en tres diferentes capas: de entradas, ocultas y de salida. La primera capa, como su nombre lo indica, recibe los datos de entradas. Esta información se la pasa a las capas ocultas, las cuales realizan cálculos matemáticos que permiten establecer nuevas entradas. Finalmente, la capa de salida se encarga de entregar un resultado.
+Pero las redes neurales no funcionan si no se tienen en cuenta dos factores. El primero es que se necesita una gran potencia computacional; mientras que el segundo hace referencia al gigantesco volumen de datos al que debe acceder para poder entrenar.
+Por su parte, las redes neuronales artificiales pueden ser entrenadas mediante una técnica denominada como backpropagation. Consiste en modificar los pesos de las neuronas para que den un resultado exacto. En ese sentido, se modifican los pesos de las neuronas según el error obtenido y de la participación de cada neurona.
+Para su correcto funcionamiento también se toma en cuenta el uso de GPUs. Es decir, se emplea un coprocesador dedicado al procesamiento de gráficos u operaciones de coma flotante. Recordemos que para este proceso el ordenador debe ser superpotente para que pueda funcionar con un menor margen de error.
+El deep learning ha permitido mejores resultados en tareas de percepción computacional, debido a que imitan las características arquitecturales del sistema nervioso. De hecho, estos avances pueden permitir que integren funciones como la memoria semántica, la atención y el razonamiento. Lo que se busca es que se alcance el nivel de inteligencia humana; e incluso la supere a través de la singularidad tecnológica.
+
+La principal diferencia entre el machine learning y el deep learning se encuentra en que utilizan diferentes algoritmos. Ambos buscan aprender; pero cada uno de una forma diferente. El machine learning permite que las computadoras realicen acciones sin ser programadas; mientras que el deep larning es una rama del machine learning, y se trata de un algoritmo que imita las redes neuronales humanas.
+El machine learning surgió en la década de los 80 como una rama de la inteligencia artificial. Se encarga de resolver problemas de manera analítica mediante la identificación, la clasificación o la predicción. Para lograr este propósito emplea algoritmos matemáticos. De igual forma, trabaja con algoritmos de regresión o con árboles de decisión.
+Gracias al crecimiento del machine learning fue que surgió el deep learning o aprendizaje profundo en el año 2010. Entonces, el deep learning es un concepto relativamente nuevo si se compara con el machine learning, el cual dio inicio a que se buscaran nuevas formas de aprendizaje.
+El deep learning vino a revolucionar el mundo tecnológico porque trabaja con un algoritmo diferente a lo que se conocía. Una de sus características principales es que puede soportar el big data; pero no solo eso, sino que se asemeja a una mente propia.
+Es importante destacar que al machine learning hay que guiarlo para que realice el proceso que se quiere. En el caso del deep learning, la máquina tiene la capacidad de aprender por sí sola.
+
+Una de las principales aplicaciones del deep learning es que pueda desarrollar actividades que para el ser humano sean comunes o que pueda realizar de forma automática, pero que para una máquina sean difíciles o complejas. Una de las principales funciones del aprendizaje profundo es que puede clasificar imágenes.
+Esta es una de sus formas más utilizadas en los últimos tiempos. A través del deep learning una máquina puede colorizar imágenes en blanco y negro. Esta es una actividad que se puede llamar como propia del ser humano, porque requiere una alta precisión visual. No obstante, el deep learning puede clasificar las imágenes y darles color de una forma impresionante. Incluso puede llegar a tener un margen de error casi nulo.
+Te recomendamos:
+El deep learning ha sido bastante útil para clasificar objetos y también puede brindar información sobre ciertas características que posea. Para poder realizar esta actividad utiliza Convolutional Neural Networks (CNN). El hecho de que pueda identificar y clasificar objetos es realmente sorprendente porque anteriormente uno de los problemas de la computación es que no era capaz de clasificar imágenes dentro de un área.
+Una de las principales aplicaciones en la vida diaria es que contribuye al reconocimiento facial, el cual ha sido implementado en smartphones o en cámaras de vigilancia ciudadana. La última actualización sobre este tema ha sido gracias a Google, que lanzó una nueva API de reconocimiento de objetos en Tensorflow.
+Lectura sugerida: Biometría | Cuando tu cuerpo es tu método de autenticación
+El deep learning o aprendizaje profundo puede traducir de manera automática desde cualquier idioma. Este es un hito que se pretendía alcanzar desde hace años, pero es ahora que se han logrado avances. En ese sentido, puede traducir automáticamente tanto imágenes como texto.
+En el caso del texto es donde se ha visto mayor avance. De hecho, el deep learning puede aprender la dependencia entre palabras y asignarles un nuevo idioma. Esto lo logra por la gigantesca base de datos disponible.
+Pero los desarrolladores buscan alcanzar una verdadera revolución en lingüística. No solo quieren que las máquinas traduzcan automáticamente, sino que puedan identificar lenguas muertas. Para alcanzar este objetivo se basan en que cualquier idioma puede cambiar de cierta manera a lo largo de la historia. La máquina puede buscar estos patrones sin cansarse.
+Esta es una de las aplicaciones del deep learning a la que constantemente estamos expuestos. En la actualidad la conectividad y el uso de teléfonos inteligentes es casi la norma.
+También usamos plataformas de streaming que nos ofrecen contenido basándose en nuestros patrones de consumo. Eso sucede gracias al deep learning. Por ejemplo, Netflix, Amazon o Spotify puede reconocer nuestros intereses para en función de eso recomendarnos música, productos o series. Lo mismo sucede con la publicidad digital en redes sociales.
+¿Has notado que siempre encuentras publicidad que se relaciona con tus gustos? La razón es porque el deep learning aprende de la información que compartes diariamente.
+Los últimos avances que se han visto en la robótica tienen muchísimo que ver con el crecimiento de la inteligencia artificial y con el deep learning. Esto se debe a que los robots pueden aprender a aumentar la capacidad de respuesta frente a nuevas tareas. Es decir, la robótica al hacer uso del aprendizaje profundo puede dar mejores respuestas o realizar movimientos más precisos.
+En la actualidad los robots atienden las órdenes humanas que realizan mediante comandos de voz. El uso del deep learning implica que en un futuro puedan actuar según gestos o anticiparte a los movimientos de los humanos.
+Te puede interesar: Robot humanoide | Qué es, características, tipos, ejemplos
+El deep learning ha tenido mayor impacto dentro de las empresas, quienes se han visto beneficiadas en el último tiempo. Una de las empresas pioneras en el uso de deep learning ha sido Visa; que desde octubre de este año lanzarán al mercado una aplicación que permitirá detectar cualquier fraude financiero.
+El nuevo Visa Smarter Stand-in Processing (Smarter STIP) mediante el uso de aprendizaje profundo analiza transacciones pasadas hasta el nivel del titular de la tarjeta. En ese sentido, Visa puede analizar una decisión de transacción basado en el comportamiento del usuario. Este es uno de los mejores ejemplos de cómo las empresas están utilizando el deep learning en tiempo real.
+Su funcionamiento es muy importante porque a través del internet de las cosas (IoT, por sus siglas en inglés) se están creando datos continuamente, pero la mayoría se encuentran sin etiquetas y poco estructurados. Lo positivo es que el deep learning se puede encargar de ordenar y clasificar ese conjunto de datos.
+Lectura sugerida: Aplicaciones del internet de las cosas | ¿Cuáles son sus usos?
+El deep learning o aprendizaje profundo es un concepto clave en el desarrollo de la inteligencia artificial y sentará las bases para lo que estamos por ver en el futuro, incluyendo la singularidad tecnológica. El siguiente paso es que las máquinas sean tan inteligentes y aprendan como los humanos, ¿el deep learning estará cerca de lograrlo?
+Recomendado: Ingeniería neuromórfica | Chips, cerebro humano y el futuro de la computación
+El Viajero Feliz
+Frases de la Vida
+Salud y Amistad
+Cuando Duermes
+Supergracioso
+Estamos de Cine
+Ecología Útil
+Blog de Bebés
+Supercurioso
+Negocios y Empresa
+Aviso de cookies
+Contacto
+Trabaja con nosotros
+JoseanWebs
+Publicidad

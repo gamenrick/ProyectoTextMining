@@ -1,0 +1,37 @@
+Cómo adentrarse en el mundo de la inteligencia artificial generativa - Telefónica
+luciaclemares
+telefonica.com
+
+Telefonica.com
+ Me considero una persona inteligente, puede ser que a veces algo me lleve tiempo entenderlo, pero siempre es cuestión de ganas, de leer y sobre todo de saber dónde buscar las respuestas. Ahora quiero saber en qué me puede ayudar la inteligencia artificial, en mi día a día. Tanto personal como laboralmente. ¿Alguien sabe cómo empezar?
+Laura Isabel Pais Seguir          
+Backoffice en B2B
+05/09/2024
+Hay tanta información…pero empiezo por informarme gracias a algún podcast en Spotify. Me encanta escuchar opiniones y con eso me voy formando una idea de lo que personas con perfiles totalmente distintos opinan sobre el uso de esta herramienta.
+En la educación encuentro varias preguntas: ¿oportunidad o amenaza?; ¿puede ser el chapGPT un profesor de matemáticas?; ¿coger atajos a través de esta herramienta para realizar trabajos y estudios puede hacer que frene nuestra creatividad?; ¿puede faltar la enseñanza de los valores en su uso?
+En el entorno laboral más preguntas como, ¿qué actividades son las adecuadas para usarlo?; ¿hay que dar formación a los empleados para un buen uso del chapGPT y otras herramientas? Más adelante veréis que Telefónica nos da una gran oportunidad con cursos y profesionales que nos resuelven estas dudas.  
+Yo lo veo como una gran oportunidad en la educación, por ejemplo, para entornos con necesidades especiales, tanto para profesores como alumnos. La IA permite no solo automatizar, sino personalizar en los casos que necesitemos opciones diferentes según el perfil de los usuarios. En el entorno laboral es muy útil en la recopilación y preparación de datos, podemos llegar a dar un servicio al cliente automatizado. ¿Pero cuánto cuesta hacer eso?,¿cuántos datos necesitamos? o ¿los empleados tenemos conocimiento para eso? Debemos tener en cuenta, no solo lo que necesitamos, sino seguir las políticas de privacidad y utilizar los datos de forma anónima en todos los casos.
+Lo que considero con tantas preguntas que me vienen, es que necesito ayuda para obtener un resumen conciso y preciso sobre las aplicaciones de la IA en mi puesto de trabajo. Por ejemplo, para el seguimiento de pedidos de la red comercial de grandes cuentas a los que doy soporte de tramitaciones. Sería un avance en nuestro trabajo diario.
+Hoy he comenzado con un curso muy interesante, Introducción a la Inteligencia Artificial Generativa e IA responsable-S01. Os propongo que si os interesa empezar con el tema es el momento. Apuntaros en Universitas aquellos que sois trabajadores de Telefónica. Existen muchos cursos donde enseñan herramientas. Yo espero encontrar para mejorar mi trabajo con los clientes con este curso.
+Hay que empezar diciendo que IA Generativa es una técnica para hacer que la IA produzca contenido basado en datos.
+Hay muchas herramientas de texto y de vídeo. Lo más importante son los datos. Es el alimento de la IA, y el nuevo “petróleo”. En Facebook, por ejemplo, se nutría de nuestros gustos y opiniones; es revolucionario y parece sencillo.. Algo que creó mucha controversia, Facebook dirigía mejor sus productos a futuros clientes. Esto es revolucionario y parece sencillo; pero su uso debe seguir unas normas muy estrictas para guardar la confidencialidad de los clientes. Si busco hoteles, lo “detectan” y me los ofrecen. Como comentaba en mi anterior artículo, la tecnología nos hace más fácil la vida, nos ayuda a encontrar lo que buscamos. Pero esto ni es fácil; y tal y como pasa en las redes sociales también puede pasar en la IA. ¿Has oído hablar de las fake news?
+Los datos pueden llegar sucios, sin ordenar, o incluso ser falsos. Y aquí está, para mí, el plus de una buena herramienta de IA. Podemos enseñarle a identificar mejor esos datos, a ordenarlos, a distribuirlos. Porque tras la recolección y almacenamiento hay un procesado. Enseñamos a la herramienta a identificar patrones y detectar aquellos que son muy distintos y no conectan. Se llaman anomalías, y así, la herramienta se hace fiable para el entorno laboral y educativo.
+Y tras “medio entender” esta parte, porque hay muchos más detalles que no están en este artículo, me pregunto:
+Si nuestro conjunto de datos, aquellos procesados, que hemos comprobado y que no desechamos. Muestran una realidad, ¿pero esa realidad está en equilibrio? ¿Es imparcial? ¿Es justa? ¿Refleja la diversidad del mundo que nos rodea y está libre de prejuicios?
+Y aquí entramos en una parte que nunca debemos olvidar: la tecnología debe siempre construir nuestro mundo y mejorarlo. Debemos utilizar herramientas de IA responsable. Con ética, que tengan en cuenta los derechos humanos, la salud y el medio ambiente.
+Sabemos que ChatGPT es una IA diseñada para mantener conversaciones y responder preguntas. Cuando haces una pregunta a ChatGPT esta responde empleando la información obtenida gracias a la aplicación de técnicas de aprendizaje automático y procesamiento del lenguaje natural. Esta IA ha sido entrenada para analizar y comprender grandes cantidades de texto, y luego emplear este conocimiento para ofrecer respuestas coherentes y probables en diferentes contextos.
+Es la mezcla perfecta entre Google y esa amiga que siempre sabe hacerte un resumen rápido de cualquier texto, conversación, película…siempre tiene las palabras adecuadas para explicarte o varias formas de hacerlo. Así funciona el chat con IA. Pero no debemos utilizar cualquiera, en el curso he descubierto que para empezar, y para mayor seguridad, tenemos otras opciones, una de ellas es Copilot de Microsoft, que te animo a probar.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

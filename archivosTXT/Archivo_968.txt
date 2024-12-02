@@ -1,0 +1,80 @@
+Transformando la Educación: Integrando la Inteligencia Artificial Generativa en el Entorno Escolar POR Sebastián Fuentes Sánchez - Blog CEDIM
+Autor desconocido
+edu.mx
+
+La Inteligencia Artificial Generativa, comúnmente denominada GenIA,
+es una forma de inteligencia sintética capaz de procesar entradas humanas y generar
+creaciones totalmente nuevas, como arte, escritura, video o audio. Al recibir
+un mensaje o indicación, la IA produce una creación única. A lo largo del
+tiempo, ha surgido la incertidumbre sobre la viabilidad de incorporar nuevas
+tecnologías, especialmente la IA, en el entorno educativo para facilitar el
+aprendizaje de los alumnos.
+En CEDIM The School of Design, al ser un modelo educativo
+centrado en el alumno, la tecnología es una aliada que sirve como parte
+fundamental para el aprendizaje integral del estudiante. 
+Recientemente la institución realizó un proyecto con los alumnos
+y alumnas en el área de Diseño Gráfico y Mercadotecnia Estratégica que integra
+programas de IA y que sirven como parte de un aprendizaje basado en los retos
+reales de la industria. 
+Desde la redacción del catedrático de la Licenciatura en Diseño
+Gráfico y Mercadotecnia Estrategica en ©CEDIM The School of Design, Lic.
+Sebastián Fuentes Sánchez, se abordan la integración, retos y perspectivas de
+las nuevas tecnologías dentro del aula de clase. 
+Primero se investigan las bases de las nuevas tecnologías y sus posibles aplicaciones en diversas ramas del diseño. Se profundiza en el funcionamiento de estas tecnologías, se analizan las herramientas y principios que las respaldan. Se explora el terreno de las nuevas herramientas Open Source, como Stable Diffusion, que permiten adaptarse a cada proyecto, ya sea para generar contenido estático o, incluso, para la creación de videos. Se examina de cerca el impacto que estas herramientas tienen, y se enfatiza la importancia de aprender cuestiones éticas. En este sentido, se involucra al estudiante a comprender los desafíos sociales y legales que surgen con cada nueva tecnología, reconociendo como ejemplo que el derecho a la privacidad ha evolucionado con la llegada de Internet. Además, se destaca la relevancia del uso adecuado del Copyright y sus aplicaciones dentro del proceso de diseño.
+Dentro del aula de clase se reconoce que herramientas comunes como ChatGPT o Midjourney, aunque ampliamente utilizadas, presentan limitaciones. Se comprende que estas limitaciones surgen de la incapacidad de adaptarse a las necesidades específicas de cada proyecto y de mantener la coherencia esencial para construir un universo de marca. Además, se distancia de considerar al algoritmo como el protagonista central. En lugar de enfocarse únicamente en la generación de contenido, se concentra en la creación de sistemas de comunicación más amplios. El enfoque se dirige hacia el establecimiento de una comunicación que se complemente y transmita una idea de manera efectiva a las personas. La perspectiva se orienta hacia el diálogo con las personas, trascendiendo la mera venta y abarcando diversos medios y formatos, respaldada por una exhaustiva investigación.
+Donde se percibe un mayor valor con el uso de la AI
+es en cerrar la brecha entre la idea y la ejecución. Estas herramientas
+ocuparán un papel más prominente en la dirección del proceso creativo. No
+obstante, es importante no malinterpretar: si bien es excelente poder generar
+200 piezas de contenido de una sola vez (siempre y cuando se conozcan los
+prompts), este enfoque implica tener 200 ideas o inspiraciones que pueden
+servir como ayuda para representar lo que se busca transmitir. Esto resulta
+especialmente relevante cuando aún no se cuenta con la capacidad de expresarlo
+con palabras o cuando no existe el material adecuado para su representación.
+En lugar de buscar reemplazar a alguien o confiar
+exclusivamente en la generación de inteligencia artificial, se plantea la
+pregunta de cómo podemos desarrollar procesos para intervenir o complementar el
+contenido generado. Esto se aborda a partir de una investigación sólida que
+permita crear contenido capaz de satisfacer la creciente demanda, ya sea
+digital o no, que se experimenta año tras año.
+Estas herramientas desempeñarán un papel
+fundamental al dar vida a la idea de un “Brief visual”. Este enfoque
+posibilita involucrar de alguna manera al cliente o a las personas para las que
+se está diseñando, permitiendo una comprensión más profunda de cómo perciben el
+mundo incluso antes de que comience el proyecto.
+Bajo la premisa de “No me digas lo que
+piensas, dime lo que puedas imaginar”, se plantea la reflexión sobre el
+valor del “artista” o diseñador. ¿Dependerá acaso de qué tan hábil
+seas al comunicarte con la computadora? En este contexto, se destaca la
+importancia de la comunicación, ya sea con el equipo como director creativo,
+con un cliente, o incluso con un bot.
+Hasta el día de hoy, se valora la complementación
+de la investigación propia para consolidar moodboards, insights y la intuición
+personal, traduciéndolas en un conjunto de palabras que posibiliten visualizar
+algo que de otra manera sería difícil de encontrar en plataformas como Google,
+Behance o Pinterest. Surge así una figura que podríamos denominar como
+diseñador conceptual o diseñador de concepto, siempre preparado para discernir
+qué palabras o conceptos provenientes de un brief son relevantes, creando una
+suerte de maqueta del proyecto por realizar.
+Este enfoque constituye una manera de iniciar el
+proceso creativo, respaldado por un brief, datos e insights surgidos de
+conversaciones con personas o de la propia investigación. La pregunta que surge
+es: ¿Hasta qué punto somos capaces, o nuestro equipo, de recrear el contenido
+generado por estas herramientas para aplicarlo en un proyecto real?
+El uso de estas herramientas no está exento de
+polémica, ya que el temor a ser reemplazados por máquinas ha estado presente
+desde los inicios de la industria. Una frase que describe este período recuerda
+que “los humanos se encuentran en las fábricas mientras que las máquinas
+generan música y arte”, mostrando un futuro que no parece utópico. Sin
+embargo, es necesario recordar que situaciones similares se vivieron con la
+llegada de la imprenta, las computadoras y las redes sociales.
+En CEDIM, la atención se centra en definir procesos
+más allá de limitarse a una sola herramienta como Photoshop. Se promueve la
+capacidad de adaptarse a cualquier cambio que conlleve la adopción de la
+inteligencia artificial generativa. Se destaca que, al definirse como un
+proceso, más que simplemente generar contenido o cumplir con un brief, se
+entiende que la comunicación y el diálogo son constantes en el camino del
+diseño, ya que pertenecen a las personas. Por ende, la creación de sistemas
+cuyo objetivo sea comunicar y generar un diálogo transparente permite
+anticiparse a cualquier cambio que el futuro pueda presentar.
+Content & Outreach Manager @ CEDIM l Innovation Programs.

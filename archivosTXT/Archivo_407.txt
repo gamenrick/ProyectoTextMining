@@ -1,0 +1,101 @@
+IA Generativa y ciberseguridad| WatchGuard Blog
+Autor desconocido
+watchguard.com
+
+Soluciones
+Tendencias de Ciberseguridad
+SD-WAN
+Seguridad XDR
+Seguridad Zero Trust
+MSP vs. MSSP
+Para empresas
+Industrias
+Regulaciones
+Organizaciones
+Modelos de Seguridad
+Para MSP
+Pila de tecnología de seguridad
+Marcos de seguridad
+Para SOCs
+El SOC moderno
+Búsqueda de amenazas
+Productos y Servicios
+Seguridad de Red
+Firewalls
+Security Services de Firewall
+Detección y respuesta de red (NDR)
+Seguridad endpoint
+Detección y respuesta de endpoints
+Protección de endpoints y antivirus (AV)
+Gestión de Parches y Control de Datos
+Protección a nivel DNS
+Identity Security
+Autenticación Multifactor (MFA)
+Tokens en hardware de AuthPoint
+Seguridad de la plataforma
+XDR impulsada por IA
+Administración de Cloud
+Informes de cumplimiento
+Servicios administrados para MSP
+Detección y respuesta administradas
+Ver todos los productos
+Investigar
+Fuentes de Producto
+Webinars
+White Papers
+Folletos y Datasheets
+Estudios de caso
+Ayuda para Elegir
+NGFW o UTM
+Herramienta para dimensionamiento de proyectos
+Compare dispositivos WatchGuard
+Ayuda para Comprar
+Demo y pruebas gratuitas
+Promociones de venta
+Encontrar a un revendedor
+Partners
+Conviértase en Partner
+Programa de Socios de Canal
+Beneficios para los MSP
+Primeros pasos como Partner
+Únase al programa de WatchGuardONE
+Recursos para Partners
+WatchGuard Cloud para Partners
+Unified Security Platform para Partners
+Especializaciones y certificaciones
+Herramientas para Partners
+Historias de éxito de Partners
+Encontrar a un Partner
+Encontrar a un revendedor
+Encontrar a un distribuidor
+Únase ahora
+Noticias
+Noticias de WatchGuard
+Comunicados de Prensa
+Cobertura de Prensa
+Blog de Noticias Corporativas
+Premios y Reconocimientos
+Contactos de Medios
+Acerca de WatchGuard
+Equipo Directivo
+Responsabilidad Social
+Carreras
+Entre al Team Red
+Soporte
+La Inteligencia Artificial (IA), está en boca de todos. Esta revolución tecnológica no deja indiferente a nadie ya que, en definitiva, se ha convertido en una poderosa herramienta que puede simplificar nuestra vida diaria. 
+La Inteligencia Artificial generativa tiene múltiples aplicaciones en distintos campos como son la traducción en tiempo real o la automatización de tareas repetitivas, y resulta muy beneficiosa en la mejora de tiempos de detección y respuesta en soluciones de seguridad, así como en la generación de contenidos. Sin embargo, esta también tiene una cara negativa, ya que puede suponer un riesgo para las empresas. Esto es debido a que su uso no siempre se hace con fines bien intencionados o que incluso se expongan datos confidenciales o sensibles que puedan afectar tanto a individuos como a empresas, al no tener ningún control sobre el tratamiento que se hace de esta información. Es por eso por lo que, en algunos sectores, como por ejemplo el de la educación, es cada vez más común que se limite su uso o bloquee el acceso a este tipo de herramientas en sus infraestructuras impidiendo que los usuarios hagan un uso inadecuado o no deseado de las mismas. Por otro lado, no debemos de olvidar tampoco el aumento de ciberataques con tecnología impulsada por IA, siendo estos cada más sofisticados y complejos de detectar.
+En definitiva, el uso indebido de la Inteligencia Artificial es una preocupación cada vez mayor para los expertos de ciberseguridad, y no es de extrañar que las compañías estén cada vez más preocupadas ante esta situación. Sin embargo, muchas de ellas todavía no están preparadas para afrontar esta amenaza. De hecho, un estudio de McKinsey ya avisa de que, mientras el 53% de las organizaciones reconoce que la ciberseguridad es un riesgo genérico relacionado con la IA, olo el 38% está trabajando para mitigarlo.
+En este sentido, es importante que las compañías y expertos de ciberseguridad se adapten a esta tendencia y estén preparados para incorporar la IA a su día a día, pero de una forma segura y controlada. 
+A la vez que se detecta un empleo cada vez mayor de la IA para perpetrar ataques de malware y ocasionar brechas de datos, en paralelo, también se crean nuevas soluciones y refuerzan las herramientas existentes incorporando nuevas capacidades basadas en IA a sus modelos de protección con el objetivo de adaptarse a este nuevo contexto y mejorar la estrategia de seguridad de las empresas. 
+Es por eso que resulta clave que los expertos de ciberseguridad estén al tanto de la situación actual en materia de amenazas para que, de esta manera, los equipos puedan adoptar las soluciones adecuadas. Aunque no es necesario hacer cambios drásticos para reorganizar la estrategia de seguridad de una compañía en su totalidad, lo cierto es que, es un asunto importante a tener en cuenta y que requiere de una revisión periódica de las soluciones de seguridad instaladas con el objetivo de valorar la efectividad de la protección. De esta manera, podremos asegurar que estas ofrecen el grado de seguridad adecuada y que blindan los sistemas ante ciberataques cada vez más frecuentes, sofisticados y evasivos. 
+Para lograr que las redes y sistemas se encuentren bien protegidos y libres de amenazas externas que puedan comprometer la seguridad de información sensible, contar con herramientas que incluyan tecnologías basadas en IA y machine Learning (ML) que revolucionen las capacidades de detección y clasificación de procesos y aplicaciones potencialmente dañinas es esencial. Por ello, soluciones que incluyan este tipo de tecnologías y que incorporen en sus modelos enfoques Zero Trust resultan grandes aliados para lograr este fin. En WatchGuard, llevamos años trabajando en esta dirección y haciendo uso de este tipo de tecnologías a nuestro favor para mejorar nuestro modelo de protección y reforzar la seguridad de nuestros clientes. La IA juega un papel fundamental a la hora de elevar nuestras capacidades de detección, ayudándonos en la lucha contra la ciberdelincuencia, pero también ponemos en manos de nuestros partners y clientes la decisión de cómo quieren que sea utilizada en sus entornos, promoviendo un uso responsable y controlado de la misma. Por ejemplo, la funcionalidad Web Access Control integrada en nuestras soluciones de Endpoint Security, y WebBlocker y Application Control en Firebox, ayuda a las compañías a controlar y restringir el uso y acceso ante posibles usos nocivos de la IA y demás agentes potencialmente peligrosos mientras se garantiza que tanto dentro como fuera de la red corporativa se interactúe con estas herramientas de manera segura.
+En definitiva, a pesar de que la IA generativa puede traer muchos beneficios a las compañías en materia de optimización de costes y tiempo de trabajo, si esta es usada de manera indebida, puede causar graves problemas. Por ello, es importante que las compañías cuenten con el refuerzo necesario para restringir el empleo perjudicial de este tipo de tecnologías eficazmente. 
+Si quieres saber más sobre cómo elevar la ciberseguridad de una compañía, puedes consultar los siguientes artículos de nuestro blog: 
+ 
+ 
+Inscríbase a las últimas noticias, actualizaciones y alertas de WatchGuard.
+El Black Friday trae grandes oportunidades, pero también riesgos de ciberseguridad. ¿Está su comercio preparado?
+Reducir las vulnerabilidades es clave para toda empresa, pero ¿Qué herramienta se adapta mejor a mis necesidades?
+¿Busca destacar en ciberseguridad? Descubra cómo la IA y un partner de confianza pueden impulsar su negocio MSP.
+WatchGuard ha implementando casi un millón de dispositivos de gestión de amenazas multifunción integrados a nivel mundial. Nuestras características cajas rojas están diseñadas para ser los dispositivos de seguridad más inteligentes, rápidos e implacables del sector, con cada motor de análisis funcionando a toda velocidad.
+Copyright © 1996-2024 WatchGuard Technologies, Inc. Todos los derechos reservados. Terms of Use >

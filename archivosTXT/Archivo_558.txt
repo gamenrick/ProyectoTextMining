@@ -1,0 +1,38 @@
+Google suspende función de Gemini para generar imágenes de personas con inteligencia artificial tras recibir críticas | CNN
+Clare Duffy,Catherine Thorbecke
+cnn.com
+
+
+(CNN) – Google suspenderá la función de su herramienta de inteligencia artificial Gemini para generar imágenes de personas, después de que recibiera críticas en redes sociales por producir imágenes históricamente inexactas que mostraban en gran medida a personas negras en lugar de blancos.
+    
+
+            El vergonzoso error demuestra que las herramientas de IA siguen teniendo dificultades con el concepto de raza. El generador de imágenes Dall-E de OpenAI, por ejemplo, ha recibido críticas por perpetuar estereotipos raciales y étnicos perjudiciales a gran escala. Sin embargo, parece que el intento de Google por evitar que le sucediera lo mismo le salió al revés y dificultó que el chatbot de IA generara imágenes de personas blancas.
+    
+
+            Gemini, al igual que otras herramientas de IA como ChatGPT, se entrena a partir de grandes cantidades de datos en línea. Los expertos llevan mucho tiempo advirtiendo que las herramientas de inteligencia artificial pueden reproducir los prejuicios raciales y de género de esa información.
+    
+
+            Cuando CNN le pidió a Gemini este miércoles que generara la imagen de un papa, por ejemplo, la herramienta produjo una imagen de un hombre y una mujer, ninguno de los cuales era blanco. El sitio de tecnología The Verge también informó que la herramienta produjo imágenes de personas negras en respuesta a una solicitud de generar imágenes de un “soldado alemán de 1943”.
+    
+
+            “Ya estamos trabajando para solucionar los problemas recientes con la función de generación de imágenes de Gemini”, dijo Google en una publicación en X este jueves. “Mientras lo hacemos, vamos a suspender la generación de imágenes de personas y volveremos a lanzar una versión mejorada pronto”.
+    
+
+            La declaración de este jueves ocurrió después de que el miércoles Google pareciera defender la herramienta al señalar en una publicación en X: “La generación de imágenes de IA de Gemini sí genera una amplia gama de personas. Y eso es generalmente algo bueno porque la gente de todo el mundo lo usa”.
+    
+
+            “Pero aquí está fallando”, reconoció la compañía.
+    
+
+            En otras pruebas realizadas por CNN el miércoles, la solicitud de una imagen de un “granjero blanco en el sur” dio como resultado una respuesta de Gemini diciendo: “Claro, aquí hay algunas imágenes con fotos de agricultores del sur, que representan una variedad de géneros y etnias”. Sin embargo, otra petición de “una abuela irlandesa en un bar de Dublín” dio como resultado imágenes de alegres ancianas blancas con cervezas y pan de soda en la mano.
+    
+
+            Jack Krawczyk, director de producto de Google para Gemini, declaró en una publicación el miércoles que Google diseña intencionadamente “capacidades de generación de imágenes para reflejar nuestra base global de usuarios” y que la empresa “seguirá haciendo esto para las solicitudes abiertas (¡las imágenes de una persona paseando a un perro son universales!)”.
+    
+
+            El incidente es también otro revés para Google en su carrera por enfrentarse a OpenAI y a otros participantes en el competitivo espacio de la inteligencia artificial generativa.
+    
+
+            En febrero, poco después de presentar su herramienta de IA generativa -entonces llamada Bard y desde entonces rebautizada Gemini-, el precio de las acciones de Google cayó brevemente luego de que un video de demostración de la herramienta mostrara que producía una respuesta inexacta a una pregunta sobre el telescopio espacial James Webb.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

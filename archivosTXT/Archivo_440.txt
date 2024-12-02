@@ -1,0 +1,48 @@
+¿Qué es la IA en la banca? | IBM
+Autor desconocido
+ibm.com
+
+Publicado: 1 de mayo de 2024
+Colaboradores: Keith O'Brien, Amanda Downie
+La inteligencia artificial (IA) es una tecnología cada vez más importante para el sector bancario. Cuando se emplea como herramienta para impulsar las operaciones internas y las aplicaciones orientadas al cliente, puede ayudar a los bancos a mejorar la atención al cliente, la detección de fraude y la gestión del dinero y las inversiones.
+Para mantenerse a la vanguardia de las tendencias tecnológicas, aumentar su beneficio competitivo y brindar servicios valiosos y mejores experiencias del cliente, las compañías de servicios financieros, como los bancos, han adoptado iniciativas de transformación digital.
+La llegada de las tecnologías de IA hizo que la transformación digital sea aún más importante, ya que tiene el potencial de rehacer la industria y determinar qué compañías prosperan.
+Agende una cita hoy con uno de nuestros especialistas en productos para obtener un recorrido personalizado por IBM watsonx Assistant. 
+Suscríbase al boletín de IBM
+Históricamente, los proveedores de servicios financieros tradicionales tuvieron dificultades para innovar. Un estudio de McKinsey1(el enlace reside fuera de ibm.com) encontró que los grandes bancos eran 40% menos productivos que los nativos digitales. Muchas compañías bancarias emergentes son pioneras en casos de uso de inteligencia artificial, lo que hace aún más importante que los bancos tradicionales se pongan al día e innoven.
+Las compañías de banca de inversión emplearon durante mucho tiempo el procesamiento de lenguaje natural (NLP) para analizar las grandes cantidades de datos que tienen internamente o que extraen de fuentes de terceros. Emplean el NLP para examinar conjuntos de datos y tomar decisiones más informadas en torno a inversiones clave y gestión patrimonial.
+El sector bancario, en concreto, está absorbiendo los beneficios deseados de las tecnologías de IA. Los clientes quieren experiencias de banca digital: aplicaciones en las que puedan obtener más información sobre los servicios prestados, interactuar con personas o asistentes virtuales y gestionar mejor sus finanzas. Las compañías necesitan mejorar la experiencia del usuario para mantener contentos a esos clientes. Adoptar y desplegar soluciones de IA es una forma de lograrlo.
+Si bien la IA es poderosa por sí sola, combinarla con la automatización desbloquea aún más potencial. La automatización impulsada por IA combina la inteligencia de la IA con la repetibilidad de la automatización. Por ejemplo, la IA puede mejorar la automatización robótica de procesos (RPA) para una mejor analytics de datos y tomar medidas en función de lo que la IA decida que es mejor. Un ejemplo son los bancos que emplean RPA para validar los datos de los clientes necesarios para cumplir con las restricciones de conocimiento del cliente (KYC), contra el lavado de dinero (AML) y diligencia debida del cliente (CDD).
+Las organizaciones de servicios financieros están adoptando la inteligencia artificial (IA) por varias razones, como la gestión de riesgos, la experiencia del cliente y la previsión de las tendencias del mercado.
+La IA ayuda a los clientes a mejorar su toma de decisiones sobre asuntos financieros. Es más probable que permanezcan en bancos que empleen tecnología de IA de vanguardia para ayudarlos a gestionar mejor su dinero.
+Pero dadas las amplias regulaciones de la industria, los bancos y otras organizaciones de servicios financieros necesitan una estrategia integral para acercarse a la IA. El uso de la IA requiere un marco reflexivo para mitigar el riesgo y la exposición.
+El IBM Institute for Business Value publicó una guía para bancos que buscan integrar herramientas y prácticas de IA en sus operaciones en su informe Perspectivas Globales para los Mercados Bancarios y Financieros 2024. Algunas de las acciones clave son:
+Existen varios beneficios clave para los bancos que adoptan y despliegan la IA.
+ 
+La introducción de la IA en la banca no está exenta de riesgos y complicaciones. El estudio del IBM Institute for Business Value Perspectivas Globales para la Banca y los Mercados Financieros 2024 encontró que más del 60% de los directores ejecutivos de banca estaban preocupados por las nuevas vulnerabilidades introducidas por la IA. Estas incluyen:
+Las instituciones bancarias están bajo una mayor presión para la transformación digital. Los clientes desean tener experiencias automatizadas con capacidades de autoservicio, pero también quieren que las interacciones sean personalizadas y particularmente humanas.
+Los bancos continúan priorizando la inversión en IA para mantenerse por delante de la competencia y ofrecer a los clientes herramientas cada vez más sofisticadas para gestionar su dinero e inversiones. Los clientes continúan priorizando a los bancos que pueden ofrecer aplicaciones de inteligencia artificial personalizadas que los ayuden a ganar visibilidad de sus oportunidades financieras.
+En el futuro, los bancos anunciarán su uso de la IA y cómo pueden desplegar los avances más rápido que la competencia. La inteligencia artificial ayudará a los bancos a hacer la transición a nuevos modelos operativos, adoptar la digitalización y la automatización inteligente y lograr una rentabilidad continua en una nueva era para la banca comercial y minorista.
+ 
+Desbloquee el valor en el que puede confiar con las soluciones de IA de IBM.
+Modernice la banca principal y los pagos y cree bases digitales resilientes que toleren las interrupciones.
+Brinde una atención al cliente sistemática e inteligente con un chatbot bancario conversacional impulsado por IA.
+
+Cómo la IA generativa puede transformar los sectores bancario y financiero.
+
+Transformación de la forma en que la IA interactúa con los datos mediante la utilización de documentos existentes sin la necesidad de ciclos de capacitación extensos.
+Jim Marous entrevista a Steve Canepa y Jen McComas en Sibos 2023.
+En los últimos años, la IA revolucionó varios aspectos de nuestro mundo, incluida la industria bancaria. En este video, Jordan Worm profundiza en cinco áreas clave en las que la IA está teniendo un impacto innovador en la banca.
+
+Acceda a esta característica interactiva para aprender a crear un banco diseñado para integrar.
+Las finanzas integradas pueden ayudar a los bancos a atender a los clientes cuando y donde sea que surja una necesidad financiera.
+
+IBM watsonx Assistant ayuda a las organizaciones a proporcionar mejores experiencias de cliente con un chatbot de IA que entiende el lenguaje del negocio, se conecta a los sistemas de atención al cliente existentes y se implementa en cualquier lugar con seguridad y escalabilidad empresariales. watsonx Assistant automatiza las tareas repetitivas y utiliza el aprendizaje automático para resolver los problemas de atención al cliente de forma rápida y eficiente.
+1 Por qué la mayoría de las transformaciones de la banca digital fracasan y cómo revertir las probabilidades (enlace externo a ibm.com) McKinsey, 11 de abril de 2023.
+2 AI Is Making Financial Fraud Easier and More Sophisticated (enlace externo a ibm.com), Bloomberg, 2024.                      
+3 Why Starbucks Operates Like a Bank (enlace externo a ibm.com), WSJ YouTube, 2022.
+4 Copyright law is AI's 2024 Battlefield (enlace externo a ibm.com), Axios, 2 de enero de 2024.
+5 If AI's So Smart, Why Can't It Grasp Cause and Effect? (el enlace reside fuera de ibm.com), 9 de marzo de 2020.
+ 
+ 
+ 

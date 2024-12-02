@@ -1,0 +1,38 @@
+¿Cómo están las empresas abordando la revolución de la IA?
+ecanorea
+plainconcepts.com
+
+Este miércoles tuvo lugar la cuarta edición del Singularity Tech Day, el evento del año sobre innovación, negocio, novedades y casos de uso en el campo de la inteligencia artificial.
+Más de 200 representantes del sector empresarial se dieron cita en este encuentro para aprender más sobre la IA como herramienta para generar valor, de la mano de firmas de primer nivel como Microsoft, Google, Intel, Vodafone, Nestlé o Prosegur.
+El evento estuvo centrado en los avances en multimodalidad, ética de protección de datos, lenguaje natural, plugins o personalización de los modelos de inteligencia artificial como impulsores de una nueva ola de innovación que está cambiando y seguirá revolucionando la forma de hacer negocios en todo tipo de industrias.
+
+Quique Martínez, CEO de Plain Concepts, fue el encargado de dar la bienvenida al evento y presentó el nuevo framework de adopción de la IA generativa, el cual proporcionará un entorno controlado en el uso de esta inteligencia artificial y evitará la fuga de información durante la interacción de las empresas con servicios de OpenAI como ChatGPT.
+Es una herramienta pionera que ya ha sido probada en distintos sectores y que está teniendo una grandísima acogida gracias a su alta fiabilidad a la hora de proporcionar datos.
+
+“Los directivos deben estar informados sobre el estado del arte de la IA generativa y adoptar una mentalidad proactiva para integrar la tecnología en sus negocios”, afirma Quique Martínez. “Estamos ante una revolución tecnológica que, utilizada con una visión estratégica, puede generar oportunidades de optimización, reducción de costes, nuevas oportunidades de negocio y una mejor toma de decisiones”, añadió.
+El segundo en subir al escenario fue Pau García-Milà, CEO de Founderz, el cual explicó de forma “express”, algo característico en sus vídeos, cómo crear un prototipo de empresa utilizando herramientas de IA para generar un plan de negocio, una web, contenidos de redes sociales para un año entero o presentaciones para inversores.
+“La IA no nos ayuda a resolver todos los problemas, sino a ir más rápido en la toma de decisiones. El éxito es fracasar rápido y barato”, señaló Pau.
+El resto del encuentro tuvo como protagonistas a nombres tan reconocidos como David Carmona (General Manager, Artificial Intelligence & Innovation en Microsoft), Enrique Mora (Transversal Emerging Tech Lead en Nestlé), Diego Mallada (IT Digital Tech Director en Gestamp), Nera González (Innovation & Product Development Manager en Prosegur), Javier Martínez (Head of Customer Engineers en Google Cloud Iberia), Hind Azegrouz (EMEA AI Inferencia Lead en Intel), Raúl Alelú (Cofundador y CSO en Healthy Minds Analytics), Esther Sánchez (Innovation & Digital Factory Director en Vodafone Business), David Hurtado (Innovation Lead en Microsoft) y Pedro Serrahima (Director of Customer Experience and Quality en Telefónica).
+
+Cada uno fue exponiendo los conceptos que están marcando el rumbo de la IA y los motivos por los que va a quedarse. Por ejemplo, los foundation models, los cuales han marcado el inicio de un nuevo paradigma para esta tecnología. Mientras que tradicionalmente era necesario entrenar un modelo específico para solventar cada problema, la actual arquitectura escalable de la IA es capaz de crear modelos masivos y genéricos pre-entrenados que se pueden aplicar en múltiples tareas y que, por tanto, facilitan la personalización de soluciones para cada empresa. El usuario puede acceder a ellas a través de un lenguaje natural que implica una democratización de la tecnología.
+
+La multimodalidad es otro concepto que, según los ponentes, marcará un punto de inflexión. Consiste en proporcionar datos a un modelo como GPT en cualquier formato, por ejemplo, una imagen, que el sistema es capaz de comprender semánticamente y hacer hipótesis en función de las preguntas del usuario.
+También se hizo hincapié en el Edge IA, consistente en la aplicación de inteligencia artificial a los dispositivos de red, desde impresoras hasta cámaras y sensores. Supone una fusión entre el mundo físico y el digital que permite detectar patrones, reaccionar de forma rápida y local y ahorrar costes, sin la necesidad de tener acceso al cloud.
+Por otro lado, los plugins conectan la IA con cualquier aplicación del sistema, desde una app para la reserva de citas hasta un programa de reproducción de música o un software de ofimática. El modelo es capaz de activar y gestionar sus funcionalidades, mejorando la productividad y ahorrando tiempo a la hora de elaborar cualquier tarea.
+No hay nada que escenifique mejor un concepto que un ejemplo real, por ello, las sesiones del Singularity Tech Day estuvieron marcadas por casos de uso que ya son una realidad en las dinámicas de trabajo de las empresas invitadas.
+En el ámbito de la seguridad, Prosegur expuso sus avances en la monitorización de las imágenes de las cámaras de seguridad, cuyo objetivo es detectar y resumir los comportamientos anómalos.
+
+En alimentación, Nestlé cómo el Machine Learning Hub se ha convertido en la solución perfecta para escalar, de forma organizada, y racionalizar esfuerzos a escala global.
+Si hablamos de automoción, Gestamp contó el desarrollo de un software interno que hace posible la Smart Factory y la fabricación flexible, lo que les permite tomar mejores decisiones en tiempo real.
+
+En el sector sanitario, Healthy Minds Analytics explicó el entrenamiento de algoritmos que evalúan riesgos psicosociales para detectar y prevenir de forma temprana problemas de salud mental en las empresas.
+Por su parte, Vodafone expuso las conclusiones de un informe en el que analiza más de 50 casos de uso reales de la IA. Estos modelos presentan ya beneficios palpables en la detección temprana de enfermedades, el cuidado de mayores, la gestión de la red eléctrica o la hiperpersonalización.
+Tras el éxito de esta cuarta edición, ya tenemos la vista puesta en el próximo año que, seguro, va a ser mucho más grande y estará lleno de novedades y avances que aún no han llegado al mercado. ¡Os esperamos en el Singularity 2024!
+Hasta entonces, estad muy atentos porque publicaremos las charlas de esta edición muy pronto para que puedas volver a verlas.
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Repasamos las tendencias tecnológicas más importantes y que van a marcar el rumbo de 2025: IA agéntica, plataformas de gobernanza, seguridad cuántica...
+
+
+
+
+

@@ -1,0 +1,62 @@
+Qué es ChatGPT, el revolucionario sistema de inteligencia artificial que preocupa a algunos expertos - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+El pasado 30 de noviembre, cuando el mundo entraba en el espíritu de fin de año y tenía los ojos centrados en la Copa del Mundo en Qatar, debutó un programa que pronto se consideró un paso adelante en el avance de la inteligencia artificial: ChatGPT.
+Este nuevo sistema puede generar contenidos escritos de forma altamente coherente y muy parecidos a los creados por los humanos. 
+A pesar de los errores y carencias que aún existen, la capacidad ya demostrada por el programa, y ​​su potencial para mejorar a largo plazo, despierta no solo admiración, sino también temores.
+Basta con mirar la cantidad de reseñas que asocian ChatGPT con la palabra "amenaza". Muchos sienten que el programa parece demasiado convincente al imitar el habla de un ser humano y prevén la aparición de problemas. 
+Son interrogantes sobre la posibilidad de una fuerte ruptura en áreas como la creatividad, el aprendizaje y la educación, el trabajo, la seguridad digital y la democracia misma, como se afirma en un artículo reciente de The New York Times.
+Según los autores, lo que antes era una persona expresando su opinión ahora puede ser solo un robot que genera un argumento artificialmente.
+Fuente de la imagen, Getty Images
+ChatGPT es, básicamente, un robot virtual (chatbot) que responde una variedad de preguntas, realiza tareas por escrito, conversa con fluidez e incluso da consejos sobre problemas personales (aunque se advierte que no tiene este objetivo).
+Sus posibilidades de generar contenido son inmensas.
+Puede, por ejemplo, enseñarte a preparar un stroganoff —y con un giro diferente en la receta, si lo especificas—, darte consejos para conseguir un trabajo, escribir poesía, trabajos académicos y también redactar una carta de reconciliación para un amigo del que te has distanciado. 
+ChatGPT responde en cuestión de segundos a una petición aleatoria sobre cómo "escribir un poema sobre inteligencia artificial al estilo de Carlos Drummond de Andrade"; la calidad del resultado, dependiendo de quien lo critique, puede ser discutible.
+Según las pruebas de SEO.ai, ChatGPT está disponible en casi 100 idiomas, pero el rendimiento del modelo varía según el idioma (funciona mejor en inglés).
+El sistema fue desarrollado por OpenAI, empresa fundada en 2015 en EE.UU. por Sam Altman (hoy su principal figura) y por el omnipresente Elon Musk (quien la abandonó en 2018 por considerar que había un conflicto de intereses con su principal empresa, Tesla).
+Fuente de la imagen, Getty Images
+Cinco días después de su lanzamiento, ChatGPT llegó a más de 1 millón de usuarios (quienes, irónicamente, tienen que ser humanos; tienes que demostrar que no eres un robot al iniciar sesión). Estas interacciones se están utilizando para entrenar y desarrollar el modelo.
+OpenAI dice que el uso será gratuito y abierto a todos durante esta etapa de "prueba e investigación", lo que lleva a los expertos a especular sobre los futuros tipos de monetización de la herramienta.
+La compañía también advierte que, en ese período, el software "puede generar ocasionalmente información incorrecta o engañosa" y que su historial de datos se limita a 2021.
+A pesar de ser señalado como una posible amenaza a la hegemonía de Google como facilitador de información en internet, el sistema aún comete errores graves, como decir que Brasil ha ganado al menos cinco premios Oscar (de hecho, el país nunca ha ganado una estatuilla).
+Fuente de la imagen, Steve Jennings
+Los potentes programas de inteligencia artificial basados ​​en texto funcionan almacenando cantidades gigantescas de datos (con énfasis en palabras y conversaciones en este caso) y con algoritmos para predecir la mejor formulación de una oración.
+Estos se denominan modelos de lenguaje grande (LLM, por sus siglas en inglés).
+El profesor de la Unifesp Álvaro Machado Dias, neurocientífico, explica que durante la capacitación del software, al chatbot se le hacen preguntas como "¿qué es un cilindro?" y los técnicos elaboran sus propias respuestas.
+"Si la respuesta del chatbot no es válida, las correctas se insertan en el sistema para enseñarle. Esto se pasa a otras situaciones automáticamente".
+A pesar de ya utilizar una modalidad que logra entender el contexto del uso de las palabras, permitiendo concatenar mejor los textos, los programas anteriores no respondían tan bien al usuario o aún sonaban muy artificiales.
+ChatGPT aprendió a hablar de una manera más cercana a un humano.
+Machado Dias dice que lo que diferencia a este programa es el uso de una técnica que entiende cómo funciona el lenguaje: el refuerzo del aprendizaje a través de la retroalimentación humana (RLHF).
+Los ingenieros aplican métodos de "recompensa" y "castigo" para enseñar al sistema las formas de interacción más deseables. Es un proceso de ajuste fino.
+Fuente de la imagen, Getty Images
+"En la práctica, los ingenieros ordenan las respuestas dadas por el algoritmo según su relevancia y animan al programa a aprender las preferencias enumeradas en el ordenamiento para aumentar la relevancia de las producciones textuales. El resultado se da en forma de textos que parecen más profundos y más significativos que los de las alternativas", dice el profesor de la Unifesp.
+ChatGPT también ha sido capacitado para admitir errores, desafiar suposiciones incorrectas y rechazar solicitudes inapropiadas.
+Pero un profesor de la Universidad de California logró que el sistema escribiera un código de programación para decir que solo los hombres blancos o asiáticos son buenos científicos.
+OpenAI afirma que, aunque se ha esforzado en este sentido, el programa "a veces responderá a instrucciones problemáticas o exhibirá un comportamiento sesgado".
+Según la empresa, los datos recopilados en esta etapa de prueba servirán para mejorar el sistema.
+La amenaza de cambios o alteraciones ya se cierne sobre el trabajo y el empleo. Los campos que dependen del texto, como el periodismo, podrían modificarse mucho y las vacantes podrían desaparecer para siempre.
+La competencia de ChatGPT en la generación de códigos también está planteando preguntas en un sector relativamente nuevo: la programación.
+Pero una de las áreas que se ha ido dando cuenta de los posibles problemas de ChatGPT es precisamente una de las más afectadas por la llegada de las nuevas tecnologías: la educación.
+Fuente de la imagen, Getty Images
+La tentación entre los estudiantes de usar el programa para encontrar respuestas listas para sus tareas llevó a Nueva York a tomar una decisión rápida: solo un mes después de su debut, el sistema fue prohibido en las escuelas y dispositivos públicos de la ciudad estadounidense.
+OpenAI ha estado trabajando en una especie de marca para identificar que el contenido se originó en ChatGPT. Ya existen algoritmos que calculan con bastante precisión la probabilidad de que un chatbot haya realizado un texto.
+Además de "copiar y pegar", existe el miedo a los impactos estructurales en el aprendizaje humano. Por ejemplo, ¿se verá afectado el ejercicio cognitivo de escribir un ensayo con principio, medio y final, concatenando ideas de manera coherente?
+"Me preocupa mucho la algoritmización del pensamiento, que es la alteración de nuestra comprensión y relación con el mundo debido a la interacción con la IA", dice Machado Dias, de la Unifesp.
+"Creo que este será el cambio de mentalidad más grande en toda la historia moderna. Vale la pena señalar que el cerebro humano se ha ido reduciendo de tamaño lentamente, como resultado del desarrollo tecnológico, durante más de mil años, desde el punto de vista técnico-cultural, pero también más limitado desde un punto de vista neurocognitivo".
+Martha Gabriel, autora del libro "Inteligencia Artificial: del cero al metaverso" y docente de la Pontificia Universidad Católica de Rio Grande do Sul, afirma que será necesario adaptarse a los nuevos tiempos. 
+"Lo que marca la diferencia en este contexto ya no son las respuestas, sino las preguntas. Hay que saber preguntar. Para saber preguntar hay que saber pensar críticamente", dice.
+Para Yuri Lima, investigador del Laboratorio del Futuro de la Universidad Federal de Río de Janeiro, "la propia enseñanza necesita adaptarse para estimular un aprendizaje que reconozca a los estudiantes como cyborgs cada vez más integrados con las nuevas tecnologías".
+Fuente de la imagen, Getty Images
+"Esto exige que los docentes también sepan utilizar estas mismas tecnologías e integrarlas en sus actividades. Desde el momento en que los proyectos, actividades y tareas se vuelven más complejos e integrados al universo actual en el que viven los estudiantes, la motivación deja de verse afectada por esta cuestión tecnológica".
+Otro tema gira en torno al futuro de la creatividad humana y la producción de contenidos que no estén basados ​​en inteligencia artificial.
+Diez días después de la llegada del sistema OpenAI, un diseñador de San Francisco (EE.UU.) logró crear en tan solo un fin de semana un libro infantil con texto e ilustraciones realizado con ChatGPT y MidJourney, un programa que produce imágenes proporcionando descripciones.
+"Un punto importante aún por tratar es el tema del plagio. Dado que el entrenamiento de modelos como ChatGPT se basa en textos disponibles en internet como noticias, libros y blogs, sus respuestas pueden traer ideas publicadas por ciertas personas sin que reciban crédito por ello", dice Lima.
+"En áreas creativas, este reconocimiento a los autores se considera importante. Además, el desconocimiento de las fuentes dificulta reconocer sesgos o incluso mentiras, como en las noticias falsas".
+Machado Dias señala que "la creatividad surge de combinaciones que son a la vez inusuales y relevantes. Como los algoritmos son dispositivos para generar combinaciones, se espera que el impulso creativo se reduzca".
+"Por otro lado, a medida que los algoritmos realizan sus tareas, tienden a generar patrones que ni siquiera imaginamos posibles, expandiendo nuestra comprensión combinatoria, es decir, nuestra creatividad".
+Martha Gabriel va en una línea similar: "La tecnología puede ser una herramienta increíble para ampliar nuestro pensamiento, ya que podemos probar en poco tiempo innumerables hipótesis, formatos, soluciones para refinar nuestras hipótesis y mejorar nuestras preguntas".
+"Sin embargo, esto también puede ser una amenaza muy grande para quienes usan estos sistemas a ciegas, sin críticas ni cuestionamientos a la moral y la ética. Esto no es solo un riesgo individual, sino para toda la humanidad".
+Recuerda que puedes recibir notificaciones de BBC News Mundo. Descarga la última versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

@@ -1,0 +1,80 @@
+Inteligencia artificial: de la ciencia ficción a la realidad - Educ.ar
+educ.ar devteam
+educ.ar
+
+Hace apenas unas décadas, las promesas de la inteligencia artificial (IA) parecían circunscriptas a las especulaciones de la ciencia ficción. Hoy, nos encontramos en un mundo donde la rápida evolución de la IA está generando grandes cambios en muchos aspectos de nuestras vidas. ¿Qué es la IA? ¿Cómo funciona? ¿De qué manera puede ayudarnos?
+El concepto de inteligencia artificial ha fascinado a la humanidad durante siglos. En la antigüedad, los mitos y leyendas a menudo presentaban objetos inanimados que cobraban vida o autómatas con inteligencia propia. La idea de crear máquinas inteligentes también está presente en la ciencia ficción y la literatura fantástica que imaginaron robots, androides, replicantes y otros seres artificiales con capacidades sorprendentes.
+Desde el siglo XIX hasta nuestros días, autores como Mary Shelley, Isaac Asimov, Arthur C. Clarke o Philip K. Dick plasmaron en sus obras las posibilidades y los riesgos de la inteligencia artificial, así como las cuestiones éticas y filosóficas que plantea. El cine y las series también exploraron estos temas, desde clásicos como 2001: Una odisea del espacio, Blade Runner y Terminator, pasando por Matrix, Her y Ex Machina, hasta producciones seriales más recientes como Black Mirror y Westworld.
+
+Imagen collage a partir de las películas Terminator, Matrix y Ex Machina.
+Desde el punto de vista de la computación, la inteligencia artificial (IA) se compone de sistemas informáticos capaces de realizar tareas que normalmente requieren la inteligencia humana. Estas tareas pueden incluir el procesamiento de lenguaje natural, el reconocimiento de imágenes y sonidos, el aprendizaje automático y la resolución de problemas complejos.
+En otras palabras, la IA replica procesos cognitivos humanos mediante algoritmos y modelos matemáticos para que las máquinas puedan analizar datos, reconocer patrones, hacer predicciones, aprender y tomar decisiones autónomas, lo que a menudo se logra a través de modelos de redes neuronales artificiales y de aprendizaje profundo. 
+Las redes neuronales artificiales son estructuras computacionales inspiradas en el funcionamiento del cerebro humano, que procesan enormes volúmenes de información mediante capas de nodos o neuronas interconectadas.
+Según su grado de complejidad y autonomía, se pueden distinguir diferentes tipos de IA, desde la IA débil o específica, que solo puede hacer una tarea concreta y sigue unas reglas predefinidas, hasta la IA fuerte o general -que en el futuro- podría igualar o superar a la inteligencia humana en cualquier ámbito.
+La historia de la inteligencia artificial es un viaje fascinante que abarca desde los primeros experimentos hasta los algoritmos más recientes.
+Un científico clave en el desarrollo de la IA fue Alan Turing, considerado a menudo como el padre de la informática moderna. 
+En 1950, Turing, que era matemático, filósofo y criptógrafo, propuso una prueba para medir si una máquina podía pensar como un humano. El test consistía en un juego de imitación, en el que un interrogador debía averiguar quién era una máquina y quién era una persona solo mediante preguntas escritas. Si el interrogador no podía distinguir a la máquina de la persona, se consideraba que la máquina había pasado el test. Las contribuciones de Turing a la ciencia de la computación sentaron las bases para la investigación moderna en IA.
+En 1956, se celebró la Conferencia de Dartmouth, donde se acuñó el término "inteligencia artificial" y se establecieron los objetivos y los métodos de esta disciplina. Desde entonces, la IA ha avanzado mucho gracias al desarrollo de la computación, la programación y el aprendizaje automático (machine learning), que es la capacidad de los sistemas de aprender por sí mismos a partir de entrenamientos con datos masivos y experiencias.
+En 1997, Deep Blue, la supercomputadora de IBM, derrotó al campeón mundial de ajedrez:  el ruso Garry Kasparov. Deep Blue utilizó una combinación de altísima capacidad de cómputo y algoritmos de búsqueda para evaluar millones de posiciones por segundo. Aunque algunos argumentan que no fue una verdadera IA, la victoria de Deep Blue marcó un hito importante en la relación entre humanos y máquinas.
+En 2016, AlphaGo, una inteligencia artificial desarrollada por DeepMind de Google, venció al surcoreano Lee Sedol, uno de los mejores jugadores de go en el mundo. El go es un juego milenario de origen chino. A diferencia del ajedrez, el go tiene un espacio de búsqueda mucho más amplio, lo que hace que la victoria de AlphaGo sea aún más impresionante. 
+AlphaGo utilizó redes neuronales y técnicas de aprendizaje profundo para evaluar posiciones y tomar decisiones estratégicas. Su capacidad para aprender de sus propios errores y mejorar la estrategia con cada partida demostró la versatilidad de esta inteligencia artificial.
+
+En la imagen GIF se ve al surcoreano Lee Sedol jugando al go con AlphaGo. 
+La evolución de la IA, desde Turing, pasando por Deep Blue hasta AlphaGo, nos muestra que cuando se trata de lógica y potencia de cálculo, las inteligencias artificiales pueden superar a los humanos. Pero cuando se trata de sentido común, emociones y ambigüedades, las IA fallan. Si de algo estamos seguros es que la relación entre humanos y máquinas continuará evolucionando en formas sorprendentes.
+A partir del perfeccionamiento de los llamados grandes modelos de lenguaje, como el GPT2 y GPT3 hasta llegar al famoso ChatGPT de la empresa tecnológica OpenAI, la inteligencia artificial dio un salto enorme con el desarrollo de una interfaz muy accesible y fácil de usar. ¿Cómo funciona? Lo hace como un chat de conversación, es decir, tiene una interfaz amigable, que solo requiere una pregunta o una indicación de la persona usuaria en un cuadro simple de chat y la inteligencia artificial ofrece una respuesta inmediata, en cuestión de segundos. Esto significa que sin conocimientos de programación y en lenguaje natural, se pueden tener conversaciones de chat con la IA.
+Luego del éxito rotundo del ChatGPT en 2022, que fue probado y utilizado por más de 1 millón de personas en los primeros 5 días, varias empresas tecnológicas se unieron a la carrera vertiginosa de lanzar sus propios modelos de inteligencia artificial. El 2023 es, sin duda, el año de la inteligencia artificial.
+El ChatGPT y similares como Copilot, Gemini, Claude, entre muchos otros grandes modelos de lenguaje, se conocen también como inteligencias artificiales generativas, que son sistemas basados en redes neuronales artificiales, que pueden producir imágenes, textos, voces, música y videos a partir de una instrucción y/o pregunta específica denominada prompt. 
+Por ejemplo, hay inteligencias generativas que pueden convertir una indicación de texto en una imagen, como el sistema DALL-E de OpenAI, que puede dibujar desde un avestruz con zapatillas hasta un cubo con forma de manzana o generar imágenes como fotografías realistas o con estilos de grandes pintores de la historia del arte y todo tipo de posibilidades.
+También hay inteligencias generativas que pueden escribir un ensayo sobre un tema dado, que pueden redactar desde una crítica literaria hasta una carta de amor o un guion cinematográfico. Estos sistemas, como el ChatGPT y similares, son capaces de generar contenidos coherentes, originales y a veces sorprendentes. Aclaración: “generar” no implica crear por parte de la máquina. La imaginación, el sentido común y la creatividad son humanos; el resultado que arroja la IA siempre depende del tipo de prompt, indicación y/o preguntas específicas y detalladas que hacemos las personas.
+La IA está presente en nuestra vida cotidiana más de lo que pensamos. Cada vez que usamos un buscador, una red social, una aplicación de traducción o un asistente virtual, estamos interactuando con sistemas inteligentes que procesan nuestros datos y nos ofrecen respuestas personalizadas. La IA también se aplica en campos como la medicina, la educación, la seguridad y el transporte, con fines tan diversos como diagnosticar enfermedades, enseñar idiomas, detectar fraudes y conducir vehículos autónomos. 
+
+La imagen GIF muestra la escritura de un prompt en el chat conversacional de Chat GPT y las respuestas que el modelo genera.
+La inteligencia artificial no es lo mismo que un algoritmo. Un algoritmo es una serie de instrucciones o reglas que se siguen para resolver un problema o realizar una tarea. La IA usa algoritmos para funcionar, pero también los genera y los modifica según los datos que recibe y los objetivos que persigue.
+Los datos son el combustible de la IA, ya que le permiten aprender y mejorar su rendimiento. Pero los datos también pueden ser su debilidad, si son escasos, erróneos o sesgados.
+Los sesgos son distorsiones o prejuicios que afectan a la calidad de los resultados de la IA. Pueden provenir de los datos usados para entrenar a los sistemas, de los algoritmos diseñados por programadores y de las personas usuarias finales que interactúan con ellos. Los sesgos pueden generar discriminación, exclusión e injusticias hacia ciertos grupos sociales por motivos de género, raza, edad u otros factores.
+Por ejemplo, hay casos documentados de sistemas de reconocimiento facial que fallan más con personas de piel oscura y con mujeres que con personas de piel clara y con hombres. Esto se debe a que los sistemas se han entrenado con datos poco representativos de la diversidad humana. Por eso es importante garantizar una IA ética y responsable, que respete los derechos humanos y los valores democráticos.
+La IA se entrena utilizando grandes cantidades de datos. Estos datos pueden provenir de diversas fuentes, incluyendo todo lo que hay en internet. La información que está en internet sirve para alimentar a las inteligencias artificiales. Los algoritmos de IA trabajan tomando datos de entrenamiento que ayudan al algoritmo a aprender. Cómo se adquieren esos datos y cómo se etiquetan marca la diferencia clave entre diferentes tipos de algoritmos de IA.
+La IA puede hacer muchas cosas exponencialmente más rápido que las personas. Puede realizar tareas relacionadas con el cómputo de enormes volúmenes de datos a velocidades que resultan inalcanzables por el cerebro. Sin embargo, hay cosas que la IA no puede hacer, como tomar decisiones morales, inventar algo por su voluntad, aprender a través de la experiencia, crear, conceptualizar y planificar estratégicamente, interactuar con sentimientos como empatía y compasión y realizar trabajos físicos complejos que requieren destreza o coordinación precisa de manos y ojos.
+Un fenómeno interesante en la IA es lo que se conoce como “alucinaciones”. Las alucinaciones en IA se refieren a la generación de respuestas que pueden sonar verosímiles pero son incorrectas o no están relacionadas con el contexto dado. Estas respuestas a menudo surgen debido a los sesgos inherentes del modelo de IA, la falta de comprensión del mundo real y las limitaciones de los datos de entrenamiento.
+La IA también plantea otros desafíos y riesgos, como la generación de información falsa o engañosa, la falta de transparencia de los sistemas, la pérdida de privacidad y control sobre los datos personales y el impacto en el mundo del trabajo y la educación.
+Por ejemplo, hay inteligencias generativas capaces de producir imágenes y videos falsos de personas reales, como el sistema DeepFake, que puede poner el rostro de una persona en el cuerpo de otra. Estas manipulaciones pueden tener consecuencias negativas para la reputación, la seguridad y la intimidad de las personas afectadas. También socavan la credibilidad y la confianza en la información que recibimos. Por eso es necesario regular el uso y el desarrollo de la IA, para asegurar que sea beneficioso para la sociedad y no perjudicial.
+En este sentido, es importante fomentar la soberanía digital, que es la capacidad de los países y las personas de decidir sobre su propio destino tecnológico, sin depender de las grandes potencias y corporaciones que dominan el mercado de la IA. En América Latina, y en particular en Argentina, hay proyectos que buscan impulsar una IA inclusiva, participativa, solidaria, que responda a las necesidades y los intereses de la región y que contribuya al desarrollo sostenible. 
+
+Imagen de múltiples pantallas generada con inteligencia artificial.
+La IA es una realidad que nos ofrece grandes oportunidades y, al mismo tiempo, plantea retos complejos. Como docentes tenemos la responsabilidad de educar y sensibilizar a los y las estudiantes sobre qué es la IA, cómo funciona, qué beneficios y qué riesgos tiene, y cómo podemos usarla de forma ética y crítica. Para ello, podemos apelar a recursos didácticos como juegos, simulaciones, experimentos y ejemplos cotidianos que ilustren las aplicaciones de la IA. 
+Podemos hablar de cómo la IA nos ayuda a filtrar el correo basura, a traducir textos, a recomendar productos o a detectar enfermedades. Estos ejemplos nos sirven para mostrar las ventajas y los desafíos de la IA, así como para fomentar el pensamiento crítico y la reflexión ética sobre su uso.
+Planteamos el posible uso de las IA en clase según sus fortalezas, debilidades y ejemplos:
+Fortalezas
+Debilidades
+Ejemplos de uso
+La clave está en encontrar un equilibrio entre los beneficios y los riesgos de la inteligencia artificial para aprovechar al máximo su potencial en el ámbito educativo. La IA ha recorrido un largo camino desde su concepción hasta nuestros días. De cara al futuro, es importante recordar nuestras responsabilidades éticas y garantizar que las tecnologías se utilicen para el crecimiento de todas y todos.
+ 
+Publicado: 30 de octubre de 2023
+Última modificación: 16 de octubre de 2024
+Audiencia
+General
+Área / disciplina
+Educación Digital
+Comunicación
+Cultura y Sociedad
+Nivel
+Primario
+Tercer Ciclo
+Secundario
+Ciclo Básico
+Ciclo Orientado
+Superior
+Categoría
+Artículos
+Modalidad
+Todas
+Formato
+Texto
+Etiquetas
+inteligencia artificial (IA)
+cultura digital
+alfabetización digital
+Autor/es
+Carina Maguregui
+Licencia
+Creative Commons: Atribución – No Comercial – Compartir Igual (by-nc-sa)

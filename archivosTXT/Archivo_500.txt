@@ -1,0 +1,43 @@
+Una de las grandes desventajas de ChatGPT es que no tenía “memoria”. Eso acaba de cambiar
+Autor desconocido
+xataka.com
+
+Javier Pastor
+Solemos destacar que entre los defectos de los chatbots actuales está el hecho de que cometen errores, inventan cosas e incluso alucinan, pero hay una limitación de la que no se habla tanto. ChatGPT y sus competidores apenas tienen memoria, pero precisamente eso es lo que acaba de solucionar OpenAI.
+Límites. Cuando usamos ChatGPT, el chatbot es capaz de seguir la conversación hasta cierto punto, pero tiene límites y en cierto momento y tras diversas preguntas el servicio puede instar al usuario a abrir una nueva conversación. Es por ejemplo lo que hace Copilot para evitar entre otras cosas las técnicas de jailbreaking.
+No me acuerdo de ti. Y aunque podemos proseguir una conversación de las que se guardan en el historial, no hay conexión entre las conversaciones, y ChatGPT no se acuerda de lo que no tiene delante. Eso dificulta por ejemplo trabajar en un proyecto largo con este chatbot como asistente porque o acabará "echándonos" de la conversación —aunque podamos continuarla más tarde— o tendremos que empezar una nueva y no recordará nada de la anterior.
+ChatGPT Plus ya tiene memoria. Pero OpenAI acaba de anunciar que la versión de pago de su chatbot, ChatGPT Plus, permitirá activar una característica llamada "Memoria" que precisamente hará que el servicio recuerde cosas que hemos comentado o nos ha respondido en otros chats que hemos mantenido con la máquina.
+Disponibilidad. La nueva característica no está de momento disponible ni en la Unión Europea ni en Corea del Sur, pero no se ha explicado por qué. Es probable que al menos para la UE la DMA tenga algo que ver en esa decisión. Lo que sí sabemos es que la opción acabará también estando disponible para clientes de los servicios Team y Enterprise de ChatGPT Plus, y también para los GPTs de su tienda.
+Una opción esperada. La empresa de Sam Altman lleva meses trabajando en esta característica que permite iniciar nuevos chats teniendo en cuenta lo que ya hemos hablado en conversaciones pasadas. También es posible hacer que ChatGPT recuerde u olvide ciertos detalles —"borra lo que te dije de que tengo una hija de dos años llamada Lina"— para evitar posibles problemas. En cuentas de empresa o se utilizarán esos datos para entrenar los modelos, por ejemplo.
+Chats "de incógnito". También hay una especie de "chats incógnito" llamados chats temporales en los que el servicio no recuerda nada. No aparecerán en el historial y (teóricamente) no se usan para entrenar los modelos de OpenAI.
+ChatGPT te conocerá (un poco) más. Según OpenAI, la característica de la memoria permitirá que ChatGPT aprenda más sobre las preferencias y el estilo que cada usuario prefiere para interactuar con él, lo que permitirá aumentar su eficiencia en todo tipo de tareas.
+Imágenes | Levart_Photographer
+En Xataka | ChatGPT incumple el RGPD pero no parece que importe. Esta demanda puede conseguir que Europa actúe
+Los mejores comentarios:
+Ver 5 comentarios
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

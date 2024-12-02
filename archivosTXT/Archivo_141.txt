@@ -1,0 +1,46 @@
+Meta AI: qué es y qué ofrece el chatbot de inteligencia artificial de Meta
+Autor desconocido
+xataka.com
+
+Yúbal Fernández
+Vamos a explicarte qué es Meta AI, un nuevo sistema de inteligencia artificial presentado por Meta el 27 de septiembre, y con la que busca convertirse en una gran competidora de ChatGPT, Bing Chat o Bard. Se trata de un chatbox que busca tener cualidades para diferenciarse de la competencia.
+Vamos a empezar explicándote brevemente lo que es Meta AI exactamente, y sus diferencias con LLaMA, el lenguaje basado en inteligencia artificial de Meta. Luego, pasaremos a describirte cuáles son las funciones que va a ofrecer para diferenciarse de la competencia.
+Meta AI es un asistente basado en inteligencia artificial creado por Meta, la empresa que agrupa tanto a Facebook como a WhatsApp o Instagram. Este modelo de IA está basado en LLaMA 2, el modelo genérico creado por Meta y que también puedes descargar en tu ordenador.
+Aquí, para que te hagas una idea, LLaMA es el modelo de lenguaje de inteligencia artificial, mientras que Meta AI va a ser el chatbot basado en este modelo. Por poner ejemplos, LLaMA 2 es lo mismo que GPT-4, mientras que Meta AI sería lo mismo que ChatGPT.
+Por lo tanto, Meta AI es un chatbot de inteligencia artificial. Vas a poder escribirle mensajes hablando con él como si fuera una persona, y este chatbot te responderá dándote la respuesta a las preguntas que le hagas. Podrás hacerle consultas y pedirle muchas otras cosas.Meta asegura que su IA ofrecerá información actualizada cuando le hagas consultas.
+Lo más interesante es que Meta AI se va a integrar en las aplicaciones de Instagram, Messenger y WhatsApp, pudiendo interactuar con esta inteligencia artificial sin tener que descargar una aplicación independiente. Vamos, que viene a hacer lo mismo que hacía LuzIA para permitirte usar ChatGPT en WhatsApp.
+De momento, Meta AI ha entrado en fase beta en Estados Unidos, y podrá empezar a usarse por algunos desarrolladores y quizá también usuarios. De momento no hay una fecha para su llegada a España u a otros países de la Unión Europea.
+Aquí, ten en cuenta que en Europa se cuida más la privacidad y muchos lanzamientos son aplazados para cumplir con la legislación, como ha sido el caso de servicios como Threads y Microsoft Copilot. En Xataka te iremos informando sobre los avances de esta IA y las fechas de lanzamiento cuando las sepamos.
+Meta AI se encuentra todavía en un estado muy temprano de su desarrollo, por lo que todavía no tenemos la lista completa de sus funcionalidades. Pero sabemos algunas pinceladas, como que tendrá distintas personalidades entre las que elegir, y dependiendo de tus gustos podrás elegir entre 28 alternativas, que alteran la manera en la que te responde.
+Otra de sus diferencias, como te hemos dicho, es que no tendrá una aplicación dedicada. No tendrás que bajarte una app de Meta AI como tienes que bajar la de ChatGPT. En su lugar, se va a integrar a WhatsApp, Messenger, Instagram, Ray-Ban Meta y Meta Quest 3, y en estas plataformas podrás iniciar un chat con la IA como si se tratase de un usuario más.
+Además de esto, también podrás invocar a la IA dentro de un grupo escribiendo @MetaAI para empezar a hablar con ella. Y así, todos van a poder interactuar con el chatbot para conversar o pedirle información actualizada.
+Además de esto, Meta AI también podrá generar imágenes cuando se lo pidas, igual que Midjourney, Stable Diffusion, DALL-E y otras alternativas. Además de esto, también podrás realizar búsquedas en Internet pidiéndole información, y las respuestas estarán actualizadas.
+En Xataka Basics | 29 funciones y cosas que puedes hacer con Bard para exprimir al máximo la inteligencia artificial de Google
+Los mejores comentarios:
+Ver 2 comentarios
+En Xataka hablamos de...
+Ver más temas
+
+Webedia
+
+ Tecnología 
+ Videojuegos 
+ Entretenimiento 
+ Gastronomía 
+ Estilo de vida 
+
+             Ediciones Internacionales
+           
+Destacamos
+
+Ver más temas
+
+
+Suscribir
+Más sitios que te gustarán
+Reciente
+Ver más artículos
+ Xataka
+     TV
+
+Ver más vídeos

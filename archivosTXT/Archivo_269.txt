@@ -1,0 +1,58 @@
+IA generativa: qué es, beneficios y ejemplos
+Autor desconocido
+repsol.com
+
+Global
+Conoce nuestro Plan Estratégico 2024-2027
+
+
+
+Consulta lo que hace Repsol en el mundo
+
+¿Conoces todas las iniciativas STEM?
+
+Conoce todos los productos y servicios que tenemos para ti y para tu empresa
+
+Accede a nuestra Comunidad de Accionistas
+
+Entra en Repsol News
+
+Programa Talent Energy. Realiza tus prácticas con nosotros.
+
+IA Generativa: ¿Qué es y cuáles son sus beneficios?
+El futuro de las ideas: la creatividad artificial
+¿Qué es la IA generativa?
+La IA se perfila ya como el futuro más próximo de la tecnología, desde sus aplicaciones más mundanas a las grandes posibilidades que ha abierto en campos tan variados como la ciberseguridad, la salud, la agricultura o los procesos industriales.
+Las posibilidades y aplicaciones de la IA generativa son tantas como las áreas del conocimiento humano. También en los grandes retos que tenemos por delante como sociedad, como la reducción de emisiones y la transición energética. Repsol, que avanza en su transformación digital con paso firme, ya las utiliza en su Centro de Competencia.
+Los sistemas de inteligencia artificial son capaces de crear textos, códigos, imágenes o audio a partir del aprendizaje de grandes modelos de datos. La llamada IA generativa, que Repsol ya aplica para lograr su objetivo de alcanzar las cero emisiones netas en 2050.
+Para entender el potencial de la IA generativa hay que conocer cómo trabaja de la mano del big data y el deep learning. Partiendo de grandes volúmenes de datos, las inteligencias artificiales son capaces de aprender de forma automatizada patrones y estructuras y crear modelos similares. Se trata de un campo de conocimiento en continuo desarrollo, pero a día de hoy la IA generativa ya ofrece numerosas aplicaciones muy prometedoras, que van desde el entretenimiento, la información y las artes, hasta los campos de la programación informática, las matemáticas o la investigación científica.
+Aplicaciones de la IA generativa
+Las aplicaciones de la IA generativa evolucionan con rapidez y cada vez se extiende a más áreas de conocimiento:
+Contexto laboral
+Permiten aumentar la productividad de los trabajadores y hacer su día a día más eficiente, facilitando que se dediquen a cuestiones estratégicas en las que pueden aportar más valor y liberándolos de trabajos más mecánicos o repetitivos.
+Creación artística
+Son capaces de reproducir el lenguaje humano y emplear grandes volúmenes de datos para aprender a crear todo tipo de diseños, lo que podrá emplearse para obtener ideas creativas que complementen las de los creadores humanos.
+Empresas e instituciones
+Al basarse en el aprendizaje de grandes cantidades de información, genera predicciones basadas en modelos estadísticos. Su uso en marketing, inversiones o diseño de productos, garantiza que las decisiones se toman en base a datos y el análisis de información.
+Trabaja en Repsol
+Únete a nuestro equipo y descubre un empleo en el que formarte y desarrollarte como profesional.
+Beneficios de la IA generativa
+Algunas de las aplicaciones de la IA generativa, como ChatGPT, han despertado un interés masivo y estimulado la imaginación. Ofrecen la oportunidad de transformar ampliamente las experiencias y aplicaciones de los clientes, incluso generando innovaciones nunca vistas. A continuación, exploraremos algunos de los beneficios clave la Inteligencia Artificial Generativa. 
+Agiliza los procesos en la investigación
+Los algoritmos de IA generativa analizan datos complejos, descubren tendencias ocultas, resumen contenido, proponen soluciones, generan ideas y crean documentación detallada, mejorando significativamente la investigación y la innovación.
+Nuevas experiencias con los clientes
+La IA generativa mejora el servicio al cliente y personaliza flujos de trabajo, permitiendo a chatbots, bots de voz y asistentes virtuales responder con precisión y naturalidad desde el primer contacto con los clientes.
+Aumenta la productividad 
+Los modelos de IA generativa mejoran flujos de trabajo empleados, abarcando tareas creativas y administrativas. Ahorran tiempo, reducen costos y aumentan la eficiencia en toda la organización, desempeñando funciones similares a las humanas.
+Ejemplos de la Inteligencia Artificial Generativa 
+Nuestros proyectos de IA generativa
+Consciente de las grandes posibilidades que se abren para las compañías, Repsol ha puesto en marcha el primer Centro de Competencia de IA generativa del sector energético en Europa, desde donde explorar de manera segura y responsable las oportunidades que la inteligencia artificial generativa ofrece a sus negocios y a sus empleados a la hora de cumplir su objetivo de cero emisiones netas en 2050.
+El equipo de personas que forma este centro es multidisciplinar, dada la naturaleza del proyecto: data scientists y data engineers, así como expertos de diferentes campos como ciberseguridad, auditoría, profesionales del área de personas y organización o especialistas legales, entre otros perfiles. Todos explorarán cómo puede utilizarse la IA generativa para acelerar la transformación digital de la compañía e identificar e implementar los usos que permitan generar valor en sus áreas de negocio. El trabajo del Centro de Competencia permitirá también, gracias a estas aplicaciones, hacer más fácil el trabajo del día a día de los empleados de Repsol y aumentar la eficiencia de la compañía en el desarrollo de soluciones tecnológicas. Los objetivos principales de este Centro de Competencia son:
+Ahora inmersos en la 2º ola del programa digital (2023-2025), se nos presenta un gran reto, ser capaces de desarrollar y productivizar de manera segura y responsable soluciones basadas en IA generativa que aceleren el Programa de Digitalización de Repsol.
+Te puede interesar
+Profesiones del Futuro
+Te explicamos cuáles son los trabajos del futuro que serán más demandados. Ingenierías, analistas... Conócelos todos.
+Data Driven
+Descúbrelo todo sobre esta forma de tomar decisiones basada en el análisis y la interpretación de los datos.
+Machine Learning
+Qué es, cuántos tipos hay o qué usos tiene en la actualidad. Conócelo todo acerca del Machine Learning.

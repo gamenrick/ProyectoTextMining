@@ -1,0 +1,41 @@
+Guía para que las empresas puedan escalar la IA generativa - Plain Concepts
+ecanorea
+plainconcepts.com
+
+La gran expansión de la inteligencia artificial con la llegada de la IA generativa está obligando a los líderes de esta materia a revisar sus plataformas de datos. Las empresas que sepan ver esta situación a tiempo serán las que puedan posicionarse de forma competitiva en un futuro impulsado por los datos.  
+Recopilamos los pasos y los errores comunes para sortear los retos que los nuevos avances plantearán a los negocios y las claves para implantar una estructura de IA escalable.  
+A pesar de su corta vida, la IA generativa ya ha dado la oportunidad a los expertos en datos e inteligencia artificial de trabajar en muchos casos, lo que ha dejado ver el incalculable valor de esta tecnología y la aparición de retos para escalarla.  
+La correcta gestión de los datos sigue siendo una de las principales barreras para crear valor en proyectos de GenAI. De hecho, según una encuesta de McKinsey, el 70% de los que respondieron han experimentado dificultades para integrar datos en modelos de IA, los cuales abarcan desde problemas con la calidad de los datos, la definición de procesos para la gobernanza de datos y la disponibilidad de datos de entrenamiento suficientes.  
+Son muchas las empresas que aún no comprenden plenamente el proceso de cómo desarrollar las capacidades de datos para respaldar los casos de IA generativa a escala y de cómo usarla para mejorar las prácticas de datos.  
+El camino hacia una IA escalable y eficaz se sustenta en 3 pilares principales: 
+Como decíamos más arriba, la primera barrera y más importante que se encuentran las empresas a la hora de poner en marcha un proyecta de IA son conseguir unos datos de calidad y que sean suficientes.  
+Introducir datos deficientes en modelos de GenAI supone unos grandes riesgos, que van desde malos resultados, soluciones costosas, brechas cibernéticas y pérdida de confianza de los usuarios. Por tanto, la inexactitud de los resultados es el mayor riesgo que se puede encontrar una empresa en el uso de esta tecnología.   
+Los métodos tradicionales para garantizar la calidad de los datos no son suficientes, y se deben considerar nuevas formas de mejorar y ampliar los datos de origen.  
+Es muy común encontrar dificultades a la hora de gestionar los conjuntos de datos no estructurados cada vez mayores. Combinarlos con datos estructurados aumenta la posibilidad de errores, pues es más complicado codificarlos para que los procesos de datos se puedan replicar fácilmente.  
+La buena noticia es que las herramientas han evolucionado para gestionar la relación entre distintos tipos y fuentes de datos. Pero, aun cuando los ingenieros de datos comprenden la relación entre los conjuntos de datos, necesitan asignar diferentes métodos para interpretar esos datos en función de distintos atributos, como el formato de estos. Esto supone un gran reto a medida que las empresas integran formatos en unos sistemas que se vuelven cada vez más complejos.  
+Por suerte para las empresas, los modelos multimodales son ahora lo suficientemente sofisticados como para analizar tipos de documentos más complejos que presentan formatos de datos dispares, como la extracción de datos tabulares de documentos no estructurados.  
+Sin embargo, los problemas de precisión requieren de una revisión constante, lo que supone mucho tiempo si se hace de forma manual. Por ello, hay que implementar métodos de evaluación automatizados, mecanismos para administrar el control de versiones y la coherencia de modelo.  
+Algunos casos de uso de la IA más avanzada son difíciles de implementar porque los datos necesarios son difíciles de obtener y procesar, lo que suele ser un problema en los sectores que tiene normas muy estrictas de seguridad de datos.  
+Para superar este desafío, los ingenieros de datos tienen la posibilidad de poder generar manualmente un archivo para probar la eficiencia de un caso de uso. Aunque el proceso puede llevar mucho tiempo y ser ineficiente.  
+Por ello, líderes en datos e IA invierten en herramientas de IA para generar datos sintéticos como datos de prueba o para producir nuevos valores basados en las descripciones de las columnas y el contexto de la tabla, lo que les permite crear nuevos datos o hacer revisiones de uno existente.  
+El punto de partida para la IA generativa es sentar las bases para la confianza en su diseño, su función y cómo se utilizan los resultados. Por ello, para conseguir una IA confiable, se debe comenzar por la gobernanza de los datos y en consideraciones específicas en torno a la seguridad.  
+Las políticas de uso y gobernanza específicas de GenAI ayudan a gestionar los riesgos potenciales de las capacidades de la tecnología integradas en la planificación de recursos empresariales, la gestión de relaciones con los clientes y otras aplicaciones empresariales. 
+Para agregar una mayor seguridad, hay que mirar más allá de los sistemas en sí. Hay que evaluar la arquitectura de red, las políticas de seguridad, la gobernanza de datos y el marco de cumplimiento a la luz de los nuevos riesgos.  
+Además, una buena opción es considerar la gestión de riesgos de terceros y el monitoreo continuo de cómo las prácticas de gobernanza y riesgo interactúan con las de la empresa. Así se podrán cerrar brechas y conseguir un entorno mucho más seguro.  
+La mejor solución de IA es la que puede escalarse. Por ello, es importante crear patrones que se puedan aplicar en los procesos empresariales. A diferencia de la IA tradicional, la IA generativa no requiere de un nuevo modelo para cada tarea, lo que facilita que se pueda implementar el mismo modelo de GenAI en muchas áreas rápidamente.  
+Para lograr un mayor retorno de la inversión, lo mejor es concentrarse en los procesos centrales de cada negocio.  
+Los primeros PoC deben estar alineados con la estrategia de cada empresa, poniendo foco en los procesos de negocio centrales, la preparación organizacional y la repetibilidad.  
+Cuando estos primeros casos de uso estén en funcionamiento, los profesionales de datos e IA podrán estudiar los que están teniendo resultados positivos y reseñables, y así crear un modelo de trabajo en el que se puedan refinar los resultados de los modelos de GenAI y dar paso a un mecanismo para supervisar y personalizar el funcionamiento interno del modelo.  
+Una de las grandes ventajas de la IA generativa es que su escalabilidad se produce y transforma de una forma mucho más rápida de a lo que estábamos acostumbrados.  
+La clave para lograr un rápido retorno de la inversión y una transformación de gran alcance a través de GenAI es centrarse en la experimentación, la escala y la seguridad.  
+En Plain Concepts te ayudamos a diseñar tu estrategia, proteger tu entorno, elegir las mejores soluciones, cerrar las brechas de tecnología y datos, y a establecer una supervisión rigurosa que consiga una IA responsable. Así podrás lograr un aumento rápido de la productividad y construir las bases para nuevos modelos comerciales basados en la hiperpersonalización o el acceso continuo a los datos e información relevante.  
+Contamos con un equipo de expertos que lleva aplicando exitosamente esta tecnología en numerosos proyectos, asegurando la seguridad de los clientes. Llevamos más de 10 años llevando la IA a nuestros clientes y ahora te proponemos un Framework de adopción de IA generativa:  
+La preparación de tu empresa para adoptar exitosamente la IA generativa es el núcleo de nuestro framework, donde cubriremos 4 grandes pilares: estrategia y gobierno de datos y tu privacidad, seguridad y cumplimiento de las normativas, fiabilidad y sostenibilidad y una IA responsable. Así te ayudaremos a evitar el riesgo de que los proyectos nunca lleguen a producción. 
+¡No esperes más y comienza a escalar tus soluciones de GenAI! 
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Este cambio traerá consigo numerosos beneficios a los clientes de Power BI gracias a las nuevas y mejoradas capacidades que ofrecer Microsoft Fabric. Te contamos todos los detalles sobre esta transición y lo que debes hacer. 
+
+
+
+
+

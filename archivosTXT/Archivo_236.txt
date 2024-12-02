@@ -1,0 +1,70 @@
+Inteligencia artificial generativa - Wikipedia, la enciclopedia libre
+Autor desconocido
+wikipedia.org
+
+La inteligencia artificial generativa o IA generativa es un tipo de sistema de inteligencia artificial (IA) capaz de generar texto, imágenes u otros medios en respuesta a comandos.[1]​[2]​ Los modelos de IA generativa aprenden los patrones y la estructura de sus datos de entrenamiento de entrada y luego generan nuevos datos que tienen características similares.[3]​[4]​
+
+Los sistemas de IA generativa notables incluyen ChatGPT (y su variante Microsoft Copilot), un bot conversacional creado por OpenAI usando sus modelos de lenguaje grande fundacionales GPT-3 y GPT-4;[5]​ y Bard, un bot conversacional creado por Google usando Gemini. Otros modelos generativos de IA incluyen sistemas de arte de inteligencia artificial como Stable Diffusion, Midjourney y DALL-E.[6]​
+
+En su origen, la IA generativa surgió con el propósito de simular los procesos de pensamiento humano. Hoy en día, IA generativa tiene aplicaciones potenciales en una amplia gama de industrias, que incluyen el arte, la escritura, el desarrollo de software, el diseño de productos, la atención médica, las finanzas, los juegos, el marketing y la moda.[7]​[8]​[9]​ La inversión en IA generativa aumentó a principios de la década de 2020, con grandes empresas como Microsoft, Google y Baidu, así como numerosas empresas más pequeñas que desarrollan modelos de IA generativa.[1]​[10]​[11]​
+
+La IA generativa persigue el desarrollo de la alfabetización y las competencias en IA por parte de la ciudadanía[12]​. ​ La UNESCO pretende alcanzar un enfoque centrado en el ser humano, basado en principios de inclusión y equidad, garantizando un «AI for all» en términos de innovación y conocimiento[13]​[14]​.​ En este sentido, uno de los desafíos más importantes es garantizar que la IA sea diseñada y utilizada de manera ética y responsable 
+
+Sin embargo, también existen preocupaciones sobre el posible uso indebido de la IA generativa, como la creación de noticias falsas o deepfakes, que pueden usarse para engañar o manipular a las personas.[15]​[16]​La IA toma información de diferentes fuentes y las une, no se valida la cientificidad de la información tomada. Permite interactuar de forma diferente con un buscador web o con un manual escolar,  hay que tener en cuenta que la IA es una fuente más de información generada en un ecosistema virtual.[17]​En este mismo sentido, en septiembre de 2023, la UNESCO ha emitido una llamada urgente a los gobiernos de todo el mundo para que regulen de manera eficaz la IA generativa en el ámbito educativo.[18]​
+
+Desde su fundación, el campo del aprendizaje automático ha utilizado modelos estadísticos, incluidos modelos generativos, para modelar y predecir datos. A partir de finales de la década de 2000, el surgimiento del aprendizaje profundo impulsó el progreso y la investigación en el procesamiento de imágenes y videos, el análisis de texto, el reconocimiento de voz y otras tareas. Sin embargo, la mayoría de las redes neuronales profundas se entrenaron como modelos discriminativos que realizan tareas de clasificación, como la clasificación de imágenes basada en redes neuronales convolucionales.
+
+En 2014, avances como el autocodificador variacional y la red generativa adversativa produjeron las primeras redes neuronales profundas prácticas capaces de aprender modelos generativos, en lugar de discriminativos, de datos complejos como imágenes. Estos modelos generativos profundos fueron los primeros capaces de generar no solo etiquetas de clase para imágenes, sino también imágenes completas.[20]​
+
+En 2017, la red Transformador permitió avances en los modelos generativos, lo que llevó al primer transformador generativo preentrenado en 2018.[21]​ A esto le siguió en 2019 GPT-2, que demostró la capacidad de generalizar sin supervisión a muchas tareas diferentes como modelo fundacional.[22]​
+
+En 2021, el lanzamiento de DALL-E, un modelo generativo de píxeles basado en transformadores, seguido de Midjourney y Stable Diffusion marcó el surgimiento del arte práctico de inteligencia artificial de alta calidad a partir de indicaciones de lenguaje natural.
+
+En enero de 2023, Futurism.com publicó la historia de que CNET había estado usando una herramienta de IA interna no revelada para escribir al menos 77 de sus historias; después de que se conoció la noticia, CNET publicó correcciones a 41 de las historias.[23]​
+
+En marzo de 2023, se lanzó GPT-4. Un equipo de Microsoft Research argumentó que «podría verse razonablemente como una versión temprana (pero aún incompleta) de un sistema de inteligencia artificial fuerte (IAF)».[24]​
+
+En abril de 2023, el tabloide alemán Die Aktuelle publicó una entrevista falsa generada por IA con el solitario expiloto de carreras Michael Schumacher. La historia incluía dos posibles revelaciones: la portada incluía la línea «engañosamente real», y dentro de la revista reconocía al final de la entrevista que la entrevista fue generada por IA. El editor en jefe fue despedido poco después en medio de la controversia.[25]​
+
+Un sistema generativo de IA se construye aplicando aprendizaje automático no supervisado o autosupervisado  a un conjunto de datos. Las capacidades de un sistema de IA generativa dependen de la modalidad o el tipo de conjunto de datos utilizado.
+
+La IA generativa puede ser unimodal o multimodal; los sistemas unimodales toman solo un tipo de entrada, mientras que los sistemas multimodales pueden tomar más de un tipo de entrada.[26]​ Por ejemplo, una versión de GPT-4 de OpenAI acepta entradas de texto e imágenes.[27]​
+
+En el contexto de la IA un Prompts son instrucciones elaboradas por los usuarios que le brindamos a un sistema para que este genere una respuesta. Estos prompts son una forma de guiar el comportamiento del modelo de la IA para obtener el resultado deseado.[30]​ ​Estas órdenes están destinadas para máquinas, y ellas responden automáticamente a pedidos simples y complejos. Pueden ser elaborados tanto como textos o como audios.[31]​ ​
+
+Al momento de redactar consignas es muy importante que le prestemos atención a los verbos, ya que si queremos que la IA nos devuelva una respuesta útil debemos tener en cuenta la utilización de dichos verbos. Puede pasar estar usando un verbo cuando en realidad debería ir otro, por ello debemos tener en cuenta cuáles están dentro de un mismo conjunto.[30]​ A continuación algunos ejemplos.[32]​
+
+Procesos Cognitivos
+
+representar, traducir
+
+predecir
+
+El desarrollo de la IA generativa ha generado preocupación por parte de gobiernos, empresas e individuos, lo que ha dado lugar a protestas, acciones legales, llamados a suspender los experimentos de IA y acciones por parte de múltiples gobiernos. En una sesión informativa del Consejo de Seguridad de las Naciones Unidas en julio de 2023, el Secretario General António Guterres afirmó que "la IA generativa tiene un enorme potencial para el bien y el mal a escala", que la IA puede "impulsar el desarrollo global" y contribuir entre 10 y 15 billones de dólares al crecimiento global para 2030, pero que su uso malicioso "podría causar niveles horribles de muerte y destrucción, traumas generalizados y daños psicológicos a una escala inimaginable".[33]​
+
+
+Pérdida de empleos
+
+Desde los primeros días del desarrollo de la IA, ha habido argumentos planteados por Joseph Weizenbaum, creador de ELIZA, y otros, sobre si las tareas que pueden realizar las computadoras en realidad deberían ser realizadas por ellas, dada la diferencia entre computadoras y humanos, así como entre los cálculos cuantitativos y los juicios cualitativos basados en valores.[34]​ En abril de 2023, se informó que la IA de generación de imágenes había provocado la pérdida del 70% de los puestos de trabajo de ilustradores de videojuegos en China.[35]​[36]​ En julio de 2023, los avances en la IA generativa contribuyeron a los 2023 conflictos laborales de Hollywood. Fran Drescher, presidenta del Sindicato de Actores de Cine, declaró que "la inteligencia artificial representa una amenaza existencial para las profesiones creativas" durante la huelga SAG-AFTRA de 2023.[37]​ 
+
+
+Deepfakes 
+
+Los deepfakes (un acrónimo de "aprendizaje profundo" y "falso"[38]​) son medios generados por IA que toman a una persona en una imagen o video existente y lo reemplazan con la imagen de otra persona utilizando redes neuronales artificiales.[39]​ Los deepfakes han llamado la atención generalizada y han generado preocupaciones por su uso en videos pornográficos de celebridades, pornografía de venganza, noticias falsas, engaños y fraudes financieros.[40]​[41]​[42]​[43]​ Esto ha provocado respuestas tanto de la industria como del gobierno para detectar y limitar su uso.[44]​[45]​
+
+
+Cibercrimen
+
+La capacidad de la IA generativa para crear contenido falso realista se ha explotado en numerosos tipos de delitos cibernéticos, incluidas las estafas de phishing.[46]​ Se han utilizado vídeos y audio deepfake para crear desinformación y fraude. Shuman Ghosemajumder, exjefe de fraude de Google, predijo que aunque los vídeos deepfake causaron revuelo en los medios de comunicación, pronto se volverán comunes y, como resultado, más peligrosos.[47]​ Los ciberdelincuentes han creado grandes modelos de lenguaje centrados en el fraude, incluidos WormGPT y FraudGPT.[48]​
+
+Investigaciones recientes realizadas en 2023 han revelado que la IA generativa tiene debilidades que pueden ser manipuladas por delincuentes para extraer información dañina sin pasar por salvaguardas éticas. El estudio presenta ejemplos de ataques realizados en ChatGPT, incluidos Jailbreaks y psicología inversa. Además, personas malintencionadas pueden utilizar ChatGPT para ataques de ingeniería social y ataques de phishing, lo que revela la naturaleza dañina de estas tecnologías.[49]​
+
+
+
+Regulación
+
+En la Unión Europea, la propuesta de Ley de Inteligencia Artificial incluye requisitos para divulgar material protegido por derechos de autor utilizado para entrenar sistemas generativos de IA y etiquetar cualquier resultado generado por IA como tal.[50]​
+
+En Estados Unidos, un grupo de empresas, incluidas OpenAI, Alphabet y Meta, firmaron un acuerdo voluntario con la Casa Blanca en julio de 2023 para usar marcas de agua en el contenido generado por IA.[51]​
+
+En China, las Medidas Provisionales para la Gestión de Servicios de IA Generativa introducidas por la Administración del Ciberespacio de China regulan cualquier IA generativa de cara al público. Incluye requisitos para usar marcas de agua en las imágenes o videos generados, regulaciones sobre datos de entrenamiento y calidad de etiquetas, restricciones a la recopilación de datos personales y una directriz de que la IA generativa debe "adherirse a los valores fundamentales socialistas". [52]​[53]​

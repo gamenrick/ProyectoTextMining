@@ -1,0 +1,74 @@
+¿Qué es la IA generativa en ciberseguridad? | Zpedia
+Autor desconocido
+zscaler.com
+
+Proporcione a los usuarios un acceso confiable, seguro y simple a las aplicaciones y los datos.
+Cree y ejecute aplicaciones seguras en la nube, habilite la conectividad Zero Trust en la nube y proteja las cargas de trabajo desde el centro de datos hasta la nube.
+Proporcione una conectividad de confianza cero para los dispositivos OT e IoT, y un acceso remoto seguro a los sistemas OT.
+Ofrezca conectividad Zero Trust de sitio a sitio y acceso confiable a aplicaciones B2B para socios.
+INFORME DE GARTNER
+Zscaler: líder en el Gartner® Magic Quadrant™ para Security Service Edge (SSE) 2024
+CASOS DE USO
+Soluciones para su sector y el mercado
+SOCIOS
+SOCIOS TECNOLÓGICOS
+Centro de recursos
+Eventos y formación
+Investigación y servicios de seguridad
+Herramientas
+Comunidad y soporte
+CXO REvolutionaries
+Amplificando las voces de los pioneros en confianza cero y digital en el mundo real
+Descubra cómo empezó y hacia dónde se dirige
+Conozca a nuestros socios y explore integradores de sistemas y alianzas tecnológicas
+Manténgase al día con las últimas noticias
+Conozca a nuestro equipo directivo
+Integraciones de partner
+Noticias, información bursátil e informes trimestrales
+Conozca nuestro modelo ESG
+Adopte nuestra misión
+Encuentre todo lo que necesita para cubrir Zscaler
+Entérese cómo cumplimos con estándares rigurosos
+Entérese cómo cumplimos con estándares rigurosos
+/ ¿Qué es la IA generativa en ciberseguridad?
+La IA generativa en ciberseguridad es una herramienta poderosa tanto para los defensores como para los atacantes. La IA generativa impulsa grandes modelos de lenguaje (LLM) que pueden ayudar a los equipos de seguridad a mejorar las políticas, la detección de amenazas, la gestión de vulnerabilidades y la postura general de seguridad. Sin embargo, también puede ayudar a los malintencionados a lanzar ataques más rápidos y peligrosos.
+La inteligencia artificial generativa (GenAI) influye en el panorama de la ciberseguridad de muchas maneras importantes. Sin embargo, antes de profundizar en ello, debemos explicar qué es y sus casos de uso. En esencia, la IA generativa es un tipo de tecnología de aprendizaje automático que puede producir contenido escrito en lenguaje natural, imágenes y, en algunos casos, videos, a veces con solo una mínima intervención humana.
+Para la mayoría de los casos de uso de GenAI, un usuario humano debe solicitar al motor de IA que cree el contenido en cuestión, con algunas excepciones para las tecnologías empresariales avanzadas. Por ejemplo, una persona podría escribir “Escribe una historia sobre un ciberataque con GenAI” en un generador de indicaciones de texto, y el LLM producirá rápidamente dicha historia. Lo mismo ocurre con las imágenes. Indíquele a un generador de imágenes de IA que "cree una imagen de un centro de datos futurista", y lo hará.
+GenAI permite una gran cantidad de casos de uso para profesionales de cualquier industria, ayudando a los usuarios cotidianos a abrir nuevos caminos y aumentar la eficiencia en términos de creación de contenido. Dicho esto, a los efectos de este artículo, analizaremos la IA generativa únicamente en relación con la ciberseguridad.
+ 
+La IA generativa se puede utilizar para ayudar en los esfuerzos de ciberseguridad tanto defensivos como ofensivos. Las organizaciones pueden implementar plataformas GenAI en ciberseguridad para:
+ 
+El uso de ChatGPT ha aumentado un 634 % (abril de 2023 - enero de 2024), lo que significa que su influencia se extenderá a más industrias, incluida la ciberseguridad. Dado que el eje de la ciberseguridad se basa en el contenido (es decir, las posibles ciberamenazas y ataques que llegan a través del tráfico web, los correos electrónicos, etc.), los grandes modelos lingüísticos estarán preparados para analizar la información relativa al tráfico y los correos electrónicos para ayudar a las empresas a predecir y prevenir los ciberataques.
+Dicho esto, los equipos de seguridad deberán estar preparados para combatir fuego con fuego. Los actores y grupos de amenazas también se encargarán de utilizar GenAI para ganar ventaja frente a las ciberdefensas de las organizaciones. Según Microsoft, los ciberataques generados por IA están en su “etapa inicial” y “no son particularmente novedosos (ni) únicos”. En un esfuerzo por frustrar a estos actores, OpenAI está cerrando sus cuentas, pero como el número de grupos de amenazas continúa creciendo, estas cuentas serán más difíciles de rastrear y cerrar.
+Es más, es solo cuestión de tiempo antes de que los gobiernos del mundo intervengan y establezcan directrices para el uso de GenAI a nivel organizacional. Por ahora, hay mucho que desconocemos en lo que respecta a GenAI, pero eventualmente, puede ocurrir una filtración o violación de datos que le cueste a una o más empresas millones de dólares, obligando al gobierno a intervenir y regular.
+ 
+Con el enfoque adecuado, GenAI puede ofrecer beneficios significativos a una organización en lo que respecta a la detección y respuesta a ciberamenazas, la automatización de la seguridad y más.
+La IA generativa puede analizar datos que representan un comportamiento “normal” para establecer una línea de base mediante la cual identificar desviaciones que indiquen amenazas potenciales. Además, la IA puede generar simulaciones de malware para comprender su comportamiento e identificar nuevas amenazas.
+La IA generativa puede ingerir grandes cantidades de datos para crear un marco de referencia para futuros eventos de seguridad, lo que permite la inteligencia predictiva sobre amenazas e incluso la gestión de vulnerabilidades.
+GenAI puede predecir vulnerabilidades y recomendar o automatizar parches para aplicaciones basándose en datos históricos pertenecientes a esas aplicaciones. También puede automatizar la respuesta a incidentes, reduciendo la necesidad de intervención humana.
+GenAI puede ayudar a crear modelos que detecten y filtren correos electrónicos de phishing mediante el análisis de patrones y estructuras de lenguaje para identificar correos electrónicos que intentan camuflar el lenguaje. También puede crear modelos para analizar y bloquear URL maliciosas. 
+ 
+GenAI ofrece un potencial sin precedentes para la creación de contenidos y la eficiencia organizacional en general, pero también es importante comprender los obstáculos de la tecnología. 
+Las herramientas GenAI están al alcance de todo el mundo y, aunque las organizaciones bien intencionadas las utilizarán para aumentar la eficacia o mejorar la ciberseguridad, los actores malintencionados las utilizarán igualmente para causar daño. Microsoft y OpenAI ya han descubierto intentos por parte de grupos de amenazas de “organizar ciberoperaciones ofensivas”.
+Las organizaciones que no puedan proporcionar datos de alta calidad para entrenar una plataforma de IA experimentarán una falta de eficacia en cuanto a los resultados que obtengan de su uso de la plataforma. Es más, si una empresa intenta entrenar una plataforma GenAI usando datos creados por GenAI, los datos resultantes serán aún más confusos: una receta para el desastre cuando se trata de ciberseguridad.
+Los modelos de IA generativa requieren grandes cantidades de datos para entrenarse de manera efectiva. Por ello, las empresas con un acceso limitado a los datos (o las que se encuentran en nichos de mercado) pueden tener dificultades para reunir suficientes conjuntos de datos de entrenamiento. Además de eso, la presión que las aplicaciones GenAI imponen sobre los recursos y la cantidad de mantenimiento que requieren crean más obstáculos a superar.
+ 
+La GenAI es nueva para todos, por lo que los líderes deben tener cuidado en cómo enfocan su uso dentro de una organización. Estas son algunas de las mejores maneras de proteger a sus empleados y su empresa cuando se trata de GenAI.
+Explore el Informe sobre seguridad de la IA de Zscaler ThreatLabz 2024 para obtener más orientación sobre el uso seguro de la IA y la protección frente a las amenazas basadas en la IA.
+ 
+Como mencionamos anteriormente, eventualmente comenzaremos a ver regulaciones de cumplimiento que afectarán el uso de GenAI. Dicho esto, la GenAI seguirá innovando sobre sí misma, y los equipos de ciberseguridad se apresurarán para aprovechar estas innovaciones. 
+Estas son algunas de las formas en que se proyecta que la IA ayudará a los equipos de seguridad y cumplimiento a tener éxito:
+ 
+Zscaler Zero Trust Exchange™ le permite crear y aplicar políticas en torno a los sitios de inteligencia artificial generativa que sus usuarios pueden visitar y cómo pueden interactuar (directamente o mediante el aislamiento del navegador) para proteger sus datos confidenciales.
+Con Zscaler, sus usuarios pueden aprovechar de manera segura innovaciones que le permiten:
+Solicite una demostración para descubrir cómo Zscaler puede ayudarle a controlar el uso de IA generativa sin poner en riesgo sus datos confidenciales.
+01
+                /
+                02
+¿Cuál es el futuro del aprendizaje automático en la ciberseguridad?
+¿Reemplazará eventualmente la IA a los especialistas en ciberseguridad?
+¿Existen ejemplos destacados de ataques llevados a cabo utilizando GenAI?
+¿Zscaler incorpora GenAI en sus soluciones de seguridad?
+Más información:
+Zscaler es reconocido universalmente como el líder en Zero Trust. Aprovechando la nube de seguridad más grande del planeta, Zscaler anticipa, protege y simplifica la experiencia comercial para las empresas más establecidas del mundo.
+Todos los derechos reservados. Zscaler™ y otras marcas comerciales listadas en zscaler.com/legal/trademarks son (i) marcas comerciales registradas o marcas de servicio o (ii) marcas comerciales o marcas de servicio de Zscaler, Inc. en los Estados Unidos y/u otros países. Toda otra marca comercial es propiedad de sus respectivos propietarios.

@@ -1,0 +1,53 @@
+Inteligencia Artificial Generativa
+Autor desconocido
+thiga.co
+
+Inteligencia artificial generativa (IA generativa) se refiere a un tipo de inteligencia artificial capaz de crear nuevos contenidos a partir de datos existentes.
+En contraste con los algoritmos tradicionales que se contentan con la clasificación, predicción o resolución de problemas, los modelos generativos producen imágenes, textos, sonidos, etc. Se trata de una rama del aprendizaje profundo (deep learning).
+La IA generativa ha encontrado numerosas aplicaciones en diversos sectores:
+La IA generativa está revolucionando muchos campos, desde la creación artística hasta la investigación científica. Para comprender todo el alcance de esta revolución, es esencial analizar las tecnologías que la hacen posible, en particular las redes generativas adversariales (GAN) y los transformadores.
+GANs: la competencia al servicio de la creación
+Las GANs se basan en un duelo entre dos redes neuronales:
+Por ejemplo, se puede pedir al generador que cree imágenes de gatos. El discriminador tendrá entonces que dar su veredicto: sí o no, ¿la imagen producida representa un gato? Esta competición empuja a las dos redes a mejorar constantemente, hasta que el generador produce datos suficientemente realistas.
+Leyenda: el generador y el discriminador son redes neuronales. El generador envía una muestra de datos aleatorios, el discriminador asocia una puntuación de "pérdida" a estos inputs para hacer converger mejor los atributos de los datos generados (en este caso imágenes) con los atributos de los datos reales.
+Transformadores: dominar el lenguaje
+Los transformadores son un tipo de arquitectura de red neuronal que ha revolucionado el procesamiento del lenguaje natural (Natural Language Processing o NLP). Su principal innovación radica en el mecanismo de atención, que les permite ponderar la importancia de cada palabra de una frase en función de su contexto.
+De este modo, al traducir una frase del inglés al francés, por ejemplo, el mecanismo de atención permite a una red de tipo transformador comprender la relación entre las distintas palabras de la frase, y no traducir cada palabra individualmente, sino tener en cuenta el contexto global del texto que se va a traducir.
+Una de las principales ventajas de la IA generativa es su capacidad para crear contenidos de forma autónoma, lo que puede agilizar enormemente los procesos creativos y reducir los costes de producción. Sin embargo, también presenta retos éticos y técnicos, como la generación de contenidos sesgados o el uso malintencionado de estas tecnologías para crear deepfakes o desinformación.
+En resumen, la inteligencia artificial generativa abre nuevas perspectivas de creatividad e innovación, al tiempo que plantea cuestiones cruciales sobre la gestión y la ética de sus usos.
+
+ 
+                                 Comparte el artículo
+                                
+                            
+ También te gustará   
+
+
+                                                Propuesta Única de Valor (Unique Value Proposition)
+                                                    
+
+
+
+                                                Deep Learning
+                                                    
+
+
+
+                                                Delivery
+                                                    
+
+ La newsletter que no querrás perderte 
+ A Product Letter: la newsletter de producto que te hará pensar  
+El primer miércoles no es un día cualquiera. Es el día en el que sale a la luz un tema de producto desmigajado y reflexionado desde una mirada crítica y humana.
+ Tenemos oficinas en Madrid y París  
+
+                                Recursos
+                            
+
+                                Servicios y Especializaciones
+                            
+
+                                Thiga
+                            
+La newsletter de producto mensual que te hará reflexionar
+© Thiga 2024

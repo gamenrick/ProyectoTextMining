@@ -1,0 +1,102 @@
+
+    Machine Learning: Qué es, funcionamiento y aplicaciones | OpenWebinars
+  
+Autor desconocido
+openwebinars.net
+
+Explora nuestras formaciones tecnológicas más interesantes.
+Aprende las habilidades más apropiadas para tu trabajo.
+Descubre cómo nuestros usuarios alcanzaron el éxito con nosotros.
+¿Cuál es tu sector?
+Elige el tuyo y conoce las  soluciones que te ayudarán a desarrollar a tus profesionales con el menor esfuerzo.
+¿Quieres saber por qué la importancia del Machine Learning sigue en aumento? En este artículo te contamos qué es, cómo funciona y sus muchas aplicaciones.
+Rodolfo Sáenz Escobar
+Experto en Linux
+Lectura 11 minutos
+Publicado el 8 de agosto de 2022 
+Compartir
+Tabla de contenidos
+Hoy en día cada vez estamos más fascinados de como procesos automatizados de sistemas de atención al cliente o chatbots y robots que usan inteligencia artificial, pueden comunicarse con seres humanos y/o hacer tareas rutinarias o peligrosas con precisión, velocidad y fuerza sobre-humanas.
+Sin embargo, tenemos que reconocer que falta mucho camino por recorrer para que podamos confiar la mayoría de las tareas críticas a sistemas de atención al público o robots.
+Especialmente, cuando se trata de interacción con humanos, el proceso para llegar hasta un nivel aceptable de inteligencia, y para que sistemas o robots puedan ser independientes y auto-gestionables no es nada fácil, pero es factible.
+Empecemos primero por definir de una forma clara y directa el concepto de Machine Learning, que no es más que una aplicación de la Inteligencia Artificial (IA o AI) que habilita a las máquinas para aprender y a mejorar por experiencia sin ser explícitamente programadas para ello.
+Machine Learning se centra en desarrollar programas informáticos que puedan consultar datos y usarlos para aprender por ellos mismos.
+La manera en que las máquinas o sistemas aprenden es similar a la manera en que el cerebro humano aprende, es decir, a través de la observación y de la ingesta de información. En el caso de las máquinas ellas aprenden mayormente en base a elementos específicos de la Inteligencia Artificial y su relación entre ellos, entre estos elementos podemos citar los principales:
+· Entidades: Pueden ser datos, texto que describe algo en particular como por ejemplo tiempos, lugares, personas, artículos, números, etc.
+· Knowledge Graphs o Grafos de Conocimiento: También conocidos como Redes Semánticas, representan una red de entidades del mundo real, por ejemplo, eventos, objetos, situaciones o conceptos, e ilustran la relación entre ellos. La información es usualmente guardada en bases de datos especiales llamadas Graph Databases o Bases de Datos de Grafos.
+· Dominios: Los Dominios en Inteligencia Artificial se clasifican en Tareas Formales (Matemáticas, Juegos, Lógica), Tareas Mundanas (Procesamiento del Lenguaje, Razonamiento, Sentido Común, Percepción) y Tareas Expertas (Ingeniería, Medicina, Análisis Científico, Análisis Financiero).
+El proceso de aprendizaje de las máquinas empieza con observaciones y datos derivados de ejemplos y de experiencia directa. Las máquinas buscan patrones en los datos y luego pueden hacer inferencias basadas en los ejemplos provistos. La principal meta del Machine Learning es permitir que los sistemas o robots aprendan sin intervención o asistencia humana y luego ajustar sus acciones de acuerdo a lo que han aprendido.
+
+
+
+
+
+
+
+
+
+
+
+          Aprende a desarrollar algoritmos de Machine Learning
+      
+Conviértete en un profesional de Machine Learning. Domina las habilidades y herramientas necesarias para implementar algoritmos de aprendizaje automático y Deep Learning en Python.
+Comenzar gratis ahora
+
+
+
+El Machine Learning es actualmente usado en más del 67% de las compañías en el mundo. Estas empresas están usando Machine Learning a través de chatbots, sistemas de reconocimiento de patrones, sistemas automatizados o robots industrializados, de combate y, la misma NASA, en exploración espacial. De este 67%, un 41% de estas compañías están centradas en acelerar su desarrollo en nuevas formas, ya sea para ahorrar costos o para incrementar sus ganancias. Es una tendencia clara que indica que el futuro en este campo de la Inteligencia Artificial es brillante, y su desarrollo es clave, no solo para los negocios, sino para el avance de la humanidad.
+El Machine Learning viene a ofrecer una alternativa nueva nunca antes vista por la siguiente razón, la cantidad de información que se analiza a través de las máquinas va más a allá de las capacidades humanas. Un ejemplo de esto son los resultados de información masiva relevante que ofrece Google a través de su algoritmo de búsqueda cuando hacemos una búsqueda y la velocidad con que es presentada a millones de usuarios virtualmente al mismo tiempo, es sencillamente asombrosa y sumamente útil para encontrar información relevante sobre algún tema en especial.
+Otro ejemplo de esto es Netflix, que usa Machine Learning para hacer sugerencias a sus usuarios sobre series, películas o documentales. Y otro más es Watson de IBM, que ya está ayudando a muchos médicos a hacer sus diagnósticos más precisos en situaciones en las que las variables y la cantidad de datos es demasiado grande.
+Básicamente esto se resume en la capacidad característica que tienen las máquinas para poder procesar grandes cantidades de información de diferentes tipos y emitir un resultado aceptable en un tiempo sumamente corto debido a su capacidad de procesamiento unido a esta rama de la Inteligencia Artificial que es Machine Learning.
+Existen 3 modelos que son ampliamente usados hoy en día para hacer que las máquinas aprendan:
+· Supervisado: En este modelo de aprendizaje las máquinas son entrenadas con sets de datos etiquetados, los cuales permiten que las máquinas aprendan y se vuelvan más acertadas con el paso del tiempo. Como ejemplo podríamos citar el entrenamiento de un algoritmo con imágenes de conejos y otras cosas, todas etiquetadas por humanos, y la máquina buscaría maneras de diferenciar los conejos de las otras imágenes bajo supervisión humana. Este modelo de Machine Learning es el más comúnmente usado hoy en día.
+· No Supervisado: En este modelo un algoritmo buscaría patrones en sets de datos que no estén etiquetados. Machine Learning no supervisado puede encontrar patrones o tendencias que no están buscando los humanos. Por ejemplo, una máquina bajo este esquema de aprendizaje podría examinar información sobre compras hechas por internet e identificar diferentes tipos de clientes potenciales para un determinado producto.
+· Reforzado: En este modelo de aprendizaje se aplica un entrenamiento de prueba y error para tomar la mejor acción mediante un sistema de premiación, similar a como se entrena a un animal para que realice una acción deseada. Este tipo de entrenamiento reforzado es usado para hacer jugar a las máquinas a ciertos tipos de juegos o para refinar la manera en que automóviles autónomos se conducen por las autopistas o calles de las ciudades, haciéndoles saber a los algoritmos que hacen el manejo que han tomado las decisiones correctas en determinadas situaciones. Esto hace que conforme estos automóviles se auto-conduzcan por las calles, se vuelvan más expertos con respecto a las acciones que deben tomar en situaciones similares.
+Estos modelos de aprendizaje también están asociados con otros campos de la inteligencia artificial que lo hacen más eficientes:
+· Procesamiento de Lenguaje Natural: Este es el campo en el cual se les enseña a las máquinas a entender el lenguaje natural a como es hablado y escrito por humanos casualmente. Esto permite a las máquinas reconocer el lenguaje natural, entenderlo y responder a este, así como también crear sus propios comentarios en varios idiomas si es necesario. Aquí podemos citar varios ejemplos de asistentes digitales que ya tenemos en nuestros smartphones y dispositivos electrónicos inteligentes como Alexa de Amazon, Siri de Apple, Google Assistant de Google y otros.
+· Redes Neurales: Son algoritmos especiales que son modelados en base al cerebro humano, en el cual millones de nodos están interconectados y organizados en capas. Así la información es procesada para determinar de manera similar si una imagen es una silla o es un animal en particular.
+· Aprendizaje Profundo: Conocido internacionalmente como Deep Learning, son esencialmente redes neurales con muchas capas, dándole al Machine Learning una profundidad mayor de análisis y de resolución de problemas con mayor complejidad. Sin embargo, el Deep Learning requiere una gran cantidad de poder computacional lo cual no lo hace muy práctico por el momento.
+
+· Algoritmos de recomendaciones: Amazon, Disney+, YouTube, Netflix, Facebook y otras compañías de streaming de contenido y redes sociales utilizan algoritmos con Machine Learning masivamente para aprender las preferencias de sus clientes, de esta manera Twitter, por ejemplo, sabe que tweets mostrate de acuerdo a tus preferencias políticas, económicas, tecnológicas y otras; Amazon te manda correo o te sugiere algún producto en base a tus compras pasadas; Facebook te muestra productos o servicios que muy probable estén de acuerdo a tus preferencias que has compartido con tus amistades, los grupos a los que perteneces, o tomando en cuenta el tipo de publicaciones a los que les has dado like.
+· Análisis de imágenes y detección de objetos: Esto ya es una realidad en lugares públicos donde se usan sistemas de alta seguridad para identificar personas con un historial de delitos y hacer posible un arresto mediante reconocimiento facial. También ya se usa mucho en ciudades para el análisis de tráfico que pasa por una determinada vía y sugerir mediante rótulos luminosos o sistemas de GPS que tomen rutas alternas si una vía está congestionada o se ha presentado un accidente de tránsito que impida la movilización normal de automóviles.
+· Detección de fraude: Ya existen algoritmos que analizan los patrones de gastos o compras que un usuario de un banco suele hacer. Ya hay bancos que alertan a sus usuarios mediante correos o mensajes instantáneos acerca de alguna compra inusual de un producto o servicio para confirmar si fueron en realidad ellos o ha sido otra persona que ha robado sus datos de tarjetas de crédito y se esté haciendo pasar ellos haciendo compras ilegales.
+· Sistemas de atención al cliente o Chatbots: Muchísimas compañías están usando chatbots en vez de personas reales para responder a consultas frecuentes de sus clientes para reducir la cantidad de llamadas a sus call centers y mantener más holgados a sus empleados que atienden consultas más específicas o más complejas sobre determinados productos o servicios. Las variedades más avanzadas de estos chatbots ya no solo responden a preguntas programadas, sino que por medio de Machine Learning pueden atender requerimientos más complejos, sin embargo, si la persona no se siente a gusto por la interacción impersonal o en algunos casos (recordemos que es un proceso de aprendizaje) respuestas ilógicas, o que no tienen relación con lo que el cliente necesita entonces, tiene la opción de hablar con un agente de call center que lo atenderá.
+· Automóviles y camiones autónomos: La tecnología detrás de estos vehículos es puro Machine Learning, ya existen compañías que ofrecen de manera estandarizada automóviles autónomos como una ayuda, pero todavía no como un piloto substituto, sin embargo ya hay ciudades en donde ya se está experimentando con este tipo de automóviles y dentro de poco será una realidad.
+· Diagnósticos médicos mediante análisis de imágenes: Ya existen máquinas que ayudan a profesionales de la medicina a confirmar o sugerir diagnósticos donde la información acerca de un paciente en particular no es tan clara o contiene mucha cantidad de imágenes, lo que puede dar lugar a error humano al no notar ciertas evidencias que no sean fáciles de detectar por el ojo humano.
+Es muy importante saber las limitaciones del Machine Learning, sobre todo si en una compañía se está considerando adoptar esta tecnología para incrementar su productividad y eficiencia. Todavía no es una solución perfecta o confiable en muchos aspectos, pues todavía está en claro desarrollo.
+Podemos ver los siguientes factores para tenerlos en cuenta:
+La mayoría de los científicos de datos reconocen que es actualmente difícil entrenar a una máquina. Se necesitan muchísimos sets de datos, la materia prima del Machine Learning, para crear modelos de datos, y este proceso requiere la clasificación y categorización de sets de datos de manera manual. Este trabajo exhaustivo puede crear cuellos de botella y retrasos para muchas iniciativas de Machine Learning.
+Hay muchas compañías que están teniendo problemas con la calidad de los datos esperados debido a problemas de entrenamiento de los algoritmos. Como las maquinas carecen de intuición, algo que nosotros los humanos tenemos, las máquinas tienen que ser entrenadas con datos, y esto disminuye la confianza en modelos nuevos de Machine Learning que están recién saliendo al público.
+Puede parecer algo increíble que las máquinas lleguen a poseer prejuicios como, por ejemplo, racismo, discriminación a un determinado grupo social o, inclusive, discriminación por rangos de edades, pero en realidad no es del todo extraño debido a que los científicos de datos e ingenieros que entrenan a las maquinas pueden estar inconscientemente pasando sus propios prejuicios y fobias a los sistemas informáticos inteligentes sin saberlo.
+Un caso real relacionado con esto, fue el ocurrido en una ciudad de un país desarrollado, cuando un sistema de seguridad que usa Machine Learning para identificar sospechosos de crímenes identificó erradamente a un ciudadano de ese país, dando una sugerencia de su inmediato arresto debido a la alta probabilidad según su análisis de que la persona era el culpable del crimen. Cuando pudieron constatar que la persona no era ni remotamente el sospechoso que buscaban, se dieron cuenta de que el algoritmo estaba actuando en base a prejuicios raciales y era necesario su re-entrenamiento.
+Para este tipo de problemas ya existen entidades que promueven la no-discriminación por parte de la Inteligencia Artificial y el Machine Learning como, por ejemplo, la Algorithmic Justice League y The Moral Machine Project, teniendo en cuenta retroalimentación de personas reales de diferentes grupos sociales, étnicos y de diferentes nacionalidades a la hora de entrenar apropiadamente a los sistemas informáticos inteligentes.
+
+
+
+
+
+
+
+
+
+
+
+          Mejora las habilidades de tus analistas de datos
+      
+En OpenWebinars lograrás que tu equipo se mantenga a la vanguardia en las últimas tecnologías para implementar y crear algoritmos de Machine Learning.
+Solicitar más información
+
+
+
+El Machine Learning ha llegado para quedarse, aunque muchas compañías todavía no tienen claro cómo usarlo para su beneficio, y otras ni lo consideren. Tiene un futuro brillante y va a dar mucho trabajo a profesionales especializados en análisis de datos, entrenamiento de máquinas, diferentes ramas de la informática, psicología, economía, Recursos Humanos y muchas otras profesiones nuevas que van a ser creadas para ir de la mano con esta nueva realidad. Sin embargo, también impactará a otros tipos de profesionales, sobre todo a aquellos que son empleados para hacer tareas repetitivas o peligrosas.
+Ahora bien, ¿deberíamos de estar aterrados por el Machine Learning? ¡Por supuesto que no!
+El Machine Learning es como una amplificación de nuestras mismas capacidades, es un complemento poderoso, no es un “Terminator” de trabajos como ciertas películas de ciencia ficción nos han hecho creer. Eso nos tiene que hacer meditar sobre el tipo de trabajo al que debemos estar dispuestos a hacer, orientándonos más hacia tareas que sean más diversas y creativas.
+Hoy en día ya se está considerando la posibilidad de “amplificar” al cerebro humano con elementos de Machine Learning e Inteligencia Artificial, pero para eso todavía hay mucho camino por recorrer, lo importante es considerar al Machine Learning como un aliado y como parte de nuestra evolución.
+También te puede interesar
+En este curso exploraremos la librería de scikit-learn para ejecutar todo el flujo del entrenamiento y optimización de...
+Si ya has comenzado tu viaje en el mundo de machine learning y ya entiendes los conceptos teóricos...
+Este curso de Machine Learning te permitirá analizar datos usando el lenguaje R y conocer los principios básicos...
+Rellena tus datos y te contactamos
+
+Al registrarse, usted acepta nuestros Términos de Uso y Política de Privacidad, incluyendo el uso de cookies y la transferencia de su información personal a Openwebinars*
+Sí, por favor manténgame al tanto de las novedades, eventos y ofertas

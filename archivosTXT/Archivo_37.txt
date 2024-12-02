@@ -1,0 +1,88 @@
+3 tipos de machine learning que debes conocer | Coursera
+Autor desconocido
+coursera.org
+
+El aprendizaje automático o machine learning es un campo apasionante y un subconjunto de la inteligencia artificial. Utiliza esta guía para descubrir más sobre las aplicaciones en el mundo real y los tres tipos de aprendizaje automático que debes conocer.
+Read in English. (Leer en inglés.)
+El aprendizaje automático es una tecnología especializada que se engloba dentro de la inteligencia artificial (IA). Este apasionante campo es el motor de muchas tecnologías modernas, como el reconocimiento de imágenes, los coches autoconducidos y productos como Alexa de Amazon.
+Según Fortune Business Insights, se prevé que el mercado mundial del aprendizaje automático (machine learning, ML) supere aproximadamente $3,573,466,400,000 (MXN), o 188,000 millones de dólares estadounidenses, en 2029, frente a los $399,163,800,000 (MXN), o 21,000 millones de dolares estadounidenses, de 2022 [1]. Este rápido crecimiento significa que hay muchas oportunidades para sumergirse en una carrera en el aprendizaje automático.
+Cuando decidas iniciar tu carrera en el aprendizaje automático, hay tres tipos principales de aprendizaje automático que debes conocer. Continúa leyendo para obtener más información.
+Esta rama de la IA se centra en el uso de datos y algoritmos para imitar el aprendizaje humano, lo que permite a las máquinas mejorar con el tiempo y ser cada vez más precisas a la hora de realizar predicciones o clasificaciones, o descubrir información basada en datos. Funciona de tres formas básicas, empezando por el uso de una combinación de datos y algoritmos para predecir patrones y clasificar conjuntos de datos, una función de error que ayuda a evaluar la precisión y luego un proceso de optimización para ajustar mejor los puntos de datos al modelo.
+Arthur Samuel creó el término “machine learning” en referencia a su investigación a principios de la década de 1960. Esa investigación se basaba en la partida de damas que Robert Nealy jugó contra un ordenador IBM 7094 y perdió. Aunque este hecho es menor comparado con lo que las máquinas pueden hacer hoy en día, fue un hito pionero en su momento.
+El aprendizaje automático ya se utiliza a nuestro alrededor y puede que no te des cuenta de cómo influye en tu vida. Estas son algunas de las formas en que se utiliza que deberías conocer:
+
+Funciones de medios sociales: Las plataformas de medios sociales integran algoritmos de aprendizaje automático para ayudar a ofrecerte experiencias personalizadas. Facebook toma nota de tus actividades, incluidos tus comentarios, “me gusta” o likes y el tiempo que pasas en distintos tipos de contenido. El algoritmo aprende de tus actividades y hace sugerencias de páginas y amigos adaptadas a ti.
+
+Asistentes virtuales: Siri de Apple, Alexa de Amazon y Google Assistant son opciones populares si buscas un asistente personal virtual. Estos dispositivos activados por voz pueden hacer de todo, desde buscar vuelos hasta consultar tu agenda, programar alarmas y mucho más. El aprendizaje automático es un componente clave de estos dispositivos y altavoces inteligentes. Recopilan información y la perfeccionan cada vez que interactúas con ellos. La máquina puede utilizar esos datos para ofrecerte los resultados que mejor se adapten a tus preferencias.
+
+Recomendaciones de productos: Populares entre los sitios web de e-commerce (o comercio electrónico), las recomendaciones de productos son una aplicación común del aprendizaje automático. Permite a estos sitios rastrear tu comportamiento basándose en tus búsquedas, compras anteriores y el historial de tu carrito de compra para hacerte sugerencias y recomendaciones sobre los productos que pueden interesarte.
+
+Reconocimiento de imágenes: Esta compleja tecnología está apareciendo en diversos campos. En tu vida cotidiana, probablemente te hayas topado con ella al subir una foto a tu plataforma de redes sociales. Cuando etiquetas a alguien en una imagen, la plataforma lo reconoce. También puede ser transformador para identificar posibles amenazas o delincuentes, desbloquear teléfonos y dispositivos móviles y encontrar personas desaparecidas.
+El machine learning consiste en mostrar un gran volumen de datos a una máquina para que pueda aprender y hacer predicciones, encontrar patrones o clasificar datos. Los tres tipos de aprendizaje automático son el supervisado, el no supervisado y el aprendizaje por refuerzo.
+Gartner, una consultora de negocios, predice que el aprendizaje supervisado (supervised learning) seguirá siendo el aprendizaje automático más utilizado entre los líderes de tecnología de la información empresarial en 2022 [2]. Este tipo de machine learning alimenta datos históricos de entrada y salida en algoritmos de aprendizaje automático, con procesamiento entre cada par de entrada/salida que permite al algoritmo cambiar el modelo para crear salidas lo más alineadas posible con el resultado deseado. Entre los algoritmos más utilizados en el aprendizaje supervisado se encuentran las redes neuronales (neural networks), los árboles de decisión (decision trees), la regresión lineal (linear regression) y las máquinas de vectores de soporte (support vector machines o SVM).
+Este tipo de machine learning debe su nombre a que la máquina está “supervisada” mientras aprende, lo que significa que tú alimentas al algoritmo con información para ayudarle a aprender. El resultado que le proporcionas a la máquina son datos etiquetados, y el resto de la información que le das se utiliza como características de entrada.
+Por ejemplo, si intentáramos aprender sobre las relaciones entre los impagos de préstamos y la información del prestatario, podríamos proporcionar a la máquina 500 casos de clientes que incumplieron sus préstamos y otros 500 que no lo hicieron. Los datos etiquetados “supervisan” a la máquina para que descubra la información que busca.
+El aprendizaje supervisado es eficaz para diversos fines empresariales, como la previsión de ventas, la optimización de inventarios y la detección de fraudes. Algunos ejemplos de casos de uso son:
+
+Predicción de precios inmobiliarios
+Clasificar si las transacciones bancarias son fraudulentas o no
+Encontrar factores de riesgo de enfermedad
+Determinar si los solicitantes de préstamos son de bajo o alto riesgo
+Predecir el fallo de piezas mecánicas de equipos industriales
+Mientras que el aprendizaje supervisado requiere que los usuarios ayuden a la máquina a aprender, el aprendizaje no supervisado (unsupervised learning) no utiliza los mismos conjuntos de entrenamiento y datos etiquetados. En su lugar, la máquina busca patrones menos obvios en los datos. Este tipo de aprendizaje automático es muy útil cuando se necesita identificar patrones y utilizar los datos para tomar decisiones. Entre los algoritmos más utilizados en el aprendizaje no supervisado se encuentran los modelos de Markov ocultos (Hidden Markov models), k-means, la agrupación jerárquica (hierarchical clustering) y los modelos de mezcla gaussiana (Gaussian mixture models).
+Utilizando el ejemplo del aprendizaje supervisado, supongamos que no se sabe qué clientes no han pagado sus préstamos. En lugar de eso, le daríamos a la máquina información sobre los prestatarios y ella buscaría patrones entre ellos antes de agruparlos en varios conglomerados.
+Este tipo de aprendizaje automático se utiliza mucho para crear modelos predictivos. Entre las aplicaciones más comunes también se incluyen el clustering, que crea un modelo que agrupa objetos en función de propiedades específicas, y la asociación, que identifica las reglas existentes entre los clusters. Algunos ejemplos de casos de uso incluyen:
+
+Creación de grupos de clientes en función del comportamiento de compra
+Agrupación de inventarios en función de métricas de ventas y/o fabricación
+Identificación de asociaciones en los datos de los clientes (por ejemplo, los clientes que compran un estilo específico de bolso pueden estar interesados en un estilo específico de zapato).
+El aprendizaje por refuerzo (reinforcement learning) es el tipo de machine learning más parecido al aprendizaje humano. El algoritmo o agente utilizado aprende interactuando con su entorno y obteniendo una recompensa positiva o negativa. Los algoritmos más comunes son la diferencia temporal (temporal difference), las redes adversariales profundas (deep adversarial networks) y el aprendizaje Q (Q-learning).
+Volviendo al ejemplo del cliente del préstamo bancario, se podría utilizar un algoritmo de aprendizaje por refuerzo para examinar la información del cliente. Si el algoritmo los clasifica como de alto riesgo y no pagan, el algoritmo obtiene una recompensa positiva. Si no incumplen, el algoritmo obtiene una recompensa negativa. Al final, ambos casos ayudan a la máquina a aprender al comprender mejor tanto el problema como el entorno.
+Gartner señala que la mayoría de las plataformas de ML no tienen capacidades de aprendizaje por refuerzo porque requiere una potencia de cálculo superior a la que tienen la mayoría de las organizaciones [2]. El aprendizaje por refuerzo es aplicable en áreas que pueden simularse completamente y que son estacionarias o tienen grandes volúmenes de datos relevantes. Dado que este tipo de aprendizaje automático requiere menos gestión que el aprendizaje supervisado, se considera más fácil trabajar con conjuntos de datos no etiquetados. Las aplicaciones prácticas de este tipo de aprendizaje automático siguen apareciendo. Algunos ejemplos de usos son:
+
+Enseñar a los carros a estacionarse solos y conducir de forma autónoma
+Control dinámico de los semáforos para reducir los atascos
+Entrenar robots para que aprendan políticas a partir de imágenes de vídeo sin procesar que puedan utilizar para reproducir las acciones que ven.
+* Todos los datos salariales se presentan en pesos mexicanos (MXN) para sueldos medio mensuales en México, y proceden de Glassdoor a fecha de enero de 2023 a menos que se indique lo contrario.
+El informe “Future of Jobs Report 2020” del Foro Económico Mundial predice que el aprendizaje automático y toda la inteligencia artificial generarán 97 millones de nuevos puestos de trabajo en todo el mundo para 2025 [3]. En 2022, Indeed reporta las profesiones como especialista en inteligencia artificial y el aprendizaje automático como las que más demanda tendrán entre 2020-2025 [4]. El aprendizaje automático se presta a varias carreras profesionales posibles, entre ellas:
+La mayoría de las empresas buscan una combinación de formación y experiencia. Aquí hay tres formas comunes para ponerte en el camino hacia el trabajo que deseas:
+Comienza tu carrera con una licenciatura en ciencia de datos, programación informática, informática o un campo relacionado. El aprendizaje automático es un campo avanzado y los empleadores tienden a contratar candidatos con una licenciatura. Pero un poco de experiencia laboral y un toque de agallas, aquellos con grados asociados o diplomas de escuela secundaria también pueden comenzar en el aprendizaje automático.
+Intenta conseguir unas prácticas o un puesto de nivel inicial en funciones relacionadas con el aprendizaje automático en desarrollo de software, ingeniería de software, ingeniería de datos o ciencia de datos.
+Considera la posibilidad de obtener una maestría o de actualizar tus conocimientos con un certificado profesional. Muchos empleadores prefieren contratar a profesionales del aprendizaje automático con títulos avanzados en ingeniería de software, informática, aprendizaje automático o IA.
+Aprende los fundamentos del aprendizaje automático con el popular curso de Machine Learning de Stanford, o desarrolla las habilidades necesarias para construir y entrenar redes neuronales profundas con la Especialización en Aprendizaje Profundo de DeepLearning.AI. Si te tomas en serio una carrera en aprendizaje automático, explora cómo un título en ciencia de datos o el Certificado profesional de Análisis de datos de Google podría desbloquear nuevas oportunidades para ti.
+
+
+
+
+
+
+Fortune Business Insights. “Hardware and Software IT Services, https://www.fortunebusinessinsights.com/machine-learning-market-102226”. Consultado el 13 de septiembre de 2022.
+Gartner. “Understand 3 Key Types of Machine Learning, https://www.gartner.com/smarterwithgartner/understand-3-key-types-of-machine-learning”. Consultado el 13 de septiembre de 2022.
+World Economic Forum. “Don’t fear AI. It will lead to long-term job growth, https://www.weforum.org/agenda/2020/10/dont-fear-ai-it-will-lead-to-long-term-job-growth/”. Consultado el 13 de septiembre de 2022.
+Indeed. “¿Cuáles son las carreras mejor pagadas y con mayor proyección?, https://mx.indeed.com/orientacion-profesional/desarrollo-profesional/carreras-mejor-pagadas”. Consultado el 26 de enero de 2023.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Writer
+Coursera is the global online learning platform that offers anyone, anywhere access to online course...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Get Started with AI
+Popular Career Certificates
+Popular Subjects
+Popular Resources
+Coursera
+Community
+More

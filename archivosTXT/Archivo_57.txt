@@ -1,0 +1,174 @@
+Deep learning: qué es, para qué sirve y ejemplos | Inesdi
+Autor desconocido
+inesdi.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La tecnología ha tratado de imitar durante décadas el funcionamiento del cerebro humano. Hoy en día, no puede decirse que las máquinas reemplacen completamente a nuestra forma de pensar, pero sí son capaces de realizar tareas muy complejas con una precisión mayor a la nuestra. Aquí entra el deep learning o aprendizaje profundo, y hoy veremos en qué consiste y sus tipos y para qué se está utilizando. 
+ 
+ 
+El deep learning, cuyo significado es aprendizaje profundo, es un tipo de machine learning que sirve para programar a un ordenador para que realice tareas similares a las que los humanos llevamos a cabo en el día a día. Por ejemplo, el reconocimiento del habla o la identificación de imágenes. 
+Con esta habilidad, el ordenador sería capaz de reconocer conversaciones, traducir idiomas o incluso tomar ciertas decisiones. Su aplicación principal hoy en día es permitir que la inteligencia artificial pueda aprender de manera continuada y así mejorar sus capacidades progresivamente. 
+La característica particular del deep learning es que se trata de un enfoque de aprendizaje automatizado no supervisado y que tiene un gran parecido con el funcionamiento del sistema neurológico humano. En concreto, el uso de varias capas de neuronas artificiales especializadas en la identificación de ciertas características de los datos. 
+Para que se entienda mejor, las redes neuronales artificiales se usan para el reconocimiento de patrones y para la clasificación de información. En un primer momento, filtran los datos que reciben, y van desde lo más genérico hasta lo más específico. Después, y de forma progresiva por el aprendizaje automático, irán aumentando la probabilidad de dar una respuesta adecuada a cada situación, basada en todo el conocimiento que han ido adquiriendo.
+ 
+
+ 
+ 
+ 
+El deep learning es uno de los tipos de inteligencia artificial con las que trabajamos en la actualidad. 
+Dado que sigue avanzando y mejorando sus habilidades, el número de aplicaciones que tiene también se va incrementando. 
+Como hemos indicado, se enfoca en el uso de redes neuronales artificiales con múltiples capas, llamadas redes neuronales profundas, para modelar y entender patrones complejos en grandes cantidades de datos. La principal utilidad es la realización de tareas de análisis y procesamiento de datos, que hasta no hace mucho, solían requerir intervención humana.
+A partir de este análisis y procesamiento, se pueden utilizar estas herramientas en áreas como el reconocimiento de imágenes y voz, donde las redes neuronales pueden identificar objetos en fotografías o transcribir discursos con una gran precisión. Pero también la traducción automática; el diagnóstico médico, como en la identificación de enfermedades a partir de imágenes médicas; la conducción autónoma o la detección de fraudes, entre otras aplicaciones.
+Dentro del reconocimiento de patrones, hay que destacar la visión por ordenador y el procesamiento del lenguaje natural. Las redes neuronales convolucionales (CNN) son las que han permitido mejoras drásticas en la precisión del reconocimiento de imágenes. Estas redes pueden aprender características jerárquicas de las imágenes a partir de la detección de bordes, texturas y objetos complejos. Esta capacidad ha superado a la de los métodos tradicionales de procesamiento de imágenes. 
+En el procesamiento del lenguaje natural, las redes neuronales recurrentes (RNN) y, más recientemente, las redes Transformer, han transformado la capacidad de las máquinas para comprender y generar texto. Ahora, estas redes capturan dependencias a largo plazo en secuencias de datos y son las que han posibilitado avances en la traducción automática, la generación de texto y el análisis de sentimientos. Es decir, que el deep learning puede interpretar y responder a datos complejos con un enfoque que hasta hace no demasiado tiempo se consideraba exclusivo de la inteligencia humana.
+ 
+ 
+Se pueden distinguir tres tipos diferentes de deep learning, que son los que desarrollamos a continuación:
+- Convolutional Neural Networks (CNN o redes neuronales convolucionales). Estas redes están diseñadas específicamente para procesar datos que tienen una estructura de rejilla, como las imágenes. Las CNN utilizan capas de convolución que aplican filtros a las entradas y detectan características locales como bordes, texturas y patrones repetitivos. Estas características se combinan en capas sucesivas para formar representaciones más abstractas y complejas. Gracias a ellas, se pueden identificar objetos y escenas con mucha precisión. Se usan en el reconocimiento facial, la detección de objetos y la segmentación de imágenes.
+
+- Recurrent Neural Networks (RNN o redes neuronales recurrentes). Están diseñadas para procesar datos secuenciales o series temporales, como secuencias de texto, datos financieros o señales de voz. Las RNN tienen conexiones recurrentes que permiten que la información se mantenga y se pase de un paso temporal al siguiente. Son útiles en tareas que requieren de texto, como el reconocimiento de voz, la traducción automática y la generación de texto. Por las limitaciones de las versiones básicas de RNN para tratar dependencias a largo plazo, se usan variantes como las LSTM (Long Short-Term Memory) y GRU (Gated Recurrent Units).
+ 
+- Generative Adversarial Networks (GAN o redes generativas antagónicas). Estas redes consisten en dos subredes que compiten entre sí: el generador y el discriminador. El generador crea datos falsos que imitan el conjunto de datos reales, mientras que el discriminador intenta distinguir entre datos reales y falsos. A través de este proceso de competencia, ambos modelos mejoran sus capacidades. El resultado es la generación de datos sintéticos muy realistas. Estas redes son muy interesantes para crear imágenes y video, la síntesis de voz y la creación de modelos 3D. Sus aplicaciones principales están en la investigación médica, el entretenimiento y la realidad virtual.
+ 
+
+ 
+ 
+Los ejemplos del uso de deep learning se van incrementando progresivamente, pero algunos de los más populares son los siguientes:
+- Traducción de imágenes con texto. Google, gracias al deep learning, ha desarrollado herramientas como Google Lens que traduce texto en imágenes en tiempo real. Basta con hacer una foto con el teléfono, la aplicación detecta el texto, lo reconoce y lo traduce al idioma deseado, incluso mantiene el estilo y el contexto original. Es práctico en los viajes y en situaciones donde el texto escrito en otro idioma necesita comprenderse con rapidez, como menús de restaurantes, señales y documentos.
+- Recomendaciones de Netflix. ¿Te has dado cuenta alguna vez de que las películas o series que aparecen en tu pantalla de inicio de Netflix no coinciden con las de tus amistades? Se debe al uso de algoritmos de deep learning, que analizan los hábitos de visualización y las preferencias. Se tienen en cuenta los géneros preferidos, el tiempo dedicado a cada tipo de contenido y las calificaciones. Con base en todos ellos, se sugieren opciones personalizadas que mejoran la experiencia del usuario.
+- Coches autónomos. Empresas como Tesla y Samsung están desarrollando coches que sean 100% autónomos. Estos vehículos utilizan redes neuronales profundas para procesar datos provenientes de cámaras, LIDAR, radar y otros sensores. El deep learning permite que el coche interprete su entorno, reconozca objetos como peatones y otros vehículos, y tome decisiones en tiempo real para conducir con seguridad y eficacia. 
+- Previsión en el sector agrícola.  El análisis de datos recogidos por sensores miden niveles de agua, nutrientes en el suelo y otros factores ambientales. Con ellos, los modelos de aprendizaje profundo pueden predecir problemas potenciales como la sequía, enfermedades de las plantas o deficiencias nutricionales. 
+Este es solo el principio de las aplicaciones de la inteligencia artificial en todas sus variantes, y en este caso, del deep learning. Para conocer más y cómo se usan en todos los sectores, fórmate con nuestros cursos especializados. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMPUS
+SOLICITA INFORMACIÓN
+¿Quién es el Responsable del tratamiento de sus datos?
+THREEPOINTS EDUCATION, S.L.U, con CIF B-67187906, será la responsable de los datos
+            personales facilitados a través de la presente página web, así como de los facilitados
+            telefónicamente, a través de cualquiera de nuestros formularios en formato papel, de los obtenidos como
+            consecuencia de la relación que Usted mantenga con nosotros y de los derivados de sus hábitos de navegación
+            y consumo. Dicha compañía se encuentra ubicada en Av Diagonal, 662, 08034 Barcelona, pudiendo
+            ponerse en contacto con la misma a través de la dirección electrónica info@inesdi.com.
+Igualmente, podrá ponerse en contacto con nuestro Delegado de Protección de Datos mediante escrito
+            dirigido a dpo@planeta.es o a Grupo Planeta, At.:
+            Delegado de Protección de Datos, Avda. Diagonal 662-664, 08034 Barcelona.
+¿Con qué finalidad tratamos sus datos personales?
+THREEPOINTS EDUCATION, S.L.U tratará sus datos personales con el fin de gestionar la relación que Usted
+            mantiene con nosotros, así como para enviarle comunicaciones comerciales por cualquier vía, incluso
+            finalizada la relación con usted, para mantenerle informado de aquellos de nuestros productos y servicios
+            similares a los contratados por Usted.
+Asimismo, le informamos que, con el fin de poder ofrecerle productos y servicios de THREEPOINTS
+          EDUCATION, S.L.U o de terceras empresas adecuados a sus intereses, así como para mejorar su experiencia
+            de usuario de nuestra página Web, elaboraremos un “perfil comercial” en base tanto a la información
+            facilitada por usted como a aquella otra derivada de sus hábitos de consumo y navegación y la
+            obtenida de redes sociales. 
+Adicionalmente, sus datos personales y perfil comercial serán cedidos al resto de
+            sociedades del Grupo Planeta para que éstas le remitan comunicaciones comerciales sobre sus propios
+            productos y servicios o de terceras empresas pertenecientes o ajenas al Grupo Planeta, elaborando para ello,
+            a su vez, su propio perfil comercial con dichos datos y perfiles, así como con los datos y perfiles de usted
+            que ya tuviera u obtenga, todo ello, para que dichas comunicaciones sean de su interés por adecuarse a sus
+            gustos, hábitos de consumo y navegación y preferencias comerciales. Este tratamiento implicará, por tanto,
+            el cruce de bases de datos de las distintas empresas del Grupo Planeta y enriquecimiento de las
+            mismas.
+Puede consultar el listado de empresas del Grupo Planeta en el siguiente link www.planeta.es. Dichas empresas desarrollan su actividad en
+            los sectores editorial, formación, cultura, ocio, coleccionismo, textil, seguros privados, gran consumo y
+            joyería.
+En cualquier caso, las terceras empresas ajenas a nuestro grupo de las que, en su caso, le enviaremos
+            comunicaciones comerciales serán aquellas que desarrollen su actividad en los mismos sectores que las
+            empresas del Grupo Planeta y que han sido indicados anteriormente, o en los sectores de Telecomunicaciones,
+            bancario y financiero, viajes, tecnología y actividades jurídicas.
+¿Por cuánto tiempo conservaremos sus datos?
+Tanto los datos personales proporcionados, como los obtenidos de su navegación y hábitos de consumo,
+            así como el perfil comercial obtenido se conservarán mientras Usted no solicite su supresión.
+¿Cuál es la legitimación para el tratamiento de sus datos?
+La base legal para el tratamiento de sus datos personales es la ejecución y mantenimiento de la
+            relación mantenida con Usted, así como el consentimiento expreso que, en su caso, nos haya facilitado para
+            los tratamientos adicionales consistentes en el envío de comunicaciones comerciales propias y/o de terceros,
+            la elaboración de perfiles comerciales y la cesión de dichos datos y perfiles al resto de sociedades del Grupo Planeta
+              con las finalidades indicadas en el apartado “¿Con qué finalidad tratamos sus datos personales?”
+            anterior.
+Le informamos que los datos personales que se solicitan en el momento de registrarse en la presente
+            página web, los solicitados telefónicamente o en cualquiera de nuestros formularios en formato papel, son
+            los estrictamente necesarios para formalizar y gestionar la relación con Usted, de manera que, en caso de no
+            facilitarlos, no podremos mantener dicha relación. En cualquier caso, dicha finalidad principal no está
+            supeditada al consentimiento para el tratamiento de los datos que no sean necesarios para dicha actividad
+            principal.
+Como, hemos indicado anteriormente, la oferta prospectiva de productos y servicios propios y/o de
+            terceros, así como la elaboración de perfiles comerciales y la cesión de dichos perfiles y de sus datos
+            personales a terceras empresas del Grupo Planeta, son tratamientos adicionales que están basados en el
+            consentimiento que se le solicita, sin que en ningún caso la retirada de este consentimiento condicione el
+            mantenimiento de la relación que mantiene con nosotros.
+¿A qué destinatarios se comunicarán sus datos?
+Únicamente en el caso de que nos dé su consentimiento para ello, sus datos personales y, en su caso, su
+            perfil comercial, serán comunicados al resto de empresas del Grupo Planeta con las finalidades
+            indicadas en el punto “¿Con qué finalidad tratamos sus datos personales?”
+          de la presente política de privacidad. Puede consultar el listado de empresas del Grupo Planeta
+            en el siguiente link www.planeta.es.
+
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Cualquier persona tiene derecho a obtener confirmación sobre si en THREEPOINTS EDUCATION,
+          S.L.U estamos tratando datos personales que les conciernan, o no.
+Asimismo, las personas interesadas tienen derecho a acceder a sus datos personales, así como a
+            solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros
+            motivos, los datos ya no sean necesarios para los fines que fueron recogidos.
+En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus
+            datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.
+En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán
+          oponerse al tratamiento de sus datos. THREEPOINTS EDUCATION, S.L.U dejará de tratar los
+            datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.
+
+Asimismo, los interesados tienen derecho a recibir, en un formato estructurado, de uso común y lectura
+            mecánica, los datos personales que le incumban que nos hayan facilitado, y a transmitirlos a otro
+            responsable.
+Los interesados, podrán ejercer dichos derechos y la revocación en cualquier momento de los
+            consentimientos en su caso prestados, mediante carta dirigida a THREEPOINTS EDUCATION, S.L.U,
+            Apartado de Correos 221 de Barcelona o remitiendo un email a lopd@threepoints.com. En este sentido, le informamos que tiene a su disposición
+            modelos de ejercicio de los citados derechos en la página web de la Agencia Española de Protección de Datos
+            (https://www.aepd.es/reglamento/derechos/index.html).

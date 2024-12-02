@@ -1,0 +1,33 @@
+GPT-4: qué novedades presenta la nueva versión del chat de inteligencia artificial - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+ChatGPT ya era considerado uno de los robots de inteligencia artificial más potentes del mundo, pero los usuarios solo podían darle instrucciones o hacerle preguntas a través del texto.
+Ahora, la nueva versión del chatbot ha alcanzado un nuevo nivel: procesar imágenes.
+Esto es considerado por los expertos como un gran avance.
+En la nueva versión, llamada GPT-4, un usuario puede, por ejemplo, tomar una foto con ingredientes disponibles en su cocina y pedirle al chatbot que le ofrezca opciones de recetas y las instrucciones.
+Pero el robot también puede dar soluciones a tareas más complejas. Si un usuario escribe en una pieza de papel los datos que le gustaría ver en una página web nueva, GPT-4 puede leer eso y crear todo el código necesario para generar un sitio web completo.
+Millones de personas han usado el chatbot desde su lanzamiento en noviembre de 2022.
+El chatbot responde preguntas u órdenes utilizando un lenguaje natural, muy similar al humano, y también puede imitar estilos de artistas, como escritores o compositores.
+Sin embargo, su base de datos de conocimiento está limitada a la información que había en internet hasta 2021.
+Expertos han expresado su preocupación de que algún día pueda hacerse cargo de muchos trabajos que actualmente son realizados por empleados humanos.
+Fuente de la imagen, Getty Images
+OpenAI dijo que estuvo mejorando durante seis meses las funciones de seguridad para GPT-4 y lo había entrenado con retroalimentación humana. 
+Sin embargo, advirtió que aún puede ser propenso a ofrecer datos no verificados o desinformación a las consultas de los usuarios.
+GPT-4, como ChatGPT, es un tipo de inteligencia artificial generativa. Ésta utiliza algoritmos y texto predictivo para crear contenido nuevo basado en las instrucciones que se le den.
+El potencial de la herramienta depende en buena medida del tipo de tareas que le sean solicitadas.
+Entre las funciones más demandadas del robot hasta ahora está la composición de canciones, poemas, textos para publicidad, codificación de software y hasta ayuda con las tareas escolares, aunque esto último es algo muy rechazado por los profesores.
+En una demostración en directo ofrecida por OpenaAI, el chatbot generó una respuesta a una pregunta complicada sobre temas fiscales, aunque no había forma de comprobar la veracidad de su respuesta.
+Entre las características mejoradas, ahora el chatbot podrá procesar hasta 25.000 palabras, unas ocho veces más que la versión anterior (ChatGPT 3.5).
+La nueva versión tiene "habilidades de razonamiento más avanzadas" que ChatGPT, según OpenAI. 
+Por ejemplo, un usuario le pidió que le contara la trama del cuento clásico de "La cenicienta", pero que cada palabra nueva iniciara con una letra del alfabeto de la A a la Z. Este tipo de retos no era capaz de hacerlos la versión anterior.
+OpenAI también anunció nuevas asociaciones con la aplicación de aprendizaje de idiomas Duolingo y con Be My Eyes, una aplicación para personas con discapacidades visuales, para crear robots con inteligencia artificial que pueden ayudar a sus usuarios a utilizar el lenguaje natural.
+Fuente de la imagen, Getty Images
+Sin embargo, al igual que sus predecesores, OpenAI advirtió que GPT-4 aún no es completamente confiable y puede "alucinar", un fenómeno en el que la IA inventa hechos o comete errores de razonamiento.
+"GPT-4 todavía tiene muchas limitaciones conocidas que estamos trabajando para abordar, como los prejuicios sociales, las alucinaciones y las indicaciones contradictorias" , explicó OpenaAI.
+La nueva versión estará inicialmente disponible para los suscriptores de ChatGPT Plus, quienes pagan US$20 por mes por un servicio premium.
+El chatbot ya está impulsando la plataforma del motor de búsqueda Bing de Microsoft. El gigante tecnológico ha invertido US$10.000 millones en la firma OpenAI.
+Fuente de la imagen, Getty Images
+Recuerda que puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

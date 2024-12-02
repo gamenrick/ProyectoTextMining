@@ -1,0 +1,59 @@
+Apple se está tomando en serio la inteligencia artificial | CNN
+Samantha Murphy Kelly
+cnn.com
+
+
+(CNN) –  Apple parece estar finalmente levantando el telón sobre algunos de sus esfuerzos en inteligencia artificial.
+    
+
+            Los investigadores de Apple dicen que desarrollaron una familia de modelos multimodales, que se refiere a un sistema de IA que puede interpretar y generar diferentes tipos de datos, como texto e imágenes al mismo tiempo, llamado MM1. El informe dijo que sus nuevos métodos presumen de “habilidades superiores” y pueden ofrecer razonamiento avanzado y aprendizaje en contexto para responder a texto e imágenes.
+    
+
+            El anuncio sugiere cómo un sistema así podría beneficiar a futuros productos de Apple, incluyendo iPhones, Macs y su asistente de voz Siri.
+    
+
+            Esto ocurre justo cuando se espera que Apple presente varias nuevas características de IA en su conferencia para desarrolladores en junio.
+    
+
+            Al mismo tiempo, sin embargo, se informa que Apple llegó a un acuerdo con Google que indica que quizás sus propios esfuerzos en IA no estén exactamente donde desean que estén todavía. Según un informe de Bloomberg, Apple está interesada en licenciar y construir el motor de IA Gemini de Google, que incluye chatbots y otras herramientas de IA, en los próximos iPhones y en las características de su iOS 18.
+    
+
+            A medida que más empresas tecnológicas invierten miles de millones de dólares en el desarrollo y lanzamiento de inteligencia artificial, Apple quedó en gran medida fuera de la conversación, con muchas otras empresas tecnológicas ya haciendo grandes avances en el espacio. Una asociación con Google catapultaría a Apple a la creciente carrera armamentística de la IA.
+    
+
+            El informe también dijo que Apple tuvo conversaciones previas con OpenAI, la empresa detrás del chatbot viral ChatGPT.
+    
+
+            Apple, Google y OpenAI no respondieron a una solicitud de comentarios.
+    
+
+            En febrero, el CEO Tim Cook insinuó durante una reunión con inversores que ve “un increíble potencial de avance para la IA generativa, por eso estamos invirtiendo significativamente en esta área en este momento”. Pero la empresa aún no compartió mucho sobre su visión para la IA.
+    
+
+            Tras bambalinas, según informes, Apple estuvo trabajando en sus capacidades de IA generativa en el dispositivo y adquiriendo empresas, como la startup canadiense DarwinAI. También tiene una división de Investigación en Aprendizaje Automático dedicada a avanzar en la IA.
+    
+
+            Angelo Zino, vicepresidente y analista senior de acciones en CFRA Research, dijo en una nota para inversores el lunes que las últimas noticias “probablemente confirman que los esfuerzos internos de Apple están muy por detrás de los de OpenAI y Gemini”.
+    
+
+            Pero agregó que un posible acuerdo “muestra que la empresa se toma en serio la adición de capacidades significativas de IA en todo iOS 18 este otoño cuando se lancen sus nuevos iPhones”.
+    
+
+            Google puede ser muy adecuado para la nueva asociación en IA considerando su asociación de búsqueda existente; la empresa ha invertido mucho en asegurar que Google siga siendo la opción de motor de búsqueda predeterminada en el navegador Safari de Apple. Sin embargo, ese acuerdo de búsqueda entre los dos gigantes tecnológicos está siendo revisado por las autoridades antimonopolio.
+    
+
+            En otra nota para inversores el lunes, los analistas de Wedbush Securities dijeron que ven la asociación potencial como un beneficio para ambas empresas.
+    
+
+            “Esto es una gran victoria para Google para entrar en el ecosistema de Apple y tener acceso a la base instalada dorada de Cupertino con claramente una gran tarifa de licencia adjunta a esto”, dijeron los analistas.
+    
+
+            También daría a Apple la base y la tecnología para enfocarse aún más en las características de iOS impulsadas por IA que actualmente se están desarrollando.
+    
+
+            La asociación podría llevar a Gemini a casi 2.000 millones de dispositivos Apple.
+    
+
+            Wedbush también dijo que el acuerdo sería un gran “momento de validación” para la posición de IA generativa de Google, considerando que Microsoft y OpenAI capturaron una cuota de mercado temprana al comercializar algunos de sus productos.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

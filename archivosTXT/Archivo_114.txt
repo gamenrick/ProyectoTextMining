@@ -1,0 +1,17 @@
+El Machine Learning en Medicina- Blog de Uniteco
+Daniel Bermejo Teixidó
+unitecoprofesional.es
+
+El Machine Learning es una subdisciplina de la Inteligencia Artificial que está constatando tener un papel cada vez más importante en todos los sectores. En especial, en el mundo sanitario. Principalmente, se podría definir como la capacidad que tienen los ordenadores para aprender y aportar soluciones de manera autónoma mediante el Big Data.
+Este software se basa en un algoritmo que estructura los datos recopilados. De esta forma, permite al sistema aportar soluciones de manera independiente a los diferentes problemas que se puedan plantear. En este sentido se puede distinguir diferentes clasificaciones del machine learning en función del ámbito en el que actúe, aunque, siempre están presentes dos tecnologías:
+El objetivo del Machine Learning en Medicina es el de proporcionar a las herramientas informáticas un procedimiento que les posibilite procesar todos los datos de información sanitaria, sobre todo provienen de las Historias Clínicas. De esta manera, se pueden llevar a cabo una serie de acciones relacionadas con la atención y gestión de la salud como:
+Además, el machine learning en medicina representa un papel esencial en la formación y actualización de todos los profesionales de la salud. Esta tecnología les permite disponer de conocimiento adecuado y preciso en el momento concreto en que lo necesitan. En este sentido, el machine learning permite comprender mejor en qué y cómo están trabajando los investigadores para dotarlos de la información más relevante para ellos, mediante la extracción de información de datos no estructurados clasificándolos según el contexto y ofreciendo resultados concretos.
+Por lo tanto, la gama de aplicaciones y utilidades que arroja esta tecnología en el ámbito de la salud es cada vez más grande. Algunas de las aplicaciones más comunes son:
+Muchas empresas e instituciones relacionadas con el mundo sanitario ya han iniciado estudios y proyectos, donde el machine learning juega un papel fundamental. Alguno de estos proyectos son:
+En cuanto a las perspectivas de futuro que presenta el machine learning en medicina, es fundamental un entrenamiento en el manejo de estas nuevas herramientas para conseguir que aporten un valor real a la práctica clínica. Esta realidad ocurre tanto por la formación de los médicos como por potenciar la interacción de los profesionales con los dispositivos a través de equipos cada vez más transversales.
+El siguiente reto del machine learning en medicina es ir más allá de la IA para dar paso a la “inteligencia aumentada”. Este nuevo paso permitirá que los sanitarios usen esta tecnología como una “segunda opinión” en tiempo real. Sin embargo, no se debe entender como una herramienta única, sino en combinación con otras soluciones digitales.En definitiva, estamos en un momento clave para la innovación en el mundo de la medicina. Con la aparición de la Inteligencia Artificial y el Machine Learning se abre un nuevo panorama donde los profesionales y los pacientes son los más beneficiados.
+ Deja un comentario
+ 1 comentario
+Isabel Cruz Ramirez
+ 2 de agosto de 2024 21:30
+un ejemplo sobre cual es la célula más importante del cuerpo humano y q hacemos para cuidarlo

@@ -1,0 +1,31 @@
+La Inteligencia Artificial vs la Igualdad de género. Beneficios y Riesgos. Parte I. Beneficios. | Confederación de Empresarios de Galicia
+Autor desconocido
+ceg.es
+
+ 
+La Inteligencia Artificial vs la Igualdad de género
+Beneficios y Riesgos
+Parte I. Beneficios
+De acuerdo con lo recogido en la web de la Comisión Europea, la Ley de Inteligencia Artificial (IA) es el primer marco jurídico sobre esta materia, que aborda los riesgos de la IA y posiciona a Europa para desempeñar un papel de liderazgo a nivel mundial.
+El Reglamento Europeo de Inteligencia artificial (AIA, por Artificial Intelligence Act), en última fase de aprobación (mayo 2024), además de pretender reducir cargas administrativas y financieras a las empresas (fundamentalmente a las pymes), tiene por objeto proporcionar a las/los que desarrollan e implementan IA, requisitos y obligaciones claros en relación con los usos específicos de la misma. 
+Se considera necesaria esta ley de IA para garantizar que la población europea pueda confiar en lo que la IA tiene puede ofrecer, minimizando riesgos, porque, aunque una gran parte de los sistemas de IA presentan un riesgo mínimo o nulo (por ejemplo, videojuegos habilitados para IA o filtros de spam), y pueden contribuir a resolver muchos retos sociales, determinados sistemas de IA crean riesgos que debemos abordar para evitar resultados indeseables.
+Centrándonos en la igualdad de género en el ámbito laboral, veamos tanto posibilidades de beneficiarse de la IA como posibles riesgos,
+Posibles beneficios
+1.    En materia de acoso y discriminación.
+La IA podría analizar los datos para prevenir futuros incidentes, identificando patrones o tendencias de comportamiento.
+2.    Conciliación de la vida personal, familiar y laboral + motivación.
+El uso de IA, automatizando tareas repetitivas sin valor añadido, pero que consumen mucho tiempo (introducción de datos, seguimiento de inventario, gestión de pedidos, programación de entregas…) podría ayudar a mejorar el equilibrio entre vida personal y laboral, ya que, la plantilla podría centrarse en tareas que requieren de habilidades humanas con mucho valor añadido (resolución de problemas, creatividad…) y mucho más gratificantes y motivadoras.
+3.    Mejoras en la inclusión y la gestión de la diversidad + retención de talento.
+La IA puede utilizarse para reducir los prejuicios humanos. Las organizaciones podrían identificar las candidaturas más adecuadas para un puesto en función de sus habilidades y cualificaciones, sin tener en cuenta elementos que puedan dar lugar a discriminación, creando una fuerza de trabajo inclusiva, diversa, y, a la vez, mejorando la captación y retención del talento que la empresa necesita.
+4.    Reducción de brechas salariales de género.
+Usando la IA podrían automatizarse los procesos de revisión salarial, utilizando algoritmos, podrían analizar los datos de salario de sus plantillas e identificar discrepancias basadas en el género. De esta forma, sería posible garantizar el cumplimiento del principio de igualdad retributiva.
+5.    Reducir prejuicios en los procesos de contratación y promoción.
+Automatizando estos procesos con el uso de algoritmos y ML, las organizaciones pueden analizar enormes conjuntos de datos de currículos y perfiles de candidatos/as, y pueden identificar a las candidaturas más cualificadas e idóneas para el puesto en función de calificaciones, experiencia, habilidades…y evitar así preferencias o sesgos personales de los equipos humanos de los departamentos de selección.
+¡Lee el artículo completo. Descárgalo aquí!
+Si tienes dudas o necesitas asesoramiento técnico personalizado, contacta con nuestro Gabinete Técnico de Igualdad. 
+igualdade@ceg.es
+981 555 888
+Parte I. IA e Igualdad de género. Benef cast.pdf
+Tweets by CEG_Galicia 
+Utilizamos cookies en nuestro sitio web para admitir características técnicas que mejoran su experiencia de usuario
+También utilizamos servicios de análisis y estadísticas.

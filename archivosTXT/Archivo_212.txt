@@ -1,0 +1,78 @@
+Qué es Google Gemini: las 8 claves que debes conocer sobre la inteligencia artificial que tendrás en tu móvil
+Autor desconocido
+elespanol.com
+
+
+Cuenta de usuario
+
+
+Premium
+Servicios
+© 2024 El León de El Español Publicaciones S.A.
+
+
+                                    Gemini en un móvil Samsung Galaxy
+                            
+
+Hace unos días Google ha dado un golpe sobre la mesa con Gemini, llegando a sustituir en algunos mercados el asistente de Google por su nueva IA. Esto demuestra que la empresa, que lleva muchísimos años autodenominándose una empresa de inteligencia artificial, ha decidido demostrarlo a sus usuarios. Es la evolución del anuncio del diciembre, cuando Google quiso ponerse al día y a la altura de sus rivales con su IA que promete ser muy versátil y a la vez muy potente.
+Y es que el 2023 ha sido un año claramente protagonizado por la inteligencia artificial. Open AI ha abierto la senda a un nuevo camino en la informática, a unos niveles pocas veces vistos, y que recuerdan a la época en la que los teléfonos móviles se convirtieron en smartphones. Empresas como Microsoft han corrido a abrazar esta nueva realidad y Google ha tardado en responder pero lo ha hecho de forma muy contundente.
+El lanzamiento de Gemini supone un enorme avance en una compañía que no sólo genera modelos de lenguaje de gran nivel, sino que empieza a ofrecer servicios a sus clientes particulares. Un buen ejemplo de ello es una nueva tarifa de Google One que incluye el uso de la versión más potente de la nueva IA, Gemini Ultra, por 19,99 dólares al mes, en clara pugna con la versión de pago del chatbot de Open AI.
+Además, Gemini está disponible en una aplicación para móviles Android, como lo está ChatGPT, y en algunos países empieza incluso a poder sustituir a la interfaz de voz del asistente de Google en los móviles. La apuesta de Google por Gemini es clara, potente y nos deja vislumbrar cuál será el futuro inmediato de la compañía dirigida por Sundar Pichai.
+Gemini es un sistema de inteligencia artificial generativa, entrenado para dar respuesta a peticiones que pueden venir de diferentes modos. Ha sido diseñado para ser multimodal, es decir, que no se limita a entender texto escrito. Aunque aún no hay muchas herramientas que hagan uso de estas funciones, Gemini es capaz de entender el lenguaje oral y responder de la misma forma.
+
+
+                                    Imagen del modelo de lenguaje multimodal de Gemini
+                            
+
+Además, es posible tanto realizar preguntas sobre imágenes que se suban a sus servidores como pedirle que cree otras imágenes en función de unos comandos (prompts) de la misma manera que funcionan Midjourney o Dall-E. No obstante, estas capacidades aún no están del todo implementadas, aunque Google ha empezado a implantarlas.
+Este modelo grande de lenguaje es capaz de entender y crear textos, hacer lo mismo con audios o con imágenes. El problema es que hay una diferencia entre lo que técnicamente puede hacer y lo que las actuales interfaces (Bard, los móviles, etc) permiten. De ahí que, actualmente, el uso más importante de Gemini es Bard, el chat vitaminado de Google que tiene abierto de forma gratuita.
+
+
+                                    Presentación de Gemini
+                            
+Alvarez del Vayo
+
+En el lanzamiento de Gemini se vio un vídeo (sobre estas líneas), que mostraba cómo la IA era capaz de responder a preguntas y elementos que una persona mostraba en una mesa a través de una cámara. Al poco tiempo se supo que ese vídeo era un montaje, y que Gemini podía hacer eso, pero solo mediante imágenes y respondiendo en texto, algo igualmente asombroso pero menos espectacular.
+No obstante, no parece que vaya a ser algo imposible a corto o medio plazo. Google podría incluir Gemini en la aplicación de cámara de Android, para identificar elementos, como hacen algunas apps con el uso de otras inteligencias artificiales. También podría crear una versión del asistente que funcionara como un chat de voz, aunque no tuviera una integración con la domótica. A la velocidad a la que avanza este sector, no llegaremos a 2025 sin ver un gran salto en Gemini.
+Lo primero que hay que saber es que Gemini no es un producto como tal, sino tres diferentes. El motivo es que Google sabe que no todos los dispositivos tienen la misma capacidad de cálculo, por lo que no todos pueden ejecutar las mismas tareas. Por ello la empresa ha desarrollado tres versones de Gemini, en función de su uso y, sobre todo, del dónde se vayan a correr.
+La respuesta a esta pregunta está en continuo desarrollo, porque Google ha pasado de no querer lanzar herramientas de IA para el gran público al polo radicalmente opuesto. En principio, Gemini estará disponible en aplicaciones web, en dispositivos físicos e integrado en productos ya lanzados.
+
+
+                                    Interfaz de Circle To Search en el Samsung S24 Ultra
+                            
+
+Por ejemplo, es posible usar Gemini Pro en la versión de Bard que está operativa en 170 países desde hace unos días. También se puede usar, en su versión Nano, en los Pixel 8 Series o en los Samsung Galaxy S24 Series. Por último, hay anuncios de que Gemini estará integrado en aplicaciones de Google, como Chrome, dentro de unos meses. La versión Ultra, por ahora, sólo está accesible en modo de pruebas para unos pocos desarrolladores.
+Gemini nació como un modelo grande de lenguaje, uno de los muchos que Google ha desarrollado. Es el más potente, pero no se ha creado para que el usuario final interactúe con él. Para ello se diseñan interfaces, que pueden estar embebidas en otras aplicaciones, como Google Fotos o Chrome, o crearse expresamente para ello.
+
+Manuel Ramírez
+El Androide libre
+
+Este último es el caso de Bard, que es una interfaz de texto desde la que una persona puede usar los modelos de Gemini. En concreto ahora se usa Gemini Pro, pero quizás eso cambie en el futuro. Eso sí, hace unos días Google ha decidido cambiar el nombre de Bard por Gemini, por lo que actualmente esta nomenclatura hace referencia tanto al modelo de lenguaje como a la interfaz sobre la que actúan los usuarios.
+Gemini es mucho más potente actualmente de lo que es el asistente de Google. Las capacidades están mucho más avanzadas, aunque el asistente aún cuenta con una integración con marcas de domótica que, por ahora, Gemini no tiene. Le pasa algo similar a lo que le pasa a ChatGPT, que puede comunicarse de forma mucho más fluida y correcta que el asistente de Google o Alexa, pero que no puede sustituirlos plenamente.
+
+
+Asistente de Google con Gemini
+
+9to5google
+
+No obstante, Google ya ha anunciado que Gemini podrá sustituir en los móviles al asistente de Google. Por el momento este cambio sólo se va a realizar en algumos mercados, y los europeos no están entre ellos. En los países donde sí se realice el cambio se lanza una aplicación para usar Gemini de forma independiente, mediante texto o imágenes. Esta aplicación tendrá la capacidad de gestionar llamadas o programar alertas y, en el futuro, estará integrada también en otras aplicaciones. Eso sí, este nuevo lanzamiento sólo estará disponible en móviles mientras que en sus altavoces inteligentes se mantendrá el asistente de Google que ya se conoce. Al parecer la empresa seguirá manteniendo el asistente, pero dedicará sus mayores esfuerzos a Gemini.
+Como es lógico, en Google quieren que los desarrolladores usen su modelo de lenguaje antes que los de la competencia. Para ello han dado acceso a los mismos a Gemini Pro mediante Google AI Studio, una herramienta web gratuita para desarrolladores que permitirá crear prototipos y crear aplicaciones que usen la API de Gemini.
+
+
+                                    Logo de Gemini en un móvil Samsung
+                            
+
+También llevarán la IA a la nube mediante Vertex AI, una plataforma para el control de datos y funciones adicionales de Google Cloud centrada en la seguridad empresarial, privacidad... Por último, los desarrolladores de aplicaciones Android podrán usar Gemini Nano, el modelo que corre directamente en dispositivos móviles.
+Actualmente en España las opciones de usar Gemini (móviles, webs...) son gratuitas. Sin embargo, recientemente se ha anunciado en Estados Unidos, sólo disponible en inglés, Gemini Advanced, una versión de pago con la que se tendrá acceso a Ultra 1.0, el motor más avanzado de esta inteligencia artificial.
+El precio será de 19,99 dólares al mes y habrá una prueba gratuita de dos meses. El paquete mensual de Google One en el que se incluye se denominará Google One AI Premium Plan e incluirá además 2 TB de almacenamiento en Gmail, Drive y Fotos, funciones de edición avanzadas de imágenes y acceso sin limitaciones a Google Meet.
+Adiós a los cargadores: el invento del Lidl para cargar dos móviles a la vez por menos de 12 euros que arrasa en España
+Un termostato para potenciar el calor de los radiadores que se controla con el móvil: el chollo de Lidl que arrasa en España
+Lo nuevo de Samsung va a ser una revolución para los móviles plegables: soluciona el gran problema de la batería
+Elon Musk entra en pánico: la nueva función de X intenta ocultar la migración de usuarios a Bluesky, el 'Twitter de siempre'
+
+
+                        El genial invento español que convierte cualquier móvil en un estetoscopio médico
+                    
+
+                        La carga invisible o cómo Samsung quiere ayudarnos en las tareas de hogar
+                    

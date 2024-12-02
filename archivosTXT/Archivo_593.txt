@@ -1,0 +1,36 @@
+Cómo decir no a nuestros caciques de la IA - Infobae
+Autor desconocido
+infobae.com
+
+1 Dic, 2024
+Por  Brian X. Chen
+(Circuits); (Tech Fix)
+Grandes marcas tecnológicas como Google, Apple, Microsoft y Meta han desatado una tecnología que describen como inteligencia artificial. Pronto, dicen las empresas, todos utilizaremos la inteligencia artificial para escribir correos electrónicos, generar imágenes y resumir artículos.
+Pero, para empezar, ¿quién pidió todo esto?
+A juzgar por los comentarios que recibo de los lectores de esta columna, muchas personas ajenas a la industria tecnológica siguen sin interesarse por la IA, y cada vez se sienten más frustradas por lo difícil que se ha vuelto ignorarla. Las empresas se basan en la actividad de los usuarios para entrenar y mejorar sus sistemas de IA, por lo que están probando esta tecnología dentro de productos que utilizamos a diario.
+Si escribes una pregunta como "¿Es zurdo Jay-Z?", en Google, aparecerá un resumen de la respuesta generado por la IA en la parte superior de los resultados de búsqueda. Y cada vez que utilices la herramienta de búsqueda dentro de Instagram, es posible que estés interactuando con Meta AI, el chatbot de Meta. Además, cuando Apple Intelligence, el conjunto de herramientas de IA de Apple, llegue a los iPhones y otros productos de Apple a través de actualizaciones de software este mes, la tecnología aparecerá dentro de los botones que utilizamos para editar texto y fotos.
+La proliferación de la IA en la tecnología para el consumidor tiene implicaciones significativas para la privacidad de nuestros datos, porque las empresas están interesadas en poner juntas y analizar nuestras actividades digitales, incluidos los detalles de nuestras fotos, mensajes y búsquedas en internet, para mejorar los sistemas de IA. Para los usuarios, las herramientas pueden ser simplemente una molestia cuando no funcionan bien.
+"Hay una auténtica desconfianza en este material, pero aparte de eso, es un problema de diseño", afirma Thorin Klosowski, analista de privacidad y seguridad de Electronic Frontier Foundation, una organización sin ánimo de lucro dedicada a los derechos digitales, y exeditor de Wirecutter, la web de reseñas propiedad de The New York Times. "Es feo y estorba".
+Es útil saber cómo excluirse. Después de ponerme en contacto con Microsoft, Meta, Apple y Google, me ofrecieron pasos para desactivar sus herramientas de IA o la recopilación de datos, siempre que fuera posible. Te guiaré a través de esos pasos.
+Google
+El producto de inteligencia artificial más destacado de Google, AI Overviews, genera automáticamente un resumen que intenta responder las preguntas que se introducen en una búsqueda de Google. La función tuvo un debut accidentado en mayo --cuando, entre otros errores, la IA de Google dijo a los usuarios que podían poner pegamento en la pizza--, pero desde entonces ha mejorado.
+Aun así, los resúmenes hechos con IA pueden distraer, y no hay forma de desactivarlos para que no se carguen, pero puedes pulsar un botón para filtrarlos. Después de escribir algo como "receta de galletas con chispas de chocolate" en una barra de búsqueda, pulsa la pestaña "Web" para ver una lista de resultados de búsqueda sencillos, justo como solía ser la búsqueda de Google.
+En cuanto a los datos de búsqueda, los usuarios pueden evitar que Google guarde un registro de sus búsquedas web visitando myactivity.google.com y desactivando "actividad web y de aplicaciones".
+Google también tiene un chatbot de IA, Gemini, y la configuración para evitar que almacene datos se puede encontrar en myactivity.google.com/product/gemini.
+Meta
+En abril, Meta AI, un chatbot capaz de buscar vuelos, generar imágenes y preparar recetas, empezó a aparecer en la barra de búsqueda de las aplicaciones de Meta, como Instagram, WhatsApp y Messenger. Según Meta, los usuarios no pueden desactivar Meta AI.
+Solo en regiones con leyes de protección de datos más estrictas, como la Unión Europea y el Reino Unido, los ciudadanos pueden denegar a Meta el acceso a su información personal para generar y entrenar la IA de Meta.
+En Instagram, por ejemplo, las personas que vivan en esos lugares pueden hacer clic en "configuración", luego en "acerca de" y "política de privacidad", lo que los llevará a las instrucciones de exclusión. Todos los demás, incluidos los usuarios de Estados Unidos, pueden visitar esta página de soporte para pedir a Meta que elimine únicamente los datos utilizados por terceros para desarrollar su IA.
+Microsoft
+El chatbot de inteligencia artificial de Microsoft, Copilot, puede activarse pulsando un botón color arco iris integrado en algunos productos como el navegador Edge y la búsqueda Bing.
+La forma más sencilla de evitar el chatbot es no hacer clic en ese botón. Pero, si quieres eliminarlo del navegador Edge, puedes introducir edge://settings en la barra de direcciones y hacer clic en "Sidebar", luego en "Configuración de aplicaciones y notificaciones" y, por último, en "Copilot", donde deberás desactivar el ajuste Copilot.
+Si quieres evitar que Copilot utilice tus datos para entrenar a la IA, tienes que visitar copilot.microsoft.com y entrar en el menú de privacidad de la configuración de la cuenta, donde puedes desactivar una opción llamada "Entrenamiento de modelos".
+Un consejo extra para los usuarios de LinkedIn, la red social de Microsoft para profesionales: el sitio hace poco empezó a utilizar todo lo que se publica en él para entrenar su sistema de inteligencia artificial, que podría llegar a utilizarse para ayudar a la gente a encontrar nuevos empleos.
+Para evitar que LinkedIn utilice tu contenido, entra en la pestaña de Configuración y Privacidad bajo tu perfil, haz clic en la pestaña "Privacidad de datos" y haz clic en "Datos para la mejora de GenAI". A continuación, desactiva el interruptor.
+(El Times demandó a Microsoft y a su socio OpenAI el año pasado por utilizar sin permiso artículos de noticias protegidos por derechos de autor para entrenar chatbots).
+Apple
+La suite de servicios de IA de Apple, Apple Intelligence, se lanzará este mes en un estado inacabado a través de actualizaciones de software en algunos iPhones, iPads y Macs. Para utilizar Apple Intelligence, los usuarios tendrán que optar a través de un menú etiquetado como "Apple Intelligence & Siri".
+Una vez activadas, algunas de las funciones aparecerán dentro de las herramientas de edición de texto y fotos: al editar una foto, por ejemplo, hay un botón de "Limpiar" para eliminar automáticamente las personas que no deseas en las fotos.
+Si cambias de opinión y ya no quieres utilizar la Inteligencia de Apple, puedes volver a la configuración y desactivar el interruptor de Inteligencia de Apple, lo que hace que las herramientas desaparezcan.
+Apple afirma que ha ideado un sistema que protege la privacidad de los usuarios, en el que los datos enviados a sus servidores son inaccesibles para Apple. Según la empresa, los datos se utilizan exclusivamente para procesar solicitudes del usuario, como una pregunta compleja formulada a Siri, antes de que la información se elimine de sus servidores.
+Google, Microsoft y Meta nos están metiendo chatbots de inteligencia artificial en todas partes. A veces, puedes optar por no utilizar ni entrenar sus sistemas. (Derek Abella/The New York Times)

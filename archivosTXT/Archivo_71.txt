@@ -1,0 +1,53 @@
+5 ejemplos de deep learning en la vida diaria - Brita Inteligencia Artificial
+Wario Duckerman
+brita.mx
+
+Published By: Wario Duckerman
+Published On: octubre 23, 2021
+Published In:                                    	        
+Deep Learning
+
+
+El deep learning o aprendizaje profundo, un zumbido en el campo de la inteligencia artificial, es el subconjunto del aprendizaje automático. Enseña a las computadoras a aprender de los ejemplos para realizar una tarea que es intuitiva para los humanos. También se conoce como red neuronal profunda o aprendizaje neuronal profundo.
+En el aprendizaje profundo, las redes neuronales tienen un papel importante. Estos son un conjunto de algoritmos que implementamos para identificar relaciones relevantes en conjuntos de datos y siguen el proceso que imita al cerebro humano. Las redes neuronales representan el comportamiento del cerebro humano y permiten que los algoritmos informáticos identifiquen tendencias. También resuelve problemas complejos en el dominio del aprendizaje automático, la inteligencia artificial y la ciencia de datos.
+El aprendizaje profundo implementa redes neuronales artificiales para reconocer los patrones ocultos de datos en el conjunto de datos proporcionado. Estos algoritmos se entrenan durante un período de tiempo adecuado y se aplican a un conjunto de datos.
+El aprendizaje profundo utiliza redes neuronales artificiales (ANN) para encontrar los patrones ocultos. Estos patrones son la conexión entre varias variables presentes en un conjunto de datos.
+Los algoritmos ANN se entrenan sobre un gran volumen de datos de muestra y luego se aplican a un nuevo conjunto de datos. Estos algoritmos estimulan la forma de procesar la información y comunican experiencias similares al sistema nervioso biológico.
+El aprendizaje profundo se ha convertido en parte de nuestra vida cotidiana: desde los motores de búsqueda hasta los automóviles autónomos que exigen una gran potencia computacional.
+Echemos un vistazo rápido a algunos de los casos de uso de Deep Learning:
+“Los coches autónomos son la extensión natural de la seguridad activa y, obviamente, algo que deberíamos hacer”. -Elon Musk.
+Una de las tecnologías fascinantes, los autos autónomos, están diseñados utilizando redes neuronales profundas de alto nivel, donde estos autos usan algoritmos de aprendizaje automático . Detectan objetos alrededor del automóvil, la distancia entre el automóvil y otros vehículos, la ubicación de la acera, identifican las señales de tráfico, determinan la condición del conductor, etc.
+Por ejemplo, Tesla es la marca más confiable que ofrece autos automatizados y autónomos en el mercado.
+El análisis de sentimientos es el proceso de comprender / analizar los sentimientos de los clientes a través del procesamiento del lenguaje natural, el análisis de texto y las estadísticas. Una empresa trata de comprender los sentimientos de los clientes basándose en lo que dicen las personas y cómo lo expresan para comprender lo que los clientes sienten acerca de esa empresa. También pueden clasificar las declaraciones como impresiones positivas, negativas o neutrales. Específicamente, las empresas pueden encontrar los sentimientos de los clientes en forma de tweets, comentarios, reseñas, etc.
+Una empresa acumula estos sentimientos en formato estructurado o no estructurado, de diversas fuentes como Twitter, Facebook, etc. Los datos estructurados son datos organizados y fáciles de analizar. Puede ser en forma de encuesta, comentarios de los clientes, conversación, datos del centro de llamadas, etc.
+Los datos no estructurados son los conjuntos de datos que una empresa / individuo no posee. Son simplemente la información que se recopila de fuentes externas o fuentes independientes. Por ejemplo: datos de pacientes con Covid-19 recopilados por fuentes independientes.
+El aprendizaje profundo es ideal para el análisis de sentimientos, la clasificación de sentimientos, la extracción de opiniones / evaluaciones, el análisis de emociones y muchos más.
+Hay mucho uso de asistentes personales virtuales. Solo actúan o realizan lo que usted les dice que hagan. Por ejemplo, los asistentes personales son significativamente convenientes en chatbots, sitios web de capacitación en línea, instructores de capacitación en línea, aplicaciones de transporte, etc.
+Sus principales aplicaciones son el reconocimiento de voz, el reconocimiento de voz a texto y viceversa con el procesamiento del lenguaje natural. Dichos ejemplos incluyen Siri, Cortana, Amazon Alexa, Google Assistant, Google Home, etc.
+Twitter implementa algoritmos de aprendizaje profundo para mejorar su producto. Acceden y analizan una gran cantidad de datos a través de la red neuronal profunda para aprender con el tiempo sobre las posibilidades de las preferencias del usuario.
+Instagram utiliza el aprendizaje profundo para evitar el ciberacoso, borrando comentarios molestos.
+Facebook utiliza el aprendizaje profundo para recomendar páginas, amigos, productos, etc. Además, Facebook utiliza el algoritmo ANN para el reconocimiento facial que hace plausible el etiquetado perfecto.
+El aprendizaje profundo es la tendencia de rápido aumento en la atención médica. Por ejemplo, los sensores y dispositivos portátiles que utilizan datos del paciente para proporcionar información en tiempo real sobre las condiciones del paciente, como el estado de salud general, el nivel de azúcar en sangre, la presión arterial, el recuento de latidos y varias otras medidas, utilizan el aprendizaje profundo.
+Los organismos médicos pueden acceder a esta información para examinar el estado de salud de cada paciente. Y también derivar patrones de los datos médicos previos de un paciente y anticipar la aparición de cualquier síndrome en el futuro.
+Esta tecnología también ayuda a los expertos médicos a analizar datos y reconocer tendencias que aceleran la mejora de los diagnósticos médicos y la atención al paciente.
+Además, el aprendizaje profundo también es útil en las empresas farmacéuticas y médicas para diversos fines, como el diagnóstico conveniente, la segmentación de imágenes. Por ejemplo, la red neuronal convencional (CNN) se puede utilizar para analizar imágenes como resultados de resonancia magnética, rayos X, etc.
+El extenso despliegue de big data, potencia computacional y arquitectura de redes neuronales profundas ha mejorado los modelos estadísticos convencionales para predecir el conocimiento optimizado.
+En lugar de tantos ejemplos usados ​​en la vida diaria, muchos usuarios aún no se dan cuenta de la importancia de las aplicaciones de aprendizaje profundo para mejorar su vida diaria.
+En la actualidad, cada vez más organizaciones están adoptando los avances de big data y tecnologías avanzadas como inteligencia artificial, aprendizaje automático, IoT, etc., para seguir siendo competitivas en las respectivas industrias. Además de eso, aprenda aplicaciones más populares del aprendizaje automático en la vida diaria.
+Brita Inteligencia Artificial en México
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con *
+
+
+
+
+ Guarda mi nombre, correo electrónico y web en este navegador para la próxima vez que comente.
+ 
+
+
+Ofrecemos consultoría y desarrollo de soluciones con Inteligencia Artificial en México para ayudar a las organizaciones a automatizar y optimizar sus procesos.
+Política de privacidad
+Brita Inteligencia Artificial México
+Av. Paseo de la Reforma 296, Juárez, Cuauhtémoc, 06600 Ciudad de México, CDMX
+Email: contacto@brita.mx
+Brita Inteligencia Artificial
+Compañía de Inteligencia Artificial México 2023

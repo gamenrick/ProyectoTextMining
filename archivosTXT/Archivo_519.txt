@@ -1,0 +1,51 @@
+Cómo funciona LaMDA, el sistema de inteligencia artificial que "cobró conciencia y siente" según un ingeniero de Google - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+Una máquina pensante y sintiente. 
+Así se refirió Blake Lemoine, el ingeniero de Google, a LaMDA, el sistema de inteligencia artificial de Google. Se hizo viral. Lo leímos en todos lados. 
+Pero, ¿cómo es esta "máquina"?
+Con referencias a película de ciencia de ficción antigua, se podría imaginar a LaMDA como un robot que toma forma humana, abre los ojos, toma conciencia y habla. O como HAL-9000, la súper computadora de 2001 A Space Odissey y que en Los Simpsons, a modo de parodia, tiene la voz de Pierce Brosnan, ama a Marge y quiere matar a Homero. 
+La realidad es un poco más compleja: LaMDA es un cerebro artificial, está alojado en la nube, su alimentación son millones de textos y se autoentrena.
+Pero, a la vez, es como un loro.
+¿Complejo? Vamos a tratar de despiezarlo para entenderlo mejor. 
+El LaMDA (Language Model for Dialogue Applications, modelo de lenguaje para aplicaciones de diálogo en español) fue diseñado por Google en 2017 y tiene como base un transformer, es decir, un entramado de redes neuronales artificiales profundas.
+Fuente de la imagen, Getty Images
+"Esta red neuronal se entrena con grandes cantidades de texto. Pero el aprendizaje es por objetivo y se plantea como un juego. Tiene una frase completa pero le quitas una palabra y el sistema tiene que adivinarla", explica Julio Gonzalo Arroyo, catedrático de la UNED (Universidad Nacional de Educación a Distancia) en España e investigador principal del Departamento de procesamiento del lenguaje natural y recuperación de la información. 
+Juega consigo mismo. El sistema pone palabras por ensayo y error y, cuando se equivoca, como si fuera un cuadernillo de actividades infantiles, mira en las últimas páginas, ve la respuesta correcta y así va corrigiendo los parámetros, afinando.
+A la vez, "identifica el significado de cada palabra y pone atención a las palabras que la rodean", sostiene Gonzalo Arroyo. 
+Así se vuelve especialista en predecir patrones y palabras. Como ocurre con el texto predictivo en tu teléfono celular, solo que aquí ampliado a la enésima potencia, con una memoria mucho mayor. 
+Pero LaMDA también crea respuestas fluidas, no acartonadas y, según Google, con la capacidad de recrear el dinamismo y reconocer los matices de una conversación humana. En resumidas cuentas: que no suenen a robot.
+Fuente de la imagen, Getty Images
+Esta fluidez es uno de los objetivos de Google, tal y como indican en su blog de tecnología. Y la consiguen, dicen, fijándose en que las respuestas sean de calidad, que sean específicas y haya interés.
+Para que tengan calidad, deben tener sentido. Por ejemplo, si le digo a LaMDA "He empezado a tocar la guitarra" debería responder algo relacionado a esto y no cualquier cosa sin sentido. 
+Para que cumpla el segundo objetivo no debería contestar un "Está bien", sino algo tipo más específico como "Qué marca de guitarra te gusta más, ¿Gibson o Fender?". 
+Y para que el sistema dé respuestas que muestren interés, perspicaces, ya iría a un nivel más elevado como por ejemplo: "Una Fender Stratocaster es una buena guitarra, pero la Red Special de Brian May es única".
+¿Cuál es el secreto para dar respuestas con ese nivel de detalle? Como decíamos, se autoentrena. "Después de leer billones de palabras tiene una capacidad extraordinaria para intuir cuáles son las palabras más adecuadas en cada contexto."
+Fuente de la imagen, Getty Images
+Para los expertos en Inteligencia Artificial, transformers como LaMDA han supuesto un hito porque "permiten un procesamiento (de información, de textos) muy eficiente y han producido una auténtica revolución en el campo del Procesamiento del Lenguaje Natural". 
+Otro de los objetivos en el entrenamiento de LaMDA, según Google, es que no cree "contenido violento o sangriento, promueva calumnias o estereotipos de odio hacia grupos de personas, o que contengan blasfemias", según contemplan en su blog sobre inteligencia artificial (AI). 
+También se busca que las respuestas estén basadas en hechos y haya fuentes externas conocidas. 
+"Con LaMDA estamos adoptando un enfoque comedido y cuidadoso para tener más en cuenta las preocupaciones válidas sobre la imparcialidad y la veracidad", dice Brian Gabriel, portavoz de Google. 
+Sostiene que el sistema ha pasado por 11 revisiones distintas de los Principios de la AI "junto con una rigurosa investigación y pruebas basadas en métricas clave de calidad, seguridad y la capacidad del sistema para producir declaraciones basadas en hechos".
+¿Cómo se logra que un sistema como LaMDA no tenga sesgo ni mensajes de odio?
+"La clave es seleccionar con qué datos (con qué fuentes textuales) se le alimenta", señala Gonzalo.
+Pero no es sencillo: "Nuestra forma de comunicarnos refleja nuestros sesgos, y a su vez las máquinas los aprenden. Es difícil eliminarlos de los datos de entrenamiento sin quitarles representatividad", explica.
+Es decir, pueden aparecer sesgos. 
+Fuente de la imagen, Getty Images
+"Si le das noticias de la reina Letizia (de España) y en todas se comenta qué vestimenta lleva, es posible que, cuando se le pregunte al sistema por ella, repita este patrón machista y hable de la ropa y no de otras cosas", señala el experto. 
+En 1966 se diseño un sistema, ELIZA, que aplicaba patrones muy sencillos para simular el diálogo de un psicoterapeuta. "El sistema animaba al paciente a contarle más, fuera lo que fuera el tema de conversación, y disparaba patrones del tipo 'si menciona la palabra familia, pregúntale cómo es la relación con su madre'", cuenta Gonzalo.
+Hay gente que llegó a pensar que ELIZA era realmente un terapeuta: hasta afirmaban que les había ayudado. 
+"Los humanos somos relativamente fáciles de engañar", sostiene Gonzalo, para quien la afirmación de Lemoine de que LaMDA ha cobrado conscienca de sí misma "es una exageración". 
+A juicio del profesor Gonzalo, afirmaciones como la de Lemoine no ayudan a un debate sano sobre la Inteligencia Artificial.
+"Escuchar ese tipo de chorradas (tonterías) no beneficia.Corremos el riesgo de que la gente le tome manía y piense que estamos en modo Matrix y que las maquinas son más listas y que van a acabar con nosotros. Eso es remoto, es utópico. No creo que ayude a tener una conversación templada sobre los beneficios de la Inteligencia Artificial". 
+Porque, aunque la conversación sea fluida, de calidad y específica, "no es más que una gigantésca fórmula que ajusta los parámetros para predecir mejor la siguiente palabra. No tiene ni idea de lo que está hablando". 
+La respuesta de Google es similar. "Estos sistemas imitan los tipos de intercambios que se encuentran en millones de frases, y pueden versar sobre cualquier tema fantástico: si les preguntas cómo es ser un dinosaurio helado, pueden generar textos sobre el derretimiento y el rugido, etc.", cuenta Gabriel, de Google.
+Las investigadoras Emily Bender o Timnit Gebru se han referido a estos sistemas de creación de lenguaje como 'loros estocásticos', que repiten al azar. 
+Así, como dijeron los investigadores Ariel Guersenvaig y Ramón Sangüesa, transformers como LaMDA entienden tanto lo que escriben como un loro que canta el tango El día que me quieras. 
+Ahora puedes recibir notificaciones de BBC Mundo. Descarga la nueva versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube
+Contenido no disponible
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

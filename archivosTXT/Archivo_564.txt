@@ -1,0 +1,95 @@
+La inteligencia artificial puede representar una amenaza "de extinción" para la humanidad y EE.UU. debe intervenir, advierte informe | CNN
+Matt Egan
+cnn.com
+
+
+(CNN) –– Un nuevo informe que encargó el Departamento de Estado de EE.UU. revela un panorama alarmante sobre los riesgos “catastróficos” que representa la inteligencia artificial, en rápida evolución, para la seguridad nacional, y advierte que se agota el tiempo para que el gobierno federal evite el desastre.
+    
+
+            Los hallazgos se basaron en entrevistas con más de 200 personas durante más de un año, entre ellas altos ejecutivos de empresas líderes de inteligencia artificial, investigadores de ciberseguridad, expertos en armas de destrucción masiva y funcionarios de seguridad nacional dentro del Gobierno.
+    
+
+            El informe, que publicó Gladstone AI esta semana, afirma rotundamente que los sistemas más avanzados de inteligencia artificial podrían, en el peor de los casos, “representar una amenaza de extinción para la especie humana”.
+    
+
+            Un funcionario del Departamento de Estado de EE.UU. confirmó a CNN que la agencia encargó el reporte como parte de sus evaluaciones constantes sobre cómo la IA se alinea a proteger los objetivos de Estados Unidos en el país y en el extranjero. Sin embargo, el funcionario dijo que el reporte no representa los puntos de vista del Gobierno estadounidense.
+    
+
+            La advertencia del informe llega como otro recordatorio de que, aunque el potencial de la IA sigue cautivando a los inversores y al público, también plantea peligros reales.
+    
+
+            “La inteligencia artificial ya es una tecnología económicamente transformadora. Podría permitirnos curar enfermedades, hacer descubrimientos científicos y superar desafíos que alguna vez pensamos que eran insuperables”, dijo Jeremie Harris, CEO y cofundador de Gladstone AI, a CNN este martes.
+    
+
+            “Pero también podría traer riesgos graves, incluidos peligros catastróficos, de los que debemos ser conscientes”, aclaró Harris. “Y un creciente conjunto de evidencia ––incluyendo investigaciones y análisis empíricos publicados en las principales conferencias de IA del mundo–– sugiere que por encima de un cierto umbral de capacidad, las inteligencias artificiales podrían volverse potencialmente incontrolables”.
+    
+
+            El portavoz de la Casa Blanca, Robyn Patterson, dijo que el decreto del presidente Joe Biden sobre la inteligencia artificial es la “acción más significativa que cualquier gobierno del mundo ha tomado para asumir la promesa y gestionar los riesgos de la IA”.
+    
+
+            “El presidente y el vicepresidente seguirán trabajando con nuestros aliados internacionales e instarán al Congreso a aprobar una legislación bipartidista para gestionar los riesgos asociados con estas tecnologías emergentes”, dijo Patterson.
+    
+
+            Los investigadores advierten sobre dos peligros centrales que la IA plantea en términos generales.
+    
+
+            En primer lugar, señaló Gladstone AI, los sistemas más avanzados de inteligencia artificial podrían usarse como armas para infligir daños potencialmente irreversibles. En segundo lugar, el informe destaca que hay preocupaciones privadas dentro de los laboratorios de IA acerca de que en algún momento puedan “perder el control” de los mismos sistemas que están desarrollando, con “consecuencias potencialmente devastadoras para la seguridad global”.
+    
+
+            “El aumento de la IA y la AGI [inteligencia general artificial] tiene el potencial de desestabilizar la seguridad mundial de maneras que recuerdan a la introducción de armas nucleares”, aseveró el informe. Y añadió que existe el riesgo de una “carrera armamentista” de la IA, de un conflicto y de “accidentes mortales a la escala de las armas de destrucción masiva”.
+    
+
+            En ese sentido, el informe de Gladstone AI pide nuevas medidas drásticas destinadas a enfrentar esta amenaza, entre ellas el lanzamiento de una nueva agencia de IA, la imposición de salvaguardias regulatorias de “emergencia” y límites a la cantidad de potencia informática que se puede utilizar para entrenar modelos de inteligencia artificial.
+    
+
+            “Existe una necesidad clara y urgente de que el Gobierno de Estados Unidos intervenga”, escribieron los autores del informe.
+    
+
+            El reporte señala que, aunque el trabajo se produjo para el Departamento de Estado, sus opiniones “no reflejan” las de la agencia ni las del gobierno de Estados Unidos en general.
+    
+
+            Un aviso gubernamental que emitió la Oficina para la No Proliferación y Fondos de Desarme del Departamento de Estado en 2022 muestra que el Gobierno ofreció pagar hasta 250.000 dólares por una evaluación de los “riesgos de proliferación y seguridad” relacionados con la inteligencia artificial avanzada.
+    
+
+            Harris, el CEO de Gladstone AI, dijo que el “nivel de acceso sin precedentes” que tuvo su equipo a funcionarios del sector público y privado llevó a conclusiones sorprendentes. Gladstone AI detalló que habló con los equipos técnicos y de liderazgo del propietario de ChatGPT, OpenAI; con Google DeepMind; con la empresa matriz de Facebook, Meta, y con Anthropic.
+    
+
+            “A lo largo del camino, aprendimos algunas cosas aleccionadoras”, dijo Harris en un video publicado en el sitio web de Gladstone AI en el que anunció el informe. “Detrás de escena, la situación de seguridad en la IA avanzada parece bastante inadecuada en relación con los riesgos de seguridad nacional que la IA puede plantear bastante pronto”.
+    
+
+            El informe de Gladstone AI dice que las presiones competitivas están impulsando a las empresas a acelerar el desarrollo de la inteligencia artificial “a expensas de la seguridad”, lo que plantea la posibilidad de que los sistemas de IA más avanzados puedan ser “robados” y “utilizados como armas” contra Estados Unidos.
+    
+
+            Las conclusiones se suman a una lista creciente de advertencias sobre los riesgos existenciales que plantea la IA, incluidas las de algunas de las figuras más poderosas de la industria.
+    
+
+            Hace casi un año, Geoffrey Hinton, conocido como el “padrino de la inteligencia artificial”, renunció a su trabajo en Google y denunció la tecnología que él mismo ayudó a desarrollar. Hinton ha dicho que hay un 10% de posibilidades de que la IA lleve a la extinción humana en las próximas tres décadas.
+    
+
+            Hinton y decenas de otros líderes de la industria de la IA, además de académicos y otros, firmaron una declaración en junio de 2023 que decía que “mitigar el riesgo de extinción de la inteligencia artificial debería ser una prioridad global”.
+    
+
+            Los líderes empresariales están cada vez más preocupados por estos peligros, aún cuando invierten miles de millones de dólares en IA. El año pasado, el 42% de los directores ejecutivos encuestados en la Cumbre de Directores Generales de Yale el año pasado dijeron que la inteligencia artificial tiene el potencial de destruir a la humanidad dentro de cinco a diez años.
+    
+
+            En su informe, Gladstone AI destacó algunas de las personas prominentes que han advertido sobre los riesgos existenciales que plantea la IA, incluidos Elon Musk, la presidenta de la Comisión Federal de Comercio, Lina Khan, y un alto exejecutivo de OpenAI.
+    
+
+            Algunos empleados de empresas de inteligencia artificial comparten preocupaciones similares en privado, según Gladstone AI.
+    
+
+            “Un individuo de un conocido laboratorio de IA expresó la opinión de que, si un modelo específico de inteligencia artificial de próxima generación alguna vez fuera lanzado como acceso abierto, esto sería ‘horriblemente malo’”, decía el informe, “porque el potencial persuasivo del modelo podría ‘quebrantar la democracia’ si alguna vez se aprovechara en áreas como la interferencia electoral o la manipulación de votantes”.
+    
+
+            Gladstone dijo que pidió a los expertos en IA de los laboratorios fronterizos que compartieran en privado sus estimaciones personales sobre la posibilidad de que un incidente de IA pudiera provocar “efectos globales e irreversibles” en 2024. Las estimaciones oscilaron entre el 4% y hasta el 20%, según el informe, que señala que las estimaciones fueron informales y probablemente sujetas a un sesgo significativo.
+    
+
+            Uno de los mayores comodines es la rapidez con la que evoluciona la IA, específicamente la AGI, que es una forma hipotética de inteligencia artificial con una capacidad de aprendizaje similar a la humana o incluso a la sobrehumana.
+    
+
+            El informe dice que la AGI se considera el “principal impulsor del riesgo catastrófico por pérdida de control” y destaca que OpenAI, Google DeepMind, Anthropic y Nvidia han declarado públicamente que el AGI podría alcanzarse en 2028, aunque otros piensan que está mucho, mucho más lejos.
+    
+
+            Gladstone AI señala que los desacuerdos sobre los cronogramas de AGI dificultan el desarrollo de políticas y salvaguardias y existe el riesgo de que, si la tecnología se desarrolla más lentamente de lo esperado, la regulación pueda “resultar perjudicial”.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

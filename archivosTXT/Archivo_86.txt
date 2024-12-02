@@ -1,0 +1,55 @@
+Contexto histórico del Deep Learning [2024]
+Autor desconocido
+keepcoding.io
+
+ +34 916 331 779
+
+		Algunos de nuestros reconocimientos:
+	
+Home » Blog » Contexto histórico del Deep Learning
+Saber cuál es el contexto histórico del Deep Learning es de suma importancia dentro del manejo de los macrodatos, ya que el aprendizaje profundo o Deep Learning (DL) es un subcampo del Machine Learning, uno de los campos más amplios y fundamentales.
+En suma, el Deep Learning soluciona el problema de la elección de características, que también es llamado aprendizaje jerárquico. La magia está en que ya no necesitamos volvernos locos buscando las mejores características o atributos para cada problema, ya que ahora esto lo hace automáticamente nuestro algoritmo.
+De manera que el Deep Learning aprende distintas representaciones de los datos que se introducen en un clasificador final. Por esta razón, en este artículo, te exponemos todo el contexto histórico del Deep Learning.
+Probablemente muchas personas piensan que el área del Deep Learning y las redes neuronales es una novedad, pero ¡nada más lejos de la realidad! Por ello, es importante conocer el contexto histórico del Deep Learning.
+De hecho, la primera red neuronal data de 1958. El problema es que no había potencia de cálculo suficiente para poder progresar hasta hace relativamente poco, con la popularización de las GPUs de altas prestaciones.
+Así, para el contexto histórico del Deep Learning, estos son los hechos más importantes que han ocurrido en el campo de la IA (Inteligencia Artificial):
+Como podéis ver, la Inteligencia Artificial no es ni mucho menos nueva, lleva mucho tiempo entre nosotros, sufriendo altibajos como consecuencia de las altas expectativas depositadas y los “pocos” avances conseguidos.
+Desde 1974 hasta nuestros días, ha habido épocas mejores y peores. Para este contexto histórico del Deep Learning, algunos de los hechos más relevantes hasta 2006 son:
+Tras esta época de luces y sombras y gracias, entre otras cosas, a la disponibilidad de mucha más potencia de cálculo y de datos, desde 2006 hasta la fecha ha habido una explosión del Machine Learning. El contexto histórico del Deep Learning continúa:
+Por medio de este post, te has podido acercar a cuál es el contexto histórico del Deep Learning, sin embargo, este es un campo sumamente amplio. Por este motivo, desde KeepCodging te presentamos el Big Data, Inteligencia Artificial & Machine Learning Full Stack Bootcamp, por medio del que podrás aprender mucho más sobre este servicio y, en general, sobre los sistemas y herramientas más importantes en el mundo del Big Data. De esta forma, de la mano de profesionales y en menos de nueve meses, te convertirás en todo un experto y podrás conocer e identificar las alternativas de gestión de datos más apropiadas para los estudios de los macrodatos. ¡No esperes más para empezar e inscríbete ahora!
+Business Intelligence & Big Data Advisor & Coordinadora del Bootcamp en Data Science, Big Data & Machine Learning.
+
+	Posts más leídos
+
+
+
+				¿Qué es un bootcamp y cuáles son sus beneficios?			
+
+
+
+				Los 5 lenguajes de programación más usados en 2024			
+
+
+
+				Menú de navegación en HTML: Guía paso a paso			
+
+Bootcamps
+Bootcamp de Programación desde Cero – Full Stack Jr. 
+Bootcamp Java Full StackBootcamp en Data Science, Big Data & Machine LearningBootcamp CiberseguridadBootcamp DevOps & Cloud Computing
+Bootcamp en Desarrollo de Apps Móviles iOS Full Stack Bootcamp en Desarrollo WebBootcamp Marketing Digital y Análisis de DatosBootcamp en Blockchain y CriptoactivosBootcamp de UX/UI IA Driven
+
+Síguenos
+  
+
+Código de honor | Política de cookies | Política de Privacidad | Aviso legal | Condiciones de Contratación
+Utilizamos cookies propias y de terceros para obtener datos estadísticos de la navegación de nuestros usuarios, ofrecer marketing personalizado y mejorar nuestros servicios. Tienes más información en nuestra Política de Cookies. Puedes aprender más sobre qué cookies utilizamos o desactivarlas en los ajustes.
+¡CONVOCATORIA ABIERTA!
+Big Data, IA & Machine Learning
+Full Stack Bootcamp
+Clases en Directo | Profesores en Activo | Temario 100% actualizado
+Esta web utiliza cookies para que podamos ofrecerte la mejor experiencia de usuario posible. La información de las cookies se almacena en tu navegador y realiza funciones tales como reconocerte cuando vuelves a nuestra web o ayudar a nuestro equipo a comprender qué secciones de la web encuentras más interesantes y útiles.
+Las cookies estrictamente necesarias tiene que activarse siempre para que podamos guardar tus preferencias de ajustes de cookies.
+Si desactivas esta cookie no podremos guardar tus preferencias. Esto significa que cada vez que visites esta web tendrás que activar o desactivar las cookies de nuevo.
+Esta web utiliza Google Analytics para recopilar información anónima tal como el número de visitantes del sitio, o las páginas más populares.
+Dejar esta cookie activa nos permite mejorar nuestra web.
+¡Por favor, activa primero las cookies estrictamente necesarias para que podamos guardar tus preferencias!

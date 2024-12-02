@@ -1,0 +1,82 @@
+Deep learning vs. Machine learning: Guía para principiantes | Coursera
+Autor desconocido
+coursera.org
+
+El aprendizaje profundo (deep learning) es el aprendizaje automático (machine learning), y el aprendizaje automático es la inteligencia artificial (artificial intelligence). Pero, ¿cómo encajan (y cómo puedes empezar a aprender del tema)?
+Read in English. (Leer en inglés.)
+Aun si no estás involucrado en el mundo de las ciencias de datos, es probable que hayas escuchado los términos inteligencia artificial (IA), aprendizaje automático (machine learning) y aprendizaje profundo (deep learning) en los últimos años. A veces, se utilizan indistintamente. Aunque están relacionados, cada uno de estos términos tiene su propio significado, y son algo más que palabras de moda utilizadas para describir los carros autónomos.
+En términos generales, el deep learning es un subconjunto del machine learning, y el machine learning es un subconjunto de la IA. Se puede pensar en ellos como una serie de círculos concéntricos superpuestos, en los que la IA ocupa el más grande, seguido del aprendizaje automático y luego del aprendizaje profundo. En otras palabras, el aprendizaje profundo es la IA, pero la IA no es el aprendizaje profundo.
+
+Gracias a las representaciones de la cultura pop, desde 2001: Una Odisea del Espacio (2001: A Space Odyssey) hasta The Terminator, muchos de nosotros tenemos algún concepto de la IA. Oxford Languages define la IA como "la teoría y el desarrollo de sistemas informáticos capaces de realizar tareas que normalmente requieren inteligencia humana". Británica ofrece una definición similar: "la capacidad de un ordenador digital o de un robot controlado por ordenador para realizar tareas comúnmente asociadas con seres inteligentes."
+El aprendizaje automático y el aprendizaje profundo son ambos tipos de IA. En resumen, machine learning es la IA que puede adaptarse automáticamente con una mínima interferencia humana. Deep learning es un subconjunto del aprendizaje automático que utiliza redes neuronales artificiales para imitar el proceso de aprendizaje del cerebro humano.
+Mira estas diferencias clave antes de profundizar en ellas:
+El procesamiento del lenguaje natural (natural language processing) (NLP) es otra rama del machine learning que se ocupa de cómo las máquinas pueden entender el lenguaje humano. Puedes encontrar este tipo de machine learning en tecnologías como los asistentes virtuales (p. ej. Siri, Alexa y Google Assist), los chatbots empresariales y el software de reconocimiento de voz.
+En su nivel más básico, el campo de la inteligencia artificial utiliza la informática y los datos para permitir la resolución de problemas en las máquinas. 
+Aunque todavía no tenemos robots similares a los humanos que intenten dominar el mundo, tenemos ejemplos de IA en nuestros alrededores. Pueden ser tan sencillos como un programa informático capaz de jugar al ajedrez o tan complejos como un algoritmo capaz de predecir la estructura del RNA de un virus para ayudar a desarrollar vacunas. 
+Antes de que se desarrollara el aprendizaje automático, las máquinas o programas artificialmente inteligentes debían programarse para responder a un conjunto limitado de entradas. Deep Blue, una computadora que jugaba al ajedrez y que venció al campeón del mundo en 1997, podía "decidir" su siguiente movimiento basándose en una amplia biblioteca de posibles jugadas y resultados. Pero el sistema era puramente reactivo. Para que Deep Blue mejorara en el juego del ajedrez, los programadores tenían que añadir más funciones y posibilidades.
+Para que una máquina o un programa mejore por sí mismo sin la intervención de programadores humanos, necesitamos el aprendizaje automático.
+Machine learning se refiere al estudio de los sistemas informáticos que aprenden y se adaptan automáticamente a partir de la experiencia, sin ser programados explícitamente.
+Con la IA simple, un programador puede decirle a una máquina cómo responder a varios conjuntos de instrucciones codificando a mano cada "decisión". Con los modelos de aprendizaje automático, los informáticos pueden "entrenar" a una máquina alimentándola con grandes cantidades de datos. La máquina sigue un conjunto de reglas—llamado algoritmo—para analizar y generar conclusiones de los datos. Cuantos más datos analice la máquina, mejor podrá realizar una tarea o tomar una decisión.
+Este es un ejemplo que quizá conozcas: El servicio de streaming de música Spotify aprende tus preferencias musicales para ofrecerte nuevas sugerencias. Cada vez que indicas que te gusta una canción escuchándola hasta el final o añadiéndola a tu biblioteca, el servicio actualiza sus algoritmos para ofrecerte recomendaciones más precisas. Netflix y Amazon utilizan algoritmos de aprendizaje automático similares para ofrecer recomendaciones personalizadas.
+En 2011, IBM Watson venció a dos campeones de Jeopardy en una partida de exhibición utilizando el aprendizaje automático.
+Los programadores de Watson le dieron miles de pares de preguntas y respuestas, así como ejemplos de respuestas correctas. Cuando se le daba solo una respuesta, la máquina estaba programada para dar con la pregunta correspondiente. Si se equivocaba, los programadores la corregían. Esto permitía a Watson modificar sus algoritmos o, en cierto modo, "aprender" de sus errores.
+Cuando Watson se enfrentó a los campeones de Jeopardy, en cuestión de segundos era capaz de analizar 200 millones de páginas de información y generar una lista de posibles respuestas, clasificadas según la probabilidad de que fueran correctas, aunque nunca hubiera visto la pista de Jeopardy en cuestión.
+Mientras que los algoritmos de machine learning suelen necesitar la corrección humana cuando se equivocan, los algoritmos de deep learning pueden mejorar sus resultados mediante la repetición, sin intervención humana. Un algoritmo de machine learning puede aprender de conjuntos de datos relativamente pequeños, pero un algoritmo de deep learning requiere grandes conjuntos de datos que pueden incluir datos diversos y no estructurados.
+Piense en deep learning como una evolución del machine learning. Deep learning es una técnica de machine learning que coloca en capas algoritmos y unidades de cálculo—o neuronas—en lo que se denomina una red neuronal artificial. Estas redes neuronales profundas se inspiran en la estructura del cerebro humano. Los datos pasan a través de esta red de algoritmos interconectados de forma no lineal, de forma muy parecida a como nuestro cerebro procesa la información. 
+AlphaGo fue el primer programa que venció a un jugador de Go humano, así como el primero en vencer a un campeón mundial de Go en 2015. El Go es un juego de mesa de 3,000 años de antigüedad originario de China y conocido por su compleja estrategia. Es mucho más complicado que el ajedrez, con 10 a la potencia de 170 configuraciones posibles en el tablero.
+Los creadores de AlphaGo comenzaron introduciendo el programa en varias partidas de Go para enseñarle la mecánica. Luego empezó a jugar contra diferentes versiones de sí mismo miles de veces, aprendiendo de sus errores después de cada partida. AlphaGo llegó a ser tan bueno que se sabe que los mejores jugadores humanos del mundo estudian sus ingeniosos movimientos.
+La última versión del algoritmo AlphaGo, conocida como MuZero, puede dominar juegos como el Go, el ajedrez y el Atari sin necesidad de que le digan las reglas.
+El término big data se refiere a conjuntos de datos que son demasiado grandes para que las bases de datos relacionales tradicionales y el software de procesamiento de datos puedan gestionarlos. Las empresas generan cada día cantidades de datos sin precedentes. Deep learning es una forma de obtener valor de esos datos.
+Lee más: ¿Qué es big data? Guía para profanos
+Si esta introducción a la IA, el deep learning y el machine learning ha despertado tu interés, AI for Everyone es un curso diseñado para enseñar los fundamentos de la IA a estudiantes sin formación técnica.
+Para obtener conocimientos más avanzados y una amplia introducción a los conceptos del machine learning, comienza con el curso de Machine Learning de Andrew Ng. Luego, aprende a crear aplicaciones inteligentes con la Especialización en machine learning. Por último, construye y entrena redes neuronales artificiales en la Especialización en deep learning.
+Cuando estés listo, comienza a desarrollar las habilidades necesarias para un papel de nivel de entrada como científico de datos con el Certificado profesional de ciencia de datos de IBM, y sigue practicando tus habilidades con estos proyectos prácticos listos para el portafolio:
+
+Pipelines de machine learning con Azure ML Studio: Construye una tubería de machine learning de extremo a extremo utilizando datos del censo de ingresos de adultos.
+
+Detectando el COVID-19 con radiografía de tórax utilizando PyTorch: Entrena una red neuronal residual (RNN) utilizando un conjunto de datos de radiografía. 
+
+Detección de noticias falsas con aprendizaje automático: Entrena un modelo de deep learning para detectar noticias falsas a partir de un corpus de noticias.
+
+Análisis de sentimientos con deep learning utilizando BERT: Explora los conceptos del NLP mientras analizas un conjunto de datos para el análisis de sentimientos.
+
+
+
+
+
+
+
+El aprendizaje automático suele formar parte del ámbito de las ciencias de datos. Tener un conocimiento básico de las herramientas y los conceptos del aprendizaje automático podría ayudarte a avanzar en este campo (o a avanzar en tu carrera como científico de datos, si esa es tu trayectoria profesional).‎
+El machine learning es un campo que crece y cambia, por lo que el aprendizaje es un proceso continuo. Dependiendo de tu formación y del tiempo que puedas dedicar al aprendizaje, te puede tomar unas semanas, unos meses o un año construir una base sólida en el aprendizaje automático.‎
+Los conocimientos técnicos y los conceptos relacionados con el machine learning y el deep learning ciertamente pueden ser difíciles al principio. Pero si lo desglosas utilizando las vías de aprendizaje descritas anteriormente y te comprometes a aprender un poco cada día, es totalmente posible. Además, no necesitas dominar el deep learning o el machine learning para empezar a utilizar tus habilidades en el mundo real.‎
+Las plataformas de deep learning y machine learning como servicio significan que es posible construir modelos, así como entrenar, desplegar y gestionar programas sin tener que codificar. Aunque no es necesario ser un programador experto para iniciarse en el machine learning, puede resultar útil adquirir conocimientos básicos de Python.‎
+Sí. Un ingeniero de machine learning en México puede ganar 42,780 MXN al mes a partir de mayo de 2022 según Glassdoor [1]. Según un estudio de diciembre de 2020 realizado por Burning Glass, se prevé que la demanda de habilidades de IA y machine learning crezca un 71 por ciento en los próximos cinco años [2].‎
+
+Glassdoor. "Sueldos para Machine Learning Engineer, https://www.glassdoor.com.mx/Sueldos/machine-learning-engineer-sueldo-SRCH_KO0,25.htm". Consultado el 11 de mayo de 2022.
+Burning Glass. "Skills of Mass Disruption: Pinpointing the 10 Most Disruptive Skills in Tech, https://www.burning-glass.com/wp-content/uploads/2020/12/Skills-of-Mass-Disruption-Report.pdf". Consultado el 22 de abril de 2022.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Editorial Team
+Coursera’s editorial team is comprised of highly experienced professional editors, writers, and fact...
+This content has been made available for informational purposes only. Learners are advised to conduct additional research to ensure that courses and other credentials pursued meet their personal, professional, and financial goals.
+
+
+Coursera Footer
+Get Started with AI
+Popular Career Certificates
+Popular Subjects
+Popular Resources
+Coursera
+Community
+More

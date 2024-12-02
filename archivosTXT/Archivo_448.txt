@@ -1,0 +1,52 @@
+Ciencia de datos e inteligencia artificial: ¿qué relación tienen?
+Posgrados Ingeniería
+edu.mx
+
+La ciencia de datos y la inteligencia artificial son campos que comparten muchos puntos de intersección, pero ninguno de los dos es sustituible por el otro. Hay varios matices entre ambos. A grandes rasgos difieren en que la ciencia de datos produce información, mientras que la inteligencia artificial produce visualizaciones y acciones.
+El concepto de big data es fundamental para los dos. Hace referencia a los modos de aprovechamiento de los grandes volúmenes de datos, estructurados y no estructurados, generados por las empresas y su finalidad consiste en que éstas tomen mejores decisiones. Aunque incorpora las prácticas de la ciencia de datos y de la inteligencia artificial, no constituye en sí un campo específico.
+
+ 
+La ciencia de datos es un campo amplio de estudio relacionado con los sistemas y procesos de datos, cuyo objetivo es definir conjuntos de datos y conferirles sentido.
+Se vale de técnicas de estadística y matemáticas, como minería de datos, análisis y representación de datos multivariantes, junto con informática e incluso aprendizaje automático para extraer conocimiento de los conjuntos y proporcionar información y escenarios de decisión.
+Es un recurso que distintas empresas están utilizando con éxito para potenciar los procesos de producción, la planificación estratégica y la innovación en el diseño de productos.
+Los científicos de datos son expertos en análisis de datos que cuentan con las habilidades técnicas para descubrir tendencias en ellos así como con el dominio de una problemática concreta en su industria, lo que les sirve para resolver problemas comerciales complejos.
+ 
+Contenido relacionado: ¿Qué hace un científico de datos?
+ 
+Muchos científicos de datos comienzan siendo estadísticos o analistas de datos, pero pueden llegar a desempeñar funciones que involucran big data, inteligencia artificial o tecnologías de proceso. Un buen científico de datos es experto en su área particular, en los problemas a abordar y en las características de los datos asociados con la misma.
+ 
+De manera muy esencial, la ciencia de datos difiere de la IA en el hecho de que requiere de la participación directa de un ser humano, quien recurre al análisis de datos para obtener información, comprenderla mejor y sacar sus propias conclusiones para tomar las decisiones más adecuadas.
+Los científicos de datos manejan grandes cantidades de datos para analizar patrones, tendencias y conjuntos. Mediante el análisis de datos, son capaces de elaborar informes útiles para hacer inferencias con la ayuda de herramientas y software de análisis de datos.
+Quizás las más importantes que integran la ciencia de datos y ya tienen varias aplicaciones prácticas son el análisis predictivo, que predice las posibilidades de que cierto evento ocurra en el futuro, y el análisis en tiempo real, que detecta desviaciones al contrastar parámetros pasados con datos actualizados.
+
+ 
+La inteligencia artificial -que engloba el aprendizaje automático, las redes neuronales y el aprendizaje profundo- tiene por objetivo replicar los procesos de decisión y pensamiento humanos. Así, la IA es una colección de algoritmos matemáticos que habilita a las computadoras para comprender relaciones complejas, realizar decisiones procesables y planificar para el futuro.
+La IA permite que las computadoras puedan interpretar su entorno y tomar decisiones basadas en lo que observan. Con un componente de aprendizaje automático, la IA da lugar a que las máquinas ajusten su "conocimiento" en función de los nuevos datos que vayan adquiriendo.
+Es posible utilizarla para mejorar procedimientos de fabricación, procesar datos clínicos, crear asistentes "inteligentes" o bots de chat, monitorear redes sociales o calcular probabilidades financieras, entre otras cosas.
+ 
+El aprendizaje automático se considera un subconjunto de la inteligencia artificial y, a menudo, se usa para implementarla. En lugar de apoyarse en algoritmos explícitos que dirigen las acciones de una computadora, la actualiza y "entrena" para que encuentre la forma correcta de resolver una tarea con base en una serie de ejemplos de soluciones apropiadas a un problema determinado.
+Se puede emplear para resolver problemas imprevistos, a modo de predicciones o clasificaciones, y con frecuencia es clave para descubrir patrones ocultos en un conjunto de datos y efectuar predicciones significativas.
+ 
+La ciencia de datos es un proceso integral que implica múltiples pasos para analizar datos y generar conocimientos. Gira en torno a la idea de construir modelos que aprovechen conocimientos estadísticos para encontrar patrones ocultos y arrojar predicciones fiables.
+La inteligencia artificial se nutre de algoritmos informáticos para impartir autonomía a un modelo de datos y emular la cognición y la comprensión humanas. El aprendizaje automático y el aprendizaje profundo son aplicaciones especiales de la misma. 
+En la ruta a la transformación digital, cada vez más empresas incorporarán la ciencia de datos, el análisis avanzado de datos y la inteligencia artificial en sus procesos de desarrollo y producción para aumentar su eficiencia, reducir los errores y seguir siendo competitivas.
+Contenido relacionado: El impacto de la ciencia de datos en los negocios de hoy
+La Maestría en Ciencia de Datos de la Universidad Panamericana tiene el propósito de formar profesionales con un conocimiento profundo en ciencia y análisis de datos, así como en las aplicaciones de la inteligencia artificial estrechamente vinculadas, cuya misión es impactar positivamente en los resultados y el éxito de las organizaciones.
+Conoce más sobre nuestro programa aquí o agenda una sesión personalizada con nosotros:
+
+ 
+También podría interesarte:
+Pon tu comentario abajo.
+La colaboración entre dos de las facultades más destacadas de la Universidad Panamericana, ESDAI e Ingeniería UP, dio pa...
+Vivimos en un mundo inundado de datos. Cada clic, compra en línea o interacción en redes sociales genera una avalancha d...
+La ciencia de datos se encuentra en constante evolución, y aquellos que deseen destacarse en esta disciplina deben estar...
+Recibe todas nuestras actualizaciones.
+Augusto Rodin No. 498,Col. Insurgentes MixcoacC.P. 03920, Del. Benito Juárez,México, CDMX 
+Conmutador: +52 (55) 5482 1600/ 
++(55) 5482 1700
+Autopista La Venta Chamapa, ExEjido De San CristóbalTexcalucan, Huixquilucan,Huixquilucan Edomex.
+ 
+ 
+ 
+Calzada Circunvalación,Poniente No. 49,Ciudad Granja,C.P. 45010, Zapopan, Jalisco, México, Conmutador: 
++52 (33) 1368 2200

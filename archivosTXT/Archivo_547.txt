@@ -1,0 +1,58 @@
+Qué es el "invierno de la inteligencia artificial" y por qué hay expertos que creen que estamos acercándonos a uno - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, YouTube/SciNews
+La última década fue importante para la inteligencia artificial (IA), pero los expertos en este campo creen que la industria está a punto de entrar en una nueva fase.
+La promoción de la AI ha aumentado o dismuido a lo largo de los años a medida que las capacidades de la tecnología se sobreestiman y luego se vuelven a evaluar.
+Los picos se conocen como veranos de la IA y las caídas, como sus inviernos.
+La década de 2010 fue posiblemente el verano de la IA más caluroso del que se tuvo registro, con gigantes tecnológicos que promocionaron repetidamente el potencial de esta tecnología.
+El pionero de la IA Yoshua Bengio —a veces llamado uno de los "padrinos de la inteligencia artificial"— le dijo a la BBC que las capacidades de la inteligencia artificial fueron sobrevaloradas en la década pasada por ciertas compañías interesadas en ese fin.
+Sin embargo, hay indicios de que la exageración podría estar a punto de comenzar a enfriarse.
+Fuente de la imagen, Microsoft Research
+"Tengo la sensación de que la IA está en transición hacia una nueva fase", dijo Katja Hofmann, investigadora principal de Microsoft Research en Cambridge, Reino Unido.
+Dados los miles de millones invertidos en IA y el hecho de que es probable que haya más avances por delante, algunos investigadores creen que sería un error llamar a esta nueva fase un invierno de la IA.
+El informático Noel Sharkey, conocido por actuar en la serie Robot Wars pero que también es profesor de robótica en la Universidad de Sheffield, en Reino Unido, le dijo a la BBC que le gusta el término "otoño de la IA", y varios otros están de acuerdo.
+A principios de la década de 2010, DeepMind, uno de los líderes mundiales en IA, a menudo señaló que en el futuro se desarrollaría algo llamado "inteligencia artificial fuerte", también conocida como inteligencia general artificial (AGI, por sus siglas en inglés).
+Aseguró que las máquinas que tuvieran AGI —lo que se considera el Santo Grial en la industria de la IA— serían tan inteligentes como los humanos.
+Las altas ambiciones de DeepMind llamaron la atención de Google, que pagó alrededor de US$520 millones para instalar un laboratorio de IA en Londres, en 2014.
+En su sitio en internet declaraba su misión: "Resuelve la inteligencia y luego usa eso para resolver todo lo demás".
+Fuente de la imagen, Getty Images
+Varios otros comenzaron a augurar que la AGI se convertiría en una realidad, incluyendo el laboratorio de IA de Elon Musk, de US$1.000 millones, la empresa de investigación OpenAI y varios académicos, como el profesor del Instituto de Tecnología de Massachusetts (MIT) Max Tegmark.
+En 2014, Nick Bostrom, filósofo de la Universidad de Oxford, dio un paso más con su libro Superintelligence ("Superinteligencia") que predice un mundo controlado por máquinas.
+Pero esas predicciones se tomaron cada vez menos en serio a medida que avanzaba la década. A finales de 2019, las computadoras más inteligentes solo podían sobresalir en una limitada variedad de tareas.
+Gary Marcus, un investigador de IA en la Universidad de Nueva York, señaló: "Para el final de la década, había una comprensión creciente de que las técnicas actuales solo pueden llevarnos hasta cierto punto".
+Marcus piensa que la industria necesita una "verdadera innovación" para ir más allá.
+"Hay una sensación general de meseta", dijo Verena Rieser, profesora de IA conversacional en la Universidad Herriot Watt de Edimburgo, en Escocia.
+Un investigador de IA que prefiere permanecer en el anonimato dijo que estamos entrando en un período en el que somos especialmente escépticos de la AGI.
+"La percepción pública de la IA es cada vez más oscura: el público cree que la IA es una tecnología siniestra", afirmó.
+Fuente de la imagen, Getty Images
+Por su parte, DeepMind tiene una visión más optimista del potencial de la IA, sugiriendo que hasta ahora "solo se está rascando la superficie de lo que podría ser posible".
+"A medida que la comunidad resuelve y descubre más, se abren nuevos problemas desafiantes", explicó Koray Kavukcuoglu, su vicepresidente de investigación.
+"Es por eso que la IA es un viaje de investigación científica a largo plazo.
+"Creemos que la IA será una de las tecnologías habilitadoras más poderosas jamás creadas: un invento único que podría desbloquear soluciones a miles de problemas.
+"La próxima década verá esfuerzos renovados para generalizar las capacidades de los sistemas de IA para ayudar a alcanzar ese potencial, tanto construyendo sobre la base de métodos que ya han tenido éxito como investigando cómo construir IA de propósito general que pueda abordar una amplia gama de tareas", afirmó.
+Si bien la AGI no se creará pronto, las máquinas ya han aprendido a dominar tareas complejas como:
+La relevancia de estos avances fue exagerada a veces, dice el ex-DeepMinder Edward Grefenstette, quien ahora trabaja en el grupo de investigación de IA de Facebook.
+Fuente de la imagen, Facebook
+"El campo ha recorrido un largo camino en la última década pero somos muy conscientes de que todavía tenemos mucho camino por delante en término de avances científicos y tecnológicos para hacer que las máquinas sean realmente inteligentes", dijo.
+"Uno de los mayores desafíos es desarrollar métodos que sean mucho más eficientes en cuanto a los datos y la potencia de cómputo necesarios para aprender a resolver bien un problema. 
+"En la última década, hemos visto avances impresionantes al aumentar la escala de datos y cálculo disponible, pero eso no es apropiado o escalable para resolver cada problema.
+"Si queremos escalar a un comportamiento más complejo, necesitamos hacerlo mejor con menos datos, y necesitamos generalizar más".
+Neil Lawrence, quien recientemente dejó Amazon y se unió a la Universidad de Cambridge como el primer profesor de aprendizaje automático financiado por DeepMind, cree que la industria de la IA todavía está en los "años de maravilla".
+Entonces ¿cómo será la IA a fines de la década de 2020 y cómo harán los investigadores para desarrollarla?
+"En la próxima década, espero que veamos una visión más mesurada y realista de las capacidades de la IA, en lugar de la exageración que hemos visto hasta ahora", dijo Catherine Breslin, exinvestigadora de IA de Amazon.
+"IA" se convirtió en una verdadera palabra de moda durante la última década, con empresas de todas las formas y tamaños utilizando el término, a menudo con fines de marketing.
+"La variedad de cosas que se agruparon bajo el término 'IA' será evaluado y discutido por separado", señaló Samim Winiger, exinvestigador de IA en Google, en Berlín.
+"Lo que llamamos 'IA' o 'aprendizaje automático' durante los últimos 10-20 años, será visto como una forma más de 'computación'".
+Recuerda que puedes recibir notificaciones de BBC News Mundo. Descarga la última versión de nuestra app y actívalas para no perderte nuestro mejor contenido.
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 1
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 2
+Contenido no disponible
+Este artículo contiene contenido proporcionado por Google YouTube. Solicitamos tu permiso antes de que algo  se cargue, ya que ese sitio  puede estar usando cookies y otras tecnologías. Es posible que quieras leer política de cookies y política de privacidad de Google YouTube antes de aceptar. Para ver este contenido, selecciona 'aceptar y continuar'.
+Fin del contenido de YouTube, 3
+Contenido no disponible
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

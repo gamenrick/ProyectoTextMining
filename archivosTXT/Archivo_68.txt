@@ -1,0 +1,27 @@
+Deep Learning Super Sampling - Wikipedia, la enciclopedia libre
+Autor desconocido
+wikipedia.org
+
+El Supermuestreo de Aprendizaje Profundo (DLSS por sus siglas en inglés Deep Learning Super Sampling) es una tecnología de escalado de imágenes desarrollada por Nvidia y exclusiva de las tarjetas gráficas de Nvidia para uso en tiempo real en videojuegos seleccionados, que utiliza aprendizaje profundo para escalar imágenes de menor resolución a una resolución más alta para visualizarlas en monitores de grandes resoluciones. Nvidia afirma que esta tecnología rescala las imágenes con una calidad similar a la de una imagen en alta resolución, pero con menos cálculo realizado por la tarjeta gráfica, lo que permite configuraciones gráficas y fotogramas por segundo más altos para una resolución determinada.[1]​
+
+A partir de diciembre de 2020, esta tecnología está disponible exclusivamente en las GPU de las series GeForce RTX 20 y GeForce RTX 30.
+
+Su competidor de AMD es el FSR.
+
+Nvidia anunció DLSS como una característica clave de las GPU de la serie GeForce RTX 20 cuando se lanzaron en septiembre de 2018.[2]​ En ese momento, los resultados se limitaron a unos pocos videojuegos (por ejemplo, Battlefield V[3]​ y Metro Exodus ) porque el algoritmo tenía que entrenarse específicamente en cada juego en el que se aplicó y los resultados generalmente no eran tan buenos como el rescalado tradicional.[4]​[5]​
+
+En 2019, el videojuego Control, fue ofrecido con trazado de rayos y una versión mejorada de DLSS, que no usaba Tensor Cores.[6]​[7]​
+
+En abril de 2020, Nvidia anunció y lanzó con la versión 445.75 de los controladores una versión mejorada de DLSS llamada DLSS 2.0, que estaba disponible para algunos juegos existentes, incluidos Control y Wolfenstein: Youngblood, y estaría disponible más adelante para próximos juegos. Esta vez, Nvidia dijo que volvió a usar Tensor Cores y que la IA no necesitaba ser entrenada específicamente en cada juego.[2]​[8]​
+
+Un efecto secundario de DLSS 2.0 es que parece no funcionar muy bien con técnicas anti-aliasing como MSAA o TSAA, el rendimiento se ve afectado negativamente si estas técnicas están habilitadas sobre DLSS.[9]​
+
+A partir de abril de 2020, los desarrolladores de juegos deben incluir DLSS 2.0 a todos los juegos.
+
+Nvidia explicó que DLSS 1.0 funcionaba con imágenes objetivo consideradas "cuadros perfectos" usando el supermuestreo tradicional, luego entrenó la red neuronal en estas imágenes resultantes. En un segundo paso, el modelo se entrenó para reconocer entradas con alias en el resultado inicial.[12]​[13]​
+
+DLSS 2.0 funciona de la siguiente manera:[14]​
+
+Los Tensor Cores están disponibles desde la microarquitectura de la GPU Nvidia Volta, que se utilizó por primera vez en la línea de productos Tesla V100.[17]​ Su especificidad es que cada Tensor Core opera en matrices de 4 x 4 de punto flotante de 16 bits, y parece estar diseñado para usarse en el nivel CUDA C++, incluso en el nivel del compilador.[18]​
+
+Los Tensor Cores utilizan los CUDA Warp -Level Primitives en 32 subprocesos paralelos para aprovechar su arquitectura.[19]​ Un Warp es un conjunto de 32 hilos que están configurados para ejecutar la misma instrucción.

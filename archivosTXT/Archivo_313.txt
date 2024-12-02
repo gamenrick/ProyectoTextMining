@@ -1,0 +1,58 @@
+Riesgos de la seguridad de la IA generativa I GlobalSign
+Autor desconocido
+globalsign.com
+
+Aumenta la eficacia y reduce los costos automatizando la gestión de certificados y los
+                                flujos de firma
+                            
+Certificados digitales de confianza para todos y cada uno de los casos de uso.
+Cumplir las obligaciones reglamentarias
+Relaciones estratégicas complementarias o integradas en PKI con proveedores de tecnología
+                                líderes del
+                                sector 
+Reduce el esfuerzo, el costo y el tiempo asociados a la gestión de múltiples
+                                    certificados digitales
+                                
+Firma o sella documentos digitalmente y gestiona flujos de trabajo
+Utiliza un experto en PKI para controlar tu cadena de confianza 
+Una amplia gama de niveles de seguridad SSL, opciones y soporte de claves
+Controla qué usuarios, máquinas y dispositivos pueden acceder a la red y los
+                                    servicios corporativos
+                                
+Firma digitalmente documentos y cifra correos electrónicos confidenciales
+¿Sabía que puede automatizar la gestión y renovación de todos sus certificados?
+                                
+GlobalSign Blog
+La IA nos rodea. Cada día aparecen miles de nuevos programas de IA como ChatGPT, Generative AI y otros. Siempre oímos que si no utilizamos la IA, nos quedaremos atrás. Pero no dejes que la ansiedad por utilizar la IA te haga olvidar los riesgos de la seguridad en línea.
+Estamos introduciendo IA en nuestros navegadores web, correos electrónicos y sistemas de archivos. Dejamos que trabaje por nosotros como un ayudante digital, incluso compartiendo con ella nuestros propios datos y los de nuestra empresa. Todo esto puede dar lugar a nuevos problemas de seguridad en línea y aumentar las posibilidades de un ataque cibernetico a la antigua.
+La IA generativa ha traído grandes cambios a muchas áreas, como el arte y la creación de contenidos. Pero a medida que más personas utilizan esta tecnología, tenemos que pensar en mantener los datos privados y seguros. En este blog, vamos a ver cómo afecta la IA Generativa a la seguridad de los datos y cómo podemos mitigar los posibles riesgos.
+La IA Generativa es un tipo de programa de aprendizaje automático que funciona mediante modelos generativos. Esta técnica entrena modelos para generar nuevos datos que comparten los mismos patrones y características que los datos de entrenamiento. He aquí cómo funciona la IA generativa:
+Hay que tener en cuenta que, aunque los GAN son un método popular, también se utilizan otras técnicas en la IA generativa, como los Autoencoders Variacionales (VAEs) y los modelos autorregresivos. Aunque la IA Generativa ha logrado avances asombrosos, también plantea problemas a la hora de mantener la privacidad y confidencialidad de los datos.
+Estos son los ocho riesgos de la IA generativa que debes tener en cuenta.
+Las personas pueden ingresar cualquier tipo de datos en los servicios de IA generativa a través de cuadros de texto abiertos, incluida información confidencial, privada o de propiedad exclusiva. Tomemos como ejemplo los servicios de generación de código como GitHub Copilot. El código enviado a este servicio podría contener no solo propiedad intelectual confidencial de una empresa, sino también datos confidenciales como claves API que tienen acceso especial a la información del cliente.
+Otra preocupación seria es la fuga de propiedad intelectual y la confidencialidad cuando se utiliza IA generativa, y se agrega que la facilidad de uso de herramientas de IA basadas en web o aplicaciones corre el riesgo de crear otra forma de TI en la sombra. Dado que estas aplicaciones de IA generativa en línea envían y procesan datos a través de Internet, el uso de una VPN puede proporcionar una capa adicional de seguridad, enmascarando la dirección IP y cifrando los datos en tránsito.
+Los modelos de IA generativa necesitan una gran cantidad de datos de los que aprender, y algunos de estos datos pueden ser confidenciales. Si no se gestionan con cuidado, estos datos podrían revelarse involuntariamente durante la formación, provocando posibles problemas de privacidad.
+Los modelos de IA generativa mejoran con más datos, y estos datos deben conservarse en algún lugar mientras los modelos aprenden y mejoran. Esto significa que los datos comerciales confidenciales se guardan en espacios de almacenamiento de terceros, donde podrían usarse indebidamente o filtrarse si no están protegidos adecuadamente con elementos como cifrado y controles de acceso. Las organizaciones deben implementar una estrategia de datos exhaustiva y segura para evitar infracciones.
+Los datos confidenciales se envían a proveedores de inteligencia artificial externos, como OpenAI. Si estos datos incluyen información de identificación personal (PII), podrían crear problemas de cumplimiento con leyes como el Reglamento General de Protección de Datos (GDPR) o la Ley de Derechos de Privacidad de California (CPRA).
+La IA generativa puede crear datos sintéticos que se parecen mucho a los datos reales, lo que puede generar preocupaciones acerca de que las personas puedan descubrir de quién provienen los datos. Los datos sintéticos podrían tener pequeños patrones o detalles que podrían llevar a la identificación de personas o características sensibles.
+Los modelos generativos, especialmente los basados en texto o imágenes, pueden incluir involuntariamente información de los datos de entrenamiento que no debería haber sido revelada. Podría tratarse de información personal o datos comerciales confidenciales.
+La IA generativa podría ser utilizada indebidamente por actores malintencionados para crear deepfakes o generar información engañosa, lo que contribuiría a la difusión de noticias falsas y desinformación. Además, si los sistemas de IA no están adecuadamente protegidos, podrían convertirse en blanco de ciberataques, generando preocupaciones adicionales sobre la seguridad de los datos.
+La IA generativa ofrece muchas posibilidades para nuevas ideas y avances en muchas áreas, pero debemos ser conscientes de los problemas de seguridad que puede traer. Esto puede deberse a indicaciones sin censura, revelación accidental de datos confidenciales, problemas con el almacenamiento de datos, dificultades con las leyes globales y fugas de información.
+Aunque existen muchas preocupaciones relacionadas con la IA generativa, las empresas no deberían descartar esta tecnología. Más bien, deberían desarrollar un plan para toda la empresa centrado en generar confianza en la IA, gestionar los riesgos y proteger los sistemas de IA.
+De esta manera, las organizaciones pueden aprovechar lo que la IA generativa tiene para ofrecer y al mismo tiempo minimizar cualquier problema potencial. A medida que avanzamos hacia un futuro lleno de IA, asegurarnos de utilizar la IA generativa de forma segura no es sólo algo agradable, sino absolutamente necesario.
+Nota: Este artículo de blog fue escrito por un colaborador invitado con el propósito de ofrecer una variedad más amplia de contenido a nuestros lectores. Las opiniones expresadas en este artículo del autor invitado son únicamente las del colaborador y no reflejan necesariamente las de GlobalSign
+Ruben Annemans es el Jefe de Seguridad de GlobalSign.
+Nov 29, 2024
+Las empresas dependen en gran medida de los certificados digitales, pero ser criptoágiles es esencial para evitar interrupciones y responder a las amenazas. 
+Nov 27, 2024
+Mitigación de riesgos cibernéticos en el sector salud con certificados digitales
+Nov 21, 2024
+Descubre cómo proteger las cargas de trabajo en Kubernetes utilizando certificados TLS. Garantiza la seguridad de las comunicaciones pod a pod y fortalece la infraestructura...
+GlobalSign es el proveedor líder de soluciones confiables de identidad y seguridad digital que permiten que pequeñas y grandes empresas en todo el mundo, además de proveedores de servicios en la nube y empresas innovadoras en el área de la Internet de las Cosas (IoT), aseguren las comunicaciones en línea, administren millones de identidades digitales verificadas y automaticen la autenticación y el cifrado. Su infraestructura de clave pública (PKI) escalable y sus soluciones de identidad respaldan los miles de millones de servicios, dispositivos, personas y cosas que componen la Internet de Todo (Internet of Everything – IoE).
+Haga clic en el icono de descargas en la barra de herramientas para ver su archivo descargado.
+Haga clic en el icono de descargas en la barra de herramientas para ver su archivo descargado.
+Tu archivo ha sido descargado, haz clic en el siguiente enlace para ver tu documento.
+Tu archivo ha sido descargado, haz clic en el siguiente enlace para ver tu documento.
+Su archivo ha sido descargado, verifique su archivo en la carpeta de descargas.
+Su archivo ha sido descargado, verifique su archivo en la carpeta de descargas.
+Applying your settings...

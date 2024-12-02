@@ -1,0 +1,151 @@
+Qué es deep learning o aprendizaje profundo, utilidad y ejemplos 
+Autor desconocido
+hubspot.es
+
+Con la confianza de profesionales y emprendedores de todo el mundo, los blogs de HubSpot son tu fuente número uno de educación e inspiración.
+Recursos e ideas para poner a los profesionales de marketing a la vanguardia.
+Estrategias para elevar tus esfuerzos de ventas.
+Todo lo que necesitas para brindar un servicio al cliente de primer nivel.
+Tutoriales y consejos prácticos para ayudarte a crear y optimizar sitios web.
+Descubre el newsletter de HubSpot en español.
+Inscríbete a nuestro newsletter semanal y recibe todas las novedades del blog de HubSpot en tu bandeja de entrada.
+Explora nuestra colección de videos educativos en YouTube.
+Aprende con HubSpot en nuestro canal de YouTube.
+Amplía tus conocimientos y toma el control de tu carrera con nuestras guías, lecciones y herramientas.
+Todo lo que necesitas para desarrollar las habilidades más buscadas en el mundo de los negocios.
+Simplifica tu vida e impulsa tu productividad con nuestra colección de plantillas gratuitas profesionales.
+Las mejores guías y recursos para mantenerte al día en marketing, ventas, servicio al cliente y desarrollo web.
+Crea una firma profesional en segundos.
+Diseña un buyer persona que toda tu empresa pueda usar para comercializar, vender y ofrecer los mejores servicios.
+Califica tu sitio web en segundos y aprende a mejorarlo de manera gratuita.
+Diseña la identidad visual que tu empresa necesita para tener una presencia en línea única y original.
+Crea contenido para tus páginas de destino, correos electrónicos y anuncios en tan solo algunos minutos.
+Todo el software de marketing, CRM de ventas, servicio al cliente, CMS y operaciones de HubSpot en una sola plataforma. Ver precios
+Software de automatización de marketing. Planes gratuitos y prémium.
+      
+    
+Software CRM para ventas. Planes gratuitos y prémium.
+Software de atención al cliente. Planes gratuitos y prémium.
+
+Software de marketing de contenidos. Planes gratuitos y prémium
+Software de operaciones.  Planes gratuitos y prémium
+Descubre cómo incorporar AI, Big Data, y automatizaciones en tu estrategia de ventas
+Actualizado: 
+  
+    
+  
+  19 de septiembre de 2023
+ 
+Publicado: 
+  
+    
+  
+  13 de septiembre de 2023
+ 
+La idea de que una computadora pudiera «pensar» parecía sacada de un libro de ciencia ficción; hoy en día, existen máquinas que realizan tareas que requieren algún tipo de inteligencia si fueran hechas por humanos. Esto ocurre gracias al deep learning, donde ocurren procesos como el aprendizaje a partir de grandes cantidades de información.
+Esto abre la puerta a un sinfín de aplicaciones en muchas industrias y, probablemente, ya tuviste contacto con alguna de ellas. Conoce más sobre qué es deep learning y algunos de los ejemplos de uso más comunes.
+<span data-sheets-value="{"1":2,"2":"
+ 
+El deep learning o aprendizaje profundo es una parte del aprendizaje automático o machine learning, que a su vez es una rama de la inteligencia artificial, que consiste en redes neuronales que imitan la manera en que el cerebro humano procesa la información para obtener conocimiento y crear predicciones.
+
+Como ya vimos, el aprendizaje profundo o deep learning se basa en redes neuronales que les permite adquirir conocimiento, en un proceso semejante a como lo haríamos los humanos. Toma su nombre por la cantidad de capas de algoritmos (instrucciones para procesar datos) que se comportan de forma distinta para analizar la información; por lo regular, una red neuronal tiene de dos a tres capas para mejorar su precisión.
+Algunas de sus aplicaciones más comunes son analizar la información en texto, como el que aparece en las redes sociales, bases de datos o encuestas, para de ahí obtener ideas más concretas y que se traduzcan en insights o perspectivas útiles para algún fin.
+Asimismo, una vez que un algoritmo está lo suficientemente entrenado, realizará las mismas funciones en menos tiempo, lo que se convierte en una poderosa herramienta para aquellas empresas que procesan grandes cantidades de información. Al mismo tiempo, las redes neuronales entrenadas se adaptan a distintos tipos de datos.
+Ya tenemos una base sobre lo que es el deep learning y para qué sirve. Ahora es momento de ver cómo se aplica en nuestra vida diaria.
+El aprendizaje profundo es una gran herramienta para encontrar conexiones ocultas en la información, así como establecer patrones. Por eso las instituciones financieras lo emplean para predecir el precio de las acciones y conocer el riesgo en sus préstamos e inversiones. Incluso, los bancos pueden anticiparse a los fraudes cuando alguna compra no corresponde con las transacciones comunes de un cliente. 
+Muchos bots conversacionales cuentan con inteligencia artificial que simula tener conversaciones con los usuarios de una marca para ofrecer guía y consejos. Por otro lado, existen algunas opciones más sofisticadas como Siri de Apple o Alexa de Amazon que integran la función de voz, con ayuda del procesamiento del lenguaje natural, mismo que permite entender y generar conversaciones.
+El sueño de tener un auto que se maneje por sí mismo es posible gracias a los modelos de aprendizaje profundo, que le enseñan a un vehículo a identificar y reconocer objetos. Esto se aplica en distinguir señales de tránsito y a otros vehículos, así como a los peatones, con el fin de llevarte a casa a salvo.
+Existen muchas aplicaciones en los servicios de salud que ahorran tiempo a los doctores para lograr un diagnóstico acertado. Esto es posible mediante la clasificación de las imágenes médicas, que puede detectar anomalías como los lunares cancerígenos, rápidamente. 
+
+Buena parte de los servicios de streaming, tanto de música como de video, utilizan deep learning para ofrecerte recomendaciones personalizadas que se basan en lo que has visto con anterioridad. También se emplea para generar los subtítulos de videos de forma automática.
+Las empresas de redes sociales se basan en el aprendizaje profundo para analizar un gran volumen de fotografías de los usuarios y así obtener información de ellos. De esta forma, les pueden ofrecer más contenido relacionado al que miran, segmentar mejor los anuncios y, en general, diseñar una experiencia más personalizada.
+El deep learning también se puede utilizar para prevenir crímenes al detectar patrones fraudulentos. Otro punto interesante es el apoyo que da el reconocimiento facial y voz, mediante la visión artificial (un método que extrae información de imágenes y videos) para apoyar las investigaciones policiales. 
+¿Cómo utilizaste el deep learning hoy? Aunque es un tema complejo que supone varios retos éticos, sin duda ofrece oportunidades en el mundo de los negocios.
+Comienza a aprovechar las posibilidades con ayuda de varias herramientas gratuitas de IA que seleccionamos para ti.
+
+                      
+  
+    
+  
+  31 de octubre de 2024
+
+                    
+
+                      
+  
+    
+  
+  24 de octubre de 2024
+
+                    
+
+                      
+  
+    
+  
+  23 de octubre de 2024
+
+                    
+
+                      
+  
+    
+  
+  23 de octubre de 2024
+
+                    
+
+                      
+  
+    
+  
+  02 de octubre de 2024
+
+                    
+
+                      
+  
+    
+  
+  29 de agosto de 2024
+
+                    
+
+                      
+  
+    
+  
+  12 de julio de 2024
+
+                    
+
+                      
+  
+    
+  
+  26 de junio de 2024
+
+                    
+
+                      
+  
+    
+  
+  06 de marzo de 2024
+
+                    
+
+                      
+  
+    
+  
+  26 de diciembre de 2023
+
+                    
+Recibe en tu correo electrónico los últimos consejos para mejorar tu estrategia de desarrollo web.
+Introduce una dirección de correo electrónico válida
+Tu privacidad es importante para nosotros. HubSpot utiliza la información que proporcionas para ponerse en contacto contigo en relación con contenido, productos y servicios relevantes para ti. Puedes darte de baja para dejar de recibir este tipo de comunicaciones en cualquier momento. Si deseas obtener más información sobre la protección de tus datos en HubSpot, consulta nuestra Política de Privacidad.
+¿Quieres crear un blog como este?Descarga el ebook gratis para aprender cómo hacerlo.
+¿Todavía no usas HubSpot?
+Descubre cómo incorporar AI, Big Data, y automatizaciones en tu estrategia de ventas
+Copyright © 2024 HubSpot, Inc.

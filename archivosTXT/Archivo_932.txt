@@ -1,0 +1,55 @@
+La inteligencia artificial en la enseñanza de idiomas | UNIR
+Autor desconocido
+unir.net
+
+Educación|08/03/2024
+ UNIR Revista 
+En la vanguardia del diálogo contemporáneo, la inteligencia artificial (IA) emerge como un fenómeno multifacético, cargado de promesas y desafíos que redefinen continuamente nuestro horizonte social. A medida que contemplamos su trayectoria e influencia inevitable en la sociedad, se nos presenta un cambio de paradigma que invita tanto a la reflexión como a la acción. Es en el ámbito educativo donde este impacto promete ser más transformador, particularmente en la enseñanza y aprendizaje de idiomas.
+La irrupción de la IA en la educación no es meramente disruptiva; es un catalizador para una evolución significativa en la pedagogía y la didáctica. Se anticipa que la IA remodelará no solo los métodos de enseñanza y las prácticas de aprendizaje, sino también la preparación de educadores y alumnos para navegar y capitalizar efectivamente el nuevo paisaje del conocimiento.
+En este contexto, la IA se presenta como una herramienta con un potencial sin precedentes para personalizar el aprendizaje y ampliar las capacidades cognitivas, a pesar de las preocupaciones legítimas que suscita sobre la brecha digital y los dilemas éticos. Así, con una mirada constructivista, nos enfocamos en la riqueza que la IA puede aportar a la educación, enfatizando la creación sobre la mera reproducción de contenido, y orientando el aprendizaje hacia la adquisición de competencias específicas que son fortalecidas y ampliadas por las capacidades únicas de la IA.
+La introducción de la IA está provocando y provocará un cambio profundo en los lados de la comunicación y la creación que están ligados a los procesos de enseñanza y aprendizaje, por tanto, ello implicará cambios en la formación de docentes y discentes para poder construir y asimilar los conocimientos de un modo adecuado (Wassi, 2023; Sánchez-Vera, 2023).
+Sin dejar de lado o menoscabar la parte de la IA que tiene una cara negativa ligada a aspectos como (Pedreño et al., 2024):
+Se debe focalizar la IA, desde un punto de vista constructivista, señalando lo bueno que va a traer y en el valor añadido que dará a la enseñanza. Considerando más la creación de conocimiento y no sólo en la mera generación de contenido e información, pues el objetivo final de aquellos que están aprendiendo es el incrementar sus niveles de conocimiento, con lo cual se debe dirigir el aprendizaje a través de la IA, hacia aquel que desarrolla las competencias específicas de cada área, y que van a potenciar la asimilación de información (como la generada por la IA) que facilitan el proceso de aprendizaje y adquisición de conocimientos por parte del discente (Antón, 2023; Fray et al., 2023).
+
+Para alcanzar esta meta se debe trabajar en la formación, no sólo tecnológica sino también pedagógica, para cerrar la brecha entre docentes y discentes a la hora de usar la IA. Mejorando los ratios de adopción y uso, concienciar sobre su importancia formativa, trabajar en aplicaciones que sean usadas por ambos, generación de políticas y procedimientos que positivicen y regulen su uso (Antón, 2023; Sánchez-Vera, 2023; Pedreño et al., 2024; Ribera, Diaz, 2024).
+La inteligencia artificial (IA) está transformando el aprendizaje de idiomas, ofreciendo herramientas innovadoras que prometen un futuro más inclusivo y personalizado para estudiantes de todas las capacidades, incluidos aquellos con necesidades especiales. Un estudio del British Council destaca cómo la IA puede facilitar un aprendizaje más adaptativo y menos invasivo. Este enfoque personalizado es crucial para superar barreras en el aprendizaje de idiomas, permitiendo a los estudiantes progresar a su propio ritmo (Lightfoot, 2023; Rodríguez et al., 2023).
+En el mundo de la enseñanza de idiomas y las llamadas “four language skills” (speaking, reading, listening and writing), la inteligencia artificial continúa revolucionando los modos de enseñar, al ofrecer experiencias de aprendizaje más personalizadas, interactivas y efectivas para los estudiantes de todo el mundo (Chicaiza et al., 2023; Torres et al., 2023).
+Dada la relación de la IA con el llamado aprendizaje adaptativo, basado en la retroalimentación específica para los docentes y discentes, que va a facilitar el apoyo para el alumnado, ajustando los ritmos de aprendizaje y fortaleciendo el aprendizaje general (Keller et al., 2019; Rouhiainen L., 2019; Pedreño et al., 2024), existe  una consonancia del mismo con los desarrollos futuros que podrían influir en la enseñanza de idiomas con IA, siendo los parámetros de desarrollo estos que se exponen a continuación:
+Kumar (2021) discute el uso de chatbots educativos diseñados con propósitos didácticos, destacando su función como herramientas de aprendizaje personalizado que imitan conversaciones humanas mediante asistentes virtuales.
+A pesar de su potencial, estos chatbots representan una innovación en el ámbito educativo que enfrenta desafíos en términos de facilitación, implementación, diseño e integración efectiva en diversas áreas educativas, incluido el aprendizaje basado en proyectos. Se ha observado que los chatbots contribuyen a mejorar el rendimiento de aprendizaje y el trabajo colaborativo, promoviendo la cooperación entre los integrantes de un equipo (Paredes, 2021; Andersen et al., 2022).
+
+La IA permite crear simulaciones de conversaciones y situaciones reales que ofrecen a los estudiantes la oportunidad de practicar el idioma en un entorno seguro y controlado. Estas interacciones, guiadas por chatbots inteligentes o asistentes virtuales, pueden adaptarse a diferentes niveles de habilidad lingüística, intereses personales y objetivos de aprendizaje específicos. Al interactuar con estos sistemas, los estudiantes pueden:
+El feedback inmediato es crucial para el aprendizaje de idiomas, ya que permite a los estudiantes identificar y corregir errores en tiempo real, consolidando así su comprensión y uso correcto del idioma (Bailini, 2020). Resultando un objetivo básico de la IA la creación de un Sistema de Tutoría Inteligente (STI) a través de un algoritmo, el cual permitirá detectar de manera temprana el nivel de dominio de los temas relacionados, para ofrecer una alternativa de solución a modo de ejercicios que fortalecerán el aprendizaje significativo, siendo las características claves del STI estas que se indican a continuación (González, 2023, Pedreño et al., 2024):
+En definitiva, la IA está marcando el comienzo de una nueva era en el aprendizaje de idiomas, con un enfoque particular en la personalización, la interacción y el feedback inmediato.
+Sin embargo, no es solo la IA la que está impactando en la enseñanza; la tecnología en general, incluidas nuevas aplicaciones y redes sociales, está cambiando el sector educativo. Para navegar con éxito en este paisaje en evolución, es esencial que los discentes y docentes adquieran competencias digitales, permitiéndoles integrar estas herramientas en sus metodologías de enseñanza y aprendizaje de manera efectiva.
+Este enfoque holístico hacia la incorporación de tecnología en la educación promete no solo mejorar la accesibilidad y la eficacia del aprendizaje de idiomas sino también preparar a los estudiantes para un mundo cada vez más digitalizado.
+Consulta aquí la bibliografía:
+(*) Luis Hidalgo y Álvaro Villán son los autores del artículo. 
+Luis Hidalgo es docente en UNIR y responsable de Contenidos en Endesa X.(https://www.unir.net/profesores/luis-hidalgo-encinas/) o (https://www.linkedin.com/in/luishe/) 
+Álvaro Villán es docente en UNIR y en St Paul’s School BCN. (https://www.linkedin.com/in/alvaro-villan-scm-mba/) 
+Mantente al día en todo lo relativo a Educación
+08 / 03 / 2024
+Enseñar a leer y a escribir a niños en la etapa Infantil o aprender, si se trata de niños con dificultades en Primaria, se consigue con una metodología adecuada y el fomento de habilidades fundamentales.
+06 / 03 / 2024
+El ser humano, con toda su inteligencia y sus habilidades para descubrir los secretos del mundo que lo rodea, crear grandes inventos y avances científicos, es el único ser vivo que deja de jugar a medida que crece. ¿Es esto beneficioso para nuestro desarrollo?
+29 / 02 / 2024
+Sandra Santiago y Manuel Pacheco, directora y coordinador del Máster en Atención Temprana y Desarrollo Infantil de UNIR, analizan las mejoras en las intervenciones con niños menores de 6 años que presentan trastornos en su desarrollo y a sus familias.
+Nuestra metodología te permite estudiar sin desplazarte mediante un modelo de aprendizaje personalizado
+Nuestros profesores imparten 4.000 horas de clases online a la semana. Puedes asistir en directo o verlas en otro momento
+En UNIR nunca estarás solo. Un mentor realizará un seguimiento individualizado y te ayudará en todo lo que necesites
+Oferta académica
+Sobre nosotros
+Aspectos legales
+© UNIR - Universidad Internacional de La Rioja 2024
+Llama ahora
+y un asesor te informará sin compromiso
+o si lo prefieres
+:name
+:intro
+Formación
+:Formación
+Experiencia
+:Experiencia
+Líneas de investigación
+:Líneas de investigación
+Algunos estudios en los que imparte clase

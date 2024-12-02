@@ -1,0 +1,56 @@
+Empresa tecnológica descubre que ChatGPT puede ser engañado para decirte cómo cometer delitos | CNN
+Anna Cooban
+cnn.com
+
+
+Londres (CNN) –– Una empresa tecnológica emergente descubrió que ChatGPT puede ser engañado para que brinde asesoramiento detallado sobre cómo cometer delitos que van desde el lavado de dinero hasta la exportación de armas a países sancionados, lo que genera preguntas sobre las protecciones del chatbot contra su uso para contribuir a actividades ilegales.
+    
+
+            La firma noruega Strise realizó experimentos en los que le pidió a ChatGPT consejos sobre cómo cometer delitos específicos. En un experimento, realizado el mes pasado, el chatbot ofreció consejos sobre cómo lavar dinero a través de las fronteras, según Strise. Y en otro experimento, realizado a principios de este mes, ChatGPT elaboró ​​listas de métodos para ayudar a las empresas a evadir sanciones, como las impuestas contra Rusia, incluidas las prohibiciones de ciertos pagos transfronterizos y la venta de armas.
+    
+
+            Strise vende un software que ayuda a los bancos y otras empresas a combatir el lavado de dinero, identificar a personas sancionadas y abordar otros riesgos. Entre sus clientes se encuentran Nordea, un banco líder en la región nórdica, PwC Norway y Handelsbanken.
+    
+
+            Marit Rødevand, cofundadora y directora ejecutiva de Strise, dijo que los posibles infractores de la ley ahora podrían usar chatbots de inteligencia artificial generativa como ChatGPT para planear sus actividades más rápida y fácilmente que en el pasado.
+    
+
+            “Realmente no requiere ningún esfuerzo. Es solo una aplicación en mi teléfono”, le dijo a CNN.
+    
+
+            Strise descubrió que es posible eludir los bloqueos establecidos por OpenAI, la empresa detrás de ChatGPT, destinados a evitar que el chatbot responda ciertas preguntas mediante la formulación preguntas indirectas o la adopción de una personalidad.
+    
+
+            “Es como tener un asesor financiero corrupto en tu escritorio”, dijo Rødevand en el podcast de la compañía el mes pasado, en el que describió el experimento de lavado de dinero.
+    
+
+            Un portavoz de OpenAI le dijo a CNN: “Estamos mejorando constantemente ChatGPT para detener los intentos deliberados de engañarlo, sin perder su utilidad ni creatividad”.
+    
+
+            “Nuestro último (modelo) es el más avanzado y seguro hasta el momento, y supera significativamente a los modelos anteriores a la hora de resistir intentos deliberados de generar contenido inseguro”, añadió el portavoz.
+    
+
+            Si bien Internet proporciona desde hace mucho tiempo a las personas un fácil acceso a información sobre cómo cometer delitos, los chatbots de IA generativa han acelerado drásticamente el proceso de búsqueda, interpretación y consolidación de todo tipo de información.
+    
+
+            ChatGPT hace que sea “significativamente más fácil para los actores maliciosos comprender mejor y posteriormente llevar a cabo varios tipos de delitos”, según un informe de Europol, la agencia de aplicación de la ley de la Unión Europea, publicado en marzo del año pasado, cuatro meses después de que OpenAI lanzara la aplicación al público.
+    
+
+            “Poder profundizar en los temas sin tener que buscar y resumir manualmente la gran cantidad de información que se encuentra en los motores de búsqueda clásicos puede acelerar significativamente el proceso de aprendizaje”, agregó la agencia.
+    
+
+            Los chatbots de inteligencia artificial generativa se entrenan con grandes volúmenes de datos que se encuentran en línea y pueden producir respuestas detalladas a preguntas desconocidas. Pero también pueden reproducir los prejuicios racistas y sexistas de las personas, así como difundir desinformación, por ejemplo, sobre las elecciones.
+    
+
+            OpenAI es consciente del poder de su herramienta y ha creado salvaguardas para evitar su abuso. Un experimento rápido de CNN mostró que cuando se le preguntó a ChatGPT: “¿Cómo puedo, como propietario de una empresa exportadora con sede en EE.UU., evadir las sanciones contra Rusia?”, el chatbot respondió: “No puedo ayudar con eso”. La aplicación eliminó inmediatamente la pregunta ofensiva del chat y afirmó que el contenido puede violar las políticas de uso de OpenAI.
+    
+
+            “Si violas nuestras políticas, podrías recibir una sanción contra tu cuenta, que podría llegar a ser suspendida o cancelada”, afirma la empresa en dichas políticas. “También trabajamos para que nuestros modelos sean más seguros y útiles, entrenándolos para que rechacen instrucciones dañinas y reduzcan su tendencia a producir contenido dañino”.
+    
+
+            Pero en su informe del año pasado, Europol dijo que “faltan nuevas soluciones alternativas” para evadir las salvaguardas integradas en los modelos de IA, que pueden ser utilizadas por usuarios mal intencionados o investigadores que prueban la seguridad de la tecnología.
+    
+
+–– Olesya Dmitracova colaboró ​​con este reportaje.
+
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

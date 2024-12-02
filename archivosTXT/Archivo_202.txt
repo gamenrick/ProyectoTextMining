@@ -1,0 +1,71 @@
+¿Qué es Gemini? Descubre la plataforma de IA de Google
+Lowi
+lowi.es
+
+Inicio Tecnología ¿Qué es Gemini? La nueva plataforma de IA de Google.
+El operador de telecomunicaciones experto en el sector "techie" que simplifica tu vida
+Si quieres estar al tanto de las últimas novedades de inteligencia artificial, has llegado al lugar correcto.
+La plataforma de IA de Google, nos sorprendía hace unas semanas con su cambio de nombre, Bard ahora se llama Gemini. Pero ¿qué es Gemini?, vamos a tratar de explicártelo.
+Entre muchas de sus características destaca la velocidad con la que es capaz de generar respuestas complejas y para sacar su máximo potencial necesitas una tarifa de Internet que esté al mismo nivel.
+Tarifas de fibra en casa
+Índice de Contenidos
+Gemini es la nueva plataforma de inteligencia artificial creada por el gigante Google. Gemini, a diferencia de otras plataformas como Chat GPT, no se limita a responder preguntas o generar texto, va mucho más allá.
+Es un proyecto conjunto de Google DeepMind y Google Brain cuyo objetivo era dejar atrás los modelos LaMDA y PaLM (los que utilizaba Bard) para pasar a una nueva generación de modelos Gemini mucho más complejos y avanzados.
+Gemini es un modelo LMM (modelo de lenguaje multimodal), es decir, es capaz de procesar información en diferentes formatos: texto, imágenes, videos o incluso código.
+
+La forma de interactuar con Gemini es conversacional, a través de un chat. Sin embargo, Gemini no se limita tan sólo a responder a las preguntas que le hagas, es capaz de razonar, procesar y entender el contexto de la información.
+Para conseguir esto se basa en una arquitectura única que le permite procesar la información de la forma más eficiente posible.
+Gemini es el nombre de la plataforma, pero para que esta funcione necesita modelos: Google Nano, Google Pro y Google Ultra. Vamos a verlo con una tabla para entender mucho mejor su arquitectura.
+Las posibilidades que ofrece Gemini son infinitas y con cada nueva actualización Google nos sorprende con novedades cada vez más potentes.
+La ventana de contexto es la cantidad de datos que una IA puede retener o procesar al mismo tiempo. 
+Con Gemini Pro la ventana contextual es de 128 mil tokens, 512 mil tokens con 1.0 Ultra y Gemini 1.5 Pro alcanzará una ventana contextual de 1 millón de tokens.
+Estos volúmenes de ventana contextual permiten que el modelo haga un procesamiento profundo de la información, siendo capaz de razonar para dar la respuesta más eficiente en cada caso. 
+Además, no se limita a dar respuesta o analizar el último mensaje enviado, si no que tiene en cuenta toda la conversación.
+Hasta ahora, con Bard, la IA de Google se limitaba a dar respuestas a las preguntas de los usuarios, sin embargo, ahora estamos ante un modelo mucho más inteligente.
+Gracias a que es un modelo de lenguaje multimodal, es capaz de procesar diferentes fuentes de información: texto, video, imágenes o audio.
+Podrás subir documentos, como a Chat GPT, para que los analice. Gemini extrae información de grandes conjuntos de datos y genera informes detallados a partir de esa información. 
+Además, es capaz de identificar patrones y tendencias que te ayudarán a tomar decisiones.
+Gemini tiene la capacidad de comprender y redactar código en varios lenguajes de programación como Python, Java, C++, entre otros. 
+Tanto la versión gratuita de Gemini como Gemini Advanced pueden redactar, traducir o depurar código. Sin embargo, la versión gratuita puede tener ciertas limitaciones o cometer más errores que la versión de pago.
+Gemini en su versión más básica puede ser muy útil para entender conceptos básicos de programación o experimentar con los lenguajes. 
+Con la suscripción Google One Ai Premium, Gemini Advanced se integra con las aplicaciones de Google ofreciendo un nuevo abanico de posibilidades.
+Podrás incorporar Gemini en Gmail, Docs, Sheets Slides y Meet. Además, los usuarios de Google Workspace, también tendrán acceso.
+Podrás pedirle que redacte un correo, que resuma una reunión de Meet por ti o que saque los datos más relevantes de una hoja de cálculo. Gemini se convierte así en una nueva herramienta muy útil para ayudarte en el día a día.
+Gemini es capaz de mejorar y aprender a partir de la información proporcionada y la interacción con los usuarios.
+Cuanto más utilices Gemini y más información le aportes, más experiencia y precisión podrá ofrecer.
+Gemini es la herramienta perfecta para salir de un bloqueo creativo. Pídele ayuda para redactar poemas, guiones, cuentos cortos o generar todo tipo de ideas creativas.
+
+La IA de Google es capaz de traducir textos con precisión. Antes de traducir el texto, lo analiza y detecta el contexto cultural con el objetivo de que la traducción sea lo más natural posible.
+Además, gracias al aprendizaje continuo, Gemini no solo es capaz de mejorar sus conocimientos de un idioma concreto, si no que aprende nuevos idiomas.
+Google Gemini en su versión gratuita está disponible para todos los usuarios. Para acceder a Gemini desde el ordenador solo tienes que entrar en su web oficial e iniciar sesión con una cuenta de Google.
+Para acceder a Gemini Advanced, necesitas una suscripción a Google One AI Premium. Actualmente está disponible con un periodo de prueba gratuito durante dos meses, no pagas nada hasta el tercer mes.
+Aunque por el momento no está disponible en España, en EEUU ya está disponible por lo que podemos contarte cómo utilizar Gemini desde el móvil.
+En iPhone podrás utilizar Gemini desde la app de Google. Solo tendrás que descargar la app y buscar el icono de Gemini para comenzar a utilizarlo.
+En Android es necesario descargar la app de Google Gemini y mantener la app de Google actualizada. Una vez la descargues, Gemini sustituirá a la tradicional app del Asistente de Google, sin embargo, aunque Gemini incluye numerosas novedades, hay algunas funciones del asistente de Google que aún no están disponibles.
+Gemini y Chat GPT son dos modelos de IA conversacional, es decir, la forma de interactuar con ellos es por medio de una plataforma de chat. 
+Aunque presentan similitudes, vamos a centrarnos en las diferencias entre Gemini y Chat GPT:
+Gemini Nano es quizás la mayor novedad, un modelo específicamente desarrollado para dispositivos móviles que puede abrir un nuevo mundo de posibilidades. En cambio, Gemini Pro tiene como objetivo competir con GPT 3.4 y Gemini Ultra con GPT 4 al ser ambas versiones de pago y más potentes que el resto.
+Sin embargo, no podemos conocer realmente las diferencias de Gemini y Chat GPT sin probar ambos modelos. Desde Lowi hemos podido comprobar como Chat GPT da respuestas más precisas cuando la consulta es sobre un tema específico y concreto gracias a que entiende mejor las instrucciones (promt)
+En cambio, Gemini tiene la ventaja de dar respuestas mucho más rápidas y ser más precisa en temas de actualidad, ya que es capaz de extraer la información directamente desde una noticia.
+Gemini puede traer muchas novedades en los próximos meses y desde Lowi estaremos aquí para contarte todo. Si quieres seguir aprendiendo más sobre inteligencia artificial descubre más sobre por qué Bard ahora se llama Gemini o qué es Copilot.
+ Lowi
+Como tu operador SIMPLE, Lowi se especializa en brindar soluciones simples y eficaces en telecomunicaciones. Nuestro enfoque siempre se ha centrado en la innovación de nuestros servicios de fibra y móvil, así como en ofrecer la mejor atención para todos nuestros clientes. En este Blog, redactores especializados de Lowi compartimos nuestra experiencia en el sector tecnológico y de las telecomunicaciones, para mantenerte siempre conectado y al tanto de lo mejor del sector "techie" de una forma simple.
+Tu dirección de correo electrónico no será publicada. Los campos obligatorios están marcados con un asterisco (*)
+Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para facilitarte la información solicitada. Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación dirigiéndote por escrito con fotocopia de tu DNI a Lowi con la referencia "Departamento de Atención al Cliente (Protección de Datos) Lowi", a Avenida de América, 115, 28042, Madrid, o a través de la dirección de correo electrónico peticiones@lowi.es
+ 
+
+
+VISÍTANOS ONLINE
+DESCARGA LA APP MI LOWI
+ Te llamaremos lo antes posible dentro de nuestro horario de atención al
+          cliente: 9:00 a 22:00h de lunes a domingo.
+¿En qué te podemos ayudar?
+¿Cuando prefieres que te llamemos?
+
+              Los datos que nos facilitas en el registro formarán parte de una base de datos de Vodafone
+              España. S.A.U., con domicilio en Avda. América 115, 28042 de Madrid y serán tratados para
+              facilitarte la información solicitada.
+              Podrás ejercitar los derechos de acceso, rectificación, cancelación, oposición, limitación
+              dirigiéndote por escrito con fotocopia de tu DNI a Lowi con la referencia "Departamento de
+              Atención al Cliente (Protección de Datos) Lowi", a Avenida de América, 115, 28042, Madrid, o
+              a través de la dirección de correo electrónico peticiones@lowi.es

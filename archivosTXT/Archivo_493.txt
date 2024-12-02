@@ -1,0 +1,32 @@
+Copilot: Viaje antes que destino | Insight ES
+Autor desconocido
+insight.com
+
+
+				Por Insight ES
+/
+9 Sep 2024 /
+Temas:
+					Seguridad
+
+
+Isabel Cotrina - Senior Consultant - Connected Workforce Solutions
+Introducción
+En este artículo, se analiza la importancia de la preparación frente a Copilot en temas de seguridad y cumplimiento en los tenant de Microsoft 365, y se ofrecen algunas recomendaciones y buenas prácticas para aprovechar los beneficios de Copilot sin comprometer la integridad y la confianza de los entornos de trabajo en la nube.
+¿Qué es Copilot para Microsoft 365?
+Copilot para Microsoft 365, es un asistente de inteligencia artificial para mejorar la productividad, la creatividad y la eficiencia de los usuarios que se integra con aplicaciones de la nube de Microsoft como Outlook, Word, Excel, PowerPoint, Teams, entre otras.
+Copilot es una herramienta innovadora y poderosa que puede facilitar y agilizar el trabajo de los empleados, pero también implica algunos desafíos y riesgos en temas de seguridad y cumplimiento que deben ser considerados y mitigados por parte de la empresa antes de desplegar esta herramienta a los empleados.
+¿Cómo funciona Copilot para Microsoft 365?
+ 
+Microsoft 365 Copilot funciona con lo que se llama el "Sistema Copilot", un motor de procesamiento y orquestación que aprovecha el poder de tres tecnologías fundamentales:
+Una de las partes más importantes del proceso es realizar una llamada a Microsoft Graph para recuperar el contenido y el contexto de la empresa. Copilot únicamente accede a la información que el usuario ya puede consultar.
+Desafíos y riesgos
+Implementar y utilizar Copilot para Microsoft 365 presenta ciertos desafíos y riesgos que deben tenerse en cuenta para asegurar una implementación exitosa y segura en el entorno empresarial.
+Para reducir estos desafíos y riesgos, es esencial llevar a cabo una evaluación detallada de los peligros vinculados al uso de Copilot, establecer controles de seguridad apropiados, ofrecer formación a los usuarios sobre las mejores prácticas de seguridad en el manejo de esta herramienta o definir políticas claras de uso y responsabilidades en la integración de Copilot dentro del entorno de Microsoft 365.
+Recomendaciones y buenas prácticas
+Para aprovechar los beneficios de Copilot sin comprometer la seguridad y el cumplimiento de los tenant de Microsoft 365, se recomienda seguir algunas buenas prácticas y medidas de preparación que permitan minimizar los desafíos y riesgos asociados a Copilot. Algunas de estas buenas prácticas y medidas de preparación son las siguientes:
+Conclusión
+La implementación de Microsoft 365 Copilot requiere una cuidadosa consideración de los beneficios y riesgos asociados. Es crucial que los usuarios reciban formación y concienciación sobre su uso, y que se establezcan políticas claras y controles de seguridad para proteger los datos sensibles y cumplir con las normativas vigentes. Priorizar la seguridad en todas las etapas, desde la configuración y gestión de los tenant hasta el manejo diario de Copilot. Recordemos que la seguridad debe ser siempre una prioridad, incluso por encima de otras responsabilidades.
+Y esto no lo decimos nosotros, sino el propio CEO de Microsoft, Satya Nadella:
+“If you’re faced with the tradeoff between security and another priority, your answer is clear: Do security. In some cases, this will mean prioritizing security above other things we do, such as releasing new features or providing ongoing support for legacy systems. This is key to advancing both our platform quality and capability such that we can protect the digital estates of our customers and build a safer world for all.”
+Insight posee la experiencia en ciberseguridad necesaria para proporcionarle orientación y asistencia dondequiera que se encuentre en su camino hacia la seguridad. Explore nuestras ofertas y póngase en contacto con nosotros:

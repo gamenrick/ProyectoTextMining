@@ -1,0 +1,37 @@
+¿Cómo influye la inteligencia artificial en la agricultura? - Telefónica
+jmsanchez
+telefonica.com
+
+Telefonica.com
+ La innovación tecnológica viene a salvar el campo: conseguir que los cultivos sean más eficientes, gasten menos recursos y ayuden al agricultor a sacar lo mejor de sus cultivos, también es tarea de la inteligencia artificial
+Telefónica Seguir          
+Equipo de Comunicación
+06/10/2023
+La inteligencia artificial no solo sirve para crear ilustraciones o textos a partir de algunos comandos sencillos o para alimentar la creatividad de literatos y cineastas para la creación de historias. También puede solucionar problemas de carácter industrial gracias a la recopilación y el análisis masivo de datos. En este sentido, la IA y la agricultura llevan ya tiempo siendo aliadas, una unión que, en tiempos presentes marcados por el cambio climático y los conflictos bélicos, se hace más evidente y necesaria que nunca.
+En este artículo haremos un viaje por el uso de la inteligencia artificial en la agricultura, algunos proyectos reales que se están llevando a cabo en España y cuáles son sus principales beneficios.
+La inteligencia artificial pretende que las máquinas aprendan a pensar como lo haría un cerebro humano. Gracias a la recopilación masiva de datos, la inteligencia artificial puede convertir al sector primario en una actividad mucho más eficiente, optimizada y segura.
+Este es, probablemente, el mayor beneficio de la aplicación de la IA en el sector primario. Como su nombre bien indica, se trata de aplicar la inteligencia artificial para una agricultura precisa, optimizada y eficiente, a través de la monitorización de las parcelas. Tomar la mejor decisión posible según datos recogidos por tractores con GPS, drones, robots a pie de cultivo que detectan anomalías…
+Un ejemplo muy reciente de la aplicación de este tipo de agricultura inteligente y optimizada lo podemos encontrar en la Comunidad de Madrid. Como informa la página oficial de la propia Comunidad, se trata de un estudio “para mejorar la monitorización en la agricultura de precisión”. 
+Elaborado por los institutos de investigación IMDEA Networks y AGUA, dicho proyecto utiliza las instalaciones del invernadero del campus de IMDEA Agua para, según palabras del IMDEA Institute, “evaluar en un entorno real el rendimiento de las comunicaciones del sistema de monitorización de agricultura de precisión”. ¿Y cómo consiguen todo esto? Gracias a dispositivos IoT sin batería, colocados en el interior del invernadero, que miden los parámetros ambientales. Este tipo de tecnología permite su colocación en cualquier punto del invernadero y permite crear un entramado más denso de los mismos; de este modo, se favorece el rendimiento de la producción. El próximo reto al que se enfrenta el Instituto es el de integrar nuevos detectores que midan otras variables que ayuden al agricultor, como es la humedad del suelo. 
+Otro plan actual de agricultura de precisión es el denominado Proyecto SENSOPLAG, destinado a combatir las plagas que afectan al cultivo de los cítricos valencianos. Este proyecto busca producir un sistema de control que consiga reducir este tipo de plagas, un sistema integrado por herramientas digitales que logren la detección temprana, el monitoreo continuo de la plaga y por consiguiente poder llegar a prevenirla. 
+En este proyecto vamos a ver muy claramente cómo puede ayudar la inteligencia artificial al sector agrícola. AINIA, una de las organizaciones que participan en el proyecto y expertos en innovación sostenible, recopila y analiza las imágenes de satélite y las captadas por cámaras integradas en drones para estudiar la detección de las plagas y cómo afectan a los cítricos durante las distintas épocas del año. Luego, se integran todas estas herramientas y datos obtenidos en una sola plataforma, una aplicación que podrán consultar luego los profesionales del campo para resolver sus dudas, ayudarles a elegir el mejor tratamiento posible y cuándo aplicarlos para lograr la máxima eficacia.
+Si hablamos de inteligencia artificial y agricultura en nuestro país, no podemos dejar de citar a Agerpix, empresa que desarrolla soluciones de agricultura de precisión. Son pioneros en desarrollar un sistema de herramientas de inteligencia artificial capaces de detectar, con una precisión del 90-95 %, la cantidad de fruto en las plantaciones. 
+Este sistema automático de conteo de fruta tiene por nombre OnFruit 360. Consiste en un conjunto de cámaras y GPS que el propio agricultor puede instalar fácilmente en el propio tractor. Las cámaras van haciendo fotos del cultivo mientras el trabajador pasea entre ellos a una velocidad determinada. Todas estas imágenes dan información acerca del calibre y la cantidad del fruto, el vigor de la planta y su frondosidad por zonas. 
+Todos estos datos le dicen al agricultor qué cantidad de riego, abono o distintos fitosanitarios debe aplicar. De este modo, y gracias a la inteligencia artificial, estará mejorando la calidad de su producto, reducir los gastos de su empresa y generar menos residuos.
+Según indica el último informe de la Agencia Estatal de Meteorología (AEMET), desde el 1 de octubre de 2022 hasta el 18 de julio de 2023, el valor acumulado de las lluvias fue de 480 litros por metro cuadrado, un 15 % menos de lo que se esperaba, teniendo en cuenta los datos del mismo período entre 1991 y 2020.  Hay zonas de España en las que, incluso, no llegan al 75 % de su valor normal de precipitaciones.
+En este contexto, la aplicación de la inteligencia artificial puede ser un efectivo salvavidas para los campos. Contemos un ejemplo actual: la empresa almeriense Ikos Tech ofrece herramientas para automatizar el riego a través de un algoritmo de inteligencia artificial. Su producto estrella se llama Ikoscontroller, un dispositivo al que se conectan hasta 10 sensores, entre los que destacan los tensiómetros de alta precisión, que calibran cómo se encuentra el suelo y qué agua necesitan las plantas, así como otros sensores que analizan la humedad o la temperatura ambiente. 
+Todo este grupo de sensores, conectados al centro Ikoscontroller (que se alimenta de energía solar) envía la información recogida a la nube, a una app desarrollada por Ikos llamada Raindrop. Raindrop es una herramienta de inteligencia artificial que indica cuánta agua exactamente necesita un cultivo determinado y cuándo la precisa. Posteriormente, todos los datos van al Ikosconnect, adosado a una máquina de riego. El agricultor solo tendrá que ajustar el riego según las recomendaciones del algoritmo y el proceso se realizará de manera automática.
+Telefónica
+Telefónica
+Yanina Chalup
+Ana Siles
+Lourdes Lázaro
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Nelson Alejandro Rodríguez
+Germán Ariel Yakubisin
+Ana Siles
+Contacta con nuestro departamento de comunicación o solicita material adicional.
+Gracias por suscribirte
+Te acabamos de enviar un email para que confirmes tu suscripción.  Si ya estás suscrito en alguna de nuestras secciones este email no te llegará.
+Hacer nuestro mundo más humano, conectando la vida de las personas.

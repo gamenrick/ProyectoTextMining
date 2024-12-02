@@ -1,0 +1,74 @@
+Inteligencia artificial: 6 maneras en que grupos criminales de América Latina usan la IA para delinquir - BBC News Mundo
+Autor desconocido
+bbc.com
+
+Fuente de la imagen, Getty Images
+El crimen organizado ya no está solo en las calles. Se sienta cada noche en nuestras casas a un clic de distancia. Se esconden en la computadora, nos acechan en las redes sociales, en aplicaciones de citas y hasta en Whatsapp.
+Si internet permite a los delincuentes operar sin problemas a través de las fronteras, accediendo a un mercado de víctimas en cualquier lugar y en cualquier momento, la inteligencia artificial ha propiciado hacer esto a gran escala.
+A lo largo y ancho del mundo, los esquemas de fraude se están volviendo cada vez más profesionales y sofisticados “sin la necesidad de habilidades técnicas avanzadas y a un costo relativamente bajo”, explican los expertos de Interpol, la Organización Internacional de Policía Criminal.
+“La tecnología es, tal vez, el factor de cambio más influyente en el panorama delictivo internacional”, afirmó en un foro Jürgen Stock, secretario general de Interpol.
+En América Latina, al igual que otros grupos de delincuencia organizada a nivel mundial, los criminales amplían cada vez más sus tentáculos gracias a las nuevas tecnologías que ya no exigen años de formación y son más baratas que nunca.
+Además, “tienen los recursos para invertir en ellas, controlan dónde están los puntos débiles de la cooperación internacional y orientan sus actividades en esas áreas”, añadió Stock.
+Los expertos coinciden, históricamente hablando, Latinoamérica tiene mucha actividad de delitos cibernéticos, especialmente en Brasil.
+Las víctimas de estafas pertenecen a diversos grupos demográficos, pero ciertos grupos parecen estar particularmente en riesgo. A menudo, las víctimas son quienes buscan amor o conexión, empleo, las personas mayores y las aquellos con alfabetización digital limitada.
+Los delincuentes van contra el público en general, contra las instituciones financieras, las empresas privadas y a la infraestructura crítica de los Estados.
+Estas son 6 maneras que los delincuentes están aprovechando la inteligencia artificial para incrementar sus ataques:
+Los delincuentes usan algoritmos para identificar y reclutar nuevos miembros para organizaciones criminales.
+“Sucede mucho que en Latinoamérica, muchos niños son reclutados por parte de estructuras criminales. En su mayoría, se trata de niños y adolescentes vulnerables que carecen de la presencia de adultos que velen por su cuidado y protección”, le dice a BBC Mundo la politóloga Katherine Herrera Aguilar, consultora política en Seguridad pública y Defensa.
+Son menores que viven en zonas donde no está presente ni la familia ni el Estado, y tampoco se encuentra el apoyo de la comunidad, debido a la situación crítica en términos económicos.
+“Si bien la comunidad podría hacerse cargo de la niñez y la adolescencia, estos grupos delictivos buscan a estos niños porque son fácilmente vulnerables”, añade.
+Fuente de la imagen, Getty Images
+“Les crean videos en donde ven adolescentes como ellos de 14, 15 años, que manejan dinero, que utilizan un celular de alta gama, que tiene ropa e incluso una vivienda o un vehículo. Así los atraen. Con promesas falsas de lo que podía ser su vida”, dice la experta.
+En este caso, las redes sociales desempeñan un papel crucial en la promoción de una imagen distorsionada de la realidad.
+El uso de la IA aplicada a servicios de tránsito como Waze o Google Maps, muy usados en América Latina para esquivar embotellamientos en las ciudades, ayuda a los criminales a mejorar sus rutas de tráfico de drogas, de armas e incluso de personas.
+“El análisis de datos facilita a estas estructuras criminales identificar las rutas que son menos vigiladas o donde no existe control por parte de las autoridades nacionales de cada país”, explica Herrera.
+“Los usuarios de aplicaciones colaborativas como Uber o Waze van avisando a otros conductores de lo que se encuentran en la vía. Si hay un control policial, si hubo un accidente o si hay un radar de velocidad o una cámara”.
+Todos esos datos, se analizan en tiempo real y permiten a los delincuentes esquivar las zonas con más presencia policial.
+Las herramientas de IA permiten sacar provecho de forma rápida de un gran volumen de datos. Aplicada a cualquier plataforma de redes sociales extrae en segundos información personal que da paso a comunicaciones automáticas, totalmente personalizadas y muy convincentes.
+Es fácil, por ejemplo, acudir a la cuenta de Twitter de un equipo de fútbol y ver quienes son sus seguidores. A partir de ahí, los criminales podrían crear mensajes para conectar con la víctima. En este tipo de estafas los delincuentes buscan ganarse su confianza y obtener más información.
+En este nivel entran el phishing, es decir, correos electrónicos con código malicioso, las estafas de confianza romántica, y los concursos falsos. Ahora, dicen los expertos, estos clásicos del fraude han pasado a otro nivel.
+Las herramientas de IA permiten producir una foto realista, escribir con naturalidad en un idioma extranjero o enviar automáticamente un gran número de correos electrónicos con algunos programas gratuitos.
+"Una evaluación de Interpol advirtió que el Cartel Jalisco Nueva Generación (CJNG) de México, y el Primer Comando Capital (Primeiro Comando da Capital, PCC) y el Comando Rojo (Comando Vermelho, CV) de Brasil están participando en este tipo de fraudes", explicó la red de investigación InSight Crime.
+Fuente de la imagen, Getty Images
+En América Latina son muy comunes también los dispositivos maliciosos, como dejar conectado un pendrive en una computadora pública o un cajero automático de tal forma que es capaz de espiar los datos de la persona que la usa.
+“El Servicio Secreto de Estados Unidos ha observado un aumento significativo de las estafas de inversión en criptomonedas y activos digitales. Estas estafas suelen tener como objetivo a víctimas que utilizan las redes sociales, las citas en línea o las plataformas de redes profesionales”, afirmó Matthew Noyes, director de Política y Estrategia Cibernética del Servicio Secreto de los Estados Unidos.
+Los delincuentes también están utilizando la capacidad de la inteligencia artificial para explotar vulnerabilidades conocidas como “de día cero”. Es decir, una vulnerabilidad de un programa que acaba de salir, para la que no hay parche y se acaba de publicar.
+“Hemos visto un crecimiento exponencial de la velocidad en la que los hackers crean o explotan vulnerabilidades "0 day". Antes, para la explotación de ese tipo de vulnerabilidades, los ciberdelincuentes tardaban dos semanas, tres semanas, incluso un mes.
+Ahora, con la inteligencia artificial, al día siguiente, ya vemos intentos de explotación, porque al final la inteligencia artificial te crea código específico para explotar esa vulnerabilidad”, dice un experto en ciberseguridad que pidió no revelar su nombre.
+La IA también ayuda a crear código de virus informáticos de forma más rápida.
+Fuente de la imagen, Getty Images
+Al mismo tiempo, los delincuentes copian lo que ven en los mercados legales.
+En la Deep web se pueden encontrar ofertas de "software como servicio" con modelos de suscripción que brindan a los criminales acceso a productos fáciles de usar que van desde videollamadas hasta herramientas de gestión de proyectos y servicio al cliente.
+Los ciberdelincuentes tienen sus propios "servicios para delinquir", donde pueden comprar herramientas y conocimientos accesibles para ayudar a otros a llevar a cabo delitos.
+Esto atrae a más delincuentes al mercado del cibercrimen al reducir el costo y el nivel de habilidad necesarios para ser un estafador en línea eficaz y realizar ataques de ransomware.
+Los criminales también están contratando gente. 
+“Nos hemos infiltrado en los canales de Telegram que usan. En concreto en un grupo que ya ha pirateado varias organizaciones en todo el mundo. Encontramos varios anuncios en los buscan ciberdelincuentes con una sólida experiencia en aprendizaje automático, inteligencia artificial y campos relacionados”, dice Etay Maor, estratega jefe de seguridad de Cato Networks y miembro fundador de Cato CTRL.
+Son tan rentables, que están expandiendo su infraestructura.
+Fuente de la imagen, Getty Images
+Los deepfakes son videos, imágenes o archivos de voz manipulados con software de inteligencia artificial para parecer reales y auténticos. Los ciberdelincuentes pueden usarlos para extorsionar, cometer fraude o manipular.
+La IA permite crear un mensaje con fotos de alguien familiar en alguna situación que no es real o clonar la voz de alguien con haberla escuchado 5 o 10 segundos en una conversación por teléfono.
+"Este es un ataque más sofisticados, no tan automático, pero que suele ser muy efectivo. Ya no hace falta secuestrar a alguien para pedir su rescate. Una llamada a un familiar puede liberar los fondos directamente", dice el experto de Cato Networks.
+"Esta táctica ha sido utilizada por criminales peruanos y se está extendiendo por todo el mundo", dijo Carlos Solar, experto en ciberseguridad para América Latina del Royal United Services Institute for Defence and Security Studies (Real Instituto de Servicios Unidos para Estudios de Defensa y Seguridad) a la red de investigación InSight Crime.
+Pero la tecnología ha ido más allá, en febrero de este año, un trabajador de una multinacional entregó US$25 millones a estafadores que utilizaron tecnología deepfake para hacerse pasar por el director financiero en una videoconferencia, según contó la policía de Hong Kong.
+El trabajador sospechó que se trataba de un correo electrónico de phishing, ya que hablaba de la necesidad de realizar una transacción secreta.
+Sin embargo, dejó de lado sus dudas iniciales después asistir a una videollamada porque las otras personas presentes se parecían y sonaban igual que los colegas que sus colegas de trabajo.
+Fuente de la imagen, Getty Images
+Y en México, los delincuentes están aprovechando de la desesperación de muchas familias.
+Dado que los deep fakes no se limitan a imitar la voz de alguien y que también puede producir imágenes y videos cada vez más realistas, en la frontera entre Estados Unidos y México se ha reportado que grupos criminales que utilizan imágenes falsas para estafar a las familias de migrantes desaparecidos.
+InSight Crime comprobó el modus operandi de esto.
+"Los grupos crean sitios web haciéndose pasar por organizaciones que ayudan a encontrar a personas desaparecidas. Luego piden a las familias fotos de la persona desaparecida para identificarla", afirma la investigación. 
+Es entonces cuando, "los grupos utilizan esas fotos enviadas por familiares para crear imágenes o videos falsos y convincentes de la persona desaparecida, diciendo que fue secuestrada y que las familias deben pagar un rescate".
+Es otro ejemplo más de cómo el crimen organizado está aplicando la IA a estafas financieras ya existentes para aumentar su eficacia y escala.
+Fuente de la imagen, Getty Images
+Los expertos coinciden en que mejorar la conciencia pública de estos esquemas y proporcionar opciones de denuncia fácilmente accesibles podría ayudar a reducir la victimización.
+Pero sobre todo, dicen, es importante que las víctimas tomen voz y cuenten qué les ha pasado. A veces, prefieren mantener silencio por vergüenza, pero todo el mundo puede caer en estafas.
+También conviene no culpar solamente a los individuos. Las agencias federales que trabajan con la industria de las telecomunicaciones, las empresas de redes sociales y los proveedores de acceso a Internet pueden intentar restringir la capacidad de los operadores fraudulentos para comunicarse con las víctimas.
+“El riesgo de fraude podría reducirse mediante una verificación más estricta de los clientes, una autenticación mejorada, una mejor detección y notificación de actividades sospechosas, un mayor mantenimiento de registros y una mejora del intercambio de información entre sectores para identificar y combatir el fraude”, explicó Noyes.
+El Ministerio de Justicia de Argentina da también unas pautas sobre cómo podemos protegernos de la ingeniería social:
+En esencia, los esquemas de fraude transnacional tienen cuatro componentes: las personas que llevan a cabo el fraude, los canales que utilizan para comunicarse con las víctimas potenciales, las propias víctimas del fraude y los mecanismos financieros utilizados para obtener y blanquear los ingresos de estos esquemas. 
+La recomendación es que se aborden estos cuatro componentes como parte de un esfuerzo integral.
+"Tenemos que entender que hay gente mala y que esa gente que antes estaba en la calle, ahora está en internet también", concluye Maor.
+Haz clic aquí para leer más historias de BBC News Mundo.
+También puedes seguirnos en YouTube, Instagram, TikTok, X, Facebook y en nuestro nuevo canal de WhatsApp, donde encontrarás noticias de última hora y nuestro mejor contenido.
+Y recuerda que puedes recibir notificaciones en nuestra app. Descarga la última versión y actívalas.
+© 2024 BBC. La BBC no se hace responsable del contenido de sitios externos. Lee sobre nuestra postura acerca de enlaces externos.

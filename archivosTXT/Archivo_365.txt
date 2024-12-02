@@ -1,0 +1,448 @@
+Doce nuevos trabajos para la era de la IA generativa - Forbes Argentina
+Amura CMS
+forbesargentina.com
+
+© 2024. Forbes Argentina.  Todos los derechos reservados.
+
+Bernard Marr
+
+Cuando cualquier nueva tecnología importante acapara los titulares, rápidamente se habla de puestos de trabajo. Y lo mismo ocurre con la IA generativa. ¿Cómo afectará la IA generativa al empleo? ¿Cuál es la magnitud potencial del desplazamiento de puestos de trabajo? Escribí mucho sobre este tema, pero lo que me gustaría destacar en este artículo es el potencial de la IA generativa para crear puestos de trabajo completamente nuevos. 
+                                    	        En lugar de sustituir a los trabajadores humanos, la IA generativa va a crear una nueva necesidad de trabajadores cualificados, profesionales con la capacidad de gestionar y sacar el máximo partido de la IA generativa. ¿Cómo podrían ser esos puestos de trabajo? Acá tiene una lista de roles emergentes relacionados con la IA generativa. 
+                                    	        Ingeniero de Prompts de IALos ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico. (Por ejemplo, una instrucción genérica provocará una respuesta genérica, por lo que un ingeniero de instrucciones refinará sus instrucciones hasta obtener el resultado deseado). Por ello, más que ser expertos en programación, los ingenieros de avisos necesitan grandes dotes de comunicación, atención al detalle, pensamiento crítico y conocimientos de datos (para averiguar qué información necesita la IA). 
+                                                     
+
+
+
+
+
+Especialista en diseño generativoEsta función, parecida a la de los ingenieros de programación pero centrada en los resultados del diseño, se convertirá en una profesión cada vez más popular en campos como la arquitectura, el diseño de productos y la ingeniería. En pocas palabras, como la IA generativa puede utilizarse para crear variaciones de diseño casi ilimitadas, se necesitarán expertos que guíen a la IA e interpreten sus resultados para lograr diseños óptimos. 
+                                                Los ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico.Gestor de entradas y salidas de la IAPiense en esta función como el siguiente nivel de un ingeniero de prompts: una función más estratégica que supervisa la información que se carga en los sistemas de IA generativa y los resultados que ofrecen los sistemas de IA. Esto se convertirá en algo cada vez más importante a medida que las empresas se enfrenten a consideraciones sobre la privacidad de los datos, los derechos de autor, la explicabilidad de la IA y el sesgo de la IA.
+Revisión y auditoría de contenidos con IAEn todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+En lugar de sustituir a los trabajadores humanos, la IA generativa va a crear una nueva necesidad de trabajadores cualificados, profesionales con la capacidad de gestionar y sacar el máximo partido de la IA generativa. ¿Cómo podrían ser esos puestos de trabajo? Acá tiene una lista de roles emergentes relacionados con la IA generativa. 
+                                    	        Ingeniero de Prompts de IALos ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico. (Por ejemplo, una instrucción genérica provocará una respuesta genérica, por lo que un ingeniero de instrucciones refinará sus instrucciones hasta obtener el resultado deseado). Por ello, más que ser expertos en programación, los ingenieros de avisos necesitan grandes dotes de comunicación, atención al detalle, pensamiento crítico y conocimientos de datos (para averiguar qué información necesita la IA). 
+                                                     
+
+
+
+
+
+Especialista en diseño generativoEsta función, parecida a la de los ingenieros de programación pero centrada en los resultados del diseño, se convertirá en una profesión cada vez más popular en campos como la arquitectura, el diseño de productos y la ingeniería. En pocas palabras, como la IA generativa puede utilizarse para crear variaciones de diseño casi ilimitadas, se necesitarán expertos que guíen a la IA e interpreten sus resultados para lograr diseños óptimos. 
+                                                Los ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico.Gestor de entradas y salidas de la IAPiense en esta función como el siguiente nivel de un ingeniero de prompts: una función más estratégica que supervisa la información que se carga en los sistemas de IA generativa y los resultados que ofrecen los sistemas de IA. Esto se convertirá en algo cada vez más importante a medida que las empresas se enfrenten a consideraciones sobre la privacidad de los datos, los derechos de autor, la explicabilidad de la IA y el sesgo de la IA.
+Revisión y auditoría de contenidos con IAEn todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Los ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico. (Por ejemplo, una instrucción genérica provocará una respuesta genérica, por lo que un ingeniero de instrucciones refinará sus instrucciones hasta obtener el resultado deseado). Por ello, más que ser expertos en programación, los ingenieros de avisos necesitan grandes dotes de comunicación, atención al detalle, pensamiento crítico y conocimientos de datos (para averiguar qué información necesita la IA). 
+                                                     
+
+
+
+
+
+Especialista en diseño generativoEsta función, parecida a la de los ingenieros de programación pero centrada en los resultados del diseño, se convertirá en una profesión cada vez más popular en campos como la arquitectura, el diseño de productos y la ingeniería. En pocas palabras, como la IA generativa puede utilizarse para crear variaciones de diseño casi ilimitadas, se necesitarán expertos que guíen a la IA e interpreten sus resultados para lograr diseños óptimos. 
+                                                Los ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico.Gestor de entradas y salidas de la IAPiense en esta función como el siguiente nivel de un ingeniero de prompts: una función más estratégica que supervisa la información que se carga en los sistemas de IA generativa y los resultados que ofrecen los sistemas de IA. Esto se convertirá en algo cada vez más importante a medida que las empresas se enfrenten a consideraciones sobre la privacidad de los datos, los derechos de autor, la explicabilidad de la IA y el sesgo de la IA.
+Revisión y auditoría de contenidos con IAEn todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Esta función, parecida a la de los ingenieros de programación pero centrada en los resultados del diseño, se convertirá en una profesión cada vez más popular en campos como la arquitectura, el diseño de productos y la ingeniería. En pocas palabras, como la IA generativa puede utilizarse para crear variaciones de diseño casi ilimitadas, se necesitarán expertos que guíen a la IA e interpreten sus resultados para lograr diseños óptimos. 
+                                                Los ingenieros de prompts son expertos en conseguir que aplicaciones de IA generativa como ChatGPT ofrezcan un resultado específico.Gestor de entradas y salidas de la IAPiense en esta función como el siguiente nivel de un ingeniero de prompts: una función más estratégica que supervisa la información que se carga en los sistemas de IA generativa y los resultados que ofrecen los sistemas de IA. Esto se convertirá en algo cada vez más importante a medida que las empresas se enfrenten a consideraciones sobre la privacidad de los datos, los derechos de autor, la explicabilidad de la IA y el sesgo de la IA.
+Revisión y auditoría de contenidos con IAEn todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Piense en esta función como el siguiente nivel de un ingeniero de prompts: una función más estratégica que supervisa la información que se carga en los sistemas de IA generativa y los resultados que ofrecen los sistemas de IA. Esto se convertirá en algo cada vez más importante a medida que las empresas se enfrenten a consideraciones sobre la privacidad de los datos, los derechos de autor, la explicabilidad de la IA y el sesgo de la IA.
+Revisión y auditoría de contenidos con IAEn todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+En todas las formas de contenido, como artículos escritos, diseños visuales e informes de análisis, se necesitarán revisores humanos para evaluar la calidad, precisión e idoneidad del contenido. Por lo tanto, aunque no cabe duda de que la IA generativa se utilizará cada vez más para crear contenidos, seguiremos necesitando a seres humanos para garantizar que los contenidos se ajustan a su finalidad. 
+                                    	        Formador de IASe trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Se trata de profesionales especializados en "enseñar" y perfeccionar modelos de IA. Sus tareas pueden ir desde alimentar la IA con datos hasta ajustar sus resultados para garantizar su precisión y relevancia. 
+                                                     
+
+
+
+
+
+Ingeniero de mantenimiento de IAComo cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Como cualquier sistema, los modelos de IA requieren un mantenimiento en términos de actualización, asegurándose de que los sistemas funcionan eficientemente y solucionando problemas. La IA generativa no es diferente. 
+                                    	        Especialista en seguridad de IAEl escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+El escenario de la ciberseguridad se está convirtiendo en algo mucho más complicado gracias a la IA, ya que la tecnología permite ataques de phishing y malware más sofisticados, entre otros. Por lo tanto, las organizaciones necesitarán expertos que puedan defender los sistemas contra el uso malicioso de la IA y, potencialmente, aprovechar la IA para reducir las amenazas. 
+                                                     
+
+
+
+
+
+  Instructor de AI/Educador de alfabetización en AIAl igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Al igual que la alfabetización informática se convirtió en una habilidad fundamental a finales del siglo XX y principios del XXI, la alfabetización en IA se convertirá en crucial en el futuro. Están apareciendo instructores capaces de enseñar a las personas el funcionamiento, las ventajas y los desafíos de la IA. 
+                                                	        Ético de la IA/Oficial de ética de la IADadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Dadas las poderosas capacidades de la GenAI, existe una clara necesidad de profesionales que puedan garantizar que estos sistemas se desarrollen y utilicen éticamente, sin prejuicios y de forma socialmente responsable. Por lo tanto, parte de la misión de un especialista en ética de la IA será crear y aplicar directrices que rijan el uso ético y seguro de los sistemas de IA por parte de una organización. 
+                                                     
+
+
+
+
+
+Director de compliance de la IA/Oficial de compliance de la IASi la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Si la función de un especialista en ética es dar forma al uso ético de la IA, la función del responsable de compliance es garantizar que esas directrices se sigan correctamente. Además, a medida que aumenta la regulación y el escrutinio en torno a la IA, las organizaciones necesitarán profesionales dedicados al cumplimiento de la normativa para garantizar que la empresa actúa dentro de los marcos legales. 
+                                    	        Diseñador de personalidades de IAA medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+A medida que aparezcan más y más herramientas de IA generativa, tiene sentido que estas herramientas necesiten sus propias "personalidades" únicas para diferenciarse de la competencia. Por ello, podría aparecer una nueva función dedicada a crear personalidades atractivas y agradables para las entidades de IA generativa. Esto hará que las interacciones con las herramientas de IA generativa parezcan más humanas. 
+                                    	        Desarrollador de soluciones de IA personalizadasAunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+Aunque muchas aplicaciones de IA pueden ser amplias, existe un mercado creciente de soluciones de IA personalizadas y especializadas adaptadas a necesidades o desafíos específicos del sector. De hecho, esto ya está ocurriendo, con muchas organizaciones que se asocian con empresas de IA para crear sus propios modelos internos a medida basados en modelos disponibles públicamente. 
+                                    	          
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+  
+                                    	        *Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+*Con información de Forbes US.  
+                                    	         
+            	
+
+
+
+
+              
+106000
+63710
+44675
+39605
+36290
+
+Términos y condiciones |
+                                            
+                                                                        Legales |
+                                            
+                                        
+                    © 2024. Forbes Argentina. Todos los derechos reservados.

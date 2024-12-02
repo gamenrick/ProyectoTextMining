@@ -1,0 +1,21 @@
+OpenAI presenta ChatGPT-4o, la nueva versión gratuita, más rápida y mejorada del ‘chatbot’
+Forbes Staff
+com.mx
+
+La empresa de Inteligencia Artificial (IA) OpenAI presentó este lunes ChatGPT-4o, la nueva versión gratuita, más rápida y con capacidades mejoradas de su popular chatbot.
+La jefa tecnológica Mira Murati, en una sesión abierta y retransmitida por internet, dijo que esta versión “mejora sus capacidades en texto, visión y audio”, y que supone un “gran paso adelante” en su facilidad de uso.
+El máximo ejecutivo de OpenAI, Sam Altman, destacó en X que ChatGPT-4o es “el mejor modelo hasta la fecha”, “multimodal” y disponible para todos los usuarios, incluidos los del plan gratuito.
+“Hasta ahora, los modelos de clase GPT-4 solo estaban disponibles para gente que paga una suscripción mensual. Esto es importante para nuestra misión, queremos poner grandes herramientras de AI en las manos de todos”, agregó.
+La presentación en vivo incluyó varias demostraciones de las capacidades del ‘chatbot’, que usaba una voz femenina y recordaba en cierto modo a la película ‘Her’, de Spike Jonze, sobre un humano que se enamora de una IA.
+“Queremos eliminar el misticismo de la tecnología y llevársela para que puedan probarla ustedes mismos. En las próximas semanas, implementaremos estas capacidades para todos”, dijo Murati, que adelantó que pronto habrá también novedades sobre “la siguiente frontera” en la IA.
+La nueva versión de ChatGPT fue capaz de “percibir la emoción” de un usuario nervioso, le recomendó hacer respiraciones, bromeó con que parecía “una aspiradora”, y mostró un rango de estilos y tonos en su voz leyendo un cuento para niños.
+Entre otras cosas, el ‘chatbot’ ahora puede ser interrumpido y responder inmediatamente sin tardar segundos, resolver problemas matemáticos a través de vídeo, o hacer interpretación y traducción simultánea de idiomas de viva voz.
+Murati también señaló que el nuevo modelo GPT-4o ofrece una nueva interfaz de usuario (IU) y una nueva aplicación de escritorio de ChatGPT para que todos “puedan usarlo allá donde estén” y se “integre fácilmente en la rutina de trabajo”.
+Asimismo, estará disponible para desarrolladores a través de la interfaz de programación de aplicaciones (API) de OpenAI con el objetivo de que estos puedan construir ‘apps’ mientras lo usan, según dijo.
+En el evento de OpenAI, que tuvo lugar un día antes de la conferencia de desarrolladores de Google, colaboró la empresa de tecnología NVIDIA, otra líder en IA, pues Murati agradeció a esa compañía y a su ejecutivo, Jensen Huang, haber brindado “los procesadores más avanzados”.
+Se espera que mañana Google, rival de OpenAI, haga anuncios sobre su herramienta de IA que compite con ChatGPT, llamada Gemini.
+Sigue la información sobre los negocios y la actualidad en Forbes México
+¿Te gusta informarte por Google News? Sigue nuestro Showcase para tener las mejores historias
+Meta buscará desarrollar auriculares llamados 'Camerabuds', los cuales podrían identificar objetos y traducir idiomas.
+A través de una OPA, OpenAI habilitó a sus empleados a vender aproximadamente 1,500 mdd en acciones al grupo japonés Sof...
+ChatGPT será gratuito para todos los usuarios de iPhone, que podrán tener conversaciones más naturales con el asistente...

@@ -1,0 +1,102 @@
+Inteligencia Artificial vs. Machine Learning vs. Deep Learning
+Yeeply
+yeeply.com
+
+Inteligencia artificial, machine learning, deep learning… La tecnología avanza a pasos agigantados y es normal sentirse perdido si no estás familiarizado con ella. 
+Si hasta hoy pensabas que se trataba de conceptos similares, lamentamos decirte que estás equivocado. En Yeeply tenemos como misión poner algo de luz en torno a estas tres tecnologías, para que comprendas qué son y en qué se diferencian. 
+Descubre en qué consiste cada una de ellas, cómo se interrelacionan y las aplicaciones que tienen.
+La inteligencia artificial se refiere a la capacidad de una máquina de imitar las funciones cognitivas que hasta ahora se asociaban exclusivamente a los humanos. 
+Percibir, razonar, aprender o solucionar problemas, son algunas de las cosas que puede hacer una inteligencia artificial. Aunque todavía al escuchar este concepto nos recuerda al terreno de la ciencia ficción, esta tecnología ya está integrada en nuestro día a día.
+Piensa en la integración de IA en smart homes, por ejemplo. Su presencia en la automatización del hogar nos permite controlar nuestros electrodomésticos, asegurar nuestras casas, e incluso limitar nuestros gastos. El objetivo final de la automatización del hogar es limitar la necesidad de la participación humana.
+ 
+Sigue leyendo: ¿Qué es GPT-3 y por qué está revolucionando la IA?
+ 
+El deseo de crear máquinas que se comportan como humanos ha estado presente en la historia del hombre desde tiempos remotos. 
+Sin embargo, no fue hasta la II Guerra Mundial cuando podemos decir que apareció la inteligencia artificial moderna con Alan Turing. El experto matemático consiguió descifrar el funcionamiento de Enigma, con la creación de la máquina Bombe. 
+En 1950 Turing publicó el artículo “Maquinaria computacional e Inteligencia”, en el que sentaba las bases de la inteligencia artificial y propuso un experimento conocido hoy como el Test de Turing, que determina si una máquina puede pensar. 
+Para ello un juez se ubica en una habitación y mantiene una conversación con la máquina. Si la persona no puede distinguir si está hablando con un humano o una máquina, se considera que es inteligente.
+ 
+Contenido recomendado: Los 5 mayores retos de la transformación digital (y cómo superarlos)
+ 
+Una de las aplicaciones más conocidas de la inteligencia artificial es la robótica, hoy en día ya muy presente en sectores como la industria. Por ello, la Unión Europea ya se ha avanzado a su generalización en otros ámbitos, proponiendo unas leyes de robótica que ayuden a resolver posibles problemas que puedan surgir en un futuro.
+La UE da una vuelta a las leyes de la robótica de Isaac Asimov y sugiere que los robots cuenten con un interruptor de emergencia para evitar cualquier peligro a humanos. 
+Además, prevé la creación de un estatus jurídico de persona electrónica, que también tendrá derechos y obligaciones, entre ellos, tributar a la seguridad social para subvencionar ayudas al desempleo, entre otras proposiciones.
+Aunque todavía es pronto para ver cómo evoluciona la legalidad en torno a la inteligencia artificial, lo cierto es que es una tecnología cercana y que en pocos años revolucionará nuestro día a día: atención al cliente, vehículos autónomos, robots de asistencia etc.
+
+ 
+Mientras que la inteligencia artificial trata de imitar el razonamiento humano, el machine learning o aprendizaje automático va más allá. Esta rama de la inteligencia artificial es la que hace posible que las máquinas aprendan por sí mismas, sin depender de órdenes. 
+En realidad, la “máquina” es un algoritmo el que analiza un volumen de datos, que sería inabarcable para un ser humano, para identificar patrones. Es decir, el machine learning implica que la máquina es entrenada para automatizar tareas imposibles para un ser humano y, como resultado de ese aprendizaje, puede realizar predicciones. 
+Este video explica cómo funciona el machine learning:
+
+ 
+No obstante, para el aprendizaje de la máquina es necesaria la intervención humana que valide la decisión que ha tomado el programa. El algoritmo se va perfeccionando poco a poco gracias a estas correcciones.
+El machine learning lleva tiempo entre nosotros, aunque tal vez no seas consciente de ello. El reconocimiento facial en las fotos que publicas en redes sociales o en servicios de almacenamiento en la nube, se basa en esta tecnología.
+¿Enganchado a las plataformas de contenido en streaming como Netflix o Spotify? Si es así, conocerás las recomendaciones que te hace cada plataforma en función de los contenidos que hayas visto o la música que hayas escuchado.
+El texto predictivo o las respuestas automáticas en servicios como Gmail o en los mensajes de LinkedIn es otra de sus aplicaciones en las que tal vez no hayas reparado. Como ves, esta tecnología ya está completamente instalada en nuestro día a día. ¿Te habías dado cuenta?
+ 
+Quizás te interese: Inteligencia Aumentada: los humanos y la IA unen fuerzas
+ 
+El deep learning podría definirse como un tipo de machine learning, solo que algo más complejo. 
+El deep learning o aprendizaje profundo es un conjunto de algoritmos que imita las redes neuronales de un cerebro humano. En esta tecnología, la máquina aprende por sí misma pero por etapas, o capas. La profundidad del modelo dependerá del número de capas de las que disponga el modelo.
+Cuando hablamos de redes neuronales en deep learning éstas pueden ser virtuales o físicas. Las virtuales serían las que se crean artificialmente en un ordenador, mientras que para crear redes neuronales físicas suele utilizarse silicio. 
+Al igual que ocurre con otras tecnologías, el deep learning ya está muy presente en nuestro día a día. Los traductores inteligentes, los asistentes de voz como Siri, Google Home, Cortana o la búsqueda de imágenes similares como hace Google Photos, son algunos de los usos que ya tenemos asimilados. 
+Pero el deep learning también tiene otro tipo de aplicaciones muy prometedoras en terrenos como el de la medicina o la investigación científica en general. Un ejemplo podría ser el análisis de imágenes médicas, como radiografías o resonancias, mejorando la precisión del diagnóstico. No obstante, las aplicaciones son infinitas.
+Aunque tienen rasgos en común, ya ves que la inteligencia artificial, el machine learning y el deep learning son tecnologías distintas pero con un gran potencial. 
+Si eres una empresa, ¿has pensado en cómo incorporarlas a tus procesos de trabajo o en los servicios a clientes? Seguro que pueden ayudarte a tomar mejores decisiones o a marcar una diferencia competitiva. 
+Si tienes dudas, consulta a un partner digital como Yeeply para conocer todo lo que la tecnología puede hacer por ti.
+
+Diversas empresas de primer nivel comienzan a trabajar para atraer a los usuarios hacia los pagos móviles Más de 500.000 millones de euros. Estas son ...
+En la actualidad, la demanda de profesiones digitales está aumentando significativamente. Las empresas buscan constantemente profesionales capacitados en habilidades digitales para lograr innovación, eficiencia y ...
+En el mundo de la tecnología, los hackathons han ganado una gran popularidad en los últimos años. Estos eventos llenos de energía y creatividad han ...
+El Desarrollo de aplicaciones móviles con flutter implica obtener aplicaciones nativas de alta calidad para iOS, Android y web, desde una sola base de código.  ...
+El mundo IT está en constante evolución y una buena muestra de ello son la continua aparición de lenguajes de programación. Pero, ¿sabes cuáles son ...
+Un Desarrollador Full-Stack es un profesional capacitado para encargarse de un proyecto tecnológico, desde el principio hasta el final y de forma independiente, gracias a ...
+
+World-class tech talent
+Avenida del Puerto, 
+4, 2º piso
+46021 Valencia, España
+Yeeply
+Acerca de nosotros
+Filosofía
+Empleo
+Mapa del sitio
+Servicios
+Desarrollo de apps móviles
+Ciberseguridad
+Desarrollo Ecommerce
+Desarrollo inteligencia artificial
+Desarrollo low code y no code
+Business Intelligence
+Software a medida
+Blockchain
+ 
+Perfiles
+Desarrolladores Angular
+Desarrolladores Java
+Desarrolladores Javascript
+Desarrolladores Laravel
+Desarrolladores Node JS
+Desarrolladores .NET
+Desarrolladores Python
+Desarrolladores Ruby
+Desarrolladores Visual Basic
+Desarrolladores Ionic
+Desarrolladores Android
+Desarrolladores iOS
+Desarrolladores WordPress
+Desarrolladores PrestaShop
+Desarrolladores Shopify
+Desarrolladores Flutter
+Desarrolladores React
+ 
+Ayuda
+Crear una app
+Crear una página web
+FAQ
+Recursos
+Blog
+Precios
+ 
+Idiomas
+Copyright © Yeeply 2021 – Aviso legal – Términos Generales –  Protección de datos – Cookies

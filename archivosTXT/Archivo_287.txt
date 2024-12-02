@@ -1,0 +1,156 @@
+Inteligencia Artificial Generativa: qué es y qué usos tiene | Inesdi
+Autor desconocido
+inesdi.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La Inteligencia Artificial (IA) ha experimentado avances más que significativos en los últimos años, y una de las ramas que ha cobrado relevancia es la Inteligencia Artificial Generativa. Esta tecnología se centra en la capacidad de las máquinas para generar contenido original, como imágenes, música, videos y textos. Pero, ¿sabes de qué manera? Es lo que te explicamos en este artículo, además de sus usos y algunos ejemplos destacados. Si quieres dedicar tu carrera profesional a la IA, te recomendamos nuestro Máster en Marketing Digital e Inteligencia Artificial.
+Este tipo de Inteligencia Artificial es una rama de la IA que se enfoca en la creación de contenido original por parte de las máquinas. A diferencia de la Inteligencia Artificial tradicional, que se basa en algoritmos predefinidos y patrones existentes, la generativa utiliza redes neuronales y algoritmos de aprendizaje automático para generar nuevo contenido que imita la creatividad humana.
+Las técnicas utilizadas incluyen redes generativas adversarias (GAN, por sus siglas en inglés), redes neuronales recurrentes (RNN) y modelos de lenguaje. Estas técnicas permiten a las máquinas aprender patrones y características de un conjunto de datos de entrenamiento y generar contenido original basado en ese conocimiento.
+ 
+
+ 
+Sus aplicaciones son diversas y tienen un gran potencial en diferentes áreas. A continuación, te mostramos algunos de los usos más destacados:
+La generación de textos y contenido escrito de manera automatizada. Esto incluye la capacidad de redactar artículos, generar descripciones de productos, crear historias y hasta componer poemas. Estas capacidades pueden resultar útiles en la industria editorial, publicitaria y en la generación de contenido para sitios web.
+Las IA generativas también pueden generar imágenes y diseños gráficos de forma automática. Esto incluye la creación de ilustraciones, diseños de logotipos, paisajes digitales e incluso retratos. Estas capacidades pueden servir de apoyo a artistas, diseñadores y empresas de publicidad para agilizar el proceso de creación y obtener resultados visualmente atractivos.
+La generación de música es otro campo en el que la Inteligencia Artificial Generativa ha demostrado ser efectiva. Las máquinas pueden aprender los patrones y estructuras musicales a partir de un conjunto de datos y luego generar nuevas composiciones originales. Esto puede servir a compositores, productores musicales e incluso en la industria del entretenimiento. Por ejemplo, para crear bandas sonoras para películas y videojuegos.
+Además de generar contenido original, este tipo de IAs también pueden utilizarse para mejorar imágenes y fotografías existentes. Estas técnicas permiten retocar fotografías, corregir imperfecciones, cambiar el estilo de una imagen e incluso generar imágenes realistas a partir de bocetos o descripciones. Esto puede ser útil en la industria de la fotografía, el diseño gráfico y la edición de imágenes.
+ 
+
+ 
+Puesto que existen diferentes tipos de Inteligencia Artificial, también hay numerosos ejemplos destacados de aplicaciones de la Inteligencia Artificial Generativa. Te dejamos una lista de los más conocidos. Aunque su uso es, en general, sencillo, algunos presentan cierta curva de aprendizaje.
+DeepArt es una plataforma que utiliza IA generativa para transformar imágenes comunes en obras de arte inspiradas en diferentes estilos artísticos. Usa algoritmos de aprendizaje automático para analizar las características de una imagen y aplicar el estilo artístico elegido. Esto permite a los usuarios convertir sus fotos en obras maestras dignas de una galería de arte.
+El modelo de lenguaje GPT-3 (Generative Pre-trained Transformer 3) desarrollado por OpenAI es un ejemplo impresionante de IA generativa en el ámbito del procesamiento del lenguaje natural. GPT-3 puede generar texto coherente, responder preguntas, traducir idiomas y hasta escribir código de programación. Su capacidad para generar contenido de calidad ha impresionado a muchos expertos en IA.
+StyleGAN es un modelo de IA generativa que puede generar imágenes realistas y de alta resolución. Perfecto para aplicaciones como la generación de retratos ficticios, la creación de personajes para videojuegos y la producción de imágenes realistas para la industria del cine y la animación. StyleGAN ha recibido elogios por su capacidad para crear imágenes convincentes y detalladas.
+En resumen, la Inteligencia Artificial Generativa ha abierto nuevas posibilidades en la creación de contenido original por parte de las máquinas. Desde la generación de texto y música hasta la mejora de imágenes y la creación de obras de arte, la IA generativa muestra un potencial significativo en una amplia gama de industrias. A medida que esta tecnología continúa evolucionando, es emocionante imaginar las aplicaciones futuras que transformarán la forma en que interactuamos con la creatividad computacional. Sin embargo, el sentimiento sobre las IAs no es unánime. Hay quien cree firmemente en que su desarrollo nos beneficiará, pues presentan innumerables ventajas. Pero otra parte de la población está más preocupada por los posibles inconvenientes.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CAMPUS
+SOLICITA INFORMACIÓN
+¿Quién es el Responsable del tratamiento de sus datos?
+THREEPOINTS EDUCATION, S.L.U, con CIF B-67187906, será la responsable de los datos
+            personales facilitados a través de la presente página web, así como de los facilitados
+            telefónicamente, a través de cualquiera de nuestros formularios en formato papel, de los obtenidos como
+            consecuencia de la relación que Usted mantenga con nosotros y de los derivados de sus hábitos de navegación
+            y consumo. Dicha compañía se encuentra ubicada en Av Diagonal, 662, 08034 Barcelona, pudiendo
+            ponerse en contacto con la misma a través de la dirección electrónica info@inesdi.com.
+Igualmente, podrá ponerse en contacto con nuestro Delegado de Protección de Datos mediante escrito
+            dirigido a dpo@planeta.es o a Grupo Planeta, At.:
+            Delegado de Protección de Datos, Avda. Diagonal 662-664, 08034 Barcelona.
+¿Con qué finalidad tratamos sus datos personales?
+THREEPOINTS EDUCATION, S.L.U tratará sus datos personales con el fin de gestionar la relación que Usted
+            mantiene con nosotros, así como para enviarle comunicaciones comerciales por cualquier vía, incluso
+            finalizada la relación con usted, para mantenerle informado de aquellos de nuestros productos y servicios
+            similares a los contratados por Usted.
+Asimismo, le informamos que, con el fin de poder ofrecerle productos y servicios de THREEPOINTS
+          EDUCATION, S.L.U o de terceras empresas adecuados a sus intereses, así como para mejorar su experiencia
+            de usuario de nuestra página Web, elaboraremos un “perfil comercial” en base tanto a la información
+            facilitada por usted como a aquella otra derivada de sus hábitos de consumo y navegación y la
+            obtenida de redes sociales. 
+Adicionalmente, sus datos personales y perfil comercial serán cedidos al resto de
+            sociedades del Grupo Planeta para que éstas le remitan comunicaciones comerciales sobre sus propios
+            productos y servicios o de terceras empresas pertenecientes o ajenas al Grupo Planeta, elaborando para ello,
+            a su vez, su propio perfil comercial con dichos datos y perfiles, así como con los datos y perfiles de usted
+            que ya tuviera u obtenga, todo ello, para que dichas comunicaciones sean de su interés por adecuarse a sus
+            gustos, hábitos de consumo y navegación y preferencias comerciales. Este tratamiento implicará, por tanto,
+            el cruce de bases de datos de las distintas empresas del Grupo Planeta y enriquecimiento de las
+            mismas.
+Puede consultar el listado de empresas del Grupo Planeta en el siguiente link www.planeta.es. Dichas empresas desarrollan su actividad en
+            los sectores editorial, formación, cultura, ocio, coleccionismo, textil, seguros privados, gran consumo y
+            joyería.
+En cualquier caso, las terceras empresas ajenas a nuestro grupo de las que, en su caso, le enviaremos
+            comunicaciones comerciales serán aquellas que desarrollen su actividad en los mismos sectores que las
+            empresas del Grupo Planeta y que han sido indicados anteriormente, o en los sectores de Telecomunicaciones,
+            bancario y financiero, viajes, tecnología y actividades jurídicas.
+¿Por cuánto tiempo conservaremos sus datos?
+Tanto los datos personales proporcionados, como los obtenidos de su navegación y hábitos de consumo,
+            así como el perfil comercial obtenido se conservarán mientras Usted no solicite su supresión.
+¿Cuál es la legitimación para el tratamiento de sus datos?
+La base legal para el tratamiento de sus datos personales es la ejecución y mantenimiento de la
+            relación mantenida con Usted, así como el consentimiento expreso que, en su caso, nos haya facilitado para
+            los tratamientos adicionales consistentes en el envío de comunicaciones comerciales propias y/o de terceros,
+            la elaboración de perfiles comerciales y la cesión de dichos datos y perfiles al resto de sociedades del Grupo Planeta
+              con las finalidades indicadas en el apartado “¿Con qué finalidad tratamos sus datos personales?”
+            anterior.
+Le informamos que los datos personales que se solicitan en el momento de registrarse en la presente
+            página web, los solicitados telefónicamente o en cualquiera de nuestros formularios en formato papel, son
+            los estrictamente necesarios para formalizar y gestionar la relación con Usted, de manera que, en caso de no
+            facilitarlos, no podremos mantener dicha relación. En cualquier caso, dicha finalidad principal no está
+            supeditada al consentimiento para el tratamiento de los datos que no sean necesarios para dicha actividad
+            principal.
+Como, hemos indicado anteriormente, la oferta prospectiva de productos y servicios propios y/o de
+            terceros, así como la elaboración de perfiles comerciales y la cesión de dichos perfiles y de sus datos
+            personales a terceras empresas del Grupo Planeta, son tratamientos adicionales que están basados en el
+            consentimiento que se le solicita, sin que en ningún caso la retirada de este consentimiento condicione el
+            mantenimiento de la relación que mantiene con nosotros.
+¿A qué destinatarios se comunicarán sus datos?
+Únicamente en el caso de que nos dé su consentimiento para ello, sus datos personales y, en su caso, su
+            perfil comercial, serán comunicados al resto de empresas del Grupo Planeta con las finalidades
+            indicadas en el punto “¿Con qué finalidad tratamos sus datos personales?”
+          de la presente política de privacidad. Puede consultar el listado de empresas del Grupo Planeta
+            en el siguiente link www.planeta.es.
+
+¿Cuáles son sus derechos cuando nos facilita sus datos?
+Cualquier persona tiene derecho a obtener confirmación sobre si en THREEPOINTS EDUCATION,
+          S.L.U estamos tratando datos personales que les conciernan, o no.
+Asimismo, las personas interesadas tienen derecho a acceder a sus datos personales, así como a
+            solicitar la rectificación de los datos inexactos o, en su caso, solicitar su supresión cuando, entre otros
+            motivos, los datos ya no sean necesarios para los fines que fueron recogidos.
+En determinadas circunstancias, los interesados podrán solicitar la limitación del tratamiento de sus
+            datos, en cuyo caso únicamente los conservaremos para el ejercicio o la defensa de reclamaciones.
+En determinadas circunstancias y por motivos relacionados con su situación particular, los interesados podrán
+          oponerse al tratamiento de sus datos. THREEPOINTS EDUCATION, S.L.U dejará de tratar los
+            datos, salvo por motivos legítimos imperiosos, o el ejercicio o la defensa de posibles reclamaciones.
+
+Asimismo, los interesados tienen derecho a recibir, en un formato estructurado, de uso común y lectura
+            mecánica, los datos personales que le incumban que nos hayan facilitado, y a transmitirlos a otro
+            responsable.
+Los interesados, podrán ejercer dichos derechos y la revocación en cualquier momento de los
+            consentimientos en su caso prestados, mediante carta dirigida a THREEPOINTS EDUCATION, S.L.U,
+            Apartado de Correos 221 de Barcelona o remitiendo un email a lopd@threepoints.com. En este sentido, le informamos que tiene a su disposición
+            modelos de ejercicio de los citados derechos en la página web de la Agencia Española de Protección de Datos
+            (https://www.aepd.es/reglamento/derechos/index.html).

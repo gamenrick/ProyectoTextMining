@@ -1,0 +1,45 @@
+Cómo la inteligencia artificial y la realidad aumentada siguen transformando la industria de la belleza - Revista Ventas de Perfumería y Cosmética
+Autor desconocido
+revistavpc.es
+
+Herramientas de Accesibilidad
+COLABORACIONES
+Por Ambra Orini Co-founders & CEO The Beauty Makers.
+La tecnología está cambiando rápidamente la naturaleza de la creación de contenido, los chatbots, la personalización y las pruebas virtuales.
+Desde recomendaciones personalizadas para el cuidado de la piel hasta experiencias de prueba virtuales, la tecnología de IA está transformando la forma en que interactuamos con los productos y servicios de belleza.
+La inteligencia artificial, también conocida como IA, es un subnicho de la ciencia de datos. Los algoritmos de IA son lo suficientemente inteligentes como para comportarse sin intervención humana. Los algoritmos de inteligencia artificial tienen una amplia gama de aplicaciones, desde filtros de RA (realidad aumentada) en Instagram y Snapchat, hasta automóviles sin conductor y asistentes de voz.
+El aprendizaje automático es una rama de la inteligencia artificial. Los algoritmos de aprendizaje automático aprovechan diferentes modelos de aprendizaje y sus aplicaciones pueden mejorar automáticamente a través de la experiencia. Netflix y Spotify adoptaron por ejemplo el aprendizaje automático para brindar a los usuarios sugerencias de contenido más personalizadas.
+En los últimos años, tanto los algoritmos de aprendizaje automático como los de IA han penetrado en la industria de la belleza y la cosmética.
+Estas son las cinco principales aplicaciones de IA por las que están apostando las marcas de belleza:
+La realidad aumentada permite agregar imágenes virtuales a fotos de la vida real. La tecnología de realidad aumentada potencia los filtros de Instagram y Snapchat. Pero, ¿cómo funciona la RA? El algoritmo inteligente detecta el rostro del comprador, analizando 100 puntos focales para encontrar bordes faciales. El algoritmo de IA analiza puntos de datos alrededor de las características faciales para mapear, por ejemplo, el maquillaje en el rostro. La realidad aumentada ajusta los objetos digitales al tamaño de la cara y los superpone a una foto o vídeo, para que los elementos artificiales encajen perfectamente. En cuanto a productos de belleza y cuidado de la piel, la realidad aumentada mejora la experiencia de compra online con la posibilidad de probar virtualmente pintalabios y sombras de ojos e incluso ver el resultado de cremas antiedad al detectar arrugas, manchas, textura de la piel y ojeras.
+La personalización es una de las aplicaciones más prometedoras de la inteligencia artificial en la industria de la belleza. Como muestran los estudios, los compradores pasan la mayor parte del tiempo en la fase previa a la búsqueda y menos en la fase final del proceso de compra. Esto significa que, si se acorta su viaje al proporcionarles artículos relevantes en primer lugar, es más probable que los clientes los compren. Hay varias formas de usar la IA en la industria de la belleza para contenido personalizado dinámico:
+El procesamiento del lenguaje natural (PLN) es un subnicho de la inteligencia artificial que combina la lingüística, la ciencia de datos y los algoritmos de inteligencia artificial para permitir que los ordenadores entiendan el lenguaje humano. La diferencia entre las aplicaciones impulsadas por PNL y los chatbots simples radica en la entrada y salida de datos.
+Mientras que los bots de chat simples responden a preguntas cerradas con respuestas de "Sí" y "No" o comandos simples, es posible comunicarse con las aplicaciones de PNL de manera más natural y recibir respuestas relevantes no predefinidas.
+Las marcas de belleza utilizan la tecnología de procesamiento del lenguaje natural para asistentes digitales inteligentes que, sugieren productos de una manera más personalizada. Dado que los servicios de belleza impulsados por voz funcionan mejor combinados con imágenes, las marcas de belleza apuntan a dichas aplicaciones para dispositivos con pantallas.
+Proporcionar recomendaciones personalizadas de productos de maquillaje y cuidado de la piel en línea es un desafío. Sin embargo, los algoritmos de búsqueda de IA simplifican esta tarea. Los motores de búsqueda de IA no parecen una simple barra de búsqueda. En cambio, dichos algoritmos interactúan con la información del comprador mediante un breve cuestionario. El algoritmo analiza sus datos, encuentra productos relevantes en la base de datos y muestra recomendaciones de productos personalizadas.
+Los algoritmos de aprendizaje automático son las soluciones tecnológicas líderes para la predicción de la oferta y la demanda. Los algoritmos analizan datos históricos y hacen predicciones de volúmenes de ventas y envíos. Pero las aplicaciones de la cadena de suministro pueden predecir la demanda futura de otra manera. El análisis predictivo crea pronósticos cuando los datos históricos ya no son válidos. Los algoritmos de análisis predictivo analizan la combinación de factores externos, incluidos el clima, la estacionalidad y los días festivos. De esta forma, el análisis predictivo ayuda a las empresas de belleza a adaptarse a las condiciones cambiantes de la demanda.
+La revolución de ChatGPT en el punto de mira
+La última novedad que ha revolucionado el mercado en la inteligencia artificial es la plataforma de Open Chat GPT: no se habla de otra cosa en los últimos meses. El chat GPT es un modelo de lenguaje entrenado gracias a OpenAI que se usa para la generación automática de texto. Basado en GPT-3.5, lo que usa es una red neuronal de profundidad y un algoritmo para el aprendizaje automático para la producción de texto que, consigue imitar el lenguaje humano. Aunque son muchas las aplicaciones posibles para Chat GPT, estas son algunas de las más comunes:
+Las capacidades de ChatGPT son amplias y variadas, pero, donde puede ser especialmente interesante su aplicación es como herramienta de intercambio de ideas en las sesiones de brainstorming. Los equipos de marketing y comunicación empiezan a incorporar la IA en las lluvias de ideas sobre campañas, creación de contenido o textos creativos para promociones o publicidad.
+Esto sirve como un punto de partida para que los equipos puedan modificar y "humanizar" según sea necesario. Esto termina ahorrando tiempo al departamento de marketing y pone en marcha la creatividad y la colaboración. La herramienta no puede reemplazar por completo la ideación creativa, pero ayuda a servir como un trampolín para las ideas que comienzan por sí mismas. También puede obtener mucha información de otras fuentes en línea, por lo que ahorra tiempo de investigación. Lo que le falta a ChatGPT en creatividad, lo compensa en utilidad. Los equipos de marketing se alimentan de la creatividad para el crecimiento y los buenos resultados, pero las responsabilidades del día a día realmente pueden poner a prueba la generación de nuevas ideas. ChatGPT es una máquina de ideas que arroja un flujo constante de sugerencias. Depende de los humanos decidir qué sirve y qué no y cómo desarrollarlo.
+Según la Guía de gasto mundial en inteligencia artificial de la firma de análisis y consultoría IDC, la inversión en IA, incluyendo software, hardware y servicios para sistemas centrados en esta tecnología, alcanzará los 154.000 millones de dólares durante el presente ejercicio. Unas cifras que, traducidas, implican un crecimiento del 26,9% respecto al periodo anterior.
+Por supuesto, hay dos lados en cada historia, y esta no es una excepción. A pesar de los astronómicos beneficios comerciales, el rápido crecimiento de la IA y la RA en la industria de la belleza y más allá, plantea preocupaciones sobre la privacidad y el abuso de los datos personales además de la preocupación y el miedo de que las máquinas vayan “quitando el trabajo” a las personas. Dando por sentado que el progreso y la innovación no se puede parar, los expertos y los técnicos recomiendan estar atentos y monitorear tanto las conversaciones de la industria como los posibles riesgos y amenazas relacionadas con el uso de IA generativa.
+Ventas de Perfumería y Cosmética nº494
+
+
+Suscríbete a nuestra newsletter y recibirás la última información del sector.
+
+Pau Claris, 138 1º 3ª08009 - Barcelona - España
+Teléfono: +34 93 434 21 21
+
+Contacto y Notas de Prensa
+
+
+
+
+Contacto y Notas de Prensa
+
+46.560 visitas mensuales3.421.000 lecturas9.654 artículos introducidos
+ 
+Comprometidos con la sostenibilidad y con la Agenda 2030 - Ver los LOGROS
+@Copyright PODIUM GLOBAL MEDIA S.L. |  Política de Privacidad |  Política de Cookies

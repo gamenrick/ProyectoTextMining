@@ -1,0 +1,82 @@
+Inteligencia artificial para el desarrollo de juguetes innovadores | AIJU
+Autor desconocido
+aiju.es
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+En la actualidad las empresas trabajan para lanzar al mercado un catálogo de productos que se adapte a las necesidades del usuario y que les permita posicionarse exitosamente en el mercado. En concreto en las empresas del sector del juguete, la innovación y la creación de nuevos productos es fundamental.
+Las nuevas generaciones están acostumbradas desde los primeros meses de vida a convivir con dispositivos electrónicos (Tablets, Smartphones, Pcs…), por este motivo las empresas necesitan nuevas herramientas que permitan fusionar el juguete tradicional con el mundo digital, consiguiendo un juguete actualizado, revalorizado y adaptado a los nuevos tiempos.
+Una evolución del juguete tradicional que aporte al usuario, en concreto al target infantil, mayores niveles de motivación y atracción al usuario.
+En esta línea, AIJU inició hace cuatro años una línea de proyectos que precisamente tratan de dar soporte al sector tradicional del juguete en su cambio e integración en el mundo digital.
+El proyecto AI4TOYS fue el primer proyecto que puso de relevancia la posibilidad de incorporar componentes electrónicos y sensores de bajo coste desarrollando un API específico de comunicación, para que el niño pueda manipular el juguete físico tradicional conectado con un videojuego que recibe las acciones del niño. A raíz de este desarrollo, en el año 2017 nació el proyecto CLOUD4TOYS, donde se definió una estructura CLOUD, implementándose en 10 demostrables. Este proyecto permite la pasarela de juguetes tradicionales reales al mundo digital.
+Durante el 2018, el proyecto CYBERCLOUD4TOYS reforzó la arquitectura del AI4TOYS y CLOUD4TOYS, implantando protocolos más estrictos de seguridad y privacidad de la información, tanto de usuarios como empresas. Se dotó a esta arquitectura de una serie de herramientas y servicios que refuerzan la protección y seguridad, previniendo posibles vulnerabilidades y el acceso a los datos por terceros.
+Por tanto, AIJU continua con su línea de investigación e innovación en el sector del juguete, y durante el presente año, pretende incluir la Inteligencia Artificial (IA) en el desarrollo de juguetes innovadores en el sector.
+La Inteligencia Artificial puede proporcionar, tanto a los juguetes como a los procesos de fabricación de éstos, una verdadera revolución. Puede aportar las mismas ventajas que un videojuego, pero con el aliciente de que se trata de juguetes reales, juguetes físicos con los que los niños interactúan.
+En consecuencia, la IA permite que un juguete conozca cuándo y cómo debe comportarse gracias a los sensores integrados, además de permitir al juguete, que pueda entrenarse a través del aprendizaje automático y mejorar la experiencia de juego del usuario.
+ 
+ 
+CONTACTO COORDINADOR:
+ 
+Proyecto subvencionado por IVACE, Instituto Valenciano de Competitividad Empresarial de la Generalitat Valenciana, cofinanciado en un 50% a través del Programa Operativo FEDER de la Comunitat Valenciana 2014-2020.
+
+Completa el formulario para descargarte el entregable
+
+Completa el formulario para descargarte el entregable
+
+ Nombre
+ 
+
+ Correo electrónico
+ 
+
+ Teléfono
+ 
+
+ Empresa
+ 
+
+ Cargo
+ 
+
+AVISO: Para enviar el formulario es necesario aceptar todas las cookies. Puede cambiar su consentimiento aquí desplazándose hasta la sección 'Cambiar tu consentimiento'
+
+He leído, entendido y acepto la política de privacidad y doy mi consentimiento libre, específico, informado e inequívoco para el tratamiento de mis datos.
+
+Sí deseo recibir comunicaciones publicitarias o promocionales.
+
+ 
+
+
+Nota legal
+
+En cumplimiento de la normativa vigente en materia de protección de datos le informamos que:
+		
+El RESPONSABLE DEL TRATAMIENTO es ASOCIACIÓN DE INVESTIGACIÓN DE LA INDUSTRIA DEL JUGUETE, CONEXAS Y AFINES (CIF: G03182862) ubicado en AV. DE LA INDUSTRIA, 23, 03440 IBI (ALICANTE).
+				
+La FINALIDAD DEL TRATAMIENTO DE LOS DATOS es gestionar las solicitudes de alta como asociados de AIJU, así como mantener las acciones derivadas de la relación con los socios. Bajo su consentimiento, se podrá remitir información publicitaria y/o promocional de la Asociación.
+				
+La base LEGITIMADORA DEL TRATAMIENTO es el consentimiento del interesado.
+				
+Podrá EJERCITAR SUS DERECHOS sobre protección de datos (acceso, rectificación, oposición, supresión, decisiones automatizadas, limitación del tratamiento, portabilidad) por correo electrónico en recomendamos rgpd@aiju.es. En cualquier caso, puede solicitar la tutela de la Agencia Española de Protección de Datos a través de su página web https://www.aepd.es/. Puede consultar más información acerca de la política de privacidad aquí
+
+
+
+ Tu nombre (requerido)
+ 
+
+ Tu correo electrónico (requerido)
+ 
+
+ Selecciona Tus Newsletter
+TodasAIJU Seguridad de productosAIJU FormaciónAIJU Desarrollo sostenibleAIJU Tecnologías y procesosAIJU Usuarios y consumidores
+
+He leído, entendido y acepto la política de privacidad y doy mi consentimiento libre, específico, informado e inequívoco para el tratamiento de mis datos.
+
+

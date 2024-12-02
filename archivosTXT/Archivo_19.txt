@@ -1,0 +1,37 @@
+Usa Python para crear inteligencia artificial desde cero
+Autor desconocido
+platzi.com
+
+Durante los últimos años, el lenguaje de programación Python se ha vuelto esencial para el desarrollo y la implementación de sistemas de inteligencia artificial. Su simplicidad y las múltiples librerías disponibles lo han posicionado como la herramienta preferida por los científicos de datos y los ingenieros de Machine Learning (ML).
+Según Devtech, en 2020, Estados Unidos destinó una inversión colosal de unos 23.600 millones de dólares en inteligencia artificial (IA), destacando aún más la relevancia de Python en este emocionante campo.
+El increíble papel de Python en la inteligencia artificial y el Machine Learning se debe a su capacidad para poner en práctica ideas complejas de una manera sorprendentemente flexible. El Machine Learning es una de las aplicaciones más emocionantes de la IA, permitiendo que las máquinas aprendan de los datos existentes y hagan predicciones asombrosamente precisas sin requerir una programación específica.
+Imagina este escenario en el mundo del e-commerce: Python es tu aliado para escribir un código que recoja y analice los patrones de compra de los clientes. Luego, entrenas un modelo de ML. Las bibliotecas en Python, como Pandas, NumPy, SciKit-Learn y TensorFlow, se vuelven tus mejores amigos en este viaje.
+Una vez que has entrenado a tu modelo con datos históricos, puedes usarlo para recomendar productos en tiempo real basándote en la actividad del cliente en la página. Todo este proceso se codifica utilizando este lenguaje de programación.Python también se utiliza en el aprendizaje profundo (deep learning) que crea redes neuronales con muchos niveles (o ‘profundidad’). Bibliotecas como TensorFlow y Keras son útiles para esta tarea.
+Cómo aprender inteligencia artificial desde cero
+Para sumergirse en el mundo de la IA con Python, es fundamental seguir ciertos pasos:
+Este lenguaje, conocido por su sintaxis sencilla y fácil de aprender, es un excelente punto de partida para los principiantes.
+Es crucial comenzar con los elementos fundamentales de la IA y luego introducirse en los conceptos del Machine Learning.
+En Platzi tienes rutas de aprendizaje y cursos para ayudarte a dominar todo sobre ML y DL:
+Hay varias librerías que facilitan la implementación de la IA. Algunas de ellas incluyen TensorFlow para Deep Learning, SciKit-Learn para Machine Learning básico, Pandas y Numpy para manejo de datos, etc.
+Trabajar en pequeños proyectos o competir en sitios web como Kaggle es esencial para consolidar los conocimientos adquiridos.
+Una vez te familiarizas con Python y sus librerías básicas para IA, puedes comenzar a diseñar y entrenar tus propios modelos.
+La IA es un campo en constante evolución, por lo tanto, la mejora y actualización de habilidades es una necesidad permanente.
+Para programar inteligencia artificial en Python vamos a hacer un modelo simple de ML, usando una biblioteca llamada SciKit-Learn, la cual es ampliamente utilizada en la IA y Machine Learning para construir modelos predictivos.
+Primero, necesitarás instalar todas las bibliotecas necesarias que vamos a utilizar. Puedes hacerlo utilizando pip, el gestor de paquetes de Python.
+Estas librerías son: NumPy para procesamiento numérico, Pandas para manipulación de datos y Scikit-Learn (sklearn).
+Los datos para el ML pueden venir de múltiples fuentes (web, base de datos, archivos locales). Podemos usar una base de datos de ejemplo llamada Iris, que está pre-instalada en sklearn.
+Los datos a menudo necesitan ser ajustados para ser útiles en Machine Learning. Para este conjunto de datos, no necesitamos hacer nada, pero podrías necesitar limpiar los datos, cambiar su formato o eliminar características irrelevantes en otros conjuntos de datos.
+Necesitamos dividir nuestros datos en un conjunto de entrenamiento y pruebas para evaluar nuestro modelo correctamente.
+Sklearn tiene varios modelos de ML que podemos usar. Aquí usaremos un clasificador simple llamado KNeighborsClassifier.
+Entrena el modelo utilizando el conjunto de entrenamiento.
+Una vez que el modelo está entrenado, se deben evaluar su rendimiento utilizando el conjunto de prueba.
+Este es un ejemplo muy básico y hay mucho más para aprender.
+También puedes explorar otros modelos como árboles de decisión, SVM o redes neuronales que puedes explorar en el Curso de Fundamentos de Redes Neuronales con Python y Keras.
+El uso de Python en la IA tiene múltiples beneficios:
+Un ejemplo de su empleo se puede ver en el sistema de recomendación de películas. Aquí, se utiliza la técnica de ‘filtrado colaborativo’ de Machine Learning en la biblioteca de Python ‘SciKit-Learn’.
+Varias aplicaciones y plataformas conocidas han utilizado la IA creada con Python:
+Si estás interesado o interesada en participar en la revolución de la IA, aprender Python es definitivamente un buen punto de partida.En Platzi tienes toda una Escuela de Data Science e Inteligencia Artificial para que puedas profundizar tus conocimientos, aprender nuevos términos y crear proyectos para ayudarte automatizar distintas tareas.
+Genial, descubre más sobre data science con python con esta ruta de aprendizaje!
+Genial
+Transformamos la economía de nuestros países entrenando a la próxima generación de profesionales en tecnología.
+De LATAM con para el mundo

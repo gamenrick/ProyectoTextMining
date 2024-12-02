@@ -1,0 +1,59 @@
+Qué es ChatGPT, el chatbot de Inteligencia Artificial que es tendencia en redes | CNN
+Samantha Murphy Kelly
+cnn.com
+
+
+(CNN) – Imagina si Siri pudiera escribirte un ensayo universitario, o Alexa pudiera darte una reseña de una película al estilo de Shakespeare.
+    
+
+            En diciembre de 2022, OpenAI abrió el acceso a ChatGPT, un chatbot impulsado por inteligencia artificial (IA) que interactúa con los usuarios de una manera inquietantemente convincente y conversacional. Su capacidad para proporcionar respuestas extensas, reflexivas y exhaustivas a preguntas e indicaciones, incluso si son inexactas, ha sorprendido a los usuarios, incluidos académicos y algunos en el sector de la tecnología.
+    
+
+            La herramienta rápidamente se volvió viral. El cofundador de Open AI, Sam Altman, un destacado inversionista de Silicon Valley, dijo el 5 de diciembre en Twitter que ChatGPT había superado el millón de usuarios. También captó la atención de algunos líderes tecnológicos destacados, como el director ejecutivo de Box, Aaron Levie.
+    
+
+            “Hay una cierta sensación que sucede cuando una nueva tecnología ajusta tu forma de pensar sobre la informática. Google lo hizo. Firefox lo hizo. AWS lo hizo. iPhone lo hizo. OpenAI lo está haciendo con ChatGPT”, dijo Levie en Twitter.
+    
+
+            Pero al igual que con otras herramientas impulsadas por IA, también plantea posibles preocupaciones, incluida la forma en que podría interrumpir las industrias creativas, perpetuar los sesgos y difundir información errónea.
+    
+
+ChatGPT es un modelo de lenguaje entrenado en una gran cantidad de información en línea para crear sus respuestas. Proviene de la misma compañía detrás de DALL-E, que genera una gama aparentemente ilimitada de imágenes en respuesta a las indicaciones de los usuarios. También es la próxima iteración del generador de texto GPT-3.
+    
+
+            Después de registrarse en ChatGPT, los usuarios pueden pedirle al sistema de inteligencia artificial que responda una variedad de preguntas, como “¿Quién fue el presidente de Estados Unidos en 1955?”, o que resuma conceptos difíciles en algo que un niño de segundo grado pueda entender. Incluso abordará preguntas abiertas, como “¿Cuál es el significado de la vida?” o “¿Qué me pongo si hace 5 grados hoy?”
+    
+
+            “Depende de las actividades que planees hacer. Si planeas estar afuera, debes usar una chaqueta ligera o un suéter, pantalones largos y zapatos cerrados”, respondió ChatGPT. “Si planea estar adentro, puede usar una camiseta y jeans u otra ropa cómoda”.
+    
+
+            No obstante, algunos usuarios se vuelven muy creativos.
+    
+
+            Una persona le pidió al chatbot que reescribiera la exitosa canción de los 90, “Baby Got Back”, al estilo de “The Canterbury Tales”; otro escribió una carta para eliminar una cuenta incobrable de un informe de crédito (en lugar de usar un abogado de reparación de crédito). Otros ejemplos coloridos incluyen pedir consejos de decoración del hogar inspirados en cuentos de hadas y darle una pregunta de examen de inglés AP (respondió con un ensayo de 5 párrafos sobre Cumbres Borrascosas).
+    
+
+            En una publicación de blog la semana pasada, OpenAI dijo que “el formato hace posible que la herramienta responda preguntas de seguimiento, admita sus errores, cuestione premisas incorrectas y rechace solicitudes inapropiadas”.
+    
+
+            Si bien ChatGPT respondió con éxito una variedad de preguntas enviadas por CNN, algunas respuestas fueron notablemente incorrectas. De hecho, Stack Overflow, una plataforma de preguntas y respuestas para codificadores y programadores, prohibió temporalmente a los usuarios compartir información de ChatGPT, señalando que es “sustancialmente dañino para el sitio y para los usuarios que preguntan o buscan respuestas correctas”.
+    
+
+            Más allá del problema de difundir información incorrecta, la herramienta también podría amenazar algunas profesiones que usan la escritura, usarse para explicar conceptos problemáticos y, como con todas las herramientas de IA, perpetuar sesgos con base en el conjunto de datos en los que se entrena. Escribir un mensaje que involucre a un director ejecutivo, por ejemplo, podría generar una respuesta asumiendo que la persona es blanca y masculina, por ejemplo.
+    
+
+            “Si bien nos hemos esforzado para que el modelo rechace solicitudes inapropiadas, a veces responderá a instrucciones perjudiciales o exhibirá un comportamiento sesgado”, dijo Open AI en su sitio web. “Utilizamos la API de moderación para advertir o bloquear ciertos tipos de contenido inseguro, pero esperamos que tenga algunos falsos negativos y positivos por ahora. Estamos ansiosos por recopilar comentarios de los usuarios para ayudar en nuestro trabajo continuo para mejorar este sistema”.
+    
+
+            Aun así, Lian Jye Su, directora de investigación de la firma de investigación de mercado ABI Research, advierte que el chatbot opera “sin una comprensión contextual del idioma”.
+    
+
+            “Es muy fácil para el modelo dar respuestas plausibles pero incorrectas o sin sentido”, dijo. “Adivinó cuándo se suponía que debía aclarar y, a veces, respondió a instrucciones dañinas o exhibió un comportamiento sesgado. También carece de comprensión regional y específica de cada país”.
+    
+
+            Sin embargo, al mismo tiempo, brinda una idea de cómo las empresas pueden capitalizar el desarrollo de una asistencia virtual más sólida, así como soluciones de atención al paciente y al cliente.
+    
+
+            Si bien la herramienta DALL-E es gratuita, pone un límite en la cantidad de solicitudes que un usuario puede hacer antes de tener que pagar. Cuando Elon Musk, cofundador de OpenAI, le preguntó recientemente a Altman en Twitter sobre el costo promedio por chat de ChatGPT, Altman dijo: “Tendremos que monetizarlo de alguna manera en algún momento; los costos de cómputo son deslumbrantes”.
+    
+© 2024 Cable News Network. A Warner Bros. Discovery Company. All Rights Reserved.  CNN Sans ™ & © 2016 Cable News Network.

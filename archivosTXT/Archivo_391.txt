@@ -1,0 +1,96 @@
+12 herramientas de IA que podrían transformar la economía de los creadores y el marketing de 'influencers', según expertos del sector
+Autor desconocido
+businessinsider.es
+
+ Newsletters
+Tejas Hullur
+Marta Biino,
+Facebook
+Whatsapp
+Twitter
+Linkedin
+Telegram
+Copiar url
+Enlace copiado
+Desde que comenzó a utilizarse el bot de chat ChatGPT, basado en inteligencia artificial, se ha viralizado un debate en Internet sobre este tema: desde cómo puede sustituir a Google hasta los problemas de plagio que puede causar en el mundo académico.
+ChatGPT genera respuestas textuales detalladas a preguntas e indicaciones, un ejemplo de IA generativa. La IA generativa identifica es un tipo de inteligencia artificial que puede reutilizar el contenido de un conjuntos de datos para crear de forma independiente algo nuevo y creativo.
+Los creadores son una categoría profesional que podrían beneficiarse de las herramientas de IA generativa, y muchos han probado el uso de ChatGPT para su trabajo de creación en redes sociales.
+El youtuber de tecnología Marques Brownlee, conocido por su canal MKBHD, pidió a ChatGPT que escribiera parte del guion de un vídeo que tituló The Truth About AI Getting 'Creative (La verdad sobre cómo la IA se vuelve "creativa"). Resultó ser bastante similar a lo que habría escrito él mismo.
+En redes sociales, los creadores debaten sobre cómo ChatGPT y otras herramientas de texto de IA similares podrían agilizar la redacción de contenidos dándoles un borrador basado sus indicaciones.
+Además de ChatGPT, están surgiendo muchas otras startups de IA, y algunas de ellas podrían tener un impacto directo en el trabajo de los influencers. "Tener que idear constantemente nuevos contenidos es un reto y una fuente de agotamiento para los creadores", afirma Lia Haberman, profesora adjunta de marketing en UCLA Extension. En su opinión, la IA podría ayudar.
+Ollie Forsyth, del fondo de capital riesgo Antler, ha elaborado junto a su equipo un panorama de las startups de IA generativa. "Creo que al principio enumeramos unas 160 plataformas. Ahora hay unas 200, pero en realidad es mucho más grande de lo que pensábamos inicialmente", explica.
+Antler
+Según Forsyth, algunas de estas empresas serán más útiles que otras para que los creadores resuelvan sus problemas cotidianos.
+Por ejemplo, la IA para textos puede ayudarles a escribir los guiones de los vídeos, los pies de foto de las redes sociales y las publicaciones en sus páginas web. La IA basada para vídeos podría ayudar a resolver distintos problemas de edición. Y las startups de IA para juegos podrían permitirles crear sus propios juegos o probar experiencias de rol.
+Business Insider ha preguntado a 16 expertos en economía de los creadores (entre ellos influencers, directivos e inversores) qué startups creen que podrían tener un mayor impacto en este ámbito.
+Muchos de ellos afirman pensar que las herramientas de IA podrían dar la oportunidad de agilizar y facilitar su proceso creativo, y algunos incluso dicen que representan el futuro de la creatividad.
+"El reto para los creadores no es si deberían utilizar alguna de estas herramientas, sino decidir cuáles de entre las muchas opciones que han surgido, especialmente en el último año. En pocas palabras, las herramientas de IA generativa proporcionan a los creadores una varita mágica para hacer su contenido", afirma David Beisel, cofundador y socio de NextView Ventures.
+He aquí 12 startups de IA que recomiendan los expertos en economía de los creadores, ordenadas alfabéticamente:
+Aug X Labs
+Para qué sirve: Aug X Labs pretende acelerar la creación de vídeos mediante la creación de una herramienta prompt-to-video basada en IA para crear vídeos tipo pase de diapositivas a partir de un texto.
+Por ejemplo, la plataforma puede generar un pase de diapositivas con imágenes relacionadas con el tema que un usuario quiera tratar en uno de sus vídeos.
+Las imágenes se crean utilizando el modelo de conversión de texto en imagen Stable Diffusion, contenidos con licencia o imágenes subidas por los creadores, según ha informado la empresa a Protocol.
+A quién le gusta: Jim Louderback, experto en medios digitales y ex-CEO de VidCon.
+Por qué le gusta: Louderback comenta a Business Insider que una herramienta como Aug X Labs ayudará a los creadores a hacer vídeos de todo tipo, incluyendo podcasts y canciones, de forma rápida y sin problemas.
+Canva
+Para qué sirve: Canva Magic Write es un generador de texto y escritor de IA, impulsado por la plataforma de diseño gráfico Canva. El usuario puede añadir un texto a la plataforma, que genera en segundos publicaciones para páginas web, anuncios de marketing o pies de foto para redes sociales.
+La herramienta se posiciona como un apoyo a la creación de contenido, no como un sustituto, y advierte a los usuarios de que todavía está en fase de prueba y que es necesario comprobar la precisión del contenido antes de publicarlo. 
+A quién le gusta: Lia Haberman, profesora adjunta de marketing en UCLA Extension.
+Por qué le gusta: Magic Write de Canva puede ser útil para generar ideas de contenido y proporcionar a los creadores ayuda para idear pies de foto creativos para redes sociales o publicaciones para blogs.
+"Creo que Canva tiene ventaja, debido a que muchos creadores ya están en su plataforma y utilizan sus productos, por lo que es una extensión natural para ayudarles con el proceso de creación de contenido", señala Haberman a Business Insider.
+NurPhoto/Getty Images
+Para qué sirve: ChatGPT es un chatbot de IA que utiliza IA generativa para crear respuestas originales a preguntas y comandos. 
+A quién le gusta: Matt Koval, vicepresidente senior de creadores en Mighty Networks; Katarina Terentieva, microinfluencer y estratega de marca; Cherie Luo, creadora, inversora y antigua directora de producto; y Lia Haberman, profesora adjunta de marketing en UCLA Extension.
+Por qué les gusta: ChatGPT puede ayudar a los creadores a escribir guiones, complementando el trabajo de los guionistas. Es muy útil, por ejemplo, cuando el escritor sufre un bloqueo.
+"Me gusta ChatGPT porque puede actuar como ayudante de guionista de un creador, dándole ideas para vídeos, títulos pegadizos, ganchos de apertura e incluso primeros borradores de guiones", explica Koval a Business Insider. "El resultado suele ser un poco repetitivo, pero suficiente para sacarle jugo", añade.
+Copy.
+Para qué sirve: Copy.ai puede ayudar a generar textos para blogs, anuncios digitales, comercio electrónico, ventas, redes sociales y páginas web, en 12 idiomas. Según su propia web, 4 millones de profesionales de empresas como Microsoft, eBay y Nestlé la utilizan.
+A quién le gusta: Lia Haberman, profesora adjunta de marketing en UCLA Extension; Cherie Luo, creadora, inversora y antigua directora de producto; y David Beisel, cofundador y socio de NextView Ventures.
+Por qué les gusta: Un servicio como Copy.ai "puede ser tu mejor amigo para escribir tuits, pies de foto de Instagram, guiones de TikTok, posts de LinkedIn y descripciones de YouTube", opina Beisel.
+Haberman añade que, al igual que ChatGPT, Copy.ai puede ser una gran opción para los creadores que necesitan ayuda para generar contenido.
+DeepDub.Ai
+Para qué sirve: DeepDub.ai utiliza la IA para ayudar a traducir contenidos a diferentes idiomas y acelerar el proceso de doblaje. También recrea la voz del locutor, en un esfuerzo por hacerla más parecida a la original.
+A quién le gusta: Abiola Familusi, inversor de Night Ventures.
+Por qué le gusta: "Herramientas como DeepDub.ai automatizan el doblaje para reducir significativamente los costes y acortar los plazos de producción de días a minutos. Los creadores aprovecharán esta tecnología para llegar a audiencias globales sin explotar con muchísima rapidez", explica Familusi a Business Insider.
+Tejas Hullur
+Para qué sirve: DALL-E 2 utiliza la IA para generar imágenes a partir de descripciones en lenguaje natural. Puede crear todo tipo de imágenes y reproducir estilos, conceptos y atributos, según su página web.
+A quién le gusta: Jordan Schwarzenberger, director del grupo de creadores Sidemen, y Tejas Hullur, creador y cofundador de Catch'n Ice Cream.
+Por qué les gusta: Al hablar de DALL-E 2, Schwarzenberger hace referencia a una conversación que mantuvo con el creador y amigo Zac Alsop, que tiene un millón de suscriptores en YouTube, durante su podcast Unboxed.
+Alsop describió cómo utilizaba DALL-E 2 para visualizar las miniaturas de sus vídeos de YouTube y cómo el proceso le ayudaba a mejorarlas.
+Uno de los conceptos que creó con la ayuda de DALL-E 2 fue para el vídeo I Tested 5 Star 'Pet Friendly' Hotels With Farm Animals ("He probado hoteles de 5 estrellas que admiten mascotas y tienen animales de granja). 
+En este caso, pidió a la IA que creara una imagen de "un hombre registrándose en un hotel de 5 estrellas (con un mostrador de facturación dorado) con un cerdo". La imagen que generó DALL-E 2 inspiró la miniatura final.
+Hullur afirma que utiliza DALL-E 2 para crear imágenes para su newsletter, Out West Chronicles. "Nos permite crear imágenes no solo rápidamente, sino con un estilo de marca cohesivo que no podríamos hacer por nuestra cuenta", comenta.
+Eleven Labs
+Para qué sirve: Eleven Labs es una plataforma de síntesis de voz de larga duración. La plataforma genera discursos al estilo de los actores de doblaje a partir de un texto, utilizando un modelo entrenado para entender lo que dice el texto y ajustar el discurso en consecuencia. 
+Los usuarios pueden seleccionar una voz preexistente o crear un modelo a partir de una muestra que ellos mismos proporcionan. El servicio está actualmente en fase beta.
+A quién le gusta: Ollie Forsyth, gestor de la comunidad global del fondo de capital riesgo Antler.
+Por qué le gusta: Forsyth cree que el doblaje será la próxima frontera de la globalización de contenidos, y que permitirá a los creadores llegar a una audiencia global desde el primer día. 
+Existen varios servicios de doblaje para creadores, pero para Forsyth, Eleven Labs podría ser uno de los más eficaces.
+"Históricamente, ha sido realmente difícil conseguir la lingüística correcta de la voz del creador. Pero estos chicos parecen estar trabajando en algo bastante interesante", explica.
+Jasper
+Para qué sirve: Jasper.ai es una herramienta de redacción con IA. Ayuda a redactar textos SEO para blogs, publicaciones de redes sociales, páginas web y correos electrónicos en 26 idiomas, con el objetivo de obtener una posición destacada en Google. También puede crear textos para anuncios de Facebook y generar arte con IA para artículos y entradas de blog.
+A quién le gusta: Cherie Luo, creadora, inversora y antigua directora de producto; David Beisel, cofundador y socio de NextView Ventures; y Tinashe Chaponda, CEO de la agencia de marketing de influencers SOSANI.
+Por qué les gusta: Los expertos en economía de los creadores dicen que Jasper.ai ofrece una de las soluciones integrales más avanzadas para la redacción publicitaria, agilizando el proceso creativo y combinando diferentes funciones de otras herramientas de IA en un solo servicio.
+PhotoRoom
+Para qué sirve: PhotoRoom es una aplicación móvil que utiliza IA para generar fondos para imágenes basándose en un texto indicativo, utilizando una licencia del modelo de texto a imagen Stable Diffusion. También permite a los usuarios retocar fácilmente las imágenes cambiando los fondos o eliminando objetos.
+A quién le gusta: David Beisel, cofundador y socio de NextView Ventures.
+Por qué le gusta: "Las funciones de IA generativa de PhotoRoom permiten a los creadores cambiar fondos, borrar objetos no deseados y retocar imágenes con su teléfono... un estudio visual profesional en el bolsillo", afirma Beisel.
+Alasdair Mann
+Para qué sirve: Replicate permite a los usuarios ejecutar modelos de aprendizaje automático en la nube sin tener que entender de aprendizaje automático. Se pueden ejecutar modelos de código abierto publicados por otros, o empaquetar y publicar modelos propios, según la página web de Replicate.
+A quién le gusta: Alasdair Mann, creador (285.000 suscriptores en YouTube)
+Por qué le gusta: Mann ha utilizado Replicate para entrenar su propio modelo generativo basado en imágenes de sí mismo. Con el modelo, ha creado estas imágenes en diferentes estilos, lo que le ha dado mejor resultado que las imágenes más genéricas generadas por la IA, según su propia opinión.
+El modelo comunitario también le ayuda a mantenerse al día de los últimos avances de la IA.
+"He utilizado modelos creados por la comunidad en su página web para restaurar imágenes antiguas, mejorar la resolución y generar imágenes en estilos que no están disponibles en otras herramientas, como DALL-E y Stable Diffusion", comenta Mann a Business Insider.
+RunwayML
+Para qué sirve: RunwayML ayuda a facilitar y agilizar la edición de vídeo mediante IA, proporcionando herramientas como la generación de texto a imagen y de imagen a imagen, la eliminación de fondos y objetos, el seguimiento del movimiento y la animación personalizada, entre otras. También permite colaborar en proyectos de forma segura y en tiempo real.
+Runway ha sido utilizado por equipos de The Late Show with Stephen Colbert, el grupo de pop Yacht y la superestrella de YouTube MrBeast.
+A quién le gusta: Ben Mathews, socio general de Night Ventures; Taylor Kelly, vicepresidente de estrategia de talento de Night; y David Beisel, cofundador y socio de NextView Ventures.
+Por qué les gusta: RunwayML está ayudando a los creadores a reducir a la mitad sus plazos de creación de contenido, según Mathews y Kelly.
+"No somos inversores, pero este acuerdo está en lo más alto de mi lista de 'Ojalá hubiéramos tenido un fondo entonces' cuando RunwayML estaba en una fase anterior", señala Mathews a Business Insider.
+Supercreator.ai
+Para qué sirve: Supercreator.ai es una aplicación móvil que utiliza la IA para agilizar el proceso de creación de shorts. Los usuarios pueden describir de qué quieren que trate su vídeo y la IA generará automáticamente guiones y elementos visuales para acompañarlo. También pueden pegar un enlace de un artículo o un blog para generar un guion basado en él. 
+A continuación, los usuarios pueden grabarse a sí mismos para solapar el vídeo generado por la IA, y la aplicación lo edita automáticamente con funciones como la eliminación de silencios innecesarios y la subtitulación.
+A quién le gusta: Avi Gandhi, fundador de Partner with Creators, una empresa de asesoramiento sobre economía de los creadores, y Nikola Sokolov, cofundador y CEO de la agencia de marketing de influencers, Influencers.Club.
+Por qué les gusta: Tanto Gandhi como Sokolov piensan que herramientas como Supercreator.ai ahorrarán tiempo y energía a los creadores, especialmente a medida que sus servicios mejoren con el tiempo.
+Conoce cómo trabajamos en BusinessInsider.
+Etiquetas: BI PRIME, Inteligencia artificial, Influencers, startups, ChatGPT, Tecnología

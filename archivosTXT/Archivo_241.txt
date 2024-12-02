@@ -1,0 +1,70 @@
+IA generativa frente a otros tipos de IA - Adobe Firefly
+Autor desconocido
+adobe.com
+
+IA GENERATIVA CREATIVA
+Descubre los distintos tipos de inteligencia artificial (IA), sus parecidos y diferencias con la IA generativa y cómo usamos en Adobe la IA generativa en las aplicaciones de Adobe Creative Cloud.
+Explorar Adobe Firefly
+https://main--cc--adobecom.hlx.page/cc-shared/fragments/merch/products/firefly/sticky-banner/explore-firefly
+IR A LA SECCIÓN
+Los tres tipos de IA
+El papel de la IA generativa
+Tipos de IA generativa
+Adobe y el futuro de la IA generativa
+Durante siglos, el ser humano ha descrito la inteligencia artificial en la mitología y la ficción. Nuestra imaginación siempre se ha sentido atraída por el concepto de máquinas inteligentes creadas por la especie humana, desde Talos, el autómata (máquina automatizada) gigante de bronce que protegió la isla de Creta en la mitología griega, hasta HAL, que controlaba la nave espacial en “2001: Una odisea en el espacio”.
+En la actualidad, la tecnología de la IA forma parte de nuestra vida cotidiana y se encarga de analizar datos, hacer predicciones y aumentar la productividad. En los últimos tiempos, nos está ayudando a crear arte en su versión de IA generativa.
+La inteligencia artificial consiste en una simulación de la inteligencia humana desarrollada por una máquina. A pesar de la mitología antigua y los siglos de intentos por crear máquinas que pudieran actuar como seres humanos, el primer ejemplo real de aprendizaje automático surgió en 1951, cuando un programa de damas de la Universidad de Mánchester aprendió a jugar lo suficientemente bien como para ganar a personas reales. Esa fue la primera forma de IA en el mundo de los juegos.
+Hoy en día, la IA está por todas partes, sobre todo en nuestros teléfonos y aplicaciones móviles, donde se encarga de tareas habituales como el reconocimiento facial y de voz, el filtrado de correo no deseado, las sugerencias gramaticales y la traducción.
+La IA generativa es un subgrupo de la IA débil, pero ofrece numerosas posibilidades para quienes crean todo tipo de contenidos. La IA generativa, que se entrena con enormes conjuntos de datos, reconoce patrones en esos datos y saca conclusiones sobre lo que ha aprendido. A partir de ahí, puede utilizar una descripción de texto y aplicar ese aprendizaje automático para crear nuevos patrones y producir algo nuevo.
+La facilidad de uso de la IA generativa forma parte de lo que la hace tan emocionante. Basta con escribir una simple indicación de texto en un campo para obtener resultados casi inmediatos. Además, la IA generativa puede ayudar a llevar a cabo tareas de cualquier envergadura de muchas formas.
+Los equipos de desarrollo web la usan para solucionar errores del código informático; las empresas, en los chatbots del servicio de atención a clientes; la comunidad científica, para el diagnóstico y la investigación; y quienes se dedican a la docencia, la escritura, el arte y la música, para hacer lluvias de ideas y probar nuevas ocurrencias con rapidez.
+Los generadores con IA como Adobe Firefly pueden convertir una indicación de texto en una imagen. Los equipos de creación de contenido y marketing, así como la comunidad de artistas, pueden usarlos de muchísimas formas. Los generadores de imágenes con IA, que se entrenan con cientos de millones de imágenes y pies de ilustraciones, permiten que cualquiera describa lo que quiere y generan una nueva imagen rápidamente a partir de esa descripción.
+Tanto artistas como quienes se dedican al diseño pueden usar esta tecnología para hacer lluvias de ideas y probar nuevas formas de concebir su trabajo sin tener que dedicar horas a cada iteración. Los equipos de marketing y las personas que se encargan de crear contenido de manera independiente pueden producir preciosas imágenes rápidamente aunque no tengan experiencia.
+
+
+
+
+
+
+
+
+Indicación para De texto a imagen: Ultra HD, un canguro haciendo paracaidismo
+En estos momentos, puedes usar Adobe Firefly como generador de imágenes con IA para convertir texto en imágenes, crear efectos de texto, añadir o quitar elementos en tus propias imágenes y crear nuevas variaciones de color en ilustraciones vectoriales. No obstante, Firefly también está integrado en aplicaciones de Adobe Creative Cloud como Photoshop e Illustrator, lo que permite que los equipos de creación transformen sus imágenes rápidamente y empleen herramientas de precisión que han existido durante años para que el contenido generado encaje a la perfección con el suyo.
+Pronto podrás generar vectores, texturas y pinceles personalizados a partir de indicaciones de texto, cambiar el clima de un video con tan solo unas palabras o convertir diseños en 3D en una imagen fotorrealista. Gracias a las funciones actuales y a las que se irán desarrollando, cualquier artista, sean cuales sean sus habilidades, podrá ampliar su propia creatividad y hacer realidad todo lo que se le ocurra.
+https://main--cc--adobecom.hlx.page/cc-shared/fragments/products/firefly/aside-intoducing-adobe-firefly
+
+
+
+
+
+
+
+
+Más información
+
+
+
+
+
+
+
+
+Más información
+
+
+
+
+
+
+
+
+Más información
+
+
+
+
+
+
+
+
+Más información

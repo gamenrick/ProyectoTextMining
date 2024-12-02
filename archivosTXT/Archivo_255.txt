@@ -1,0 +1,51 @@
+IA generativa más allá: cómo funciona y casos de uso reales - Plain Concepts
+ecanorea
+plainconcepts.com
+
+Los últimos meses han estado marcados por una clara tendencia tecnológica que ha liderado el rumbo de todos los sectores: la IA generativa. Su potencial económico no hace más que crecer y será una tendencia al alza durante los próximos años. Es una revolución que acaba de empezar. 
+Gartner predice que, para 2025, la IA generativa producirá el 10% de todos los datos (ahora supone menos del 1%) y el 20% de todos los datos de prueba para casos de uso orientados al consumidor.  
+Sin embargo, a pesar de estar en todas las noticias y conversaciones, es habitual que no se comprenda del todo en qué consiste, sus aplicaciones o cómo funciona. Por ello, recopilamos todos los conceptos principales en este artículo a modo de guía para que puedas comprender mejor esta tecnología y puedas sacarle el máximo partido en tu negocio.  
+La IA generativa puede considerarse como un modelo de aprendizaje automático entrenado para crear nuevos datos, el lugar de hacer una predicción sobre un conjunto de datos concreto. Aprende a generar contenido que se parece a los datos con los que fue entrenado. 
+La IA generativa intenta imitar la creatividad humana, generando contenido como texto, imágenes, respuestas a preguntas, vídeos, resúmenes, código de computación, etc.  
+De hecho, los modelos de IA generativa no son nuevos en sí mismos, pues ha sido una herramienta muy útil para hacer análisis de datos durante décadas. Pero se ha transformado completamente gracias a los avances del Deep Learning y las redes neuronales.  
+Podemos remontarnos a los años 60 para encontrar chatbots conversacionales como ELIZA, del Instituto Tecnológico de Massachusetts, que se basaban competa o principalmente en reglas y plantillas predefinidas. Por el contrario, los modelos de IA generativa no cuentan con estas reglas. Se les podría definir como “cerebros” primitivos y en blanco que se entrenan con datos del mundo real y luego desarrollan, de forma independiente, inteligencia que utilizan para generar contenido novedoso como respuesta a indicaciones.  
+Los modelos de IA generativa usan redes neuronales para identificar los patrones y estructuras dentro de los datos existentes para generar contenido nuevo.  
+Aprovecha los diferentes enfoques de aprendizaje (no supervisado o semisupervisado) para la formación, lo que hace que aproveche fácil y rápidamente una gran cantidad de datos sin etiquetar para crear modelos básicos. Estos modelos se pueden utilizar como base para sistemas de inteligencia artificial que puedan realizar múltiples tareas.  
+El proceso de la IA generativa comienza con la alimentación de un modelo LLM con enormes cantidades de datos (páginas web, libros, documentos internos de una empresa, etc.). Este modelo utiliza transformadores que convierten oraciones y secuencias de datos en representaciones numéricas llamadas incrustaciones de vectores.  
+Con los datos ingeridos convertidos en vectores, se pueden clasificar y organizar según su cercanía a vectores similares en el espacio vectorial. Esto ayudará a determinar cómo se relacionan las palabras, pero, para que un modelo pueda generar resultados que tengan sentido, los datos deben pasar por varios pasos de procesamiento computacional.  
+Al añadir un marco de Machine Learning se crea una red generativa adversaria (GAN), que funciona enfrentando redes neuronales entre sí. En este punto, la mayor parte del aprendizaje del modelo será un proceso automático, pero los expertos deberán supervisar y ajustar los datos para asegurar que los datos son precisos.  
+A partir de aquí es cuando se consigue una interfaz que se ve y suena natural, donde se podrán dar indicaciones al modelo.  
+Ya hemos ido ordenando los pasos que intervienen en el proceso de la creación de modelos de IA generativa, pero ahora nos centraremos en las partes fundamentales que lo hacen posibles: 
+Nos encontramos con varios tipos de modelos de IA generativa, diseñados para desafíos y tareas diferentes. Los más importantes son: 
+Distinguir una de otra puede llevar a errores, por lo que hemos creado un artículo en el que desgranamos las diferencias en IA generativa e IA discriminativa para que puedas entender aún mejor en qué consiste cada una. Analizamos características como aproximación, objetivo, enfoque de formación, generación de datos.  
+La IA generativa está llegando a todos los sectores gracias a sus numerosas aplicaciones en muchas áreas del negocio. Desde la creación automática de contenido nuevo, hasta la mejora de la interpretación o comprensión del ya existente, sus beneficios principales son: 
+Estos son solo algunos, pues hay muchos beneficios más.  
+Como decíamos más arriba, la IA generativa aún se encuentra en sus primeras fases, por lo que muchas de sus aplicaciones están aún por descubrir, pero ya son muchas las empresas que están utilizando sus capacidades para mejorar sus procesos y estrategias.  
+Algunos de sus casos de uso más importantes pasan por agilizar tareas de comercio electrónico, mejorar la atención al cliente online, mejorar el descubrimiento de fármacos, generación de anuncios personalizados y contenido promocional para marketing, etc. Hemos recopilado los más importantes a continuación. 
+Gracias a la IA generativa se puede realizar una búsqueda eficaz de información en un sitio web o documentos internos mediante consultas basadas en contexto. 
+Las herramientas de IA generativa permiten adaptar el estilo, mensaje e imágenes al resultado de análisis de preferencias y de sentimiento del usuario que interactúa con los contenidos.  
+Búsqueda conversacional sobre fuentes internas de colecciones de respuestas a preguntas automáticas para mejorar la atención al cliente. 
+Se puede automatizar el procesado de transformación de información para la ingesta de datos desde transcripciones, emails y documentación. 
+Una de sus principales funciones es la de redactar o resumir nueva documentación basada en la síntesis y combinación de otros documentos como respuestas a licitaciones.  
+Se puede crear un asistente virtual para que entienda eficazmente la transcripción de solicitudes de información y dudas de los clientes sobre nuestros productos y servicios.  
+Un ejemplo es Brain, una solución que facilita el acceso a las consultas psicológicas a través del uso de inteligencia artificial de última generación. Se trata de un metahumano hiperrealista que hace que el paciente se sienta comprendido, escuchado y guiado. 
+Se pueden recomendar productos en base a la información textual que provee un usuario y las preguntas guiadas que le ayudan a obtener mejores respuestas.  
+Es uno de sus usos más populares gracias a su capacidad para traducir entre decenas de idiomas, además de traducir código fuente en un lenguaje de programación a otro; o hasta crear consultas SQL desde lenguaje natural. 
+Facilita a los equipos de marketing y creativos la capacidad de crear imágenes y contenidos como emails a medida para campañas y contenidos editoriales.  
+Con la ayuda de OpenAI, conseguimos generar anuncios promocionales y la creación de publicidad contextual y segmentada, generación de subtítulos, vídeo cortos o contenidos dinámicos para una empresa líder del sector audiovisual.
+Tiene la capacidad de interpretar los documentos normativos para identificar posibles infracciones relativas a los procedimientos operativos.  
+A pesar de todos sus beneficios, la IA generativa también tiene asociados riesgos que evolucionan rápidamente. Herramientas como ChatGPT se entrenan con grandes cantidades de datos disponibles públicamente, y no están diseñadas para cumplir con el GDPR u otras leyes de derechos de autor, por lo que es tan importante prestar mucha atención a los usos de las plataformas por parte de las empresas.  
+También pueden incurrir en sesgos, plagio o problemas de confiabilidad, cuestiones éticas que hay que resolver cuanto antes. Por ello, a medida que las empresas introduzcan esta tecnología en sus procesos, se pueden implementar mejores prácticas como estas para reforzar la seguridad y la calidad: 
+ 
+La IA generativa tiene un enorme potencial para crear nuevas capacidades y valor para las empresas. Pero también puede introducir nuevos riesgos que solo los expertos pueden ayudar a combatir. En Plain Concepts contamos con un equipo de expertos que lleva aplicando exitosamente esta tecnología en numerosos proyectos, asegurando la seguridad de los clientes. Llevamos más de 10 años llevando la IA anuestros clientes y ahora te proponemos un Framework de adopción de IA generativa: 
+La preparación de tu empresa para adoptar exitosamente la IA generativa es el núcleo de nuestro framework, donde cubriremos 4 grandes pilares: estrategia y gobierno de datos y tu privacidad, seguridad y cumplimiento de las normativas, fiabilidad y sostenibilidad y una IA responsable. Así te ayudaremos a evitar el riesgo de que los proyectos nunca lleguen a producción.
+Desde Plain Concepts te aconsejamos dedicar tiempo de calidad a reflexionar en encontrar las ideas que aporten auténtico valor empresarial y no quedarse con las ideas con poco impacto en el negocio, donde la IA generativa no sea diferencial.
+ 
+Si quieres unirte a esta revolución tecnológica pero no sabes cómo, te ayudamos a materializar tu idea.  
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

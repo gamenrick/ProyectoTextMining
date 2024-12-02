@@ -1,0 +1,33 @@
+GitHub Copilot: Beneficios, Desventajas y Precauciones | DacaCode </>
+
+DacaDev
+dacadev.com
+
+Note
+Este artículo nace como una iniciativa para centralizar el conocimiento que he adquirido en el manejo de la herramienta de GitHub Copilot gracias a su uso diario, cursos y consejos que he encontrado en diversos recursos.La herramienta la puedes encontrar en el siguiente enlace: GitHub Copilot
+Este artículo nace como una iniciativa para centralizar el conocimiento que he adquirido en el manejo de la herramienta de GitHub Copilot gracias a su uso diario, cursos y consejos que he encontrado en diversos recursos.
+La herramienta la puedes encontrar en el siguiente enlace: GitHub Copilot
+GitHub Copilot es una herramienta de inteligencia artificial que nos ofrece toda la potencia de los modelos de lenguaje a gran escala (LLM, por sus siglas en inglés) enfocada específicamente en el campo del desarrollo de software y programación. Es una herramienta que ha revolucionado la manera de escribir código y aún tiene mucho más por aportar. Veamos algunas de sus funcionalidades y beneficios, así como desventajas y riesgos de usar esta herramienta.
+Mi definición de lo que es Copilot sería:
+GitHub Copilot es una herramienta de programación de pair programming que extiende las habilidades de los desarrolladores permitiendo enfocarse en el diseño, delegando la “carpintería” al copiloto.
+Adicionalmente, si queremos ser un poco más técnicos al respecto y definir qué es Copilot técnicamente, debemos decir que Copilot trabaja sobre las mismas bases de los LLMs como ChatGPT, con la salvedad de que fue afinado para que su enfoque sea 100% en la escritura de código.
+Los datos usados para ajustar el modelo que alimenta a GitHub Copilot fueron todos los repositorios públicos que se encuentran en GitHub, siendo esta la plataforma más usada para alojar proyectos alrededor del mundo. Esto significa que el conjunto de datos de entrenamiento es inmenso y muy completo.
+Por último, como Copilot está basado en la tecnología de los LLMs, en general lo que busca es predecir, a partir de probabilidades, cuál sería el código que seguiría a medida que vas escribiendo.
+Una de las principales dudas al momento de usar Copilot, incluso podría pensar que la primera duda, es ¿Copilot usará mis datos y mi código para futuras sugerencias? o en palabras más simples ¿Copilot va a robar mi código?
+La respuesta es un NO rotundo. Copilot no usará tu código o el código generado con la herramienta para reentrenar el modelo, ya que, como mencioné antes, esta herramienta solo es entrenada con datos públicos que se obtienen de los repositorios públicos de GitHub.
+Además, el código generado a partir de Copilot no es alojado para realizar una futura realimentación del modelo, por lo que puedes estar seguro de la privacidad de tu código y de tu negocio a fin de cuentas.
+Note
+En este punto debo mencionar algo y es la propiedad intelectual. Puede que Copilot no respete la propiedad intelectual si esta es en un repositorio público, por lo que si quieres tener este tipo de protección y a la vez tener un código abierto, es mejor asesorarte.
+Como mencionamos antes, Copilot es tu compañero de programación en pareja, esto significa que te ayudará a escribir código brindando sugerencias durante la escritura del mismo, pero aquí puede surgir una pregunta muy importante: ¿Puede Copilot ayudarme sin importar el lenguaje?
+La respuesta a esta pregunta es ambigua, sí y no. Es un sí porque recuerda que el modelo fue entrenado usando todo el código público alojado en GitHub, y entre estos encontramos una diversidad inmensa de lenguajes, frameworks, estilos, prácticas, etc. Sin embargo, también debemos tener en cuenta que los lenguajes más populares como JavaScript o Python son los que más proyectos tienen alojados en GitHub, lo que significa que el modelo aprendió más de estos lenguajes, haciéndolo mucho más eficiente para estos tipos de lenguajes o frameworks.
+Si intentas utilizar Copilot con algún lenguaje que no es tan popular como COBOL, es posible que Copilot no haga un muy buen trabajo, pero lo intentará.
+Tip
+Si tienes miedo de que la IA te pueda arrebatar el trabajo, tiene sentido buscar aquello en lo que la IA no es realmente buena… ¿aún? Esto es solo una opinión que podría ser una buena discusión, ¿qué opinas?
+Esta es una pregunta que muchas personas se hacen, sin importar el nivel de experiencia que tengan, y volviendo a retomar la idea de antes, sus predicciones mejorarán a medida que sea usado para escribir código de lenguajes o contextos populares, ya que tendrá más conocimiento de dónde echar mano.
+Dado lo anterior, es MUY IMPORTANTE que tú, como desarrollador, supervises siempre el resultado de Copilot. No importa qué tan sencillo o simple sea, hazlo como una nueva práctica para el uso de esta herramienta ya que Copilot solo predice, no piensa realmente… ¿aún? 🤔
+Aquí quiero hacer un énfasis que es mandatorio, y es el de la supervisión. Tu responsabilidad como programador es supervisar el resultado de Copilot, y esto se puede hacer eficientemente solamente si:
+Tip
+Debes ser siempre consciente de lo que estás construyendo, siempre recuérdalo porque con el uso de Copilot es fácil caer en la tentación de dejar pasar algunas cosas.
+Hablemos ahora de cuáles son los beneficios de usar Copilot. ¡Hay muchos!
+GitHub Copilot ha revolucionado la forma en que los desarrolladores escriben código, ofreciendo beneficios significativos como el aumento de la productividad y la reducción de errores. Sin embargo, es crucial supervisar sus sugerencias y estar consciente de sus limitaciones y riesgos. A medida que la tecnología avanza, Copilot seguirá mejorando, pero siempre será necesario el criterio humano para garantizar la calidad y la seguridad del código.
+Tema diseñado por Zeon Studio

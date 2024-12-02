@@ -1,0 +1,48 @@
+ChatGPT: ¿Qué es, cómo funciona y cuáles son sus aplicaciones? - MJV Technology & Innovation
+MJV Team
+mjvinnovation.com
+
+Share:
+Categories:
+No se habla de otra cosa en las conversaciones y redes sociales: el tema es ChatGPT. La herramienta pone a la orden del día la capacidad de interacción y respuesta de los chatbots. ¡Descúbrelo todo sobre la tecnología desarrollada por la empresa OpenAI!
+Lanzado en noviembre de 2022, ChatGPT dio a conocer al mundo el poder de las Inteligencias Artificiales, volviendo los ojos del público a las capacidades de interacción y respuesta de un chatbot.
+Echa un vistazo al artículo y descubre cómo esta herramienta está revolucionando los negocios.
+ChatGPT es una tecnología desarrollada por la empresa OpenAI, que se engloba dentro de los llamados chatbots, programas desarrollados para responder a preguntas de distinto nivel y realizar actividades simulando el comportamiento humano. 
+Grandes empresas tecnológicas como Google y Meta también han desarrollado tecnologías similares a ChatGPT para su uso integrado en las plataformas que gestionan.
+La gran ventaja de ChatGPT está en la interactividad con el público, que puede acceder al chat y experimentar la potencia tecnológica de la herramienta.
+Una de las ventajas del uso de chatbots es la reducción del tiempo de atención y/o respuesta a los cuestionamientos/solicitudes de los usuarios, agilizando así sus necesidades.
+Para las empresas que hacen uso de esta tecnología, pueden conducir mejor el empleo de mano de obra en actividades que requieren mayor necesidad de interacción humana.
+ChatGPT ya ha alcanzado la marca histórica de más de 100 millones de usuarios a los pocos meses de su lanzamiento, superando a grandes aplicaciones del mercado tecnológico. 
+Nuestro día a día está impregnado de chatbots y los utilizamos en diversas situaciones, por ejemplo, comprobar si la señal de internet de un determinado operador está disponible en ese momento para una región determinada, programar el servicio en una clínica médica, solicitar la emisión de una factura, entre otras actividades para aumentar la agilidad y escalar el servicio.
+Una de las principales desventajas de los chatbots es que, debido a la automatización de las respuestas, a menudo tenemos la sensación de que estamos hablando con robots y que no entienden completamente nuestras peticiones, porque las respuestas son cortas, objetivas y a menudo no contemplan nuestras necesidades. 
+Para evitar esta sensación y comportamiento poco humanizado, los desarrolladores de ChatGPT emplearon, al igual que otros chatbots que existen en el mercado, el uso del llamado Procesamiento del Lenguaje Natural, a través de los tipos más potentes de Redes Neuronales, con el fin de humanizar el proceso iterativo de los usuarios con ChatGPT. 
+De forma simplificada, lo que hace esta tecnología es analizar las preguntas, fijándose en cada una de las palabras que se proporcionan, haciendo el análisis del texto y devolviendo la respuesta que mejor se ajuste al cuestionamiento. 
+Gracias a la utilización de las últimas técnicas de machine learning, ChatGPT puede aprender de cada una de las preguntas y respuestas que se proporcionan al usuario.
+Es decir, con cada pregunta respondida aprende un poco más sobre ese tema y mejora la respuesta.
+ChatGPT entiende más de 90 idiomas, lo que contribuye a su éxito mundial y ayuda en el proceso de aprendizaje.
+El aprendizaje continuo de esta herramienta hace que, de forma automatizada, adquiera conocimientos y experiencia para responder a las preguntas del usuario de forma más precisa y humanizada, reduciendo la sensación de que estamos preguntando a una máquina.
+A pesar del gran potencial de esta herramienta, no basta con plantear una pregunta mal formulada, ya que aunque ChatGPT tenga un gran poder de procesamiento y respuesta, puede fallar a la hora de proporcionar una respuesta precisa y adecuada.
+Para que podamos hacer un buen uso de la herramienta, es necesario construir las preguntas de forma clara y objetiva, conteniendo palabras clave que permitan a esta tecnología escanear sus registros y construir una respuesta adecuada. 
+Por ejemplo, si un programador en lenguaje Python pregunta: «¿Cómo hacer una función?» a ChatGPT, probablemente la respuesta no sea la más adecuada, ya que en varios lenguajes de programación existe esta posibilidad.
+Así pues, una pregunta más adecuada sería «¿Cómo construir una función utilizando el lenguaje Python?” La segunda pregunta parece más objetiva y tiene posibilidades de recibir una respuesta más adecuada y asertiva.
+Aunque el ejemplo es sencillo, la idea de asertividad en las preguntas de ChatGPT se extiende a cualquier ámbito de uso de esta herramienta.
+Cabe señalar que, aunque ChatGPT es una herramienta muy potente para ayudar a responder determinadas preguntas, su uso siempre debe ser revisado, ya que, como cualquier inteligencia artificial, es susceptible de cometer errores, generar respuestas que pueden estar fuera de la realidad y/o contener incoherencias.
+ChatGPT también puede acoplarse a otras API para, por ejemplo:
+En este mismo momento, desarrolladores de todo el mundo pueden estar trabajando duro para desarrollar nuevos productos que combinen el uso de ChatGPT y ofrezcan una experiencia personalizada al usuario de una determinada plataforma.
+Las posibilidades de uso de ChatGPT son infinitas. Pero por ahora, se sigue utilizando para agilizar tareas más sencillas. Echa un vistazo a algunas aplicaciones:
+Con ChatGPT, puedes pedirle que desarrolle código para problemas concretos. No tenemos ninguna garantía de que las respuestas obtenidas sean las más asertivas, ni mucho menos correctas, pero ya tenemos un punto de partida para el desarrollo de una nueva solución.
+Esto puede ser suficiente para que los programadores y desarrolladores empiecen a cumplir con sus tareas y/o a construir una visión del problema al que se enfrentan. 
+Otro sector que puede hacer uso de ChatGPT es el de los Recursos Humanos. Son muchas las atribuciones de este sector ante la empresa y una de ellas es llevar a cabo la contratación de nuevos empleados.
+Las entrevistas pueden volverse más dinámicas con el uso del Chat GPT, solicitando la sugerencia de preguntas para la entrevista, de acuerdo con el cargo para el cual se está realizando el proceso de contratación.
+El sector de Marketing también puede ser impactado positivamente con el uso del ChatGPT. Muchos textos acompañan las campañas que se hacen para los diversos productos y públicos de la empresa.
+Con la ayuda de ChatGPT es posible solicitar la generación de un texto para un anuncio, definiendo informaciones que sean relevantes.
+También existen otros sectores como Ingeniería, Operaciones, entre otros que pueden hacer uso de esta herramienta, pero siempre teniendo en cuenta la evaluación de las respuestas obtenidas para que puedan ser utilizadas de la mejor manera.
+ChatGPT es el resultado de la combinación del uso del Procesamiento del Lenguaje Natural y varios tipos de Redes Neuronales. Actualmente, esta combinación se puede utilizar para:
+Mediante la interpretación de los textos, una IA puede clasificar los mensajes de correo electrónico como spam o correo normal, dejando de contaminar la bandeja de entrada principal de los gestores de correo electrónico de las empresas, reduciendo así la posibilidad de mensajes maliciosos que contengan virus u otros agentes que causen daños a los recursos informáticos de las empresas.
+En los sectores de Marketing, podemos utilizar Clusters para segmentar a los clientes en función de determinadas características, como, por ejemplo, los que tienen más probabilidades de comprar un determinado producto, o los que pueden cancelar un servicio de suscripción.
+Siguiendo en el sector del Marketing y su interfaz con Ventas, los Sistemas de Recomendación son capaces de ayudar a los profesionales a dirigir campañas de determinados productos a clientes que consumen productos de la misma línea que el producto que se desea potenciar las ventas.
+En los sectores financieros de las empresas, también es posible, a través de los Clusters, identificar compras sospechosas para un determinado cliente, permitiendo la cancelación de esas compras y reduciendo la posibilidad de que los clientes tengan pérdidas financieras debido a la fuga de datos de tarjetas, por ejemplo.
+También en el sector financiero de las empresas, es posible prever ventas, ganancias, entre otros indicadores que varían a lo largo del tiempo, trayendo mayor previsibilidad a los negocios.
+Como vemos, la inteligencia artificial permea empresas de diversos sectores, contribuyendo para la prevención de fraudes, previsión de indicadores, segmentación de clientes, rapidez en la atención, entre otras posibilidades.
+Pensando en el tema del momento, hemos creado un White Paper exclusivo: ChatGPT, AI y el Futuro de las Empresas (disponible en inglés). para que profundices en todo lo que engloba Chat GPT. ¿Quieres saber más sobre el tema y adelantarte a la competencia? Haz clic en el banner y descárguelo ahora gratuitamente.
+©MJV Technology and Innovation 2024 All Rights Reserved

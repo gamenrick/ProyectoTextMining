@@ -1,0 +1,95 @@
+Aprendizaje profundo o deep learning: Guía completa
+Autor desconocido
+innovaciondigital360.com
+
+La traducción literal es aprendizaje profundo: una subcategoría del aprendizaje automático y del mundo más amplio de la inteligencia artificial que implica algo mucho más amplio que el “simple” aprendizaje automático multinivel. Vamos a intentar entender qué es el Deep Learning, cómo funciona y qué tipo de aplicaciones puede tener
+Actualizado el 06 Jul 2023
+
+La traducción literal es aprendizaje profundo, pero el aprendizaje profundo, una subcategoría del aprendizaje automático y del mundo más amplio de la inteligencia artificial, implica algo mucho más amplio que el simple aprendizaje automático multinivel. Así que vamos a intentar entender qué es el Deep Learning, cómo funciona y qué tipo de aplicaciones puede tener.
+Índice de temas
+El Deep Learning o aprendizaje profundo, es una subcategoría del Machine Learning (que se traduce literalmente como aprendizaje de las máquinas) e indica esa rama de la Inteligencia Artificial que se refiere a los algoritmos inspirados en la estructura y función del cerebro llamados redes neuronales convoluncionales artificiales.
+El Deep Learning es el aprendizaje de máquinas basado en datos y algoritmos estadísticos.
+El aprendizaje profundo (también conocido como aprendizaje estructurado profundo o aprendizaje jerárquico), de hecho, forma parte de una familia más amplia de métodos de aprendizaje automático basados en la asimilación de representaciones de datos, a diferencia de los algoritmos para la ejecución de tareas específicas.
+Las arquitecturas de Deep Learning se utilizan ampliamente en diversas aplicaciones, como la visión por computadora, el reconocimiento de voz, el procesamiento del lenguaje natural y la bioinformática.
+
+Según las interpretaciones de destacados investigadores y científicos en el campo del aprendizaje profundo, como Andrew Yan-Tak Ng, Ian J. Goodfellow, Yoshua Bengio, Ilya Sutskever y Geoffrey Everest Hinton, el Deep Learning se define como un sistema que utiliza algoritmos de aprendizaje automático para:
+Aplicando el Deep Learning, tendremos una máquina que es capaz de clasificar autónomamente los datos y estructurarlos jerárquicamente, encontrando los más relevantes y útiles para la resolución de un problema, exactamente como hace la mente humana, mejorando sus propias prestaciones con el aprendizaje continuo.
+El aprendizaje profundo tiene sus raíces en las primeras investigaciones sobre redes neuronales en las décadas de 1940 y 1950. Sin embargo, fue en los años 80 cuando se logró un avance significativo con la introducción del algoritmo de retropropagación, el cual permitió entrenar redes neuronales con múltiples capas. Desde entonces, el campo del aprendizaje profundo ha experimentado un progreso notable, impulsado por nuevos enfoques arquitectónicos, algoritmos innovadores y avances en la capacidad de procesamiento. En los últimos años, ha experimentado un crecimiento exponencial debido a la disponibilidad de grandes volúmenes de datos, mejoras en los algoritmos y avances en la tecnología de GPU.
+En el aprendizaje profundo, al igual que nuestro cerebro biológico, se seleccionan y clasifican los datos relevantes para obtener conclusiones. Las redes neuronales artificiales son modelos matemático-computacionales inspirados en las redes neuronales biológicas. Estas redes adaptativas pueden modificar su estructura con base en datos externos e internos, permitiendo el aprendizaje y razonamiento.
+El funcionamiento del aprendizaje profundo se puede entender de la siguiente manera:
+Con el Deep Learning se simulan los procesos de aprendizaje del cerebro biológico a través de sistemas artificiales (las redes neuronales artificiales, de hecho) para enseñar a las máquinas no sólo a aprender de forma autónoma, sino a hacerlo de una forma “más profunda” como sabe hacerlo el cerebro humano, donde profundo significa “a más niveles”, es decir, al número de capas ocultas en la red neuronal -llamadas capas hidrenas: las “tradicionales” contienen 2-3 capas, mientras que las redes neuronales profundas pueden contener más de 150.
+La siguiente imagen (extraída del libro electrónico de acceso gratuito “Neural Networks and Deep Learning“) puede ayudar a comprender mejor la “estructura” de las redes neuronales profundas.
+
+
+Las redes neuronales profundas explotan un mayor número de capas intermedias (capa hidraúlica) para construir más niveles de abstracción, al igual que se hace en los circuitos booleanos, modelo matemático de computación utilizado en el estudio de la teoría de la complejidad computacional que, en informática, se refiere a la teoría de la computabilidad, es decir, estudia los recursos mínimos necesarios – principalmente tiempo de cálculo y memoria – para la resolución de un problema.
+Intentemos hacer un ejemplo concreto del funcionamiento de una red neuronal profunda con reconocimiento de patrones visuales: las neuronas de la primera capa podrían aprender a reconocer bordes, las neuronas de la segunda capa podrían aprender a reconocer formas más complejas, por ejemplo, triángulos o rectángulos, creados por bordes. La tercera capa reconocería formas aún más complejas, la cuarta reconoce más detalles y así sucesivamente… los múltiples niveles de abstracción pueden dar a las redes neuronales profundas una enorme ventaja en el aprendizaje para resolver problemas complejos de reconocimiento de patrones, precisamente porque en cada nivel intermedio añaden información y análisis útiles para proporcionar una salida fiable.
+Es bastante fácil ver que cuantas más capas intermedias haya en una red neuronal profunda (y, por tanto, cuanto más grande sea la propia red neuronal) más eficaz será el resultado (la tarea que está “llamada” a realizar) pero, por otro lado, la escalabilidad de la red neuronal está estrictamente relacionada con los conjuntos de datos, los modelos matemáticos y los recursos computacionales.
+Aunque la petición de enormes capacidades computacionales puede representar un límite, la escalabilidad del Deep Learning gracias al aumento de los datos y algoritmos disponibles es lo que lo diferencia del Machine Learning: los sistemas de Deep Learning, de hecho, mejoran sus prestaciones a medida que aumentan los datos mientras que las aplicaciones de Machine Learning (o mejor, los llamados sistemas de aprendizaje superficial) una vez alcanzado un determinado nivel de rendimiento ya no son escalables ni siquiera añadiendo ejemplos y datos de entrenamiento a la red neuronal.
+Esto es así porque en los sistemas de Machine Learning las características de un determinado objeto (en el caso de los sistemas de reconocimiento visual) se extraen y seleccionan manualmente y se utilizan para crear un modelo capaz de categorizar los objetos (en base a la clasificación y el reconocimiento de esas características); en los sistemas de Deep Learning, en cambio, la extracción de las características se produce de forma automática: la red neuronal aprende de forma autónoma cómo analizar los datos en bruto y cómo realizar una tarea (por ejemplo, clasificar un objeto reconociendo, de forma autónoma, las características).
+Si desde el punto de vista de la potencialidad el Deep Learning puede parecer más “fascinante” y útil que el Machine Learning, hay que señalar que el cálculo computacional requerido para su funcionamiento es realmente impactante, también desde el punto de vista económico: las CPUs más avanzadas y las GPUs de alta gama útiles para “aguantar” las cargas de trabajo de un sistema de Deep Learning siguen costando miles de dólares; recurrir a capacidades computacionales vía Cloud sólo mitiga parcialmente el problema porque la formación de una red neuronal profunda suele requerir el procesamiento de grandes cantidades de datos utilizando clusters de GPUs de alta gama durante muchísimas horas (por lo que no se dice que comprar “como servicio” la capacidad computacional necesaria sea barato).
+Un ejemplo simple pero efectivo para comprender el funcionamiento real de un sistema de Machine Learning y la diferencia con un sistema de Deep Learning es proporcionado por TechTarget.
+Mientras que los algoritmos tradicionales de aprendizaje automático son lineales, los algoritmos de aprendizaje profundo se organizan en una jerarquía de creciente complejidad y abstracción. Para comprender el aprendizaje profundo, imaginemos a un niño cuya primera palabra es “perro”.
+El niño aprende qué es un perro y qué no lo es al señalar objetos y decir la palabra “perro”. El padre responde diciendo “Sí, eso es un perro” o “No, eso no es un perro”. A medida que el niño sigue señalando objetos, se vuelve más consciente de las características que todos los perros tienen en común. Lo que el niño está haciendo, sin saberlo, es aclarar una abstracción compleja (el concepto de perro) construyendo una jerarquía en la que cada nivel de abstracción se crea con el conocimiento adquirido de la capa anterior en la jerarquía.
+A diferencia del niño, que tardará semanas o incluso meses en entender el concepto de “perro” y lo hará con la ayuda de los padres, lo que se denomina aprendizaje supervisado, una aplicación que utiliza algoritmos de Deep Learning puede mostrar y ordenar millones de imágenes, identificando con precisión qué imágenes contienen qué conjuntos de datos, en cuestión de minutos a pesar de no haber tenido ningún tipo de orientación sobre si la identificación de ciertas imágenes fue correcta o no durante el entrenamiento.
+Normalmente, en los sistemas de Deep Learning, la única astucia de los científicos es etiquetar los datos con las metaetiquetas, por ejemplo, insertando la metaetiqueta “perro” dentro de las imágenes que contienen un perro, pero sin explicar al sistema cómo reconocerlo: es el propio sistema, a través de múltiples niveles jerárquicos, el que adivina qué caracteriza a un perro (las patas, la cosa, el pelo, etc.) y, por tanto, cómo reconocerlo.
+Estos sistemas se basan, en esencia, en un proceso de aprendizaje por “ensayo y error”, pero para que el resultado final sea fiable se necesitan enormes cantidades de datos. Sin embargo, pensar inmediatamente que el Big Data y la facilidad con la que hoy en día se producen y distribuyen datos de cualquier forma y de cualquier fuente son fáciles de resolver sería un error: la precisión del resultado requiere, al menos en la primera fase de entrenamiento, el uso de datos “etiquetados” (que contengan metaetiquetas), lo que significa que el uso de datos no estructurados podría representar un problema. Los datos no estructurados pueden ser analizados por un modelo de aprendizaje profundo una vez entrenado y alcanzado un nivel de precisión aceptable, pero no para la fase de entrenamiento del sistema.
+Además, los sistemas basados en el aprendizaje profundo son difíciles de entrenar debido al gran número de capas de la red neuronal. El número de capas y conexiones entre las neuronas de la red es tal que puede llegar a ser difícil calcular los “ajustes” que hay que hacer en cada fase del proceso de entrenamiento (problema que se denomina de desaparición del gradiente); esto se debe a que para el entrenamiento comúnmente se utilizan los llamados algoritmos de retropropagación del error a través de los cuales se revisan los pesos de la red neuronal (las conexiones entre las neuronas) en caso de errores (la red propaga hacia atrás el error para que los pesos de las conexiones se actualicen de forma más adecuada). Un proceso que continúa de forma iterativa hasta que el gradiente (el elemento que da la dirección en la que debe moverse el algoritmo) es nulo.
+Uno de los frameworks específicos para Deep Learning más utilizados por los investigadores, desarrolladores y científicos de datos es TensorFlow, una conocida librería de software de código abierto (proyecto apoyado por Google) que proporciona módulos probados y optimizados para la realización de algoritmos para ser utilizados en diferentes tipos de software y con diferentes tipos de lenguajes de programación, desde Python, C/C++, Java, Go, RUST, R, … (en particular para “tareas perceptivas” y comprensión del lenguaje natural).
+En 2019, sin embargo, ha comenzado a imponerse otro marco que, según algunos analistas como Janakiram MSV en uno de sus artículos publicados en Forbes, se está convirtiendo rápidamente en el favorito de los desarrolladores y científicos de datos. Se trata de PyTorch, un proyecto de código abierto de Facebook que ya se utiliza ampliamente en la empresa.
+Inicialmente (y durante varios años) los desarrolladores de Facebook utilizaron un marco conocido como Caffe2, que también fue adoptado por muchas universidades e investigadores. Sin embargo, ya en 2018, Facebook anunció que estaba trabajando en otro tipo de framework capitalizando los esfuerzos del desarrollo de Caffe2 con el objetivo de crear un nuevo framework accesible a la comunidad de código abierto.
+En realidad, lo que Facebook está haciendo es combinar lo mejor de Caffe2 y ONNX en un nuevo marco (PyTorch); ONNX significa Open Neural Network Exchange y es un framework interoperable al que Microsoft y AWS también contribuyen activamente proporcionando soporte para Microsoft CNTK y Apache MXNet.
+PyTorch 1.0, de hecho, combina lo mejor de Caffe2 y ONNX (es uno de los primeros frameworks con soporte nativo para modelos ONNX).
+En lo que se están centrando los desarrolladores de Facebbok (pero no sólo) es en crear un framework mucho más sencillo y accesible que TensorFlow. PyTorch, por ejemplo, utiliza una técnica conocida como cálculo dinámico que simplifica el entrenamiento de las redes neuronales. No sólo eso, “el modelo de ejecución de PyTorch imita el modelo de programación convencional que conoce un desarrollador medio de Python. También ofrece formación distribuida, una profunda integración en Python y un vibrante ecosistema de herramientas y bibliotecas, lo que lo hace popular entre investigadores e ingenieros”, escribe el analista Janakiram MSV en su artículo.
+A pesar de los problemas que hemos ilustrado, los sistemas de Deep Learning han dado enormes pasos evolutivos y han mejorado mucho en los últimos cinco años, sobre todo gracias a la enorme cantidad de datos disponibles pero, sobre todo, a la disponibilidad de infraestructuras ultra performantes (CPU y GPU en particular).
+En el campo de la investigación de la Inteligencia Artificial, el aprendizaje automático ha tenido un éxito considerable en los últimos años, permitiendo a las computadoras superar o acercarse al rendimiento humano correspondiente en áreas que van desde el reconocimiento facial hasta el reconocimiento del habla y el lenguaje. El aprendizaje profundo, en cambio, permite a los ordenadores ir un paso más allá, sobre todo en la resolución de una serie de problemas complejos.
+Ya hoy existen casos de uso y áreas de aplicación que podemos ver incluso como “ciudadanos de a pie” que no son expertos en tecnología. Desde la visión por ordenador para los coches sin conductor, hasta los drones robot utilizados para la entrega de paquetes o incluso para la asistencia en casos de emergencia (por ejemplo, para la entrega de alimentos o sangre para transfusiones en zonas afectadas por terremotos, inundaciones o en zonas que se enfrentan a crisis epidemiológicas, etc.); el reconocimiento de voz y la síntesis de la voz y el lenguaje para los chatbots y los robots de servicio; el reconocimiento facial para la vigilancia en los países en los que hay riesgo de catástrofe, y para el uso de un robot en caso de emergencia.); el reconocimiento y la síntesis del habla y el lenguaje para chatbots y robots de servicio; el reconocimiento facial para la vigilancia en países como China; el reconocimiento de imágenes para ayudar a los radiólogos a detectar tumores en las radiografías, o para ayudar a los investigadores a identificar secuencias genéticas relacionadas con las enfermedades e identificar moléculas que podrían dar lugar a medicamentos más eficaces o incluso personalizados; los sistemas de análisis para el mantenimiento predictivo en una infraestructura o instalación mediante el análisis de los datos de los sensores de IoT; y de nuevo, la visión por ordenador que hace posible el supermercado Amazon Go sin caja.
+Atendiendo más bien a los tipos de aplicaciones (entendidas como tareas que una máquina puede realizar gracias al Deep Learning), las siguientes son las más maduras hasta la fecha:
+Artículo publicado originalmente en 19 Sep 2022
+        ¿Qué te ha parecido este artículo?
+
+
+
+    ¡Su opinión es importante para nosotros!
+
+
+
+Suscríbete a la newsletter para recibir información de valor de su interés
+
+Temas
+Canales
+
+Especial
+
+23 Sep 2024
+
+
+Siguiente
+
+Artículos relacionados
+
+Artículo 1 de
+2
+Tu contenido, tu privacidad!
+En esta página web utilizamos cookies técnicas que son necesarias para la navegación y la prestación del servicio.
+También utilizamos cookies para ofrecerle una mejor experiencia de navegación, para facilitar la interacción con nuestras funciones sociales y para permitirle recibir comunicaciones de marketing que coincidan con sus hábitos de navegación e intereses.
+Puede expresar su consentimiento haciendo clic en ACEPTAR TODAS LAS COOKIES. Al cerrar esta nota informativa, usted continúa sin aceptar.
+Siempre puede gestionar sus preferencias entrando en nuestro CENTRO DE COOKIES y obtener más información sobre las cookies que utilizamos visitando nuestra POLÍTICA DE COOKIES.
+Cookie Center
+A través de nuestro Centro de cookies, tiene la posibilidad de seleccionar o deseleccionar las categoriad individuales de cookies que se utilizan en los sitios web.
+Para saber más sobre las cookies que utilizamos, puedes profundizar en la Politica de Cookies.
+COOKIES TÉCNICAS
+
+Cookies necesarias para el funcionamiento del sitio web porque permiten funciones que facilitan la navegación del usuario, por ejemplo, el usuario puede acceder a su perfil sin tener que iniciar sesión cada vez o puede seleccionar el idioma que desea utilizar para navegar en la web sin tener que configurarlo cada vez.
+COOKIES ANALÍTICAS
+
+Cookies que, tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio ofrecido. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta de productos o servicios que le ofrecemos.
+COOKIES DE PERFIL Y PLUGINS DE REDES SOCIALES
+
+Cookies que, tratadas por nosotros o por terceros, nos permiten analizar sus hábitos de navegación en Internet para que podamos mostrarle publicidad relacionada con su perfil de navegación.
+
+© 2024 - YCON SAS - CUIT: 30-71664930-6 miembro de Dixigem360 - Registro de la Propiedad Intelectual en trámite.
+
+
+Mapa del Sitio					
+Para copiar el enlace RSS en el portapapeles, haga clic en el botón.
+Para copiar el enlace RSS en el portapapeles, haga clic en el botón.

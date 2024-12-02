@@ -1,0 +1,48 @@
+IA Generativa Sanidad: Una Nueva Revolución | Plain Concepts
+ecanorea
+plainconcepts.com
+
+La IA generativa se está convirtiendo rápidamente en un factor importante en la atención médica, pero los ejecutivos no siempre saben cómo utilizar esta tecnología para aprovechar su máximo potencial y evitar riesgos en la atención de sus pacientes.
+Analizamos algunos de los casos de uso más importantes en diversos segmentos de la salud y las implicaciones y posibilidades que va a tener el futuro.
+Las fuentes dispares de datos no estructurados, abundantes en el sector sanitario, son ahora activos muy útiles para impulsar el uso de la IA generativa.
+Esta tecnología se basa en algoritmos de Deep Learning para crear contenido nuevo, ya sea en formato texto, audiovisual, código, etc. Puede tomar conjuntos de datos no estructurados y analizarlos, lo que supone un gran avance en las operaciones de atención médica, ya que cuenta con numerosa información no estructurada como notas clínicas, imágenes de diagnóstico, historial clínico…
+La introducción de la IA generativa puede servir para tomar estos datos no estructurados y que se usen de forma independiente o combinarse con otros estructurados como, por ejemplo, reclamaciones de seguros.
+Aunque el uso de la IA en el sector médico no es una novedad, la inteligencia artificial generativa representa una nueva herramienta que puede ayudar a desbloquear parte del potencial de mejora que aún no se ha explorado en esta industria. Ya sea automatizando el trabajo más repetitivo o tedioso, mejorando los procesos más propensos a errores o modernizando la infraestructura de los sistemas de salud, la IA generativa tiene un potencial inmenso. Es por ello que los ejecutivos de atención médica tienen que pensar ya cómo integrar estos modelos en su hoja de ruta operativa.
+Y, de hecho, tienen que poner especial foco en la seguridad de los datos médicos de los pacientes, por lo que se debe poner en marcha una estrategia que, en todo momento, asegure la privacidad y protección de los mismos.
+
+La IA generativa está generando numerosos casos de uso y surgirán nuevos potenciales durante los próximos años. Recopilamos algunos ejemplos a continuación.
+Ya se ha puesto en marcha el desarrollo de soluciones para ayudar a los proveedores a mejorar los resultados clínicos, desde el diagnóstico hasta la prestación de atención y seguimiento de pacientes.
+Hay algunos ejemplos como Paige.AI, que está integrando IA generativa en sus productos para mejorar la precisión y eficacia en la detección del cáncer de próstata. De hecho, ha sido la primera en recibir la aprobación de la FDA para el uso de la IA generativa en patología digital, y están buscando integrar la información resultante de los registros médicos electrónicos de los pacientes junto con otros datos clínicos.
+Muchas consultas requieren la aprobación previa de la empresa aseguradora, normalmente de forma manual. La IA generativa mejora la calidad y la eficiencia de estas interacciones, ya que los especialistas de atención al cliente pueden extraer rápidamente la información relevante de decenas de tipos de planes y archivos.
+Así, la resolución de denegaciones o aprobación de reclamaciones se puede acelerar y mejorar gracias a esta tecnología. Estos modelos pueden resumir cartas de denegación, consolidar códigos de aceptación o anulación, resaltar motivos relevantes o contextualizar y proporcionar próximos pasos para la gestión de estas reclamaciones.
+Muy en línea con el caso anterior, si hablamos de la parte administrativa, ya se están explorando aplicaciones que automaticen procesos como documentación, reclamaciones, autorizaciones, apelaciones, admisión de pacientes, etc.
+Gracias a servicios de escritura autónoma impulsada por la IA, se reduce la cantidad de tiempo que los proveedores dedican a tareas administrativas.
+Para ayudar al personal sanitario, existen soluciones digitales para que los pacientes interactúen con ellas directamente. Se puede incorporar IA generativa en servicios de salud digital para comprender mejor el perfil de riesgo cambiante de los pacientes, ayudando a los sanitarios a ofrecer una atención más personalizada y a menor coste.
+Por ejemplo, introducir un chatbot de asesoramiento puede ofrecer atención sanitaria asequible y sin esperas.
+Aún en fase inicial, la IA generativa puede ayudar a la monitorización de pacientes en tiempo real, además de analizar datos para generar informes personalizados o que lleven a intervenciones oportunas antes de que las condiciones médicas empeoren.
+Por otro lado, también puede hacer que las soluciones basadas en imágenes sean más precisas y transferibles entre diferentes áreas. De hecho, gracias a su adaptabilidad e interactividad, se puede fomentar la atención preventiva o el bienestar a través de apps móviles o dispositivos de monitoreo.
+La IA generativa es súper útil en la industria farmacéutica, ya que está acelerando el descubrimiento de fármacos, mejorando la planificación y planificación y ejecución de ensayos clínicos y dando lugar a terapias más precisas.
+Ya hay empresas que han podido validar sus productos en un periodo mucho más corto como Insilico Medicine con un medicamento para la fibrosis pulmonar idiopática. Tardaron solo 30 meses en completar la fase preclínica, un periodo mucho más rápido que el promedio para un tratamiento nuevo.
+Además del descubrimiento de fármacos, la IA generativa puede acelerar y mejorar los ensayos clínicos, así como las terapias de medicina de precisión.
+Recientemente se ha validado el modelado digital de ensayos clínicos, incluidos grupos de control sintéticos. También se están desarrollando herramientas para ayudar a los investigadores a ampliar los medicamentos existentes más allá de su uso inicial para tratar otras enfermedades, lo que haría que fuesen más accesibles.
+De cara al futuro, el uso de esta tecnología en las etapas clínica y preclínica podrían acelerar el acceso a terapias, incluso para afecciones raras donde el desarrollo de tratamientos es muy difícil o económicamente casi imposible.
+
+A medida que el número de aplicaciones de la IA generativa continúa expandiéndose, las organizaciones deberían comenzar a crear una base sólida para su adopción e implementación. ¿Cómo? Siguiendo los siguientes pasos:
+Uno de los ejemplos más importantes hasta la fecha es Med-Palm 2, un gran modelo de lenguaje (LLM) diseñado y entrenado por Google para proporcionar respuestas de alta calidad a preguntas médicas.
+PaLM son las siglas de Pathways Language Model, basado en la arquitectura de tipo Transformer mucho más eficiente que las anteriores y que representa un modelo de IA capaz de manejar muchas tareas a la vez.
+Con la versión mejorada de PaLM, se ha entrenado el modelo con texto multilingüe y en un corpus más grande de diferentes idiomas que su predecesor. Por tanto, es el modelo más avanzado detrás de Bard.
+Med-PaLM 2 es el LLM adaptado a la medicina que busca ser un asistente médico que resuelva las dudas de los usuarios con alta precisión y que se ha convertido en una referencia popular para evaluar el rendimiento de la respuesta a preguntas médicas del tipo USMLE (examen para obtener la licencia médica en USA). De hecho, es el primer sistema de IA que obtuvo un aprobado en este tipo de preguntas, consiguiendo un rendimiento del 86,5%.
+Este sistema tiene la capacidad de sintetizar información proveniente de imágenes como radiografías o mamografías, con el objetivo de ayudar a los médicos a dar una atención más precisa a sus pacientes. Aún está en sus primeras versiones, pero ya está abriendo las puertas a más investigaciones en el futuro.
+
+ 
+La IA en el sector sanitario se enfrenta a desafíos éticos y legales, la privacidad de los datos, la responsabilidad de los errores, la equidad de los resultados y la confianza de los usuarios.
+En Plain Concepts creamos soluciones de IA 360º donde te acompañamos en la definición e implantación de la estrategia de adopción de esta tecnología en tu empresa. Ponemos a tu disposición un Servicio Enterprise de OpenAI, donde crearemos un modelo personalizado para tu organización, que podrás entrenar con tus datos e integrarlo con tus sistemas.
+Aseguramos que tus datos queden protegidos, siguiendo las principales normativas y regulaciones. Así podrás desbloquear el potencial de esta tecnología, acelerar tu viaje hacia la IA con nuestros expertos, comprender cómo deben estar estructurados y gobernados tus datos, explorar los casos de uso que mejor se ajusten a tus objetivos o crear un plan a medida con plazos y estimaciones realistas.
+¡Transforma tu negocio gracias a nuestro Framework de Adopción de IA Generativa, creado junto a Microsoft, que te permitirá obtener mejores resultados a un coste mucho más competitivo!
+Analizamos en qué consiste la AI Governance, sus retos, los caminos que abre y las mejores prácticas para que la adoptes en tu modelo de negocio. 
+Representan un avance fundamental en el campo de la inteligencia artificial, pues mejoran significativamente el rendimiento y la eficiencia de las cargas de trabajo. Analizamos sus características, beneficios y ejemplos. 
+
+
+
+
+

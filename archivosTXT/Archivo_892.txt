@@ -1,0 +1,156 @@
+IA generativa y la brecha digital en México: ¿Oportunidad o desafío para el empleo?
+Autor desconocido
+com.mx
+
+Lectura 5:00 min
+
+Antonio Reyes-González
+viernes 23 de agosto de 2024 - 10:20
+América Latina, al igual que África Subsahariana, se ha caracterizado históricamente por ser una de las regiones más desiguales del mundo. Los cambios en la estructura del mercado laboral han influido significativamente en los niveles de desigualdad de ingresos. Ahora, con la irrupción de tecnologías avanzadas basadas en la Inteligencia Artificial Generativa (IA Generativa), como ChatGPT, Google Bard y DALL-E, surge una nueva preocupación sobre su impacto en la desigualdad, particularmente en México.
+Investigadores como Daron Acemoglu y Pascual Restrepo, del MIT, han desarrollado modelos económicos que analizan el impacto de la IA Generativa en los salarios en Estados Unidos. Estos modelos sugieren que, en la mayoría de los escenarios, la implementación de esta tecnología en el mercado laboral tiende a incrementar la desigualdad entre el capital y el trabajo, los dos pilares fundamentales de la producción. Esto podría agravar la desigualdad de ingresos entre diversos grupos demográficos, afectando especialmente a las mujeres.
+En América Latina, la discusión sobre la adopción de la IA Generativa se enfoca en la capacidad de la región para mitigar los efectos negativos de la automatización y aprovechar las oportunidades de aumento en la productividad. Un reciente estudio de la Organización Internacional del Trabajo (OIT) y el Banco Mundial (BM) arroja datos reveladores sobre el impacto potencial de la IA Generativa en la región.
+
+Frente a este panorama, los gobiernos latinoamericanos que, junto con compañías y universidades, tienen la difícil tarea de formular políticas que no solo protejan el empleo, sino que también mejoren la productividad y maximicen el potencial transformador de la Inteligencia Artificial.
+En México, las brechas en infraestructura digital representan un obstáculo significativo para aprovechar al máximo las oportunidades que presenta la nueva tecnología. Aunque la adopción de AI ha avanzado en el país durante las últimas décadas, persisten desigualdades marcadas entre las áreas urbanas y rurales, así como entre diferentes sectores económicos. Estas disparidades podrían agudizarse si no se implementan políticas que promuevan la inclusión digital y la capacitación en nuevas tecnologías como el prompt engineering y la curación de datos.
+Los impactos potenciales de la IA Generativa sobre el empleo en México no deben subestimarse. El reporte de la OIT y el BM destaca que una cantidad considerable de los empleos en el país está expuesta a la IA Generativa bajo la categoría del "Gran Desconocido", es decir, empleos cuyo destino aún es incierto, ya que podrían ser automatizados o transformados positivamente. La mayoría de los trabajadores que enfrentan la automatización por la IA Generativa ya emplean tecnologías digitales en sus labores, lo que sugiere que los efectos negativos para este grupo podrían manifestarse rápidamente.
+Las trabajadoras que son mujeres, que laboran en áreas urbanas, son más jóvenes, no son pobres, están en sectores formales (especialmente en banca, finanzas o administración pública), o tienen un nivel educativo más alto, están más expuestas a la automatización a través de la IA Generativa. La posible pérdida de empleos bien remunerados, formales y calificados en industrias dominadas por mujeres debido a la automatización de la IA Generativa tendría impactos negativos en la economía del país, que ya es altamente informal y desigual.
+El futuro de México dependerá no solo de la evolución de esta tecnología, sino también de la determinación del sector público para proteger los derechos de los trabajadores y garantizar su capacitación, y del compromiso del sector privado para preservar una fuerza laboral humana, sin perder desempeño e innovación.
+
+Desarrollar políticas que protejan los empleos vulnerables y promuevan la inclusión digital y la capacitación continua es esencial para que México pueda beneficiarse de la IA Generativa. Al adoptar una estrategia basada en estos cuatro pilares, el país estará mejor preparado para maximizar el potencial de esta tecnología, contribuyendo a un crecimiento económico más inclusivo y equitativo.
+Antonio Reyes-González es doctor en ciencias políticas y desarrollo internacional por University College London (UCL) de la Universidad de Londres. Actualmente se desempeña como analista en la Oficina de Desarrollo Humano del Programa de las Naciones Unidas para el Desarrollo (PNUD) en Nueva York. Es miembro asociado del Consejo Mexicano de Asuntos Internacionales (COMEXI) desde 2023.
+Las opiniones expresadas en este artículo son atribuibles únicamente al autor.
+Únete infórmate descubre
+
+
+
+                Por Alejandro de la Rosa
+
+
+30/11/2024 - 13:35
+
+
+
+
+                Por Erika Calleja Altamirano
+
+
+29/11/2024 - 15:46
+
+
+
+
+                Por Francisco González
+
+
+29/11/2024 - 9:30
+
+
+
+
+                Por Jaime Guerrero Vázquez
+
+
+29/11/2024 - 9:24
+
+
+
+
+                Por Mariano Espinosa Rafful
+
+
+29/11/2024 - 8:51
+
+
+
+
+                Por Jorge Bravo
+
+
+29/11/2024 - 8:28
+
+
+
+
+                Por Xavier Ginebra Serrabou
+
+
+29/11/2024 - 6:18
+
+
+
+
+                Por Ricardo Dueñas 
+
+
+29/11/2024 - 1:28
+
+
+
+
+                Por Vidal Llerenas Morales
+
+
+29/11/2024 - 1:25
+
+
+
+
+                Por Redacción El Economista
+
+
+29/11/2024 - 1:23
+
+
+
+
+                Por Fausto Pretelin Muñoz de Cote
+
+
+29/11/2024 - 1:05
+
+
+
+
+                Por Demetrio Sodi
+
+
+29/11/2024 - 0:35
+
+
+
+
+                Por Eduardo Ruiz-Healy
+
+
+29/11/2024 - 0:32
+
+
+
+
+                Por Alberto Aguirre
+
+
+29/11/2024 - 0:30
+
+
+
+
+                Por Marco A. Mares
+
+
+28/11/2024 - 23:51
+
+
+
+
+                Por Gabriel Quadri de la Torre
+
+
+28/11/2024 - 23:43
+
+Una empresa de Nacer Global
+Suscríbete a nuestros Newsletter.
+Al suscribirte, aceptas nuestras políticas de privacidad.
+Síguenos
+Copyright © 1988-2015 Periódico Especializado en Economía y Finanzas, S.A. de C.V. All Rights Reserved. Derechos Reservados. Número de reserva al Título en Derechos de Autor 04-2010-062510353600-203. Al visitar esta página, usted está de acuerdo con los términos del servicio
+Síguenos

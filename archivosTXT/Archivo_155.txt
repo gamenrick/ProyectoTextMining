@@ -1,0 +1,44 @@
+Qué es ChatGPT y qué puede y no puede hacer (a día de hoy)
+BBVA
+bbva.com
+
+Cerrar panel
+BBVA.com
+Pulsar Enter
+Búsqueda Predictiva
+Cerrar panel
+Cerrar panel
+Cerrar panel
+BBVA.com
+EnglishEspañol
+Cerrar panel
+Innovación
+Esta herramienta de uso gratuito utiliza inteligencia artificial para mantener conversaciones escritas similares a las de los humanos. Además de responder preguntas, redactar correos electrónicos, crear imágenes y recomendar películas y música, puede ser útil en algunos sectores como el financiero de cara a mejorar la atención al cliente.
+Innovación
+David Puente lleva cinco años al frente de Client Solutions de BBVA, el área que como él mismo explica “impulsa el crecimiento y la innovación” de BBVA. Bajo su responsabilidad recaen el desarrollo de la propuesta de valor para clientes particulares, empresas, así como no clientes, incluyendo el diseño global de productos, la experiencia de cliente, el modelo de relación y distribución, así como la construcción de nuevas capacidades y la exploración de nuevas oportunidades de negocio.
+De contar chistes a escribir guiones de películas e incluso dar órdenes a otras inteligencias artificiales. Son algunos de los usos más originales que se están dando a ChatGPT, gracias al análisis de grandes conjuntos de datos y de la extracción de información relevante de manera relativamente rápida y precisa. Esta inteligencia artificial entrenada para mantener conversaciones puede responder a cualquier pregunta, redactar resúmenes e incluso generar líneas de código de programación. Así aspira ChatGPT a revolucionar el día a día de millones de usuarios y compañías.
+Quién mejor que el propio sistema para explicar qué es: “ChatGPT es una herramienta de conversación basada en inteligencia artificial que utiliza el modelo de lenguaje GPT-3 para simular una conversación humana. Puede ser utilizado para crear ‘chatbots’ personalizados para sitios web, aplicaciones móviles o plataformas de redes sociales, y es capaz de responder a preguntas y comentarios de manera natural y coherente”. Este prototipo de inteligencia artificial es completamente gratuito (aunque se está trabajando en ofrecer la opción de un servicio premium con suscripción) y puede probarlo cualquier persona accediendo desde chat.openai.com. La empresa que lo ha desarrollado, OpenAI, también creó Dall-E 2, una de las primeras herramientas que se destacó en la ‘carrera’ tecnológica de la generación de imágenes que tuvo lugar en 2022. OpenAI es una organización sin ánimo de lucro cuyos objetivos son impulsar el desarrollo colaborativo de la inteligencia artificial y asegurar que se utiliza en beneficio de la humanidad.
+El sistema de ChatGPT, que se basa en redes neuronales y ha sido entrenado con una gran cantidad de datos, puede aprender a reconocer patrones y estructuras de lenguaje, lo que le permite realizar diversas tareas de procesamiento de lenguaje natural. Por ejemplo, dar respuestas a preguntas, traducir y resumir textos e incluso generar código de programación.
+Esta herramienta está pensada para mejorar con el tiempo, ya que no solo se basa en el entrenamiento pasado. Fernando Suárez, presidente del Consejo General de Colegios Oficiales de Ingeniería en Informática (CCII), explica que, a medida que interactúa con humanos, obtiene más información y mejora sus respuestas.
+Innovación
+El concepto de ‘prompt’ hace referencia a las instrucciones que se escriben para hacer una consulta a un ‘chatbot’ como ChatGPT o crear una imagen con una IA generativa de imágenes. Lo que muchos usuarios no saben es que a través del ‘prompt’ le están dando una orden a un ‘transformer’. Pero en este caso no se trata de uno de esos robots que pueden adoptar la forma de un avión o un guepardo mecánico, sino de una herramienta más versátil y potente con la que debemos aprender a hablar para que nos ofrezca los mejores resultados.
+El contenido que ofrece este sistema, sin embargo, a veces puede ser incorrecto y nunca se basa en una comprensión o inteligencia similar a la humana, explica Bern Elliot, vicepresidente analista de Gartner. “El problema puede estar en los términos ‘entender’ e ‘inteligente’. Estos son términos cargados de un significado implícitamente humano, por lo que cuando se aplican a un algoritmo, puede dar lugar a graves malentendidos”, detalla el experto de la consultora internacional. “La perspectiva más útil es ver los ‘chatbots’ y los modelos de lenguaje extenso (LLM) como GPT como herramientas potencialmente útiles para realizar tareas específicas. El éxito depende de identificar las aplicaciones para estas tecnologías”, arguye.
+Con ChatGPT, se ha acercado la inteligencia artificial a millones de usuarios. Su naturalidad y sus respuestas, difíciles de distinguir de las de un ser humano, son un ejemplo del enorme potencial de este tipo de tecnologías. “Hay multitud de personas probando el sistema, ya que es capaz de responder prácticamente a cualquier pregunta o cuestión, explicar un evento o concepto, escribir artículos o generar código ‘software’”, señala Suárez.
+La inteligencia artificial aspira, además, a aumentar la eficiencia de múltiples negocios y mejorar su relación con los clientes. ChatGPT también puede ser un valioso aliado en la atención al cliente, con ‘chatbots’ y asistentes virtuales que respondan e interactúen de manera rápida y natural. A ello se suma la capacidad de esta herramienta para analizar grandes cantidades de texto, datos, mensajes, vídeos e interacciones con los usuarios. Algo que sirve para extraer información crucial. Por ejemplo, al analizar las opiniones y reseñas de los clientes y ayudar en la toma de decisiones empresariales.
+Inteligencia Artificial
+Los ‘chatbots’ llevan años automatizando tareas cotidianas de atención al cliente, reduciendo tanto la carga de trabajo del personal como los tiempos y costes empresariales. La irrupción de ChatGPT amplía el horizonte de aplicación de esta tecnología y su potencial para agilizar y maximizar procesos, permitiendo diseñar correos electrónicos o arreglar código informático. Su popularidad ha animado a conocidas aplicaciones a lanzar herramientas similares de inteligencia artificial, pero las ventajas que ofrece para ciertas tareas de comunicación y análisis conlleva limitaciones en el entorno empresarial.
+Además, ChatGPT puede ser utilizado junto con otras tecnologías pensadas para producir nuevos medicamentos y descifrar secuencias genómicas para la clasificación de enfermedades. Por ejemplo, existen modelos de simulación molecular que aspiran a predecir cómo diferentes moléculas interactúan con proteínas específicas, algo que puede ayudar en el diseño de nuevos medicamentos. ChatGPT podría resultar útil, por ejemplo, para generar informes, describir resultados y comunicar de manera efectiva los hallazgos.
+Pero, si hay un campo en el que ChatGPT y las tecnologías similares pueden destacar, es en la generación de contenido. Entre los posibles usos de estas herramientas, Suárez menciona la descripción de productos en el comercio electrónico, la redacción de textos largos o la generación y explicación de informes médicos. Las posibilidades son infinitas. “Estamos en los albores del uso de este tipo de tecnología y de su acceso masivo a toda la sociedad. Sus usos dependerán del propio ingenio a la hora de utilizarlo, de modo que el límite es insospechado”, agrega el experto.
+Innovación
+BBVA está sentando las bases para afrontar el gran reto que supone la aplicación de la inteligencia artificial (IA) generativa en los servicios financieros. Durante las jornadas internas DataFest, el banco relató cómo ya está desarrollando grandes proyectos con proveedores externos y, en paralelo, ha seleccionado diversos casos de uso que se empezarán a desplegar a lo largo de 2024.
+Esta herramienta también tiene un gran potencial en el sector financiero. Según los expertos consultados, al poder procesar grandes cantidades de texto y datos, pueden extraer información valiosa para la toma de decisiones, analizando tendencias y opiniones sobre las empresas y el sector.
+ChatGPT también puede mejorar la atención al cliente en línea a través de ‘chatbots’ que respondan preguntas y resuelvan problemas de manera rápida y eficiente. “De cara al usuario, va a facilitar la relación y la comprensión del entorno financiero, incluso pudiendo hacer recomendaciones de inversión o explicando términos contractuales”, cuenta Suárez.
+Al preguntarle a la propia herramienta por su potencial en este ámbito, contesta inmediatamente: “ChatGPT puede ser una herramienta útil en la toma de decisiones y la eficiencia en general”.
+Sigue leyendo sobre
+
+Échale un vistazo
+Newsletter
+Resultados BBVA
+Aprendemos Juntos
+Reporte Vulnerabilidades
+© Banco Bilbao Vizcaya Argentaria, S.A. 2024
